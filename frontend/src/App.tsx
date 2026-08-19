@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { HashRouter, Routes, Route } from 'react-router-dom'
 import { motion, useScroll, useSpring } from 'framer-motion'
 import Nav from './components/Nav'
 import CanvasField from './components/CanvasField'
@@ -17,7 +17,7 @@ function ScrollProgress() {
 
 export default function App() {
   return (
-    <BrowserRouter future={{ v7_startTransition: true, v7_relativeSplatPath: true }}>
+    <HashRouter future={{ v7_startTransition: true, v7_relativeSplatPath: true }}>
       <CanvasField />
       <div className="grain" aria-hidden />
       <ScrollProgress />
@@ -34,6 +34,6 @@ export default function App() {
           </Routes>
         </DrawerProvider>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   )
 }

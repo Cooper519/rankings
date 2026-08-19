@@ -226,10 +226,16 @@ export default function Home() {
         </div>
       </footer>
 
-      <div style={{ textAlign: 'center', padding: '0 0 90px' }}>
-        <Link to="/ranking?src=qs" className="mbtn" data-cursor style={{ margin: '0 auto' }}>
-          查看榜单 <ArrowDown size={14} />
+      <div className="home-ranking-cta">
+        <Link to="/ranking?src=qs" className="mbtn" data-cursor>
+          查看完整榜单 <ArrowDown size={14} />
         </Link>
+        <p className="star-note">
+          如有帮助，麻烦点一个 Star ·{' '}
+          <a href="https://github.com/Cooper519/rankings" target="_blank" rel="noreferrer" data-cursor>
+            github.com/Cooper519/rankings
+          </a>
+        </p>
       </div>
     </div>
   )

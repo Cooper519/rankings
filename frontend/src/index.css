@@ -303,6 +303,10 @@ table.ledger td.c{text-align:center}
 .foot .big{font-family:var(--f-display);font-style:italic;font-weight:300;font-size:clamp(36px,6vw,72px);letter-spacing:-.02em;line-height:.95;color:var(--ink-2)}
 .foot .meta{font-family:var(--f-mono);font-size:11px;color:var(--ink-4);line-height:1.8}
 .foot .meta b{color:var(--ink-2);font-weight:500}
+.home-ranking-cta{display:flex;flex-direction:column;align-items:center;gap:12px;padding:0 20px 90px;text-align:center}
+.star-note{margin:0;font-family:var(--f-mono);font-size:11px;line-height:1.6;color:var(--ink-4);overflow-wrap:anywhere}
+.star-note a{color:var(--ink-2);border-bottom:1px solid var(--line);transition:color .25s var(--ease),border-color .25s var(--ease)}
+.star-note a:hover{color:var(--accent);border-color:var(--accent)}
 
 /* magnetic button */
 .mbtn{display:inline-flex;align-items:center;gap:10px;font-size:13px;padding:11px 20px;border:1px solid var(--ink);color:var(--ink);border-radius:0;background:transparent;transition:background .35s var(--ease),color .35s var(--ease);will-change:transform}

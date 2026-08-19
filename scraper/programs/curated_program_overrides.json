@@ -1,0 +1,211 @@
+{
+  "universities": {
+    "u_linköping_university": {
+      "replaceDeadlines": true,
+      "deadlines": [],
+      "requirements": {
+        "ielts": "6.5",
+        "toefl": "90",
+        "language": "English 6"
+      },
+      "materials": [
+        "degree certificate",
+        "transcript",
+        "course descriptions",
+        "english proof",
+        "passport"
+      ],
+      "sources": [
+        "https://liu.se/en/article/masters-entry-requirements",
+        "https://liu.se/en/article/documenting-your-eligibility-for-studies"
+      ]
+    }
+  },
+  "programs": {
+    "https://liu.se/en/education/program/6mics": {
+      "requirements": {
+        "academic": "Bachelor's in computer science, IT, software or computer engineering, or at least 60 ECTS in computing; at least 24 ECTS in mathematics."
+      }
+    },
+    "https://liu.se/en/education/program/6mbme": {
+      "requirements": {
+        "academic": "Relevant bachelor's in biomedical, electrical or computer engineering, physics or equivalent; 30 ECTS in mathematics and 10 ECTS in physics."
+      }
+    },
+    "https://liu.se/en/education/program/f7mml": {
+      "requirements": {
+        "academic": "Relevant bachelor's in statistics, mathematics, computer science or engineering, including calculus, linear algebra, statistics and programming."
+      }
+    },
+    "https://liu.se/en/education/program/6mcys": {
+      "requirements": {
+        "academic": "Bachelor's in computer science, IT, software or computer engineering, or 60 ECTS in computing; at least 22 ECTS in mathematics."
+      }
+    },
+    "https://liu.se/en/education/program/6mdsi": {
+      "requirements": {
+        "academic": "Relevant bachelor's in electrical or computer engineering, computer science, applied physics or mathematics; mathematics, programming, and signals and systems are required."
+      }
+    },
+    "https://liu.se/en/education/program/6mind": {
+      "requirements": {
+        "academic": "Bachelor's in mechanical, energy, civil or electrical engineering, computer science or equivalent; at least 30 ECTS in mathematics."
+      }
+    },
+    "https://offre-de-formations.univ-lyon1.fr/parcours-1404/m2-data-science.html": {
+      "requirements": {
+        "academic": "M1 in computer science or equivalent; prior study in probability, statistics, optimisation, Python, numerical analysis and large databases is preferred."
+      }
+    },
+    "https://offre-de-formations.univ-lyon1.fr/parcours-140/m2-intelligence-artificielle.html": {
+      "requirements": {
+        "language": "French"
+      }
+    },
+    "https://offre-de-formations.univ-lyon1.fr/parcours-1529/m2-data-and-intelligence-for-smart-systems-diss.html": {
+      "requirements": {
+        "language": "English",
+        "academic": "M1/M2-level computer science with foundations in databases, machine learning, image processing or service computing."
+      }
+    },
+    "https://offre-de-formations.univ-lyon1.fr/parcours-1540/m2-quantum-light-and-interactions-ndash-quantique-lumiere-et-interactions-q-light.html": {
+      "requirements": {
+        "language": "French / English",
+        "academic": "Science or engineering bachelor's or equivalent; direct M2 admission requires approval by the academic committee."
+      }
+    },
+    "https://univ-cotedazur.eu/msc/msc-data-science-and-artificial-intelligence": {
+      "requirements": {
+        "language": "English B2",
+        "academic": "Bachelor's degree (180 ECTS) with a strong mathematics and computer science background."
+      },
+      "materials": ["cv", "transcript", "motivation letter", "english proof", "two recommendation letters"],
+      "sources": [
+        "https://univ-cotedazur.eu/msc/msc-data-science-and-artificial-intelligence/application-process/conditions-of-admission",
+        "https://univ-cotedazur.eu/msc/msc-data-science-and-artificial-intelligence/application-process/how-to-apply"
+      ]
+    },
+    "https://univ-cotedazur.eu/msc/modeling-for-neuronal-and-cognitive-systems": {
+      "requirements": {
+        "language": "English C1",
+        "academic": "Relevant bachelor's degree in a discipline connected to neuronal or cognitive systems."
+      },
+      "materials": ["transcript", "project essay", "recommendation letters"],
+      "sources": [
+        "https://univ-cotedazur.eu/msc/modeling-for-neuronal-and-cognitive-systems/applications-registration/how-do-i-apply"
+      ]
+    },
+    "https://univ-cotedazur.eu/msc/msc-boost": {
+      "requirements": {
+        "academic": "Bachelor's degree (180 ECTS) with a relevant plant-science background."
+      },
+      "materials": ["two recommendation letters"],
+      "sources": ["https://univ-cotedazur.eu/msc/msc-boost/application"]
+    },
+    "https://univ-cotedazur.eu/msc/european-msc-molecular-pathology": {
+      "requirements": {
+        "language": "English B2/C1",
+        "academic": "Restricted to qualified physicians specialising or training in pathology."
+      },
+      "sources": ["https://univ-cotedazur.eu/msc/european-msc-molecular-pathology/application-1"]
+    },
+    "https://univ-cotedazur.eu/msc/biobanks-complex-data-management": {
+      "requirements": {
+        "language": "English proficiency",
+        "academic": "Relevant bachelor's degree in life sciences or an equivalent field."
+      },
+      "materials": ["two recommendation letters"],
+      "sources": ["https://univ-cotedazur.eu/msc/biobanks-complex-data-management/admission"]
+    },
+    "https://www.universiteitleiden.nl/en/education/study-programmes/master/african-studies": {
+      "replaceDeadlines": true,
+      "deadlines": [
+        {"round": "Sep 2027 · Visa/residence", "date": "2027-04-01"},
+        {"round": "Sep 2027 · No visa/residence", "date": "2027-05-15"}
+      ],
+      "deadlineSources": ["https://www.universiteitleiden.nl/en/education/study-programmes/master/african-studies/admission-and-application/application-deadlines"]
+    },
+    "https://www.universiteitleiden.nl/en/education/study-programmes/master/air-and-space-law": {
+      "replaceDeadlines": true,
+      "deadlines": [
+        {"round": "Feb 2027 · Visa/residence", "date": "2026-10-15"},
+        {"round": "Feb 2027 · No visa/residence", "date": "2026-11-15"},
+        {"round": "Sep 2027 · Visa/residence", "date": "2027-04-01"},
+        {"round": "Sep 2027 · No visa/residence", "date": "2027-05-15"}
+      ],
+      "deadlineSources": ["https://www.universiteitleiden.nl/en/education/study-programmes/master/air-and-space-law/admission-and-application/application-deadlines"]
+    },
+    "https://www.universiteitleiden.nl/en/education/study-programmes/master/archaeology": {
+      "replaceDeadlines": true,
+      "deadlines": [],
+      "deadlineSources": ["https://www.universiteitleiden.nl/en/education/study-programmes/master/archaeology/admission-and-application"]
+    },
+    "https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science": {
+      "replaceDeadlines": true,
+      "deadlines": [
+        {"round": "Feb 2027 · Visa/residence", "date": "2026-10-15"},
+        {"round": "Feb 2027 · No visa/residence", "date": "2026-11-15"},
+        {"round": "Sep 2027 · Visa/residence", "date": "2027-04-01"},
+        {"round": "Sep 2027 · No visa/residence", "date": "2027-05-15"}
+      ],
+      "deadlineSources": ["https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science/admission-and-application/application-deadlines"]
+    },
+    "https://www.universiteitleiden.nl/en/education/study-programmes/master/astronomy": {
+      "replaceDeadlines": true,
+      "deadlines": [
+        {"round": "Feb 2027 · Visa/residence", "date": "2026-10-15"},
+        {"round": "Feb 2027 · No visa/residence", "date": "2026-11-15"},
+        {"round": "Sep 2027 · Visa/residence", "date": "2027-04-01"},
+        {"round": "Sep 2027 · No visa/residence", "date": "2027-05-15"}
+      ],
+      "deadlineSources": ["https://www.universiteitleiden.nl/en/education/study-programmes/master/astronomy/admission-and-application/application-deadlines"]
+    },
+    "https://www.universiteitleiden.nl/en/education/study-programmes/master/international-relations-and-diplomacy": {
+      "replaceDeadlines": true,
+      "deadlines": [
+        {"round": "Sep 2027 · Application", "date": "2027-04-01"}
+      ],
+      "deadlineSources": ["https://www.universiteitleiden.nl/en/education/study-programmes/master/international-relations-and-diplomacy/admission-and-application/application-deadlines"]
+    },
+    "https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science/artificial-intelligence": {
+      "replaceDeadlines": true,
+      "deadlines": [
+        {"round": "Feb 2027 · Visa/residence", "date": "2026-10-15"},
+        {"round": "Feb 2027 · No visa/residence", "date": "2026-11-15"},
+        {"round": "Sep 2027 · Visa/residence", "date": "2027-04-01"},
+        {"round": "Sep 2027 · No visa/residence", "date": "2027-05-15"}
+      ],
+      "deadlineSources": ["https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science/artificial-intelligence/admission-and-application/application-deadlines"]
+    },
+    "https://www.universiteitleiden.nl/en/education/study-programmes/master/mathematics/applied-mathematics": {
+      "replaceDeadlines": true,
+      "deadlines": [
+        {"round": "Feb 2027 · Visa/residence", "date": "2026-10-15"},
+        {"round": "Feb 2027 · No visa/residence", "date": "2026-11-15"},
+        {"round": "Sep 2027 · Visa/residence", "date": "2027-04-01"},
+        {"round": "Sep 2027 · No visa/residence", "date": "2027-05-15"}
+      ],
+      "deadlineSources": ["https://www.universiteitleiden.nl/en/education/study-programmes/master/mathematics/applied-mathematics/admission-and-application/application-deadlines"]
+    },
+    "https://www.universiteitleiden.nl/en/education/study-programmes/master/psychology/applied-cognitive-psychology": {
+      "replaceDeadlines": true,
+      "deadlines": [
+        {"round": "Feb 2027 · Visa/residence", "date": "2026-10-15"},
+        {"round": "Feb 2027 · No visa/residence", "date": "2026-11-15"},
+        {"round": "Sep 2027 · Visa/residence", "date": "2027-04-01"},
+        {"round": "Sep 2027 · No visa/residence", "date": "2027-05-15"}
+      ],
+      "deadlineSources": ["https://www.universiteitleiden.nl/en/education/study-programmes/master/psychology/applied-cognitive-psychology/admission-and-application/application-deadlines"]
+    },
+    "https://www.universiteitleiden.nl/en/education/study-programmes/master/political-science/politics-of-ai": {
+      "replaceDeadlines": true,
+      "deadlines": [
+        {"round": "Feb 2027 · Visa/residence", "date": "2026-10-15"},
+        {"round": "Feb 2027 · No visa/residence", "date": "2026-11-15"},
+        {"round": "Sep 2027 · Visa/residence", "date": "2027-04-01"},
+        {"round": "Sep 2027 · No visa/residence", "date": "2027-05-15"}
+      ],
+      "deadlineSources": ["https://www.universiteitleiden.nl/en/education/study-programmes/master/political-science/politics-of-ai/admission-and-application/application-deadlines"]
+    }
+  }
+}

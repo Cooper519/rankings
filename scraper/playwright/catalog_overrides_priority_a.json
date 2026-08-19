@@ -1,0 +1,515 @@
+[
+  {
+    "universityId": "u_charles_university",
+    "officialDomains": ["cuni.cz", "studycharles.cz"],
+    "indexUrl": "https://cuni.cz/UKEN-1.html",
+    "catalogPages": ["https://www.cuni.cz/UKEN-1.html", "https://studycharles.cz/"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official university and study catalogue entry"
+  },
+  {
+    "universityId": "u_university_of_tartu",
+    "officialDomains": ["ut.ee"],
+    "indexUrl": "https://ut.ee/en/curriculum",
+    "catalogPages": ["https://ut.ee/en/curriculum", "https://ut.ee/en/studies"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official curriculum catalogue"
+  },
+  {
+    "universityId": "u_university_of_warsaw",
+    "officialDomains": ["uw.edu.pl", "irk.uw.edu.pl"],
+    "indexUrl": "https://rekrutacja.uw.edu.pl/en/",
+    "catalogPages": ["https://irk.uw.edu.pl/en-gb/offer/PELNE2026/", "https://uw.edu.pl/en/education/"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official admissions and education catalogue"
+  },
+  {
+    "universityId": "u_ko\u00e7_university",
+    "officialDomains": ["ku.edu.tr", "apply.ku.edu.tr"],
+    "indexUrl": "https://www.ku.edu.tr/graduate-programs/",
+    "catalogPages": ["https://www.ku.edu.tr/graduate-programs/", "https://apply.ku.edu.tr/"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official graduate programme catalogue"
+  },
+  {
+    "universityId": "u_masaryk_university",
+    "officialDomains": ["muni.cz"],
+    "indexUrl": "https://www.muni.cz/en/bachelors-and-masters-study-programmes?type=master",
+    "catalogPages": ["https://www.muni.cz/en/bachelors-and-masters-study-programmes?type=master"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official study programme search"
+  },
+  {
+    "universityId": "u_sorbonne_university",
+    "officialDomains": ["sorbonne-universite.fr"],
+    "indexUrl": "https://www.sorbonne-universite.fr/en/education/study-sorbonne-university/degree-seeking-students/bachelors-and-masters-programs",
+    "catalogPages": ["https://sciences.sorbonne-universite.fr/en/education/masters"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official degree programme catalogue"
+  },
+  {
+    "universityId": "u_tu_dresden",
+    "officialDomains": ["tu-dresden.de"],
+    "indexUrl": "https://tu-dresden.de/studium/studienangebot",
+    "catalogPages": ["https://tu-dresden.de/studium/studienangebot/master"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official degree programme catalogue"
+  },
+  {
+    "universityId": "u_university_of_luxembourg",
+    "officialDomains": ["uni.lu"],
+    "indexUrl": "https://www.uni.lu/en/studies/",
+    "catalogPages": ["https://www.uni.lu/en/studies/masters/"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official studies catalogue"
+  },
+  {
+    "universityId": "u_hse_university",
+    "officialDomains": ["hse.ru", "edu.hse.ru"],
+    "indexUrl": "https://www.hse.ru/en/ma/",
+    "catalogPages": ["https://www.hse.ru/en/ma/", "https://edu.hse.ru/"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official master's programme catalogue"
+  },
+  {
+    "universityId": "u_bo\u011fazi\u00e7i_university",
+    "officialDomains": ["bogazici.edu.tr"],
+    "indexUrl": "https://bogazici.edu.tr/en/pages/graduate-programs/",
+    "catalogPages": ["https://bogazici.edu.tr/en/pages/graduate-programs/"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official graduate programme catalogue"
+  },
+  {
+    "universityId": "u_middle_east_technical_university",
+    "officialDomains": ["metu.edu.tr", "fbe.metu.edu.tr"],
+    "indexUrl": "https://www.metu.edu.tr/graduate-programs",
+    "catalogPages": ["https://fbe.metu.edu.tr/en/graduate-programs"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official graduate school catalogue"
+  },
+  {
+    "universityId": "u_university_of_szeged",
+    "officialDomains": ["u-szeged.hu"],
+    "indexUrl": "https://u-szeged.hu/english/study-programmes",
+    "catalogPages": ["https://u-szeged.hu/english/study-programmes"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official study programme catalogue"
+  },
+  {
+    "universityId": "u_sabanc\u0131_university",
+    "officialDomains": ["sabanciuniv.edu"],
+    "indexUrl": "https://www.sabanciuniv.edu/en/graduate-programs",
+    "catalogPages": ["https://www.sabanciuniv.edu/en/graduate-programs"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official graduate programme catalogue"
+  },
+  {
+    "universityId": "u_aalto_university",
+    "officialDomains": ["aalto.fi"],
+    "indexUrl": "https://www.aalto.fi/en/study-options",
+    "catalogPages": ["https://www.aalto.fi/en/study-options", "https://www.aalto.fi/en/study-options/masters-programmes"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official study options and master's programme catalogue"
+  },
+  {
+    "universityId": "u_ku_leuven",
+    "officialDomains": ["kuleuven.be"],
+    "indexUrl": "https://www.kuleuven.be/programmes/master-programmes",
+    "catalogPages": ["https://www.kuleuven.be/programmes/master-programmes", "https://www.kuleuven.be/programmes/masters"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official master's programme catalogue"
+  },
+  {
+    "universityId": "u_politecnico_di_milano",
+    "officialDomains": ["polimi.it"],
+    "indexUrl": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+    "catalogPages": ["https://www.polimi.it/en/education/laurea-magistrale-programmes", "https://www.polimi.it/en/prospective-students/politecnico-programmes"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official Laurea Magistrale programme catalogue"
+  },
+  {
+    "universityId": "u_universit\u00e0_di_padova",
+    "officialDomains": ["unipd.it"],
+    "indexUrl": "https://www.unipd.it/en/courses/find-a-course/master-degree",
+    "catalogPages": ["https://www.unipd.it/en/courses/find-a-course/master-degree", "https://www.unipd.it/en/corsi-di-laurea-magistrale"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official master's degree catalogue"
+  },
+  {
+    "universityId": "u_university_of_padova",
+    "officialDomains": ["unipd.it"],
+    "indexUrl": "https://www.unipd.it/en/courses/find-a-course/master-degree",
+    "catalogPages": ["https://www.unipd.it/en/courses/find-a-course/master-degree", "https://www.unipd.it/en/corsi-di-laurea-magistrale"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official master's degree catalogue"
+  },
+  {
+    "universityId": "u_tu_dresden",
+    "officialDomains": ["tu-dresden.de"],
+    "indexUrl": "https://tu-dresden.de/studium/studienangebot/master",
+    "catalogPages": ["https://tu-dresden.de/studium/studienangebot/master", "https://tu-dresden.de/studium/studienangebot"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official master's degree programme catalogue"
+  },
+  {
+    "universityId": "u_aueb",
+    "officialDomains": ["aueb.gr"],
+    "indexUrl": "https://www.aueb.gr/en/content/masters-programs-taught-english",
+    "catalogPages": [
+      "https://www.aueb.gr/en/content/masters-programs-taught-english",
+      "https://www.aueb.gr/en/content/master-programs",
+      "https://www.aueb.gr/en/content/graduate-studies"
+    ],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official English-taught and graduate programme catalogue"
+  },
+  {
+    "universityId": "u_charles_university",
+    "officialDomains": ["cuni.cz", "studycharles.cz"],
+    "indexUrl": "https://cuni.cz/UKEN-1031.html",
+    "catalogPages": [
+      "https://cuni.cz/UKEN-1031.html",
+      "https://cuni.cz/UKEN-1959.html",
+      "https://studycharles.cz/programmes"
+    ],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official study programme and graduate programme catalogue"
+  },
+  {
+    "universityId": "u_czech_technical_university",
+    "officialDomains": ["cvut.cz", "studyatctu.com"],
+    "indexUrl": "https://www.cvut.cz/en/study",
+    "catalogPages": ["https://www.cvut.cz/en/study", "https://studyatctu.com/"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official CTU study catalogue"
+  },
+  {
+    "universityId": "u_hamburg_university_of_technology",
+    "officialDomains": ["tuhh.de"],
+    "indexUrl": "https://www.tuhh.de/tuhh/en/studying",
+    "catalogPages": ["https://www.tuhh.de/tuhh/en/studying", "https://www.tuhh.de/tuhh/en/studying/masters-programmes"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official TUHH study catalogue"
+  },
+  {
+    "universityId": "u_istanbul_technical_university",
+    "officialDomains": ["itu.edu.tr", "sis.itu.edu.tr"],
+    "indexUrl": "https://www.sis.itu.edu.tr/eng/grad-programs.php",
+    "catalogPages": ["https://www.sis.itu.edu.tr/eng/grad-programs.php", "https://www.itu.edu.tr/en/education"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official graduate school programme catalogue"
+  },
+  {
+    "universityId": "u_ntua",
+    "officialDomains": ["ntua.gr"],
+    "indexUrl": "https://www.ntua.gr/en/education",
+    "catalogPages": ["https://www.ntua.gr/en/education", "https://www.ece.ntua.gr/en/undergraduate", "https://www.ece.ntua.gr/en/postgraduate"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official NTUA education and postgraduate catalogue"
+  },
+  {
+    "universityId": "u_paderborn_university",
+    "officialDomains": ["uni-paderborn.de"],
+    "indexUrl": "https://www.uni-paderborn.de/en/studies",
+    "catalogPages": ["https://www.uni-paderborn.de/en/studies", "https://www.uni-paderborn.de/en/studies/study-programmes"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official Paderborn study catalogue"
+  },
+  {
+    "universityId": "u_bielefeld_university",
+    "officialDomains": ["uni-bielefeld.de", "ekvv.uni-bielefeld.de"],
+    "indexUrl": "https://ekvv.uni-bielefeld.de/sinfo/publ/Studienangebot.jsp?lang=EN",
+    "catalogPages": ["https://ekvv.uni-bielefeld.de/sinfo/publ/Studienangebot.jsp", "https://ekvv.uni-bielefeld.de/sinfo/publ/Studienangebot.jsp?lang=EN"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official eKVV degree programme catalogue"
+  },
+  {
+    "universityId": "u_czech_technical_university",
+    "officialDomains": ["cvut.cz", "bilakniha.cvut.cz", "fit.cvut.cz"],
+    "indexUrl": "https://bilakniha.cvut.cz/en/",
+    "catalogPages": ["https://bilakniha.cvut.cz/en/", "https://fit.cvut.cz/en/studies/programs-and-specializations/master"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official CTU White Book and master's programme catalogue"
+  },
+  {
+    "universityId": "u_hamburg_university_of_technology",
+    "officialDomains": ["tuhh.de"],
+    "indexUrl": "https://www.tuhh.de/tuhh/en/studying/before-studying/degree-courses/masters-programs",
+    "catalogPages": ["https://www.tuhh.de/tuhh/en/studying/before-studying/degree-courses/masters-programs", "https://www.tuhh.de/tuhh/en/studying/before-studying/degree-courses/international-study-programs"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official TUHH master's and international programme catalogues"
+  },
+  {
+    "universityId": "u_istanbul_technical_university",
+    "officialDomains": ["itu.edu.tr", "lee.itu.edu.tr", "tyyc.itu.edu.tr"],
+    "indexUrl": "https://lee.itu.edu.tr/en/education/graduate-programs",
+    "catalogPages": ["https://lee.itu.edu.tr/en/education/graduate-programs"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official ITU graduate programme catalogue"
+  },
+  {
+    "universityId": "u_paderborn_university",
+    "officialDomains": ["uni-paderborn.de"],
+    "indexUrl": "https://www.uni-paderborn.de/en/studyoffer",
+    "catalogPages": ["https://www.uni-paderborn.de/en/studyoffer", "https://www.uni-paderborn.de/studienangebot"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official Paderborn programme catalogue"
+  },
+  {
+    "universityId": "u_tu_dresden",
+    "officialDomains": ["tu-dresden.de"],
+    "indexUrl": "https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_start",
+    "catalogPages": ["https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_start", "https://tu-dresden.de/studium/vor-dem-studium/studienangebot"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official TU Dresden SINS catalogue"
+  },
+  {
+    "universityId": "u_technical_university_of_dresden",
+    "officialDomains": ["tu-dresden.de"],
+    "indexUrl": "https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_start",
+    "catalogPages": ["https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_start", "https://tu-dresden.de/studium/vor-dem-studium/studienangebot"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "alias of TU Dresden using the official SINS catalogue"
+  },
+  {
+    "universityId": "u_university_of_luxembourg",
+    "officialDomains": ["uni.lu"],
+    "indexUrl": "https://www.uni.lu/en/study-programmes/",
+    "catalogPages": ["https://www.uni.lu/en/study-programmes/", "https://www.uni.lu/en/studies/masters"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official University of Luxembourg programme catalogue"
+  },
+  {
+    "universityId": "u_university_of_passau",
+    "officialDomains": ["uni-passau.de"],
+    "indexUrl": "https://www.uni-passau.de/en/study/study-options/",
+    "catalogPages": ["https://www.uni-passau.de/en/study/study-options/", "https://www.uni-passau.de/en/study/"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official Passau study options catalogue replacing obsolete URL"
+  },
+  {
+    "universityId": "u_university_of_rostock",
+    "officialDomains": ["uni-rostock.de"],
+    "indexUrl": "https://www.uni-rostock.de/en/study/study-opportunities/degree-programmes/",
+    "catalogPages": ["https://www.uni-rostock.de/en/study/study-opportunities/degree-programmes/", "https://www.uni-rostock.de/studium/studienangebot/"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official Rostock degree programme catalogue replacing obsolete URL"
+  },
+  {
+    "universityId": "u_university_of_trier",
+    "officialDomains": ["uni-trier.de"],
+    "indexUrl": "https://www.uni-trier.de/en/studies/range-of-courses",
+    "catalogPages": ["https://www.uni-trier.de/en/studies/range-of-courses", "https://www.uni-trier.de/en/studium/studienangebot/master", "https://www.uni-trier.de/en/studies/range-of-courses/range-of-courses-a-z/english-taught-masters-courses"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official Trier course and master's catalogues replacing obsolete URL"
+  },
+  {
+    "universityId": "u_university_of_wroclaw",
+    "officialDomains": ["uwr.edu.pl"],
+    "indexUrl": "https://uwr.edu.pl/en/first-year-see-how-it-works/study-programmes/",
+    "catalogPages": ["https://uwr.edu.pl/en/first-year-see-how-it-works/study-programmes/", "https://uwr.edu.pl/en/wp-json/wp/v2/pages/124983"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official Wroclaw study programme page and WordPress REST representation"
+  },
+  {
+    "universityId": "u_masaryk_university",
+    "officialDomains": ["muni.cz"],
+    "indexUrl": "https://www.muni.cz/en/bachelors-and-masters-study-programmes",
+    "catalogPages": ["https://www.muni.cz/en/bachelors-and-masters-study-programmes"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official Masaryk programme catalogue with stable detail paths"
+  },
+  {
+    "universityId": "u_free_university_of_brussels",
+    "officialDomains": ["vub.be"],
+    "indexUrl": "https://www.vub.be/en/studying-vub/all-study-programmes-vub/masters-programmes",
+    "catalogPages": ["https://www.vub.be/en/studying-vub/all-study-programmes-vub/masters-programmes", "https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub?term_education_program_type__uuid=c00bff47-bac1-4c0e-add8-a6f83c0445d1"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official VUB master's catalogue and master-filtered listing"
+  },
+  {
+    "universityId": "u_university_of_seville",
+    "officialDomains": ["us.es"],
+    "indexUrl": "https://www.us.es/estudiar/que-estudiar/oferta-de-masteres",
+    "catalogPages": ["https://www.us.es/estudiar/que-estudiar/oferta-de-masteres", "https://www.us.es/estudiar/que-estudiar/masteres-por-orden-alfabetico"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official University of Seville master's catalogue"
+  },
+  {
+    "universityId": "u_universidad_de_sevilla",
+    "officialDomains": ["us.es"],
+    "indexUrl": "https://www.us.es/estudiar/que-estudiar/oferta-de-masteres",
+    "catalogPages": ["https://www.us.es/estudiar/que-estudiar/oferta-de-masteres", "https://www.us.es/estudiar/que-estudiar/masteres-por-orden-alfabetico"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "University of Seville alias using the official master's catalogue"
+  },
+  {
+    "universityId": "u_university_of_malta",
+    "officialDomains": ["um.edu.mt"],
+    "indexUrl": "https://www.um.edu.mt/courses/",
+    "catalogPages": ["https://www.um.edu.mt/courses/", "https://www.um.edu.mt/study/postgraduate/"],
+    "apiEndpoints": ["https://www.um.edu.mt/media/coursefinder/programs.json"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official University of Malta course catalogue and JSON dataset"
+  },
+  {
+    "universityId": "u_universidad_de_zaragoza",
+    "officialDomains": ["unizar.es", "estudios.unizar.es"],
+    "indexUrl": "https://estudios.unizar.es/estudio/lista?tipo_id=6&anyo_academico=2026",
+    "catalogPages": ["https://estudios.unizar.es/estudio/lista?tipo_id=6", "https://estudios.unizar.es/estudio/lista?tipo_id=6&anyo_academico=2026"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official Zaragoza master's catalogue with degree-level and academic-year filters"
+  },
+  {
+    "universityId": "u_boğaziçi_university",
+    "officialDomains": ["bogazici.edu.tr"],
+    "indexUrl": "https://bogazici.edu.tr/en/pages/graduate-programs/435",
+    "catalogPages": ["https://bogazici.edu.tr/en/pages/graduate-programs/435", "https://bogazici.edu.tr/en/pages/graduate-catalogue/215"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official Bogazici graduate programme and catalogue pages"
+  },
+  {
+    "universityId": "u_middle_east_technical_university",
+    "officialDomains": ["metu.edu.tr", "oidb.metu.edu.tr"],
+    "indexUrl": "https://oidb.metu.edu.tr/en/graduate-programs-and-degrees",
+    "catalogPages": ["https://oidb.metu.edu.tr/en/graduate-programs-and-degrees", "https://oidb.metu.edu.tr/en/graduate-programs"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official METU graduate programmes grouped by institute"
+  },
+  {
+    "universityId": "u_bilkent_university",
+    "officialDomains": ["bilkent.edu.tr"],
+    "indexUrl": "https://w3.bilkent.edu.tr/bilkent/gradstudents/",
+    "catalogPages": ["https://w3.bilkent.edu.tr/bilkent/gradstudents/", "https://w3.bilkent.edu.tr/bilkent/gradstudents/graduate-school-of-engineering-and-science/"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official Bilkent graduate programme directory"
+  },
+  {
+    "universityId": "u_sabanci_university",
+    "officialDomains": ["sabanciuniv.edu"],
+    "indexUrl": "https://www.sabanciuniv.edu/en/academic/faculties-and-programs/all-programs",
+    "catalogPages": ["https://www.sabanciuniv.edu/en/academic/faculties-and-programs/all-programs", "https://www.sabanciuniv.edu/en/graduate-programs"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official Sabanci all-programmes and graduate catalogues"
+  },
+  {
+    "universityId": "u_sabancı_university",
+    "officialDomains": ["sabanciuniv.edu"],
+    "indexUrl": "https://www.sabanciuniv.edu/en/academic/faculties-and-programs/all-programs",
+    "catalogPages": ["https://www.sabanciuniv.edu/en/academic/faculties-and-programs/all-programs", "https://www.sabanciuniv.edu/en/graduate-programs"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "Sabanci alias using the official all-programmes catalogue"
+  },
+  {
+    "universityId": "u_hacettepe_university",
+    "officialDomains": ["hacettepe.edu.tr", "akts.hacettepe.edu.tr"],
+    "indexUrl": "https://www.hacettepe.edu.tr/teaching/graduate_programs",
+    "catalogPages": ["https://www.hacettepe.edu.tr/teaching/graduate_programs", "https://www.hacettepe.edu.tr/ogretim/lisansustu_ogretim"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official Hacettepe graduate programme catalogue"
+  },
+  {
+    "universityId": "u_izmir_institute_of_technology",
+    "officialDomains": ["iyte.edu.tr", "lee.iyte.edu.tr"],
+    "indexUrl": "https://lee.iyte.edu.tr/lisansustu-programlar/",
+    "catalogPages": ["https://lee.iyte.edu.tr/lisansustu-programlar/", "https://lee.iyte.edu.tr/en"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official IYTE graduate institute catalogue"
+  },
+  {
+    "universityId": "u_tobb_etü",
+    "officialDomains": ["etu.edu.tr"],
+    "indexUrl": "https://www.etu.edu.tr/tr/sayfa/lisansustu-programlar",
+    "catalogPages": ["https://www.etu.edu.tr/tr/sayfa/lisansustu-programlar", "https://www.etu.edu.tr/en/sayfa/lisansustu-programlar"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official TOBB graduate programme table"
+  },
+  {
+    "universityId": "u_özyeğin_university",
+    "officialDomains": ["ozyegin.edu.tr", "fbe.ozyegin.edu.tr"],
+    "indexUrl": "https://www.ozyegin.edu.tr/en/graduate-programs",
+    "catalogPages": ["https://www.ozyegin.edu.tr/en/graduate-programs", "https://fbe.ozyegin.edu.tr/en"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official Ozyegin graduate programme and graduate school catalogues"
+  },
+  {
+    "universityId": "u_goethe_university_frankfurt_am_main",
+    "officialDomains": ["uni-frankfurt.de"],
+    "indexUrl": "https://www.uni-frankfurt.de/en/sitemap-en.xml",
+    "catalogPages": ["https://www.uni-frankfurt.de/en/sitemap-en.xml", "https://www.uni-frankfurt.de/en/studium/bewerbung-einschreibung/master-studiengaenge"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official English sitemap exposing master's programme detail pages"
+  },
+  {
+    "universityId": "u_university_of_erlangennuremberg",
+    "officialDomains": ["fau.eu"],
+    "indexUrl": "https://www.fau.eu/studying/degree-programs/masters-degree-programmes/",
+    "catalogPages": ["https://www.fau.eu/studying/degree-programs/masters-degree-programmes/", "https://www.fau.eu/studying/degree-programs/all-degree-programs/", "https://www.fau.eu/sitemap.xml"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official FAU master's catalogue and programme sitemap"
+  },
+  {
+    "universityId": "u_university_of_crete",
+    "officialDomains": ["uoc.gr", "mscs.uoc.gr"],
+    "indexUrl": "https://mscs.uoc.gr/en/postgraduate-study-programs/",
+    "catalogPages": ["https://mscs.uoc.gr/en/postgraduate-study-programs/", "https://www.uoc.gr/en/studies/postgraduate-studies/"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official University of Crete postgraduate programme platform"
+  },
+  {
+    "universityId": "u_university_of_piraeus",
+    "officialDomains": ["unipi.gr"],
+    "indexUrl": "https://www.unipi.gr/en/msc-programmes-en/",
+    "catalogPages": ["https://www.unipi.gr/en/msc-programmes-en/", "https://www.unipi.gr/msc-programmes/"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official University of Piraeus MSc catalogue"
+  },
+  {
+    "universityId": "u_scuola_superiore_santanna",
+    "officialDomains": ["santannapisa.it"],
+    "indexUrl": "https://www.santannapisa.it/en/training/msc-degrees",
+    "catalogPages": ["https://www.santannapisa.it/en/training/msc-degrees", "https://www.santannapisa.it/en/training/masters-diplomas"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official Sant'Anna MSc degree catalogue"
+  },
+  {
+    "universityId": "u_university_of_cagliari",
+    "officialDomains": ["unica.it"],
+    "indexUrl": "https://www.unica.it/it/didattica/corsi-di-studio/laurea-magistrale",
+    "catalogPages": ["https://www.unica.it/it/didattica/corsi-di-studio/laurea-magistrale", "https://www.unica.it/it/didattica/corsi"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official Cagliari Laurea Magistrale catalogue"
+  },
+  {
+    "universityId": "u_university_of_udine",
+    "officialDomains": ["uniud.it"],
+    "indexUrl": "https://www.uniud.it/it/didattica/corsi/",
+    "catalogPages": ["https://www.uniud.it/it/didattica/corsi/", "https://www.uniud.it/sitemap.xml.gz"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official Udine degree programme catalogue and sitemap"
+  },
+  {
+    "universityId": "u_ecole_normale_superieure_lyon",
+    "officialDomains": ["ens-lyon.fr"],
+    "indexUrl": "https://www.ens-lyon.fr/en/studies/academic-programs/masters-2022-2026",
+    "catalogPages": ["https://www.ens-lyon.fr/en/studies/academic-programs/masters-2022-2026", "https://www.ens-lyon.fr/en/studies/academic-programs/z-courses"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official ENS Lyon master's programme catalogue replacing obsolete URL"
+  },
+  {
+    "universityId": "u_université_de_montpellier",
+    "officialDomains": ["umontpellier.fr", "formations-en.umontpellier.fr"],
+    "indexUrl": "https://formations-en.umontpellier.fr/fr/formations/master-XB.html",
+    "catalogPages": ["https://formations-en.umontpellier.fr/fr/formations/master-XB.html", "https://formations-en.umontpellier.fr/"],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official Montpellier master's degree catalogue"
+  },
+  {
+    "universityId": "u_malmö_university",
+    "officialDomains": ["mau.se"],
+    "indexUrl": "https://mau.se/en/study-education/?r.PagingNumber=1&r.Types=67499&r.Query=",
+    "catalogPages": ["https://mau.se/en/study-education/", "https://mau.se/en/study-education/?r.PagingNumber=1&r.Types=67499&r.Query="],
+    "discoveryStrategy": "recursive-catalog",
+    "overrideReason": "official Malmo education catalogue with programme-type filter"
+  }
+]

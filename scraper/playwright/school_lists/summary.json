@@ -1,0 +1,24 @@
+{
+  "total": 811,
+  "statusCounts": {
+    "captured": 545,
+    "blocked": 40,
+    "checked-no-program": 89,
+    "needs-review": 137
+  },
+  "recoveryV5": {
+    "totalProcessed": 164,
+    "recovered": 152,
+    "stillNoUrls": 12,
+    "totalDiscoveredUrls": 5467,
+    "totalVisitedPages": 510
+  },
+  "recoveryV6": {
+    "totalProcessed": 231,
+    "recovered": 164,
+    "stillNoUrls": 4,
+    "totalDiscoveredUrls": 7683,
+    "totalVisitedPages": 873,
+    "totalRawFiles": 898
+  }
+}

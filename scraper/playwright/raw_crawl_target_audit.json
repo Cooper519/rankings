@@ -1,0 +1,420 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-12T16:00:59.996007+00:00",
+  "source": "scraper/playwright/program_catalog_all.json",
+  "historicalEntries": 327,
+  "excludedEntries": 5,
+  "includedRankingEntries": 322,
+  "corePhysicalUniversities": 293,
+  "currentPhysicalUniversities": 347,
+  "physicalUniversities": 348,
+  "supplementalPhysicalUniversities": 55,
+  "aliasEntryCount": 29,
+  "aliasGroupCount": 22,
+  "expectedRankingEntries": 322,
+  "countries": {
+    "Austria": 17,
+    "Belgium": 12,
+    "Cyprus": 1,
+    "Czechia": 4,
+    "Denmark": 6,
+    "Estonia": 1,
+    "Finland": 8,
+    "France": 42,
+    "Germany": 111,
+    "Greece": 6,
+    "Hungary": 1,
+    "Italy": 44,
+    "Luxembourg": 1,
+    "Malta": 1,
+    "Netherlands": 17,
+    "Norway": 4,
+    "Poland": 2,
+    "Portugal": 6,
+    "Russia": 1,
+    "Spain": 28,
+    "Sweden": 12,
+    "Switzerland": 11,
+    "Turkey": 5,
+    "Türkiye": 7
+  },
+  "regions": {
+    "Eastern Europe": 8,
+    "Northern Europe": 31,
+    "Southern Europe": 98,
+    "Western Europe": 211
+  },
+  "withKnownIndexUrl": 348,
+  "withSeedProgramUrls": 275,
+  "excluded": [
+    {
+      "universityId": "u_inria",
+      "name": "INRIA",
+      "country": "France",
+      "region": "Western Europe",
+      "srcs": 1,
+      "covered": false,
+      "reason": "research institute; does not award master's degrees"
+    },
+    {
+      "universityId": "u_cispa_helmholtz_center",
+      "name": "CISPA Helmholtz Center",
+      "country": "Germany",
+      "region": "Western Europe",
+      "srcs": 1,
+      "covered": false,
+      "reason": "research institute; does not award master's degrees"
+    },
+    {
+      "universityId": "u_max_planck_society",
+      "name": "Max Planck Society",
+      "country": "Germany",
+      "region": "Western Europe",
+      "srcs": 1,
+      "covered": false,
+      "reason": "research organization; does not award master's degrees"
+    },
+    {
+      "universityId": "u_cwi",
+      "name": "CWI",
+      "country": "Netherlands",
+      "region": "Western Europe",
+      "srcs": 1,
+      "covered": false,
+      "reason": "research institute; does not award master's degrees"
+    },
+    {
+      "universityId": "u_imdea_software_institute",
+      "name": "IMDEA Software Institute",
+      "country": "Spain",
+      "region": "Southern Europe",
+      "srcs": 1,
+      "covered": false,
+      "reason": "research institute; does not award master's degrees"
+    }
+  ],
+  "excludedSupplemental": [
+    {
+      "universityId": "u_gssi",
+      "reason": "doctoral school; no master's degree catalogue"
+    },
+    {
+      "universityId": "u_imdea_networks_institute",
+      "reason": "research institute; programme ownership belongs to partner universities"
+    },
+    {
+      "universityId": "u_insait",
+      "reason": "research institute within Sofia University; not an independent master's degree provider"
+    },
+    {
+      "universityId": "u_ipi_pan",
+      "reason": "research institute focused on doctoral education; no regular master's degree catalogue"
+    },
+    {
+      "universityId": "u_kempelen_institute_kinit",
+      "reason": "research institute; independent degree authority is unconfirmed"
+    }
+  ],
+  "aliasGroups": [
+    {
+      "canonicalId": "u_epfl",
+      "canonicalName": "EPFL",
+      "rankingEntryCount": 5,
+      "sourceUniversityIds": [
+        "u_epfl",
+        "u_epfl_école_polytechnique_fédérale_de_lausanne",
+        "u_swiss_federal_institute_of_technology_lausanne",
+        "u_école_polytechnique_federale_of_lausanne",
+        "u_école_polytechnique_fédérale_de_lausanne"
+      ],
+      "sourceNames": [
+        "EPFL",
+        "EPFL – École polytechnique fédérale de Lausanne",
+        "Swiss Federal Institute of Technology Lausanne",
+        "École Polytechnique Federale of Lausanne",
+        "École Polytechnique Fédérale de Lausanne"
+      ]
+    },
+    {
+      "canonicalId": "u_psl_university",
+      "canonicalName": "PSL University",
+      "rankingEntryCount": 4,
+      "sourceUniversityIds": [
+        "u_psl_research_university_paris_comue",
+        "u_psl_university",
+        "u_paris_sciences_et_lettres_psl_research_university_paris",
+        "u_université_psl"
+      ],
+      "sourceNames": [
+        "PSL Research University Paris (ComUE)",
+        "PSL University",
+        "Paris Sciences et Lettres – PSL Research University Paris",
+        "Université PSL"
+      ]
+    },
+    {
+      "canonicalId": "u_kth_royal_institute_of_technology",
+      "canonicalName": "KTH Royal Institute of Technology",
+      "rankingEntryCount": 3,
+      "sourceUniversityIds": [
+        "u_kth_royal_institute_of_technology",
+        "u_kth_royal_inst_of_technology",
+        "u_royal_institute_of_technology"
+      ],
+      "sourceNames": [
+        "KTH Royal Institute of Technology",
+        "KTH Royal Inst. of Technology",
+        "Royal Institute of Technology"
+      ]
+    },
+    {
+      "canonicalId": "u_norwegian_university_of_science_and_technology",
+      "canonicalName": "Norwegian University of Science And Technology",
+      "rankingEntryCount": 3,
+      "sourceUniversityIds": [
+        "u_norwegian_university_of_science_and_technology",
+        "u_ntnu",
+        "u_norwegian_university_of_science_and_technology_ntnu"
+      ],
+      "sourceNames": [
+        "Norwegian University of Science And Technology",
+        "NTNU",
+        "Norwegian University of Science and Technology - NTNU"
+      ]
+    },
+    {
+      "canonicalId": "u_chalmers_university_of_technology",
+      "canonicalName": "Chalmers University of Technology",
+      "rankingEntryCount": 2,
+      "sourceUniversityIds": [
+        "u_chalmers_university_of_technology",
+        "u_chalmersgu"
+      ],
+      "sourceNames": [
+        "Chalmers University of Technology",
+        "Chalmers/GU"
+      ]
+    },
+    {
+      "canonicalId": "u_delft_university_of_technology",
+      "canonicalName": "Delft University of Technology",
+      "rankingEntryCount": 2,
+      "sourceUniversityIds": [
+        "u_delft_university_of_technology",
+        "u_tu_delft"
+      ],
+      "sourceNames": [
+        "Delft University of Technology",
+        "TU Delft"
+      ]
+    },
+    {
+      "canonicalId": "u_karlsruhe_institute_of_technology_kit",
+      "canonicalName": "Karlsruhe Institute of Technology (KIT)",
+      "rankingEntryCount": 2,
+      "sourceUniversityIds": [
+        "u_karlsruhe_inst_of_technology",
+        "u_karlsruhe_institute_of_technology_kit"
+      ],
+      "sourceNames": [
+        "Karlsruhe Inst. of Technology",
+        "Karlsruhe Institute of Technology (KIT)"
+      ]
+    },
+    {
+      "canonicalId": "u_technical_university_of_denmark",
+      "canonicalName": "Technical University of Denmark",
+      "rankingEntryCount": 2,
+      "sourceUniversityIds": [
+        "u_technical_university_of_denmark",
+        "u_dtu"
+      ],
+      "sourceNames": [
+        "Technical University of Denmark",
+        "DTU"
+      ]
+    },
+    {
+      "canonicalId": "u_technical_university_of_munich",
+      "canonicalName": "Technical University of Munich",
+      "rankingEntryCount": 2,
+      "sourceUniversityIds": [
+        "u_technical_university_of_munich",
+        "u_tu_munich"
+      ],
+      "sourceNames": [
+        "Technical University of Munich",
+        "TU Munich"
+      ]
+    },
+    {
+      "canonicalId": "u_universitat_autònoma_de_barcelona_uab",
+      "canonicalName": "Universitat Autònoma de Barcelona (UAB)",
+      "rankingEntryCount": 2,
+      "sourceUniversityIds": [
+        "u_universitat_autònoma_de_barcelona",
+        "u_universitat_autònoma_de_barcelona_uab"
+      ],
+      "sourceNames": [
+        "Universitat Autònoma de Barcelona",
+        "Universitat Autònoma de Barcelona (UAB)"
+      ]
+    },
+    {
+      "canonicalId": "u_university_of_bologna",
+      "canonicalName": "University of Bologna",
+      "rankingEntryCount": 2,
+      "sourceUniversityIds": [
+        "u_university_of_bologna",
+        "u_alma_mater_studiorum_università_di_bologna"
+      ],
+      "sourceNames": [
+        "University of Bologna",
+        "Alma Mater Studiorum - Università di Bologna"
+      ]
+    },
+    {
+      "canonicalId": "u_university_of_bordeaux",
+      "canonicalName": "University of Bordeaux",
+      "rankingEntryCount": 2,
+      "sourceUniversityIds": [
+        "u_university_of_bordeaux",
+        "u_universite_de_bordeaux"
+      ],
+      "sourceNames": [
+        "University of Bordeaux",
+        "Universite de Bordeaux"
+      ]
+    },
+    {
+      "canonicalId": "u_university_of_côte_dazur",
+      "canonicalName": "University of Côte d'Azur",
+      "rankingEntryCount": 2,
+      "sourceUniversityIds": [
+        "u_university_of_côte_dazur",
+        "u_université_côte_dazur"
+      ],
+      "sourceNames": [
+        "University of Côte d'Azur",
+        "Université Côte d'Azur"
+      ]
+    },
+    {
+      "canonicalId": "u_university_of_munich",
+      "canonicalName": "University of Munich",
+      "rankingEntryCount": 2,
+      "sourceUniversityIds": [
+        "u_lmu_munich",
+        "u_university_of_munich"
+      ],
+      "sourceNames": [
+        "LMU Munich",
+        "University of Munich"
+      ]
+    },
+    {
+      "canonicalId": "u_university_of_pavia",
+      "canonicalName": "University of Pavia",
+      "rankingEntryCount": 2,
+      "sourceUniversityIds": [
+        "u_university_of_pavia",
+        "u_università_degli_studi_di_pavia"
+      ],
+      "sourceNames": [
+        "University of Pavia",
+        "Università degli Studi di Pavia"
+      ]
+    },
+    {
+      "canonicalId": "u_university_of_southern_denmark",
+      "canonicalName": "University of Southern Denmark",
+      "rankingEntryCount": 2,
+      "sourceUniversityIds": [
+        "u_university_of_southern_denmark",
+        "u_university_of_southern_denmark_sdu"
+      ],
+      "sourceNames": [
+        "University of Southern Denmark",
+        "University of Southern Denmark (SDU)"
+      ]
+    },
+    {
+      "canonicalId": "u_university_of_ulm",
+      "canonicalName": "University of Ulm",
+      "rankingEntryCount": 2,
+      "sourceUniversityIds": [
+        "u_university_of_ulm",
+        "u_ulm_university"
+      ],
+      "sourceNames": [
+        "University of Ulm",
+        "Ulm University"
+      ]
+    },
+    {
+      "canonicalId": "u_university_of_valencia",
+      "canonicalName": "University of Valencia",
+      "rankingEntryCount": 2,
+      "sourceUniversityIds": [
+        "u_university_of_valencia",
+        "u_universitat_de_valencia"
+      ],
+      "sourceNames": [
+        "University of Valencia",
+        "Universitat de Valencia"
+      ]
+    },
+    {
+      "canonicalId": "u_université_grenoble_alpes",
+      "canonicalName": "Université Grenoble Alpes",
+      "rankingEntryCount": 2,
+      "sourceUniversityIds": [
+        "u_université_grenoble_alpes",
+        "u_universite_grenoble_alpes_uga"
+      ],
+      "sourceNames": [
+        "Université Grenoble Alpes",
+        "Universite Grenoble Alpes (UGA)"
+      ]
+    },
+    {
+      "canonicalId": "u_université_libre_de_bruxelles",
+      "canonicalName": "Université Libre de Bruxelles",
+      "rankingEntryCount": 2,
+      "sourceUniversityIds": [
+        "u_universite_libre_de_bruxelles",
+        "u_université_libre_de_bruxelles_ulb"
+      ],
+      "sourceNames": [
+        "Universite libre de Bruxelles",
+        "Université libre de Bruxelles (ULB)"
+      ]
+    },
+    {
+      "canonicalId": "u_université_catholique_de_louvain_uclouvain",
+      "canonicalName": "Université catholique de Louvain (UCLouvain)",
+      "rankingEntryCount": 2,
+      "sourceUniversityIds": [
+        "u_université_catholique_de_louvain",
+        "u_université_catholique_de_louvain_uclouvain"
+      ],
+      "sourceNames": [
+        "Université Catholique de Louvain",
+        "Université catholique de Louvain (UCLouvain)"
+      ]
+    },
+    {
+      "canonicalId": "u_vrije_universiteit_brussel_vub",
+      "canonicalName": "Vrije Universiteit Brussel (VUB)",
+      "rankingEntryCount": 2,
+      "sourceUniversityIds": [
+        "u_vrije_universiteit_brussel_vub",
+        "u_vrije_universiteit_brussel"
+      ],
+      "sourceNames": [
+        "Vrije Universiteit Brussel (VUB)",
+        "Vrije Universiteit Brussel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+﻿requests>=2.32.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+pandas>=2.0.0     # ARWU 表格兜底解析
+json5>=0.9.0      # __NUXT__ 非标准 JSON 兜底(可选)

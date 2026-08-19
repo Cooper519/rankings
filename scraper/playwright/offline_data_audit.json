@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-18T15:24:58.677050+00:00",
+  "today": "2026-08-15",
+  "rankings": {
+    "bySource": {
+      "qs": {
+        "rows": 500,
+        "issues": [
+          "duplicate ranks: {\"398\": 2}"
+        ]
+      },
+      "the": {
+        "rows": 500,
+        "issues": [
+          "duplicate ranks: {\"3\": 2, \"5\": 2, \"18\": 2, \"31\": 2, \"41\": 4, \"53\": 3, \"58\": 3, \"62\": 2, \"68\": 2, \"70\": 2, \"73\": 3, \"76\": 2, \"80\": 3, \"92\": 3, \"95\": 2, \"98\": 3, \"103\": 2, \"105\": 2, \"108\": 4, \"113\": 2, \"116\": 2, \"122\": "
+        ]
+      },
+      "arwu": {
+        "rows": 500,
+        "issues": [
+          "duplicate ranks: {\"14\": 2, \"26\": 2, \"31\": 2, \"46\": 3, \"51\": 2, \"53\": 2, \"56\": 2, \"58\": 2, \"62\": 2, \"65\": 2, \"68\": 2, \"73\": 2, \"76\": 3, \"81\": 2, \"83\": 2, \"88\": 3, \"94\": 2, \"101\": 50, \"151\": 50, \"201\": 100, \"301\": 100, "
+        ]
+      },
+      "usnews": {
+        "rows": 500,
+        "issues": [
+          "duplicate ranks: {\"14\": 2, \"17\": 2, \"23\": 2, \"28\": 2, \"33\": 2, \"42\": 3, \"57\": 2, \"61\": 2, \"64\": 3, \"68\": 4, \"74\": 2, \"77\": 3, \"82\": 3, \"85\": 3, \"92\": 2, \"105\": 3, \"113\": 2, \"115\": 2, \"117\": 2, \"119\": 2, \"122\": 2, \"125"
+        ]
+      }
+    },
+    "ok": true,
+    "csrankings": {
+      "rows": 500
+    }
+  },
+  "dedup": {
+    "unionCanonicalFourRankings": 863,
+    "expectedCanonicalEntities": 811,
+    "goalEntityRows": 811,
+    "goalEntities": 811,
+    "duplicateGoalCanonicalIds": [],
+    "captureReportSchools": 811,
+    "overlap": 744,
+    "inUnionNotGoal": [
+      "u_ajou_university",
+      "u_al_ahliyya_amman_university",
+      "u_anhui_medical_university",
+      "u_applied_science_private_university",
+      "u_arabian_gulf_university",
+      "u_catholic_university_of_the_sacred_heart",
+      "u_china_medical_university_taichung",
+      "u_chinese_university_hong_kong",
+      "u_chung_ang_university_cau",
+      "u_city_university_hong_kong",
+      "u_dresden_university_of_technology",
+      "u_ecole_normale_superieure_lyon",
+      "u_essex_university_of",
+      "u_federal_university_of_rio_de_janeiro",
+      "u_free_university_of_berlin",
+      "u_freie_universitaet_berlin",
+      "u_fujian_agriculture_and_forestry_university",
+      "u_fujian_medical_university",
+      "u_guizhou_university",
+      "u_heidelberg_university",
+      "u_heinrich_heine_university_of_dusseldorf",
+      "u_humboldt_university_of_berlin",
+      "u_indian_institute_of_science_iisc_bangalore",
+      "u_indiana_university_indianapolis",
+      "u_jamia_millia_islamia",
+      "u_johannes_kepler_university_linz",
+      "u_karlsruhe_institute_of_technology",
+      "u_lingnan_university_hong_kong",
+      "u_marche_polytechnic_university",
+      "u_massachusetts_institute_of_technology",
+      "u_mayo_clinic_college_of_medicine_and_science_minnesota",
+      "u_montpellier_university",
+      "u_moscow_state_university",
+      "u_nanjing_university_of_chinese_medicine",
+      "u_nanyang_technological_university",
+      "u_national_cheng_kung_university",
+      "u_national_taiwan_university",
+      "u_national_tsing_hua_university_nthu",
+      "u_national_yang_ming_chiao_tung_university",
+      "u_nazarbayev_university",
+      "u_near_east_university",
+      "u_north_carolina_state_university_at_raleigh",
+      "u_north_carolina_state_university_raleigh",
+      "u_northeastern_university_china",
+      "u_northeastern_university_us",
+      "u_northwest_af_university_china",
+      "u_ntnu_norwegian_university_of_science_and_technology",
+      "u_ohio_state_university_columbus",
+      "u_ohio_state_university_main_campus",
+      "u_osaka_metropolitan_university"
+    ],
+    "inGoalNotUnion": [
+      "u_albert_ludwigs_universitaet_freiburg",
+      "u_american_university_of_the_middle_east",
+      "u_bangor_university",
+      "u_bar_ilan_university",
+      "u_catholic_university_of_sacred_heart",
+      "u_chung_ang_university",
+      "u_city_university_of_london",
+      "u_colorado_state_university_fort_collins",
+      "u_federation_university_australia",
+      "u_friedrich_alexander_universität_erlangen_nürnberg",
+      "u_heinrich_heine_university_duesseldorf",
+      "u_heinrich_heine_university_düsseldorf",
+      "u_indiana_university_purdue_university_at_indianapolis",
+      "u_istanbul_university",
+      "u_julius_maximilians_universität_würzburg",
+      "u_karlsruhe_institute_of_technology_kit",
+      "u_kit_karlsruhe_institute_of_technology",
+      "u_ludwig_maximilians_universität_münchen",
+      "u_mahatma_gandhi_university",
+      "u_massachusetts_institute_of_technology_mit",
+      "u_mayo_clinic_college_of_medicine_and_science",
+      "u_missouri_university_of_science_and_technology",
+      "u_polytechnic_university_of_valencia",
+      "u_psl_university",
+      "u_radboud_university",
+      "u_rensselaer_polytechnic_institute",
+      "u_st_georges_university_of_london",
+      "u_stevens_institute_of_technology",
+      "u_taif_university",
+      "u_technische_universität_wien",
+      "u_texas_tech_university",
+      "u_the_ohio_state_university_columbus",
+      "u_the_university_of_texas_health_science_center_at_san_antonio",
+      "u_the_university_of_texas_m_d_anderson_cancer_center",
+      "u_the_university_of_texas_medical_branch_at_galveston",
+      "u_the_university_of_texas_southwestern_medical_center_at_dallas",
+      "u_tokyo_institute_of_technology",
+      "u_tokyo_medical_and_dental_university_tmdu",
+      "u_tu_dortmund_university",
+      "u_umeå_university",
+      "u_universitat_politècnica_de_catalunya",
+      "u_universiti_brunei_darussalam_ubd",
+      "u_university_at_buffalo_the_state_university_of_new_york",
+      "u_university_of_adelaide",
+      "u_university_of_colorado_at_boulder",
+      "u_university_of_halle_wittenberg",
+      "u_university_of_hull",
+      "u_university_of_illinois_at_chicago",
+      "u_university_of_jena",
+      "u_university_of_lorraine",
+      "u_university_of_mainz",
+      "u_university_of_minnesota_system",
+      "u_university_of_muenster",
+      "u_university_of_roma_tor_vergata",
+      "u_university_of_stirling",
+      "u_university_of_toulouse",
+      "u_university_of_tuebingen",
+      "u_university_of_ulsan",
+      "u_university_of_wuerzburg",
+      "u_university_of_zagreb",
+      "u_universität_heidelberg",
+      "u_unsw_sydney",
+      "u_utah_state_university",
+      "u_victoria_university",
+      "u_vrije_universiteit_brussel_vub",
+      "u_wake_forest_university",
+      "u_zayed_university"
+    ],
+    "ok": true
+  },
+  "captureStatus": {
+    "schools": 811,
+    "statusCounts": {
+      "blocked": 124,
+      "captured": 345,
+      "checked-no-program": 133,
+      "needs-review": 209
+    },
+    "statusSum": 811,
+    "mainlandChinaSchools": 97,
+    "mainlandChinaAllCapturedOrLocal": true,
+    "issues": [],
+    "ok": true
+  },
+  "urls": {
+    "stats": {
+      "officialUrls": 1693,
+      "programUrls": 13149,
+      "sourceUrls": 346,
+      "nonHttp": 0,
+      "aggregator": 0,
+      "rootNoise": 0,
+      "duplicateOfficial": 23
+    },
+    "rawDuplicateSourceUrls": 0,
+    "sourceUrlCanonicalCollisions": 0,
+    "knownDomainSharingCollisions": 0,
+    "collisionExamples": [],
+    "issues": [],
+    "ok": true
+  },
+  "deadlines": {
+    "stats": {
+      "deadlineEntries": 41,
+      "windowEntries": 0,
+      "nonIso": 0,
+      "past": 0,
+      "badGroup": 0,
+      "groupDist": {
+        "EU": 1,
+        "Unknown": 10,
+        "Non-EU": 30
+      }
+    },
+    "issues": [],
+    "ok": true
+  },
+  "frontendConsistency": {
+    "programsTotal": 346,
+    "programsCountNote": "programs.json count 346 (baseline 444)",
+    "uniqueProgramsAfterAliasDedup": 346,
+    "verified": 15,
+    "unverified": 331,
+    "summaryMatchesSchoolsArray": true,
+    "issues": [],
+    "ok": true
+  },
+  "overallOk": true
+}

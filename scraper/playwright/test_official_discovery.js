@@ -30,7 +30,7 @@ const target = {
 assert.deepStrictEqual(
   buildQueries({ ...target, registryDomainHints: ["example.edu"] }),
   [
-    'site:example.edu "Example University" graduate programs',
+    'site:example.edu "Technical University of Example" graduate programs',
     'site:example.edu (master OR postgraduate) (program OR degree OR course)',
   ],
 );

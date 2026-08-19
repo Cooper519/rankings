@@ -1,0 +1,251 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://rankingselect.local/schemas/projects.schema.json",
+  "title": "RankingSelect university package projects",
+  "type": "array",
+  "minItems": 1,
+  "items": { "$ref": "#/$defs/project" },
+  "$defs": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:[_-][a-z0-9]+)*$"
+    },
+    "nullable_string": {
+      "type": ["string", "null"]
+    },
+    "verification_status": {
+      "enum": ["discovered", "extracted", "needs_review", "verified", "stale", "rejected"]
+    },
+    "requirement_status": {
+      "enum": ["required", "optional", "not_required", "unknown"]
+    },
+    "project": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "project_id",
+        "university_id",
+        "campus_id",
+        "normalized_program_code",
+        "name",
+        "official_url",
+        "admission_cycles",
+        "status"
+      ],
+      "properties": {
+        "project_id": { "$ref": "#/$defs/id" },
+        "university_id": { "$ref": "#/$defs/id" },
+        "campus_id": { "$ref": "#/$defs/id" },
+        "normalized_program_code": { "$ref": "#/$defs/id" },
+        "name": { "type": "string", "minLength": 1 },
+        "degree": { "$ref": "#/$defs/nullable_string" },
+        "subject": { "$ref": "#/$defs/nullable_string" },
+        "study_mode": { "$ref": "#/$defs/nullable_string" },
+        "teaching_language": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 },
+          "uniqueItems": true
+        },
+        "official_url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https?://"
+        },
+        "admission_cycles": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/cycle" }
+        },
+        "status": { "enum": ["active", "inactive", "archived"] },
+        "notes": { "type": "string" }
+      }
+    },
+    "cycle": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "cycle_id",
+        "academic_year",
+        "entry_term",
+        "status",
+        "timelines",
+        "requirements",
+        "fees"
+      ],
+      "properties": {
+        "cycle_id": {
+          "type": "string",
+          "pattern": "^\\d{2}(?:fall|spring|summer|rolling)$"
+        },
+        "academic_year": { "type": "integer", "minimum": 2000, "maximum": 2200 },
+        "entry_term": { "enum": ["fall", "spring", "summer", "rolling"] },
+        "status": { "enum": ["current", "historical"] },
+        "timelines": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/timeline" }
+        },
+        "requirements": {
+          "oneOf": [
+            { "type": "object", "maxProperties": 0 },
+            { "$ref": "#/$defs/requirements" }
+          ]
+        },
+        "fees": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/fee" }
+        }
+      }
+    },
+    "timeline": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "timeline_id",
+        "event",
+        "date_type",
+        "date",
+        "date_end",
+        "applicant_group",
+        "source_id",
+        "verification_status"
+      ],
+      "properties": {
+        "timeline_id": { "$ref": "#/$defs/id" },
+        "event": { "type": "string", "minLength": 1 },
+        "date_type": { "enum": ["exact", "month", "range", "rolling", "tba", "unknown"] },
+        "date": {
+          "type": ["string", "null"],
+          "pattern": "^\\d{4}-\\d{2}(?:-\\d{2})?$"
+        },
+        "date_end": {
+          "type": ["string", "null"],
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+        },
+        "applicant_group": { "type": "string", "minLength": 1 },
+        "round": { "$ref": "#/$defs/nullable_string" },
+        "source_id": { "$ref": "#/$defs/id" },
+        "verification_status": { "$ref": "#/$defs/verification_status" }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "date_type": { "const": "exact" } } },
+          "then": {
+            "properties": {
+              "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+              "date_end": { "type": "null" }
+            }
+          }
+        },
+        {
+          "if": { "properties": { "date_type": { "const": "month" } } },
+          "then": {
+            "properties": {
+              "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}$" },
+              "date_end": { "type": "null" }
+            }
+          }
+        },
+        {
+          "if": { "properties": { "date_type": { "const": "range" } } },
+          "then": {
+            "properties": {
+              "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+              "date_end": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "date_type": { "enum": ["rolling", "tba", "unknown"] }
+            }
+          },
+          "then": {
+            "properties": {
+              "date": { "type": "null" },
+              "date_end": { "type": "null" }
+            }
+          }
+        }
+      ]
+    },
+    "requirements": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["language", "gre", "gmat", "academic", "notes", "verification_status"],
+      "properties": {
+        "language": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["status", "tests"],
+          "properties": {
+            "status": { "$ref": "#/$defs/requirement_status" },
+            "tests": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": ["name", "min_score"],
+                "properties": {
+                  "name": { "type": "string", "minLength": 1 },
+                  "min_score": { "type": "string", "minLength": 1 }
+                }
+              }
+            }
+          }
+        },
+        "gre": { "$ref": "#/$defs/test_requirement" },
+        "gmat": { "$ref": "#/$defs/test_requirement" },
+        "academic": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["status", "description"],
+          "properties": {
+            "status": { "$ref": "#/$defs/requirement_status" },
+            "description": { "$ref": "#/$defs/nullable_string" }
+          }
+        },
+        "notes": { "type": "string" },
+        "source_id": { "$ref": "#/$defs/id" },
+        "verification_status": { "$ref": "#/$defs/verification_status" }
+      }
+    },
+    "test_requirement": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "min_score"],
+      "properties": {
+        "status": { "$ref": "#/$defs/requirement_status" },
+        "min_score": { "$ref": "#/$defs/nullable_string" }
+      }
+    },
+    "fee": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "fee_id",
+        "type",
+        "amount",
+        "currency",
+        "period",
+        "applicant_group",
+        "condition",
+        "source_id",
+        "verification_status"
+      ],
+      "properties": {
+        "fee_id": { "$ref": "#/$defs/id" },
+        "type": { "enum": ["tuition", "registration"] },
+        "amount": {
+          "type": "string",
+          "pattern": "^(?:unknown|\\d+(?:\\.\\d+)?)$"
+        },
+        "currency": { "type": "string", "minLength": 1 },
+        "period": { "type": "string", "minLength": 1 },
+        "applicant_group": { "type": "string", "minLength": 1 },
+        "condition": { "type": "string" },
+        "source_id": { "$ref": "#/$defs/id" },
+        "verification_status": { "$ref": "#/$defs/verification_status" }
+      }
+    }
+  }
+}

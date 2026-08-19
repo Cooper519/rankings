@@ -1,0 +1,75 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.playwright-mcp/
+
+# Build
+frontend/dist/
+frontend/.vite/
+*.tsbuildinfo
+
+# Local browser and visual-test output
+frontend/shots/
+home-desktop.png
+*.log
+*.err
+*.pid
+*.pids
+
+# Legacy crawl corpora and generated queues/reports. The normalized root raw/
+# package tree remains tracked; scraper/raw/ is the pre-contract local archive.
+scraper/raw/
+scraper/playwright/_*
+scraper/playwright/*raw*/
+scraper/playwright/recovery_v*/
+scraper/playwright/top350_*.json
+scraper/playwright/top500_*.json
+scraper/playwright/feature2_*.json
+scraper/playwright/application_gap_queue.json
+scraper/playwright/raw_crawl_targets*.json
+scraper/playwright/program_crawl_*.json
+scraper/programs/top500_*.json
+scraper/programs/university_alias_review.json
+
+# Local experiments and one-off migration helpers kept on disk for reference.
+demo/
+/_*
+/-w
+/homepage_only.txt
+/add_domains_v6.js
+/assemble_*.py
+!/assemble_programs.py
+!/assemble_qs.py
+!/assemble_usnews.py
+/build_*queue*.js
+/cdp_*.js
+/check_*.js
+/check_*.py
+/fix_*.py
+/gen_v7*.py
+/inject_table.py
+/integrate_v7*.js
+/patch_*.py
+/probe_mcp.js
+/regen_lists*.js
+/run_audit*.py
+/schema_mcp.js
+/test_*.js
+/update_*.js
+frontend/src/hooks/useData_head.txt
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment and credentials
+.env
+.env.local

@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://rankingselect.local/schemas/manifest.schema.json",
+  "title": "RankingSelect university package manifest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "package_version",
+    "university_id",
+    "name",
+    "country",
+    "updated_at"
+  ],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "package_version": { "type": "string", "minLength": 1 },
+    "university_id": { "$ref": "#/$defs/id" },
+    "name": { "type": "string", "minLength": 1 },
+    "country": { "type": "string", "minLength": 1 },
+    "website": { "$ref": "#/$defs/http_url" },
+    "region": { "type": "string", "minLength": 1 },
+    "updated_at": { "type": "string", "format": "date" },
+    "notes": { "type": "string" },
+    "converter": { "const": "tools.txt_to_package" },
+    "input_file": { "type": "string", "minLength": 1 }
+  },
+  "$defs": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:[_-][a-z0-9]+)*$"
+    },
+    "http_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https?://"
+    }
+  }
+}

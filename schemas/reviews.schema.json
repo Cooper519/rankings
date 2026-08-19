@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://rankingselect.local/schemas/reviews.schema.json",
+  "title": "RankingSelect manual source selection reviews",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "review_id",
+      "entity_type",
+      "entity_id",
+      "field_name",
+      "selected_source_id",
+      "rejected_source_ids",
+      "decision",
+      "reviewed_by",
+      "reviewed_at"
+    ],
+    "properties": {
+      "review_id": { "$ref": "#/$defs/id" },
+      "entity_type": {
+        "enum": ["project", "cycle", "timeline", "requirements", "fee"]
+      },
+      "entity_id": { "type": "string", "minLength": 1 },
+      "field_name": { "type": "string", "minLength": 1 },
+      "selected_source_id": { "$ref": "#/$defs/id" },
+      "rejected_source_ids": {
+        "type": "array",
+        "items": { "$ref": "#/$defs/id" },
+        "uniqueItems": true
+      },
+      "decision": { "type": "string", "minLength": 1 },
+      "reviewed_by": { "type": "string", "minLength": 1 },
+      "reviewed_at": { "type": "string", "format": "date-time" }
+    }
+  },
+  "$defs": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:[_-][a-z0-9]+)*$"
+    }
+  }
+}

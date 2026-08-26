@@ -190,6 +190,31 @@ export interface Feature2Coverage {
   schools: Feature2CoverageSchool[]
 }
 
+export type SchoolUrlKind = 'school-homepage' | 'official-programme-directory' | 'official-programme-index' | 'official-department'
+export type SchoolUrlVerificationStatus = 'verified' | 'recorded' | 'blocked' | 'review'
+
+export interface SchoolUrlRecord {
+  canonicalId: string
+  name: string
+  country: string
+  url: string
+  urlKind: SchoolUrlKind
+  verificationStatus: SchoolUrlVerificationStatus
+  sourceFile: string
+}
+
+export interface SchoolUrlIndex {
+  schemaVersion: number
+  generatedAt: string
+  summary: {
+    schoolsWithUrl: number
+    byUrlKind: Partial<Record<SchoolUrlKind, number>>
+    byVerificationStatus: Partial<Record<SchoolUrlVerificationStatus, number>>
+  }
+  sourceFiles: string[]
+  schools: SchoolUrlRecord[]
+}
+
 export type RankingSource = 'qs' | 'the' | 'arwu' | 'usnews' | 'csrankings'
 
 export const RANKING_SOURCES: RankingSource[] = ['qs', 'the', 'arwu', 'usnews', 'csrankings']

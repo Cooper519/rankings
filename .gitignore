@@ -22,11 +22,14 @@ home-desktop.png
 # Legacy crawl corpora and generated queues/reports. The normalized root raw/
 # package tree remains tracked; scraper/raw/ is the pre-contract local archive.
 scraper/raw/
+scraper/work/
 scraper/playwright/_*
 scraper/playwright/*raw*/
 scraper/playwright/recovery_v*/
 scraper/playwright/top350_*.json
 scraper/playwright/top500_*.json
+!scraper/playwright/top500_official_website_verification_v3.json
+!scraper/playwright/top500_official_website_verification_structured_identity_v4.json
 scraper/playwright/feature2_*.json
 scraper/playwright/application_gap_queue.json
 scraper/playwright/raw_crawl_targets*.json
@@ -60,6 +63,21 @@ demo/
 /test_*.js
 /update_*.js
 frontend/src/hooks/useData_head.txt
+
+# One-off local data materialization helpers and crawl queues.
+scraper/_save_*.py
+scraper/save_batch*.py
+scraper/save_browser_batch*.py
+scraper/save_retry_batch*.py
+scraper/save_remaining.py
+scraper/save_scraped_uni.py
+scraper/fix_urls_and_retry.py
+scraper/retry_list.json
+raw/rankings/*targets*.json
+raw/rankings/*todo*.json
+raw/rankings/*audit*.json
+/york-programs.yml
+/nul
 
 # Editor
 .vscode/

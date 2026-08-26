@@ -26,7 +26,7 @@ const SRC_YEAR: Record<RankingSource, number> = {
   qs: 2026, the: 2026, arwu: 2025, usnews: 2025, csrankings: 2026,
 }
 
-type CoverageFilter = 'all' | 'covered' | 'missing'
+type CoverageFilter = 'all' | 'incomplete' | 'covered' | 'missing' | 'outside'
 
 const foldSearch = (value: string) => value
   .normalize('NFKD')
@@ -46,6 +46,16 @@ function programStats(programs: Program[]) {
     verified: programs.filter((p) => p.verified).length,
     deadlines: programs.reduce((sum, p) => sum + p.deadlines.length, 0),
     requirements: programs.filter(hasRequirement).length,
+  }
+}
+
+function urlLabel(value: string): string {
+  try {
+    const url = new URL(value)
+    const host = url.hostname.replace(/^www\./, '')
+    return url.pathname === '/' || !url.pathname ? host : `${host}/...`
+  } catch {
+    return value
   }
 }
 
@@ -78,6 +88,7 @@ export default function Ranking() {
     programsByUni,
     canonicalById,
     feature2CoverageByUni,
+    schoolUrlByUni,
     ready,
   } = data
   const entries = rankings[src] || []
@@ -104,11 +115,14 @@ export default function Ranking() {
       const coverage = feature2CoverageByUni[e.universityId] || feature2CoverageByUni[canonicalId]
       const isCovered = coverage?.coverageStatus === 'covered' && coverage.urlCount > 0
       const isMissing = coverage?.coverageStatus === 'missing'
+      const isOutside = !coverage
       if (onlyEuro && !europeSet.has(e.universityId)) return false
       if (onlyPrograms && stats.total === 0) return false
       if (onlyRequirements && stats.requirements === 0) return false
       if (coverageFilter === 'covered' && !isCovered) return false
       if (coverageFilter === 'missing' && !isMissing) return false
+      if (coverageFilter === 'outside' && !isOutside) return false
+      if (coverageFilter === 'incomplete' && isCovered) return false
       if (region && reg !== region) return false
       if (ql && !foldSearch(name).includes(ql) && !foldSearch(e.country).includes(ql)) return false
       return true
@@ -185,12 +199,14 @@ export default function Ranking() {
               className="field"
               aria-label="官方硕士目录覆盖筛选"
               value={coverageFilter}
-              onChange={(e) => setCoverageFilter(e.target.value as CoverageFilter)}
+              onChange={(e) => { setCoverageFilter(e.target.value as CoverageFilter); setLimit(100) }}
               style={{ paddingLeft: 34, paddingRight: 30 }}
             >
               <option value="all">全部目录状态</option>
+              <option value="incomplete">待补或范围外</option>
               <option value="covered">已有官方目录</option>
               <option value="missing">待补官方目录</option>
+              <option value="outside">当前范围外</option>
             </select>
           </div>
           <button className={`mbtn${onlyEuro ? ' solid' : ''}`} data-cursor style={{ padding: '9px 16px', fontSize: 12 }} onClick={() => setOnlyEuro((v) => !v)}>
@@ -235,6 +251,8 @@ export default function Ranking() {
               const isCovered = coverage?.coverageStatus === 'covered' && coverage.urlCount > 0
               const isMissing = coverage?.coverageStatus === 'missing'
               const officialUrl = isCovered ? coverage.urls[0] : undefined
+              const schoolUrl = schoolUrlByUni[e.universityId] || schoolUrlByUni[canonicalId]
+              const secondaryUrl = schoolUrl?.url !== officialUrl ? schoolUrl?.url : undefined
               return (
                 <Reveal as="tr" key={e.universityId + e.rank} delay={(i % 20) * 0.018} y={16}
                   className={`uni-row${liked ? ' liked' : ''}`}
@@ -262,6 +280,7 @@ export default function Ranking() {
                       </span>
                       {officialUrl && (
                         <a
+                          className="directory-url"
                           href={officialUrl}
                           target="_blank"
                           rel="noreferrer"
@@ -269,9 +288,23 @@ export default function Ranking() {
                           aria-label={`打开 ${name} 的首个官方硕士目录`}
                           onClick={(ev) => ev.stopPropagation()}
                         >
-                          官网 <ExternalLink size={12} />
+                          目录 URL <ExternalLink size={12} />
                         </a>
                       )}
+                      {secondaryUrl && (
+                        <a
+                          className="school-url"
+                          href={secondaryUrl}
+                          target="_blank"
+                          rel="noreferrer"
+                          title={`${schoolUrl.urlKind === 'school-homepage' ? '学校官网' : '学校官方入口'}：${secondaryUrl}`}
+                          aria-label={`打开 ${name} 的学校 URL`}
+                          onClick={(ev) => ev.stopPropagation()}
+                        >
+                          {urlLabel(secondaryUrl)} <ExternalLink size={12} />
+                        </a>
+                      )}
+                      {!officialUrl && !secondaryUrl && <span className="url-missing">URL 待补</span>}
                     </div>
                   </td>
 

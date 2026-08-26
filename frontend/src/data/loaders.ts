@@ -5,6 +5,7 @@ import type {
   ProgramCoverage,
   RankingEntry,
   RankingSource,
+  SchoolUrlIndex,
   University,
   UniversityAliases,
 } from '../types'
@@ -44,6 +45,10 @@ export async function loadFeature2Coverage(): Promise<Feature2Coverage> {
 
 export async function loadCaptureReport(): Promise<CaptureReport> {
   return loadJson<CaptureReport>('data/top500_capture_report.json')
+}
+
+export async function loadSchoolUrls(): Promise<SchoolUrlIndex> {
+  return loadJson<SchoolUrlIndex>('data/school_urls.json')
 }
 
 /** Normalize names for matching universities across rankings and programs. */

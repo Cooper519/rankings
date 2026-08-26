@@ -179,6 +179,8 @@ table.ledger td.c{text-align:center}
 .coverage-mini>span.missing{color:var(--warn)}
 .coverage-mini a{display:inline-flex;align-items:center;gap:4px;color:var(--ink-3);border-bottom:1px solid var(--line);padding-bottom:1px}
 .coverage-mini a:hover{color:var(--ink);border-color:var(--ink)}
+.coverage-mini a.school-url{max-width:190px;white-space:normal;overflow-wrap:anywhere;line-height:1.4}
+.coverage-mini .url-missing{font-size:10px;color:var(--ink-5)}
 .score-cell{font-family:var(--f-mono);font-size:14px;font-variant-numeric:tabular-nums}
 
 /* ============ program directory ============ */

@@ -347,6 +347,23 @@ QS、THE、ARWU（软科）、U.S. News 和 CS Rankings 均使用独立 adapter�
 - 接口失败时回退到最近一次有效快照，并显示 fallback 状态。
 - API Key、Cookie 或其他凭证只能放在本地环境变量或 GitHub Actions Secrets，不能提交到仓库。
 
+### 学校 URL 清单
+
+榜单页的“待补或范围外”列表读取 `frontend/public/data/school_urls.json`。该文件由现有本地证据离线生成：
+
+    python scraper/build_school_urls.py
+
+输入按可信度合并已核验官网、官方项目目录、已记录项目入口和 CS Rankings 官方 `institutions.csv` 元数据。输出记录以下语义：
+
+- `school-homepage`：学校主页；`verified` 表示已核验，`blocked` 或 `review` 表示域名有注册信息支持但页面访问或身份仍待核验。
+- `official-programme-directory`：已核验的官方项目目录。
+- `official-programme-index`：已有项目数据记录的官方入口。
+- `official-department`：CS Rankings 官方元数据中的院系主页，不能改写成学校主页。
+
+被身份核验流程标记为 `rejected` 的候选不会进入清单。没有可靠 URL 的学校仍保留在列表中并显示“URL 待补”，不能通过猜测域名补值。更新 CS Rankings URL 元数据时，先替换 `raw/rankings/csrankings/institutions.csv` 的官方快照，再重新运行生成器。
+
+CS Rankings 提供的官方院系 URL 优先于未核验的项目入口。若某条项目入口的域名已被更可靠的证据归属于另一所学校，生成器会丢弃该条关联，避免把同城、合作或名称相近的院校错误合并。
+
 ## Fork、更新和提交院校包
 
 ### Fork 和本地安装
@@ -436,7 +453,7 @@ frontend/dist/ 可以部署到静态 Server。临时用 Python 查看构建结�
 
     python -m http.server 4173 -d frontend/dist
 
-生产部署时需要让 Server 将未知路径回退到 index.html，并按部署域名配置 Vite 的 base 和 React Router basename。GitHub Pages 使用仓库子路径时尤其需要这一点；当前仓库的静态构建配置仍需根据实际仓库名设置 base。
+当前 GitHub Pages 部署使用 `/rankings/` Vite base、HashRouter 和 `.github/workflows/pages.yml`。推送到 main 后会自动构建并发布 `frontend/dist/`。部署到其他仓库名或根域 Server 时，需要同步修改 Vite base。
 
 ## 当前实现边界
 

@@ -8,6 +8,8 @@ import type {
   ProgramCoverage,
   RankingEntry,
   RankingSource,
+  SchoolUrlIndex,
+  SchoolUrlRecord,
   University,
 } from '../types'
 import { RANKING_SOURCES } from '../types'
@@ -18,6 +20,7 @@ import {
   loadPrograms,
   loadProgramCoverage,
   loadRanking,
+  loadSchoolUrls,
   loadUniversityAliases,
   loadUniversities,
   normalizeName,
@@ -46,6 +49,10 @@ export interface DataSource {
   feature2Summary: Feature2CoverageSummary
   /** school-level raw capture status for the four top-500 rankings */
   captureReport: CaptureReport
+  /** compact, evidence-backed school and official programme URLs */
+  schoolUrls: SchoolUrlIndex
+  /** URL records propagated from canonical IDs to ranking-specific IDs */
+  schoolUrlByUni: Record<string, SchoolUrlRecord>
   /** ranking-specific university id -> canonical university id */
   canonicalById: Record<string, string>
   /** ids of European-target unis (non CN/US/UK/AU/IE) that appear on rankings */
@@ -104,6 +111,14 @@ const EMPTY_CAPTURE_REPORT: CaptureReport = {
   schools: [],
 }
 
+const EMPTY_SCHOOL_URLS: SchoolUrlIndex = {
+  schemaVersion: 0,
+  generatedAt: '',
+  summary: { schoolsWithUrl: 0, byUrlKind: {}, byVerificationStatus: {} },
+  sourceFiles: [],
+  schools: [],
+}
+
 function coverageNameKey(name: string): string {
   return normalizeName(name)
     .replace(/ae/g, 'a')
@@ -122,13 +137,14 @@ export function useData(): DataSource {
     if (cache) return
     if (!inflight) {
       inflight = (async () => {
-        const [unis, programs, aliases, coverage, feature2Coverage, captureReport, ...rankingsArr] = await Promise.all([
+        const [unis, programs, aliases, coverage, feature2Coverage, captureReport, schoolUrls, ...rankingsArr] = await Promise.all([
           loadUniversities(),
           loadPrograms(),
           loadUniversityAliases(),
           loadProgramCoverage(),
           loadFeature2Coverage(),
           loadCaptureReport(),
+          loadSchoolUrls(),
           ...RANKING_SOURCES.map((s) => loadRanking(s)),
         ])
         const rankings = Object.fromEntries(
@@ -204,13 +220,22 @@ export function useData(): DataSource {
             || feature2CoverageByName[coverageNameKey(universityName)]
           if (row) feature2CoverageByUni[universityId] = row
         }
+        const schoolUrlByCanonical = Object.fromEntries(
+          schoolUrls.schools.map((row) => [row.canonicalId, row]),
+        )
+        const schoolUrlByUni: Record<string, SchoolUrlRecord> = { ...schoolUrlByCanonical }
+        for (const universityId of feature2UniversityIds) {
+          const canonicalId = canonicalById[universityId] || universityId
+          const row = schoolUrlByCanonical[canonicalId]
+          if (row) schoolUrlByUni[universityId] = row
+        }
         const europeIds = Object.values(unis)
           .filter((u) => isEuropeTarget(u) && rankedIds.has(u.id))
           .map((u) => u.id)
         const ds: DataSource = {
           unis, rankings, programs, uniquePrograms, index, rankedIds, programsByUni, coverageByUni,
           feature2Coverage, feature2CoverageByUni, feature2Summary: feature2Coverage.summary, captureReport,
-          canonicalById, europeIds, ready: true,
+          schoolUrls, schoolUrlByUni, canonicalById, europeIds, ready: true,
         }
         cache = ds
         return ds
@@ -229,6 +254,7 @@ export function useData(): DataSource {
       feature2Coverage: EMPTY_FEATURE2_COVERAGE, feature2CoverageByUni: {},
       feature2Summary: EMPTY_FEATURE2_COVERAGE.summary,
       captureReport: EMPTY_CAPTURE_REPORT,
+      schoolUrls: EMPTY_SCHOOL_URLS, schoolUrlByUni: {},
       canonicalById: {}, europeIds: [], ready: false,
     }
   )

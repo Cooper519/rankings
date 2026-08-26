@@ -51,6 +51,7 @@ RankingSelect 是静态优先的个人申请信息站。仓库是数据和版本
 
     generated/
     ├── universities.json
+    ├── school_urls.json
     ├── projects.json
     ├── admission_cycles.json
     ├── timelines.json
@@ -233,7 +234,23 @@ QS、THE、ARWU、U.S. News 和 CS Rankings 各自实现 adapter，统一提供�
 - 请求或校验失败时保留上一份有效快照，并标记 fallback。
 - 凭证只存放在环境变量或 GitHub Actions Secrets。
 
-## 13. 发布规则
+## 13. 学校 URL 派生清单
+
+`school_urls.json` 是静态前端使用的派生索引，不替代院校原始包中的来源证据。每条记录必须包含：
+
+    canonicalId
+    name
+    country
+    url
+    urlKind
+    verificationStatus
+    sourceFile
+
+`urlKind` 区分学校主页、官方项目目录、官方项目入口和官方院系主页，不允许改变字段语义。`verificationStatus` 区分 verified、recorded、blocked 和 review；被身份流程标记为 rejected 的 URL 不得发布。URL 缺失时前端显示“URL 待补”，不能填入搜索页、第三方聚合页或猜测域名。
+
+官方院系 URL 的可信度高于未核验的项目入口。若项目入口域名已被学校主页、官方项目目录或官方院系数据归属于另一个 `canonicalId`，派生时必须移除该项目入口，不能用跨校域名满足 URL 完整率。
+
+## 14. 发布规则
 
 Pull Request 必须检查：
 

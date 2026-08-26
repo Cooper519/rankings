@@ -1,0 +1,1262 @@
+[
+  {
+    "project_id": "u_university_of_western_ontario_main_comp_sci",
+    "university_id": "u_university_of_western_ontario",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "Department of Computer Science",
+    "official_url": "https://www.uwo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8fc63c94500a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8fc63c94500a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_western_ontario_main_ee",
+    "university_id": "u_university_of_western_ontario",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MEng Electrical Engineering",
+    "degree": "MEng",
+    "department": "Department of Electrical and Computer Engineering",
+    "official_url": "https://www.uwo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8fc63c94500a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8fc63c94500a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_western_ontario_main_mech_eng",
+    "university_id": "u_university_of_western_ontario",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MEng Mechanical Engineering",
+    "degree": "MEng",
+    "department": "Department of Mechanical Engineering",
+    "official_url": "https://www.uwo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8fc63c94500a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8fc63c94500a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_western_ontario_main_civil_eng",
+    "university_id": "u_university_of_western_ontario",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MEng Civil Engineering",
+    "degree": "MEng",
+    "department": "Department of Civil Engineering",
+    "official_url": "https://www.uwo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8fc63c94500a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8fc63c94500a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_western_ontario_main_chemical_eng",
+    "university_id": "u_university_of_western_ontario",
+    "campus_id": "main",
+    "normalized_program_code": "chemical_eng",
+    "name": "MEng Chemical Engineering",
+    "degree": "MEng",
+    "department": "Department of Chemical Engineering",
+    "official_url": "https://www.uwo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8fc63c94500a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8fc63c94500a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_western_ontario_main_physics",
+    "university_id": "u_university_of_western_ontario",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MSc Physics",
+    "degree": "MSc",
+    "department": "Department of Physics and Astronomy",
+    "official_url": "https://www.uwo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8fc63c94500a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8fc63c94500a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_western_ontario_main_chemistry",
+    "university_id": "u_university_of_western_ontario",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MSc Chemistry",
+    "degree": "MSc",
+    "department": "Department of Chemistry",
+    "official_url": "https://www.uwo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8fc63c94500a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8fc63c94500a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_western_ontario_main_biology",
+    "university_id": "u_university_of_western_ontario",
+    "campus_id": "main",
+    "normalized_program_code": "biology",
+    "name": "MSc Biology",
+    "degree": "MSc",
+    "department": "Department of Biology",
+    "official_url": "https://www.uwo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8fc63c94500a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8fc63c94500a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_western_ontario_main_mathematics",
+    "university_id": "u_university_of_western_ontario",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics",
+    "name": "MSc Mathematics",
+    "degree": "MSc",
+    "department": "Department of Mathematics and Statistics",
+    "official_url": "https://www.uwo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8fc63c94500a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8fc63c94500a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_western_ontario_main_psychology",
+    "university_id": "u_university_of_western_ontario",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "MA Psychology",
+    "degree": "MA",
+    "department": "Department of Psychology",
+    "official_url": "https://www.uwo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8fc63c94500a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8fc63c94500a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_western_ontario_main_economics",
+    "university_id": "u_university_of_western_ontario",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MA Economics",
+    "degree": "MA",
+    "department": "Department of Economics",
+    "official_url": "https://www.uwo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8fc63c94500a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8fc63c94500a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_western_ontario_main_business",
+    "university_id": "u_university_of_western_ontario",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MMgt Management",
+    "degree": "MMgt",
+    "department": "Ivey Business School",
+    "official_url": "https://www.uwo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8fc63c94500a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8fc63c94500a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_western_ontario_main_law",
+    "university_id": "u_university_of_western_ontario",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "LLM Law",
+    "degree": "LLM",
+    "department": "Faculty of Law",
+    "official_url": "https://www.uwo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8fc63c94500a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8fc63c94500a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_western_ontario_main_medicine",
+    "university_id": "u_university_of_western_ontario",
+    "campus_id": "main",
+    "normalized_program_code": "medicine",
+    "name": "MD Medicine",
+    "degree": "MD",
+    "department": "Schulich School of Medicine and Dentistry",
+    "official_url": "https://www.uwo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8fc63c94500a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8fc63c94500a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_western_ontario_main_dentistry",
+    "university_id": "u_university_of_western_ontario",
+    "campus_id": "main",
+    "normalized_program_code": "dentistry",
+    "name": "DDS Dentistry",
+    "degree": "DDS",
+    "department": "Schulich School of Medicine and Dentistry",
+    "official_url": "https://www.uwo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8fc63c94500a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8fc63c94500a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_western_ontario_main_nursing",
+    "university_id": "u_university_of_western_ontario",
+    "campus_id": "main",
+    "normalized_program_code": "nursing",
+    "name": "MNurs Nursing",
+    "degree": "MNurs",
+    "department": "Faculty of Health Sciences",
+    "official_url": "https://www.uwo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8fc63c94500a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8fc63c94500a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_western_ontario_main_public_health",
+    "university_id": "u_university_of_western_ontario",
+    "campus_id": "main",
+    "normalized_program_code": "public_health",
+    "name": "MPH Public Health",
+    "degree": "MPH",
+    "department": "School of Public Health and Preventive Medicine",
+    "official_url": "https://www.uwo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8fc63c94500a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8fc63c94500a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_western_ontario_main_social_work",
+    "university_id": "u_university_of_western_ontario",
+    "campus_id": "main",
+    "normalized_program_code": "social_work",
+    "name": "MSW Social Work",
+    "degree": "MSW",
+    "department": "Faculty of Health Sciences",
+    "official_url": "https://www.uwo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8fc63c94500a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8fc63c94500a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_western_ontario_main_education",
+    "university_id": "u_university_of_western_ontario",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MEd Education",
+    "degree": "MEd",
+    "department": "Faculty of Education",
+    "official_url": "https://www.uwo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8fc63c94500a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8fc63c94500a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_western_ontario_main_music",
+    "university_id": "u_university_of_western_ontario",
+    "campus_id": "main",
+    "normalized_program_code": "music",
+    "name": "MMus Music",
+    "degree": "MMus",
+    "department": "Don Wright Faculty of Music",
+    "official_url": "https://www.uwo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8fc63c94500a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8fc63c94500a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8fc63c94500a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

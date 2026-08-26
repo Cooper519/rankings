@@ -1,0 +1,758 @@
+[
+  {
+    "project_id": "u_georgia_institute_of_technology_main_comp_sci",
+    "university_id": "u_georgia_institute_of_technology",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MS Computer Science",
+    "degree": "MS",
+    "department": "College of Computing",
+    "official_url": "https://www.gatech.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f50e875c64e6",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f50e875c64e6",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_georgia_institute_of_technology_main_ee",
+    "university_id": "u_georgia_institute_of_technology",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MSEE Electrical Engineering",
+    "degree": "MSEE",
+    "department": "School of Electrical and Computer Engineering",
+    "official_url": "https://www.gatech.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f50e875c64e6",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f50e875c64e6",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_georgia_institute_of_technology_main_mech_eng",
+    "university_id": "u_georgia_institute_of_technology",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MS Mechanical Engineering",
+    "degree": "MS",
+    "department": "Woodruff School of Mechanical Engineering",
+    "official_url": "https://www.gatech.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f50e875c64e6",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f50e875c64e6",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_georgia_institute_of_technology_main_civil_eng",
+    "university_id": "u_georgia_institute_of_technology",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MS Civil Engineering",
+    "degree": "MS",
+    "department": "School of Civil and Environmental Engineering",
+    "official_url": "https://www.gatech.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f50e875c64e6",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f50e875c64e6",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_georgia_institute_of_technology_main_chemical_eng",
+    "university_id": "u_georgia_institute_of_technology",
+    "campus_id": "main",
+    "normalized_program_code": "chemical_eng",
+    "name": "MS Chemical Engineering",
+    "degree": "MS",
+    "department": "School of Chemical and Biomolecular Engineering",
+    "official_url": "https://www.gatech.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f50e875c64e6",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f50e875c64e6",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_georgia_institute_of_technology_main_biomedical_eng",
+    "university_id": "u_georgia_institute_of_technology",
+    "campus_id": "main",
+    "normalized_program_code": "biomedical_eng",
+    "name": "MS Biomedical Engineering",
+    "degree": "MS",
+    "department": "Wallace H. Coulter Department of Biomedical Engineering",
+    "official_url": "https://www.gatech.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f50e875c64e6",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f50e875c64e6",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_georgia_institute_of_technology_main_aerospace_eng",
+    "university_id": "u_georgia_institute_of_technology",
+    "campus_id": "main",
+    "normalized_program_code": "aerospace_eng",
+    "name": "MS Aerospace Engineering",
+    "degree": "MS",
+    "department": "School of Aerospace Engineering",
+    "official_url": "https://www.gatech.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f50e875c64e6",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f50e875c64e6",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_georgia_institute_of_technology_main_materials_eng",
+    "university_id": "u_georgia_institute_of_technology",
+    "campus_id": "main",
+    "normalized_program_code": "materials_eng",
+    "name": "MS Materials Science",
+    "degree": "MS",
+    "department": "School of Materials Science and Engineering",
+    "official_url": "https://www.gatech.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f50e875c64e6",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f50e875c64e6",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_georgia_institute_of_technology_main_physics",
+    "university_id": "u_georgia_institute_of_technology",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MS Physics",
+    "degree": "MS",
+    "department": "School of Physics",
+    "official_url": "https://www.gatech.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f50e875c64e6",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f50e875c64e6",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_georgia_institute_of_technology_main_mathematics",
+    "university_id": "u_georgia_institute_of_technology",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics",
+    "name": "MS Mathematics",
+    "degree": "MS",
+    "department": "School of Mathematics",
+    "official_url": "https://www.gatech.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f50e875c64e6",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f50e875c64e6",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_georgia_institute_of_technology_main_industrial_eng",
+    "university_id": "u_georgia_institute_of_technology",
+    "campus_id": "main",
+    "normalized_program_code": "industrial_eng",
+    "name": "MS Industrial Engineering",
+    "degree": "MS",
+    "department": "H. Milton Stewart School of Industrial and Systems Engineering",
+    "official_url": "https://www.gatech.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f50e875c64e6",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f50e875c64e6",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_georgia_institute_of_technology_main_computer_science",
+    "university_id": "u_georgia_institute_of_technology",
+    "campus_id": "main",
+    "normalized_program_code": "computer_science",
+    "name": "MS Computer Science",
+    "degree": "MS",
+    "department": "College of Computing",
+    "official_url": "https://www.gatech.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f50e875c64e6",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f50e875c64e6",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f50e875c64e6",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

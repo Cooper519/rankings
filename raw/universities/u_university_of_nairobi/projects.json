@@ -1,0 +1,947 @@
+[
+  {
+    "project_id": "u_university_of_nairobi_main_engineering",
+    "university_id": "u_university_of_nairobi",
+    "campus_id": "main",
+    "normalized_program_code": "engineering",
+    "name": "MSc Engineering",
+    "degree": "MSc",
+    "department": "Faculty of Engineering",
+    "official_url": "https://www.uonbi.ac.ke/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e5a8bdaf8992",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e5a8bdaf8992",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_nairobi_main_computer_science",
+    "university_id": "u_university_of_nairobi",
+    "campus_id": "main",
+    "normalized_program_code": "computer_science",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "School of Computing and Informatics",
+    "official_url": "https://www.uonbi.ac.ke/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e5a8bdaf8992",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e5a8bdaf8992",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_nairobi_main_medicine",
+    "university_id": "u_university_of_nairobi",
+    "campus_id": "main",
+    "normalized_program_code": "medicine",
+    "name": "MSc Medicine",
+    "degree": "MSc",
+    "department": "Faculty of Health Sciences",
+    "official_url": "https://www.uonbi.ac.ke/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e5a8bdaf8992",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e5a8bdaf8992",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_nairobi_main_nursing",
+    "university_id": "u_university_of_nairobi",
+    "campus_id": "main",
+    "normalized_program_code": "nursing",
+    "name": "MSc Nursing",
+    "degree": "MSc",
+    "department": "School of Nursing Sciences",
+    "official_url": "https://www.uonbi.ac.ke/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e5a8bdaf8992",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e5a8bdaf8992",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_nairobi_main_pharmacy",
+    "university_id": "u_university_of_nairobi",
+    "campus_id": "main",
+    "normalized_program_code": "pharmacy",
+    "name": "MSc Pharmacy",
+    "degree": "MSc",
+    "department": "School of Pharmacy",
+    "official_url": "https://www.uonbi.ac.ke/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e5a8bdaf8992",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e5a8bdaf8992",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_nairobi_main_dentistry",
+    "university_id": "u_university_of_nairobi",
+    "campus_id": "main",
+    "normalized_program_code": "dentistry",
+    "name": "MSc Dentistry",
+    "degree": "MSc",
+    "department": "School of Dental Sciences",
+    "official_url": "https://www.uonbi.ac.ke/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e5a8bdaf8992",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e5a8bdaf8992",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_nairobi_main_law",
+    "university_id": "u_university_of_nairobi",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "LLM Law",
+    "degree": "LLM",
+    "department": "School of Law",
+    "official_url": "https://www.uonbi.ac.ke/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e5a8bdaf8992",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e5a8bdaf8992",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_nairobi_main_business",
+    "university_id": "u_university_of_nairobi",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MBA",
+    "degree": "MBA",
+    "department": "School of Business",
+    "official_url": "https://www.uonbi.ac.ke/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e5a8bdaf8992",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e5a8bdaf8992",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_nairobi_main_economics",
+    "university_id": "u_university_of_nairobi",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MA Economics",
+    "degree": "MA",
+    "department": "School of Economics",
+    "official_url": "https://www.uonbi.ac.ke/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e5a8bdaf8992",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e5a8bdaf8992",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_nairobi_main_education",
+    "university_id": "u_university_of_nairobi",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MEd Education",
+    "degree": "MEd",
+    "department": "School of Education",
+    "official_url": "https://www.uonbi.ac.ke/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e5a8bdaf8992",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e5a8bdaf8992",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_nairobi_main_agriculture",
+    "university_id": "u_university_of_nairobi",
+    "campus_id": "main",
+    "normalized_program_code": "agriculture",
+    "name": "MSc Agriculture",
+    "degree": "MSc",
+    "department": "Faculty of Agriculture",
+    "official_url": "https://www.uonbi.ac.ke/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e5a8bdaf8992",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e5a8bdaf8992",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_nairobi_main_environmental_sci",
+    "university_id": "u_university_of_nairobi",
+    "campus_id": "main",
+    "normalized_program_code": "environmental_sci",
+    "name": "MSc Environmental Science",
+    "degree": "MSc",
+    "department": "Faculty of Environment",
+    "official_url": "https://www.uonbi.ac.ke/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e5a8bdaf8992",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e5a8bdaf8992",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_nairobi_main_arts",
+    "university_id": "u_university_of_nairobi",
+    "campus_id": "main",
+    "normalized_program_code": "arts",
+    "name": "MA Arts",
+    "degree": "MA",
+    "department": "Faculty of Arts",
+    "official_url": "https://www.uonbi.ac.ke/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e5a8bdaf8992",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e5a8bdaf8992",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_nairobi_main_science",
+    "university_id": "u_university_of_nairobi",
+    "campus_id": "main",
+    "normalized_program_code": "science",
+    "name": "MSc Science",
+    "degree": "MSc",
+    "department": "Faculty of Science",
+    "official_url": "https://www.uonbi.ac.ke/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e5a8bdaf8992",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e5a8bdaf8992",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_nairobi_main_veterinary",
+    "university_id": "u_university_of_nairobi",
+    "campus_id": "main",
+    "normalized_program_code": "veterinary",
+    "name": "MSc Veterinary Medicine",
+    "degree": "MSc",
+    "department": "Faculty of Veterinary Medicine",
+    "official_url": "https://www.uonbi.ac.ke/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e5a8bdaf8992",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e5a8bdaf8992",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e5a8bdaf8992",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  }
+]

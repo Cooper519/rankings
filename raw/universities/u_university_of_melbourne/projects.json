@@ -1,0 +1,1892 @@
+[
+  {
+    "project_id": "u_university_of_melbourne_main_accounting",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "accounting",
+    "name": "Master of Accounting",
+    "degree": "MAcc",
+    "department": "Melbourne Business School",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_business",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "Master of Business Administration",
+    "degree": "MBA",
+    "department": "Melbourne Business School",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_finance",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "Master of Finance",
+    "degree": "MFin",
+    "department": "Melbourne Business School",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_management",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "management",
+    "name": "Master of Management",
+    "degree": "MMgmt",
+    "department": "Melbourne Business School",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_marketing",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "marketing",
+    "name": "Master of Marketing",
+    "degree": "MMkt",
+    "department": "Melbourne Business School",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_human_resource",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "human_resource",
+    "name": "Master of Human Resource Management",
+    "degree": "MHRM",
+    "department": "Melbourne Business School",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_analytics",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "analytics",
+    "name": "Master of Business Analytics",
+    "degree": "MBusAn",
+    "department": "Melbourne Business School",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_international_bus",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "international_bus",
+    "name": "Master of International Business",
+    "degree": "MIB",
+    "department": "Melbourne Business School",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_engineering",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "engineering",
+    "name": "Master of Engineering",
+    "degree": "MEng",
+    "department": "Melbourne School of Engineering",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_civil_eng",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "Master of Civil Engineering",
+    "degree": "MCivEng",
+    "department": "Melbourne School of Engineering",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_electrical_eng",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "electrical_eng",
+    "name": "Master of Electrical Engineering",
+    "degree": "MElecEng",
+    "department": "Melbourne School of Engineering",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_mechanical_eng",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "mechanical_eng",
+    "name": "Master of Mechanical Engineering",
+    "degree": "MMechEng",
+    "department": "Melbourne School of Engineering",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_chemical_eng",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "chemical_eng",
+    "name": "Master of Chemical Engineering",
+    "degree": "MChemEng",
+    "department": "Melbourne School of Engineering",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_biomedical_eng",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "biomedical_eng",
+    "name": "Master of Biomedical Engineering",
+    "degree": "MBiomedEng",
+    "department": "Melbourne School of Engineering",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_software_eng",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "software_eng",
+    "name": "Master of Software Engineering",
+    "degree": "MSE",
+    "department": "Melbourne School of Engineering",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_environmental_eng",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "environmental_eng",
+    "name": "Master of Environmental Engineering",
+    "degree": "MEnvEng",
+    "department": "Melbourne School of Engineering",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_spatial_eng",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "spatial_eng",
+    "name": "Master of Spatial Engineering",
+    "degree": "MSpEng",
+    "department": "Melbourne School of Engineering",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_data_science",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "data_science",
+    "name": "Master of Data Science",
+    "degree": "MDatSc",
+    "department": "Faculty of Science",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_computer_science",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "computer_science",
+    "name": "Master of Computer Science",
+    "degree": "MCompSc",
+    "department": "Faculty of Science",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_information_technology",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "information_technology",
+    "name": "Master of Information Technology",
+    "degree": "MIT",
+    "department": "Faculty of Engineering",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_architecture",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "Master of Architecture",
+    "degree": "MArch",
+    "department": "Faculty of Architecture, Building and Planning",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_urban_planning",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "urban_planning",
+    "name": "Master of Urban Planning",
+    "degree": "MUP",
+    "department": "Faculty of Architecture, Building and Planning",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_urban_design",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "urban_design",
+    "name": "Master of Urban Design",
+    "degree": "MUrbDes",
+    "department": "Faculty of Architecture, Building and Planning",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_landscape_arch",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "landscape_arch",
+    "name": "Master of Landscape Architecture",
+    "degree": "MLA",
+    "department": "Faculty of Architecture, Building and Planning",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_property",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "property",
+    "name": "Master of Property",
+    "degree": "MProp",
+    "department": "Faculty of Architecture, Building and Planning",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_construction_mgmt",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "construction_mgmt",
+    "name": "Master of Construction Management",
+    "degree": "MCM",
+    "department": "Faculty of Architecture, Building and Planning",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_law",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "Juris Doctor",
+    "degree": "JD",
+    "department": "Melbourne Law School",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_llm",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "llm",
+    "name": "Master of Laws",
+    "degree": "LLM",
+    "department": "Melbourne Law School",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_education",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "Master of Education",
+    "degree": "MEd",
+    "department": "Melbourne Graduate School of Education",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_melbourne_main_teaching",
+    "university_id": "u_university_of_melbourne",
+    "campus_id": "main",
+    "normalized_program_code": "teaching",
+    "name": "Master of Teaching",
+    "degree": "MT",
+    "department": "Melbourne Graduate School of Education",
+    "official_url": "https://www.unimelb.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ea6355a5621d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ea6355a5621d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ea6355a5621d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

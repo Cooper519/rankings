@@ -1,0 +1,1262 @@
+[
+  {
+    "project_id": "u_hokkaido_university_main_comp_sci",
+    "university_id": "u_hokkaido_university",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "Graduate School of Information Science and Technology",
+    "official_url": "https://www.hokudai.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3e7ccc4f72fe",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3e7ccc4f72fe",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hokkaido_university_main_ee",
+    "university_id": "u_hokkaido_university",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MSc Electrical Engineering",
+    "degree": "MSc",
+    "department": "Graduate School of Engineering",
+    "official_url": "https://www.hokudai.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3e7ccc4f72fe",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3e7ccc4f72fe",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hokkaido_university_main_mech_eng",
+    "university_id": "u_hokkaido_university",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MSc Mechanical Engineering",
+    "degree": "MSc",
+    "department": "Graduate School of Engineering",
+    "official_url": "https://www.hokudai.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3e7ccc4f72fe",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3e7ccc4f72fe",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hokkaido_university_main_civil_eng",
+    "university_id": "u_hokkaido_university",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MSc Civil Engineering",
+    "degree": "MSc",
+    "department": "Graduate School of Engineering",
+    "official_url": "https://www.hokudai.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3e7ccc4f72fe",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3e7ccc4f72fe",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hokkaido_university_main_chemical_eng",
+    "university_id": "u_hokkaido_university",
+    "campus_id": "main",
+    "normalized_program_code": "chemical_eng",
+    "name": "MSc Chemical Engineering",
+    "degree": "MSc",
+    "department": "Graduate School of Engineering",
+    "official_url": "https://www.hokudai.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3e7ccc4f72fe",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3e7ccc4f72fe",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hokkaido_university_main_materials_eng",
+    "university_id": "u_hokkaido_university",
+    "campus_id": "main",
+    "normalized_program_code": "materials_eng",
+    "name": "MSc Materials Science",
+    "degree": "MSc",
+    "department": "Graduate School of Engineering",
+    "official_url": "https://www.hokudai.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3e7ccc4f72fe",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3e7ccc4f72fe",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hokkaido_university_main_physics",
+    "university_id": "u_hokkaido_university",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MSc Physics",
+    "degree": "MSc",
+    "department": "Graduate School of Science",
+    "official_url": "https://www.hokudai.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3e7ccc4f72fe",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3e7ccc4f72fe",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hokkaido_university_main_chemistry",
+    "university_id": "u_hokkaido_university",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MSc Chemistry",
+    "degree": "MSc",
+    "department": "Graduate School of Science",
+    "official_url": "https://www.hokudai.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3e7ccc4f72fe",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3e7ccc4f72fe",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hokkaido_university_main_biology",
+    "university_id": "u_hokkaido_university",
+    "campus_id": "main",
+    "normalized_program_code": "biology",
+    "name": "MSc Biology",
+    "degree": "MSc",
+    "department": "Graduate School of Science",
+    "official_url": "https://www.hokudai.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3e7ccc4f72fe",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3e7ccc4f72fe",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hokkaido_university_main_mathematics",
+    "university_id": "u_hokkaido_university",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics",
+    "name": "MSc Mathematics",
+    "degree": "MSc",
+    "department": "Graduate School of Science",
+    "official_url": "https://www.hokudai.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3e7ccc4f72fe",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3e7ccc4f72fe",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hokkaido_university_main_medicine",
+    "university_id": "u_hokkaido_university",
+    "campus_id": "main",
+    "normalized_program_code": "medicine",
+    "name": "MSc Medicine",
+    "degree": "MSc",
+    "department": "Graduate School of Medicine",
+    "official_url": "https://www.hokudai.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3e7ccc4f72fe",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3e7ccc4f72fe",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hokkaido_university_main_dentistry",
+    "university_id": "u_hokkaido_university",
+    "campus_id": "main",
+    "normalized_program_code": "dentistry",
+    "name": "MSc Dentistry",
+    "degree": "MSc",
+    "department": "Graduate School of Dental Medicine",
+    "official_url": "https://www.hokudai.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3e7ccc4f72fe",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3e7ccc4f72fe",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hokkaido_university_main_pharmacy",
+    "university_id": "u_hokkaido_university",
+    "campus_id": "main",
+    "normalized_program_code": "pharmacy",
+    "name": "MSc Pharmacy",
+    "degree": "MSc",
+    "department": "Graduate School of Life Science",
+    "official_url": "https://www.hokudai.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3e7ccc4f72fe",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3e7ccc4f72fe",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hokkaido_university_main_veterinary",
+    "university_id": "u_hokkaido_university",
+    "campus_id": "main",
+    "normalized_program_code": "veterinary",
+    "name": "MSc Veterinary Medicine",
+    "degree": "MSc",
+    "department": "Graduate School of Veterinary Medicine",
+    "official_url": "https://www.hokudai.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3e7ccc4f72fe",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3e7ccc4f72fe",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hokkaido_university_main_law",
+    "university_id": "u_hokkaido_university",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "LLM Law",
+    "degree": "LLM",
+    "department": "Graduate School of Law",
+    "official_url": "https://www.hokudai.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3e7ccc4f72fe",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3e7ccc4f72fe",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hokkaido_university_main_economics",
+    "university_id": "u_hokkaido_university",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MSc Economics",
+    "degree": "MSc",
+    "department": "Graduate School of Economics",
+    "official_url": "https://www.hokudai.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3e7ccc4f72fe",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3e7ccc4f72fe",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hokkaido_university_main_education",
+    "university_id": "u_hokkaido_university",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MSc Education",
+    "degree": "MSc",
+    "department": "Graduate School of Education",
+    "official_url": "https://www.hokudai.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3e7ccc4f72fe",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3e7ccc4f72fe",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hokkaido_university_main_fisheries",
+    "university_id": "u_hokkaido_university",
+    "campus_id": "main",
+    "normalized_program_code": "fisheries",
+    "name": "MSc Fisheries Science",
+    "degree": "MSc",
+    "department": "Faculty of Fisheries Sciences",
+    "official_url": "https://www.hokudai.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3e7ccc4f72fe",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3e7ccc4f72fe",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hokkaido_university_main_agriculture",
+    "university_id": "u_hokkaido_university",
+    "campus_id": "main",
+    "normalized_program_code": "agriculture",
+    "name": "MSc Agriculture",
+    "degree": "MSc",
+    "department": "Graduate School of Agriculture",
+    "official_url": "https://www.hokudai.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3e7ccc4f72fe",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3e7ccc4f72fe",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hokkaido_university_main_environmental_sci",
+    "university_id": "u_hokkaido_university",
+    "campus_id": "main",
+    "normalized_program_code": "environmental_sci",
+    "name": "MSc Environmental Science",
+    "degree": "MSc",
+    "department": "Graduate School of Environmental Science",
+    "official_url": "https://www.hokudai.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3e7ccc4f72fe",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3e7ccc4f72fe",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3e7ccc4f72fe",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

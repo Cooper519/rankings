@@ -1,0 +1,1829 @@
+[
+  {
+    "project_id": "u_university_of_auckland_main_comp_sci",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "Department of Computer Science",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_data_science",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "data_science",
+    "name": "MSc Data Science",
+    "degree": "MSc",
+    "department": "Department of Computer Science",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_ee",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MSc Electrical Engineering",
+    "degree": "MSc",
+    "department": "Department of Electrical and Computer Engineering",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_mech_eng",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MSc Mechanical Engineering",
+    "degree": "MSc",
+    "department": "Department of Mechanical Engineering",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_civil_eng",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MSc Civil Engineering",
+    "degree": "MSc",
+    "department": "Department of Civil and Environmental Engineering",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_chemical_eng",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "chemical_eng",
+    "name": "MSc Chemical Engineering",
+    "degree": "MSc",
+    "department": "Department of Chemical Engineering",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_biomedical_eng",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "biomedical_eng",
+    "name": "MSc Biomedical Engineering",
+    "degree": "MSc",
+    "department": "Department of Biomedical Engineering",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_materials_eng",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "materials_eng",
+    "name": "MSc Materials Science",
+    "degree": "MSc",
+    "department": "Department of Chemical and Process Engineering",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_physics",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MSc Physics",
+    "degree": "MSc",
+    "department": "Department of Physics",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_chemistry",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MSc Chemistry",
+    "degree": "MSc",
+    "department": "Department of Chemistry",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_biology",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "biology",
+    "name": "MSc Biology",
+    "degree": "MSc",
+    "department": "School of Biological Sciences",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_mathematics",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics",
+    "name": "MSc Mathematics",
+    "degree": "MSc",
+    "department": "Department of Mathematics",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_statistics",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "statistics",
+    "name": "MSc Statistics",
+    "degree": "MSc",
+    "department": "Department of Statistics",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_psychology",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "MSc Psychology",
+    "degree": "MSc",
+    "department": "Department of Psychology",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_economics",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MSc Economics",
+    "degree": "MSc",
+    "department": "Department of Economics",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_business",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MBA",
+    "degree": "MBA",
+    "department": "Auckland Business School",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_finance",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "MSc Finance",
+    "degree": "MSc",
+    "department": "Auckland Business School",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_accounting",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "accounting",
+    "name": "MCom Accounting",
+    "degree": "MCom",
+    "department": "Auckland Business School",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_marketing",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "marketing",
+    "name": "MSc Marketing",
+    "degree": "MSc",
+    "department": "Auckland Business School",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_management",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "management",
+    "name": "MSc Management",
+    "degree": "MSc",
+    "department": "Auckland Business School",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_law",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "LLM Law",
+    "degree": "LLM",
+    "department": "Auckland Law School",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_education",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MEd Education",
+    "degree": "MEd",
+    "department": "School of Education",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_nursing",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "nursing",
+    "name": "MNurs Nursing",
+    "degree": "MNurs",
+    "department": "School of Nursing",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_public_health",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "public_health",
+    "name": "MPH Public Health",
+    "degree": "MPH",
+    "department": "School of Public Health",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_medicine",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "medicine",
+    "name": "MSc Medicine",
+    "degree": "MSc",
+    "department": "Faculty of Medical and Health Sciences",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_pharmacy",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "pharmacy",
+    "name": "MPharm Pharmacy",
+    "degree": "MPharm",
+    "department": "Faculty of Medical and Health Sciences",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_architecture",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "MArch Architecture",
+    "degree": "MArch",
+    "department": "School of Architecture",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_music",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "music",
+    "name": "MMus Music",
+    "degree": "MMus",
+    "department": "School of Music",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_university_of_auckland_main_fine_arts",
+    "university_id": "u_university_of_auckland",
+    "campus_id": "main",
+    "normalized_program_code": "fine_arts",
+    "name": "MFA Fine Arts",
+    "degree": "MFA",
+    "department": "Elam School of Fine Arts",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_4db1f74b9517",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_4db1f74b9517",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_4db1f74b9517",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  }
+]

@@ -1,0 +1,1892 @@
+[
+  {
+    "project_id": "u_frankfurt_main_business",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MSc Business Administration",
+    "degree": "MSc",
+    "department": "Economics",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_economics",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MSc Economics",
+    "degree": "MSc",
+    "department": "Economics",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_finance",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "MSc Finance",
+    "degree": "MSc",
+    "department": "Economics",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_law",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "LLM Law",
+    "degree": "LLM",
+    "department": "Law",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_medicine",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "medicine",
+    "name": "MSc Medicine",
+    "degree": "MSc",
+    "department": "Medicine",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_dentistry",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "dentistry",
+    "name": "MSc Dentistry",
+    "degree": "MSc",
+    "department": "Medicine",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_pharmacy",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "pharmacy",
+    "name": "MSc Pharmacy",
+    "degree": "MSc",
+    "department": "Pharmacy",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_psychology",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "MSc Psychology",
+    "degree": "MSc",
+    "department": "Psychology",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_education",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MSc Education",
+    "degree": "MSc",
+    "department": "Education",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_philosophy",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "philosophy",
+    "name": "MA Philosophy",
+    "degree": "MA",
+    "department": "Philosophy",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_history",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "history",
+    "name": "MA History",
+    "degree": "MA",
+    "department": "Philosophy",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_english",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "english",
+    "name": "MA English",
+    "degree": "MA",
+    "department": "Philosophy",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_sociology",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "sociology",
+    "name": "MSc Sociology",
+    "degree": "MSc",
+    "department": "Sociology",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_political_sci",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "political_sci",
+    "name": "MSc Political Science",
+    "degree": "MSc",
+    "department": "Political Science",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_biology",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "biology",
+    "name": "MSc Biology",
+    "degree": "MSc",
+    "department": "Biology",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_chemistry",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MSc Chemistry",
+    "degree": "MSc",
+    "department": "Chemistry",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_physics",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MSc Physics",
+    "degree": "MSc",
+    "department": "Physics",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_mathematics",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics",
+    "name": "MSc Mathematics",
+    "degree": "MSc",
+    "department": "Mathematics",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_computer_science",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "computer_science",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "Computer Science",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_geosciences",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "geosciences",
+    "name": "MSc Geosciences",
+    "degree": "MSc",
+    "department": "Geosciences",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_management",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "management",
+    "name": "MSc Management",
+    "degree": "MSc",
+    "department": "Economics",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_accounting",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "accounting",
+    "name": "MSc Accounting",
+    "degree": "MSc",
+    "department": "Economics",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_international_bus",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "international_bus",
+    "name": "MSc International Business",
+    "degree": "MSc",
+    "department": "Economics",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_sports_sci",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "sports_sci",
+    "name": "MSc Sports Science",
+    "degree": "MSc",
+    "department": "Medicine",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_neuroscience",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "neuroscience",
+    "name": "MSc Neuroscience",
+    "degree": "MSc",
+    "department": "Medicine",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_ethics",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "ethics",
+    "name": "MA Ethics",
+    "degree": "MA",
+    "department": "Philosophy",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_molecular_bio",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "molecular_bio",
+    "name": "MSc Molecular Biology",
+    "degree": "MSc",
+    "department": "Biology",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_bioinformatics",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "bioinformatics",
+    "name": "MSc Bioinformatics",
+    "degree": "MSc",
+    "department": "Biology",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_computational_sci",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "computational_sci",
+    "name": "MSc Computational Sciences",
+    "degree": "MSc",
+    "department": "Mathematics",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_frankfurt_main_geography",
+    "university_id": "u_frankfurt",
+    "campus_id": "main",
+    "normalized_program_code": "geography",
+    "name": "MSc Geography",
+    "degree": "MSc",
+    "department": "Geosciences",
+    "official_url": "https://www.uni-frankfurt.de/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0453210bccd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0453210bccd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0453210bccd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

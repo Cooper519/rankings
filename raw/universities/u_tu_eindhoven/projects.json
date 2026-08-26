@@ -1,0 +1,1892 @@
+[
+  {
+    "project_id": "u_tu_eindhoven_main_comp_sci",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MSc Computer Science and Engineering",
+    "degree": "MSc",
+    "department": "Mathematics and Computer Science",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_data_sci",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "data_sci",
+    "name": "MSc Data Science and Entrepreneurship",
+    "degree": "MSc",
+    "department": "Mathematics and Computer Science",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_ee",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MSc Electrical Engineering",
+    "degree": "MSc",
+    "department": "Electrical Engineering",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_mech_eng",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MSc Mechanical Engineering",
+    "degree": "MSc",
+    "department": "Mechanical Engineering",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_civil",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "civil",
+    "name": "MSc Sustainable Urban Development and Design",
+    "degree": "MSc",
+    "department": "Built Environment",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_chemical",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "chemical",
+    "name": "MSc Chemical Engineering and Chemistry",
+    "degree": "MSc",
+    "department": "Chemical Engineering",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_biomedical",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "biomedical",
+    "name": "MSc Biomedical Engineering",
+    "degree": "MSc",
+    "department": "Biomedical Engineering",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_materials",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "materials",
+    "name": "MSc Materials Science and Engineering",
+    "degree": "MSc",
+    "department": "Materials",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_physics",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MSc Applied Physics",
+    "degree": "MSc",
+    "department": "Applied Physics",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_math",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "math",
+    "name": "MSc Mathematics and Computer Science",
+    "degree": "MSc",
+    "department": "Mathematics and Computer Science",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_industrial",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "industrial",
+    "name": "MSc Industrial Design",
+    "degree": "MSc",
+    "department": "Industrial Design",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_innovation",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "innovation",
+    "name": "MSc Innovation Management",
+    "degree": "MSc",
+    "department": "Industrial Engineering",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_complex",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "complex",
+    "name": "MSc Complex Systems Engineering and Management",
+    "degree": "MSc",
+    "department": "Industrial Engineering",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_architecture",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "MSc Architecture, Urbanism and Building Sciences",
+    "degree": "MSc",
+    "department": "Built Environment",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_sustainable_energy",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "sustainable_energy",
+    "name": "MSc Sustainable Energy Technology",
+    "degree": "MSc",
+    "department": "Mechanical Engineering",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_systems_control",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "systems_control",
+    "name": "MSc Systems and Control",
+    "degree": "MSc",
+    "department": "Mechanical Engineering",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_embedded",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "embedded",
+    "name": "MSc Embedded Systems",
+    "degree": "MSc",
+    "department": "Electrical Engineering",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_automotive",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "automotive",
+    "name": "MSc Automotive Technology",
+    "degree": "MSc",
+    "department": "Mechanical Engineering",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_data_science2",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "data_science2",
+    "name": "MSc Data Science and Business Analytics",
+    "degree": "MSc",
+    "department": "Industrial Engineering",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_clinical_engineering",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "clinical_engineering",
+    "name": "MSc Clinical Engineering",
+    "degree": "MSc",
+    "department": "Biomedical Engineering",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_health_data",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "health_data",
+    "name": "MSc Health Data Science",
+    "degree": "MSc",
+    "department": "Mathematics",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_ai",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "ai",
+    "name": "MSc Artificial Intelligence",
+    "degree": "MSc",
+    "department": "Mathematics and Computer Science",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_cyber",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "cyber",
+    "name": "MSc Cyber Security",
+    "degree": "MSc",
+    "department": "Mathematics and Computer Science",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_software",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "software",
+    "name": "MSc Software Technology",
+    "degree": "MSc",
+    "department": "Mathematics and Computer Science",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_smart_systems",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "smart_systems",
+    "name": "MSc Smart Systems and Microsystem Integration",
+    "degree": "MSc",
+    "department": "Mechanical Engineering",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_nanoscience",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "nanoscience",
+    "name": "MSc Nanoscience",
+    "degree": "MSc",
+    "department": "Applied Physics",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_digital_design",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "digital_design",
+    "name": "MSc Digital Design",
+    "degree": "MSc",
+    "department": "Industrial Design",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_energy",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "energy",
+    "name": "MSc Sustainable Energy Technology",
+    "degree": "MSc",
+    "department": "Mechanical Engineering",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_service_design",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "service_design",
+    "name": "MSc Service Design and Engineering",
+    "degree": "MSc",
+    "department": "Industrial Engineering",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_eindhoven_main_urban_planning",
+    "university_id": "u_tu_eindhoven",
+    "campus_id": "main",
+    "normalized_program_code": "urban_planning",
+    "name": "MSc Sustainable Urban Development and Design",
+    "degree": "MSc",
+    "department": "Built Environment",
+    "official_url": "https://www.tue.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_682d156ac99f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_682d156ac99f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_682d156ac99f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

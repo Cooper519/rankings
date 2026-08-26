@@ -1,0 +1,947 @@
+[
+  {
+    "project_id": "u_king_saud_university_main_engineering",
+    "university_id": "u_king_saud_university",
+    "campus_id": "main",
+    "normalized_program_code": "engineering",
+    "name": "MSc Engineering",
+    "degree": "MSc",
+    "department": "College of Engineering",
+    "official_url": "https://ksu.edu.sa/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_99e6c4eb4b93",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_99e6c4eb4b93",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_king_saud_university_main_computer_science",
+    "university_id": "u_king_saud_university",
+    "campus_id": "main",
+    "normalized_program_code": "computer_science",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "College of Computer and Information Sciences",
+    "official_url": "https://ksu.edu.sa/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_99e6c4eb4b93",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_99e6c4eb4b93",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_king_saud_university_main_science",
+    "university_id": "u_king_saud_university",
+    "campus_id": "main",
+    "normalized_program_code": "science",
+    "name": "MSc Science",
+    "degree": "MSc",
+    "department": "College of Science",
+    "official_url": "https://ksu.edu.sa/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_99e6c4eb4b93",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_99e6c4eb4b93",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_king_saud_university_main_medicine",
+    "university_id": "u_king_saud_university",
+    "campus_id": "main",
+    "normalized_program_code": "medicine",
+    "name": "MSc Medicine",
+    "degree": "MSc",
+    "department": "College of Medicine",
+    "official_url": "https://ksu.edu.sa/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_99e6c4eb4b93",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_99e6c4eb4b93",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_king_saud_university_main_dentistry",
+    "university_id": "u_king_saud_university",
+    "campus_id": "main",
+    "normalized_program_code": "dentistry",
+    "name": "MSc Dentistry",
+    "degree": "MSc",
+    "department": "College of Dentistry",
+    "official_url": "https://ksu.edu.sa/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_99e6c4eb4b93",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_99e6c4eb4b93",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_king_saud_university_main_pharmacy",
+    "university_id": "u_king_saud_university",
+    "campus_id": "main",
+    "normalized_program_code": "pharmacy",
+    "name": "MSc Pharmacy",
+    "degree": "MSc",
+    "department": "College of Pharmacy",
+    "official_url": "https://ksu.edu.sa/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_99e6c4eb4b93",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_99e6c4eb4b93",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_king_saud_university_main_nursing",
+    "university_id": "u_king_saud_university",
+    "campus_id": "main",
+    "normalized_program_code": "nursing",
+    "name": "MSc Nursing",
+    "degree": "MSc",
+    "department": "College of Nursing",
+    "official_url": "https://ksu.edu.sa/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_99e6c4eb4b93",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_99e6c4eb4b93",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_king_saud_university_main_business",
+    "university_id": "u_king_saud_university",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MBA",
+    "degree": "MBA",
+    "department": "College of Business Administration",
+    "official_url": "https://ksu.edu.sa/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_99e6c4eb4b93",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_99e6c4eb4b93",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_king_saud_university_main_economics",
+    "university_id": "u_king_saud_university",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MSc Economics",
+    "degree": "MSc",
+    "department": "College of Business Administration",
+    "official_url": "https://ksu.edu.sa/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_99e6c4eb4b93",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_99e6c4eb4b93",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_king_saud_university_main_law",
+    "university_id": "u_king_saud_university",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "LLM Law",
+    "degree": "LLM",
+    "department": "College of Law",
+    "official_url": "https://ksu.edu.sa/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_99e6c4eb4b93",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_99e6c4eb4b93",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_king_saud_university_main_education",
+    "university_id": "u_king_saud_university",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MEd Education",
+    "degree": "MEd",
+    "department": "College of Education",
+    "official_url": "https://ksu.edu.sa/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_99e6c4eb4b93",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_99e6c4eb4b93",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_king_saud_university_main_arts",
+    "university_id": "u_king_saud_university",
+    "campus_id": "main",
+    "normalized_program_code": "arts",
+    "name": "MA Arts",
+    "degree": "MA",
+    "department": "College of Arts",
+    "official_url": "https://ksu.edu.sa/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_99e6c4eb4b93",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_99e6c4eb4b93",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_king_saud_university_main_languages",
+    "university_id": "u_king_saud_university",
+    "campus_id": "main",
+    "normalized_program_code": "languages",
+    "name": "MA Languages",
+    "degree": "MA",
+    "department": "College of Languages",
+    "official_url": "https://ksu.edu.sa/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_99e6c4eb4b93",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_99e6c4eb4b93",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_king_saud_university_main_architecture",
+    "university_id": "u_king_saud_university",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "MSc Architecture",
+    "degree": "MSc",
+    "department": "College of Architecture and Planning",
+    "official_url": "https://ksu.edu.sa/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_99e6c4eb4b93",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_99e6c4eb4b93",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_king_saud_university_main_public_health",
+    "university_id": "u_king_saud_university",
+    "campus_id": "main",
+    "normalized_program_code": "public_health",
+    "name": "MPH Public Health",
+    "degree": "MPH",
+    "department": "College of Public Health",
+    "official_url": "https://ksu.edu.sa/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_99e6c4eb4b93",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_99e6c4eb4b93",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_99e6c4eb4b93",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  }
+]

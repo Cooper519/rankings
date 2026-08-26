@@ -1,0 +1,1892 @@
+[
+  {
+    "project_id": "u_eth_main_comp_sci",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "Computer Science",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_ee",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MSc Electrical Engineering",
+    "degree": "MSc",
+    "department": "Electrical Engineering",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_mech_eng",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MSc Mechanical Engineering",
+    "degree": "MSc",
+    "department": "Mechanical Engineering",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_civil_eng",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MSc Civil Engineering",
+    "degree": "MSc",
+    "department": "Civil Engineering",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_chemical_eng",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "chemical_eng",
+    "name": "MSc Chemical Engineering",
+    "degree": "MSc",
+    "department": "Chemistry",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_materials",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "materials",
+    "name": "MSc Materials Science",
+    "degree": "MSc",
+    "department": "Materials",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_physics",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MSc Physics",
+    "degree": "MSc",
+    "department": "Physics",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_chemistry",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MSc Chemistry",
+    "degree": "MSc",
+    "department": "Chemistry",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_biology",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "biology",
+    "name": "MSc Biology",
+    "degree": "MSc",
+    "department": "Biology",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_mathematics",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics",
+    "name": "MSc Mathematics",
+    "degree": "MSc",
+    "department": "Mathematics",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_architecture",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "MSc Architecture",
+    "degree": "MSc",
+    "department": "Architecture",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_env_eng",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "env_eng",
+    "name": "MSc Environmental Engineering",
+    "degree": "MSc",
+    "department": "Civil Engineering",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_biomedical_eng",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "biomedical_eng",
+    "name": "MSc Biomedical Engineering",
+    "degree": "MSc",
+    "department": "Health Sciences",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_agricultural",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "agricultural",
+    "name": "MSc Agricultural Sciences",
+    "degree": "MSc",
+    "department": "Agricultural Sciences",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_food_sci",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "food_sci",
+    "name": "MSc Food Science",
+    "degree": "MSc",
+    "department": "Health Sciences",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_earth_sci",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "earth_sci",
+    "name": "MSc Earth Sciences",
+    "degree": "MSc",
+    "department": "Earth Sciences",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_env_sci",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "env_sci",
+    "name": "MSc Environmental Sciences",
+    "degree": "MSc",
+    "department": "Environmental Systems",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_energy_sci",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "energy_sci",
+    "name": "MSc Energy Science",
+    "degree": "MSc",
+    "department": "Energy",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_computer_sci2",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "computer_sci2",
+    "name": "MSc Data Science",
+    "degree": "MSc",
+    "department": "Computer Science",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_robotics",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "robotics",
+    "name": "MSc Robotics",
+    "degree": "MSc",
+    "department": "Mechanical Engineering",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_quantum_eng",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "quantum_eng",
+    "name": "MSc Quantum Engineering",
+    "degree": "MSc",
+    "department": "Physics",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_nuclear_eng",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "nuclear_eng",
+    "name": "MSc Nuclear Engineering",
+    "degree": "MSc",
+    "department": "Physics",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_systems_design",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "systems_design",
+    "name": "MSc Systems Design and Management",
+    "degree": "MSc",
+    "department": "Mechanical Engineering",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_management",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "management",
+    "name": "MSc Management, Technology and Economics",
+    "degree": "MSc",
+    "department": "Management",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_quantitative_finance",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "quantitative_finance",
+    "name": "MSc Quantitative Finance",
+    "degree": "MSc",
+    "department": "Mathematics",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_computational_biology",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "computational_biology",
+    "name": "MSc Computational Biology and Bioinformatics",
+    "degree": "MSc",
+    "department": "Biology",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_neuro_x",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "neuro_x",
+    "name": "MSc Neuro-X",
+    "degree": "MSc",
+    "department": "Health Sciences",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_quantum_science",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "quantum_science",
+    "name": "MSc Quantum Science and Engineering",
+    "degree": "MSc",
+    "department": "Physics",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_sustainable_eng",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "sustainable_eng",
+    "name": "MSc Sustainable Engineering and Materials",
+    "degree": "MSc",
+    "department": "Materials",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_eth_main_process_eng",
+    "university_id": "u_eth",
+    "campus_id": "main",
+    "normalized_program_code": "process_eng",
+    "name": "MSc Process Engineering",
+    "degree": "MSc",
+    "department": "Chemistry",
+    "official_url": "https://ethz.ch/en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cde1e0498327",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cde1e0498327",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cde1e0498327",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

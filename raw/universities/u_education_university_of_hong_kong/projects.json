@@ -1,0 +1,758 @@
+[
+  {
+    "project_id": "u_education_university_of_hong_kong_main_education",
+    "university_id": "u_education_university_of_hong_kong",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MEd Education",
+    "degree": "MEd",
+    "department": "Faculty of Education",
+    "official_url": "https://www.eduhk.hk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_96670b78d13b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_96670b78d13b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_education_university_of_hong_kong_main_tesol",
+    "university_id": "u_education_university_of_hong_kong",
+    "campus_id": "main",
+    "normalized_program_code": "tesol",
+    "name": "MA TESOL",
+    "degree": "MA",
+    "department": "Department of English",
+    "official_url": "https://www.eduhk.hk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_96670b78d13b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_96670b78d13b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_education_university_of_hong_kong_main_chinese_ed",
+    "university_id": "u_education_university_of_hong_kong",
+    "campus_id": "main",
+    "normalized_program_code": "chinese_ed",
+    "name": "MA Chinese Education",
+    "degree": "MA",
+    "department": "Department of Chinese Language",
+    "official_url": "https://www.eduhk.hk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_96670b78d13b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_96670b78d13b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_education_university_of_hong_kong_main_math_ed",
+    "university_id": "u_education_university_of_hong_kong",
+    "campus_id": "main",
+    "normalized_program_code": "math_ed",
+    "name": "MSc Mathematics Education",
+    "degree": "MSc",
+    "department": "Department of Mathematics",
+    "official_url": "https://www.eduhk.hk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_96670b78d13b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_96670b78d13b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_education_university_of_hong_kong_main_science_ed",
+    "university_id": "u_education_university_of_hong_kong",
+    "campus_id": "main",
+    "normalized_program_code": "science_ed",
+    "name": "MSc Science Education",
+    "degree": "MSc",
+    "department": "Department of Science",
+    "official_url": "https://www.eduhk.hk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_96670b78d13b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_96670b78d13b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_education_university_of_hong_kong_main_psychology",
+    "university_id": "u_education_university_of_hong_kong",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "MSc Psychology",
+    "degree": "MSc",
+    "department": "Department of Psychology",
+    "official_url": "https://www.eduhk.hk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_96670b78d13b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_96670b78d13b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_education_university_of_hong_kong_main_social_sci",
+    "university_id": "u_education_university_of_hong_kong",
+    "campus_id": "main",
+    "normalized_program_code": "social_sci",
+    "name": "MSSc Social Sciences",
+    "degree": "MSSc",
+    "department": "Department of Social Sciences",
+    "official_url": "https://www.eduhk.hk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_96670b78d13b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_96670b78d13b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_education_university_of_hong_kong_main_linguistics",
+    "university_id": "u_education_university_of_hong_kong",
+    "campus_id": "main",
+    "normalized_program_code": "linguistics",
+    "name": "MA Linguistics",
+    "degree": "MA",
+    "department": "Department of Linguistics",
+    "official_url": "https://www.eduhk.hk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_96670b78d13b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_96670b78d13b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_education_university_of_hong_kong_main_music",
+    "university_id": "u_education_university_of_hong_kong",
+    "campus_id": "main",
+    "normalized_program_code": "music",
+    "name": "MA Music",
+    "degree": "MA",
+    "department": "Department of Cultural and Creative Arts",
+    "official_url": "https://www.eduhk.hk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_96670b78d13b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_96670b78d13b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_education_university_of_hong_kong_main_special_ed",
+    "university_id": "u_education_university_of_hong_kong",
+    "campus_id": "main",
+    "normalized_program_code": "special_ed",
+    "name": "MEd Special Education",
+    "degree": "MEd",
+    "department": "Department of Special Education",
+    "official_url": "https://www.eduhk.hk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_96670b78d13b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_96670b78d13b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_education_university_of_hong_kong_main_early_childhood",
+    "university_id": "u_education_university_of_hong_kong",
+    "campus_id": "main",
+    "normalized_program_code": "early_childhood",
+    "name": "MEd Early Childhood Education",
+    "degree": "MEd",
+    "department": "Department of Early Childhood",
+    "official_url": "https://www.eduhk.hk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_96670b78d13b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_96670b78d13b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_education_university_of_hong_kong_main_educational_psych",
+    "university_id": "u_education_university_of_hong_kong",
+    "campus_id": "main",
+    "normalized_program_code": "educational_psych",
+    "name": "MEd Educational Psychology",
+    "degree": "MEd",
+    "department": "Department of Psychology",
+    "official_url": "https://www.eduhk.hk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_96670b78d13b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_96670b78d13b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_96670b78d13b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

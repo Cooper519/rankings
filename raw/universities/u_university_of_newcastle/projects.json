@@ -1,0 +1,1829 @@
+[
+  {
+    "project_id": "u_university_of_newcastle_main_accounting",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "accounting",
+    "name": "MSc Accounting and Finance",
+    "degree": "MSc",
+    "department": "Newcastle University Business School",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_business",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MBA Business Administration",
+    "degree": "MBA",
+    "department": "Newcastle University Business School",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_finance",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "MSc Finance",
+    "degree": "MSc",
+    "department": "Newcastle University Business School",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_management",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "management",
+    "name": "MSc Management",
+    "degree": "MSc",
+    "department": "Newcastle University Business School",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_marketing",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "marketing",
+    "name": "MSc Marketing",
+    "degree": "MSc",
+    "department": "Newcastle University Business School",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_computer_science",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "computer_science",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "School of Computing",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_data_science",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "data_science",
+    "name": "MSc Data Science",
+    "degree": "MSc",
+    "department": "School of Computing",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_ai",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "ai",
+    "name": "MSc Artificial Intelligence",
+    "degree": "MSc",
+    "department": "School of Computing",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_cyber_security",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "cyber_security",
+    "name": "MSc Cyber Security",
+    "degree": "MSc",
+    "department": "School of Computing",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_ee",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MSc Electrical Engineering",
+    "degree": "MSc",
+    "department": "School of Engineering",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_mech_eng",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MSc Mechanical Engineering",
+    "degree": "MSc",
+    "department": "School of Engineering",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_civil_eng",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MSc Civil Engineering",
+    "degree": "MSc",
+    "department": "School of Engineering",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_architecture",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "MArch Architecture",
+    "degree": "MArch",
+    "department": "School of Architecture and Built Environment",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_physics",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MSc Physics",
+    "degree": "MSc",
+    "department": "School of Physics",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_chemistry",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MSc Chemistry",
+    "degree": "MSc",
+    "department": "School of Chemistry",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_biology",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "biology",
+    "name": "MSc Biology",
+    "degree": "MSc",
+    "department": "School of Biological Sciences",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_mathematics",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics",
+    "name": "MSc Mathematics",
+    "degree": "MSc",
+    "department": "School of Mathematics, Statistics and Physics",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_psychology",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "MSc Psychology",
+    "degree": "MSc",
+    "department": "School of Psychology",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_economics",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MSc Economics",
+    "degree": "MSc",
+    "department": "Newcastle University Business School",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_law",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "LLM Law",
+    "degree": "LLM",
+    "department": "Newcastle Law School",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_education",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MA Education",
+    "degree": "MA",
+    "department": "School of Education, Communication and Language Sciences",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_english",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "english",
+    "name": "MA English",
+    "degree": "MA",
+    "department": "School of English Literature, Language and Linguistics",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_history",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "history",
+    "name": "MA History",
+    "degree": "MA",
+    "department": "School of History, Classics and Archaeology",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_politics",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "politics",
+    "name": "MA Politics",
+    "degree": "MA",
+    "department": "School of Geography, Politics and Sociology",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_sociology",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "sociology",
+    "name": "MA Sociology",
+    "degree": "MA",
+    "department": "School of Geography, Politics and Sociology",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_archaeology",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "archaeology",
+    "name": "MA Archaeology",
+    "degree": "MA",
+    "department": "School of History, Classics and Archaeology",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_urban_planning",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "urban_planning",
+    "name": "MA Urban Planning",
+    "degree": "MA",
+    "department": "School of Architecture and Built Environment",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_agriculture",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "agriculture",
+    "name": "MSc Agriculture",
+    "degree": "MSc",
+    "department": "School of Natural and Environmental Sciences",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_newcastle_main_marine_science",
+    "university_id": "u_university_of_newcastle",
+    "campus_id": "main",
+    "normalized_program_code": "marine_science",
+    "name": "MSc Marine Science",
+    "degree": "MSc",
+    "department": "School of Natural and Environmental Sciences",
+    "official_url": "https://www.ncl.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d4792955ecc1",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d4792955ecc1",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d4792955ecc1",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

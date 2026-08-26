@@ -1,0 +1,1514 @@
+[
+  {
+    "project_id": "u_leiden_university_main_comp_sci",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "Leiden Institute of Advanced Computer Science",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_data_science",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "data_science",
+    "name": "MSc Data Science",
+    "degree": "MSc",
+    "department": "Leiden Institute of Advanced Computer Science",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_physics",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MSc Physics",
+    "degree": "MSc",
+    "department": "Institute of Physics",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_chemistry",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MSc Chemistry",
+    "degree": "MSc",
+    "department": "Institute of Chemistry",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_biology",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "biology",
+    "name": "MSc Biology",
+    "degree": "MSc",
+    "department": "Institute of Biology",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_mathematics",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics",
+    "name": "MSc Mathematics",
+    "degree": "MSc",
+    "department": "Mathematical Institute",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_statistics",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "statistics",
+    "name": "MSc Statistics",
+    "degree": "MSc",
+    "department": "Mathematical Institute",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_psychology",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "MSc Psychology",
+    "degree": "MSc",
+    "department": "Institute of Psychology",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_economics",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MSc Economics",
+    "degree": "MSc",
+    "department": "Department of Economics",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_business",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MSc Business Administration",
+    "degree": "MSc",
+    "department": "Leiden Law School",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_law",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "LLM Law",
+    "degree": "LLM",
+    "department": "Leiden Law School",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_education",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MSc Education",
+    "degree": "MSc",
+    "department": "ICLON Graduate School of Teaching",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_english",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "english",
+    "name": "MA English",
+    "degree": "MA",
+    "department": "Faculty of Humanities",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_history",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "history",
+    "name": "MA History",
+    "degree": "MA",
+    "department": "Institute for History",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_philosophy",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "philosophy",
+    "name": "MA Philosophy",
+    "degree": "MA",
+    "department": "Institute for Philosophy",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_politics",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "politics",
+    "name": "MSc Political Science",
+    "degree": "MSc",
+    "department": "Institute of Political Science",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_international_rel",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_rel",
+    "name": "MSc International Relations",
+    "degree": "MSc",
+    "department": "Institute of Political Science",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_public_admin",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "public_admin",
+    "name": "MSc Public Administration",
+    "degree": "MSc",
+    "department": "Institute of Public Administration",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_archaeology",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "archaeology",
+    "name": "MA Archaeology",
+    "degree": "MA",
+    "department": "Faculty of Archaeology",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_linguistics",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "linguistics",
+    "name": "MA Linguistics",
+    "degree": "MA",
+    "department": "Leiden University Centre for Linguistics",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_arts_culture",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "arts_culture",
+    "name": "MA Arts and Culture",
+    "degree": "MA",
+    "department": "Faculty of Humanities",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_area_studies",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "area_studies",
+    "name": "MA Asian Studies",
+    "degree": "MA",
+    "department": "Leiden Institute for Area Studies",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_security_studies",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "security_studies",
+    "name": "MSc Security Studies",
+    "degree": "MSc",
+    "department": "Institute of Security and Global Affairs",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_leiden_university_main_medicine",
+    "university_id": "u_leiden_university",
+    "campus_id": "main",
+    "normalized_program_code": "medicine",
+    "name": "MSc Medicine",
+    "degree": "MSc",
+    "department": "Leiden University Medical Center",
+    "official_url": "https://www.universiteitleiden.nl/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_7232cf884125",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_7232cf884125",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_7232cf884125",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

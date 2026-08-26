@@ -1,0 +1,1136 @@
+[
+  {
+    "project_id": "u_university_of_oulu_main_info_tech",
+    "university_id": "u_university_of_oulu",
+    "campus_id": "main",
+    "normalized_program_code": "info_tech",
+    "name": "MSc Information Technology",
+    "degree": "MSc",
+    "department": "Faculty of Information Technology and Electrical Engineering",
+    "official_url": "https://www.oulu.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8070999eac75",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8070999eac75",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_oulu_main_ee",
+    "university_id": "u_university_of_oulu",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MSc Electrical Engineering",
+    "degree": "MSc",
+    "department": "Faculty of Information Technology and Electrical Engineering",
+    "official_url": "https://www.oulu.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8070999eac75",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8070999eac75",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_oulu_main_mecheng",
+    "university_id": "u_university_of_oulu",
+    "campus_id": "main",
+    "normalized_program_code": "mecheng",
+    "name": "MSc Mechanical Engineering",
+    "degree": "MSc",
+    "department": "Faculty of Technology",
+    "official_url": "https://www.oulu.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8070999eac75",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8070999eac75",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_oulu_main_civil_eng",
+    "university_id": "u_university_of_oulu",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MSc Civil Engineering",
+    "degree": "MSc",
+    "department": "Faculty of Technology",
+    "official_url": "https://www.oulu.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8070999eac75",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8070999eac75",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_oulu_main_architecture",
+    "university_id": "u_university_of_oulu",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "MSc Architecture",
+    "degree": "MSc",
+    "department": "Faculty of Technology",
+    "official_url": "https://www.oulu.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8070999eac75",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8070999eac75",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_oulu_main_biology",
+    "university_id": "u_university_of_oulu",
+    "campus_id": "main",
+    "normalized_program_code": "biology",
+    "name": "MSc Biology",
+    "degree": "MSc",
+    "department": "Faculty of Science",
+    "official_url": "https://www.oulu.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8070999eac75",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8070999eac75",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_oulu_main_chemistry",
+    "university_id": "u_university_of_oulu",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MSc Chemistry",
+    "degree": "MSc",
+    "department": "Faculty of Science",
+    "official_url": "https://www.oulu.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8070999eac75",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8070999eac75",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_oulu_main_physics",
+    "university_id": "u_university_of_oulu",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MSc Physics",
+    "degree": "MSc",
+    "department": "Faculty of Science",
+    "official_url": "https://www.oulu.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8070999eac75",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8070999eac75",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_oulu_main_geography",
+    "university_id": "u_university_of_oulu",
+    "campus_id": "main",
+    "normalized_program_code": "geography",
+    "name": "MSc Geography",
+    "degree": "MSc",
+    "department": "Faculty of Science",
+    "official_url": "https://www.oulu.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8070999eac75",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8070999eac75",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_oulu_main_medicine",
+    "university_id": "u_university_of_oulu",
+    "campus_id": "main",
+    "normalized_program_code": "medicine",
+    "name": "MSc Medicine",
+    "degree": "MSc",
+    "department": "Faculty of Medicine",
+    "official_url": "https://www.oulu.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8070999eac75",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8070999eac75",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_oulu_main_dentistry",
+    "university_id": "u_university_of_oulu",
+    "campus_id": "main",
+    "normalized_program_code": "dentistry",
+    "name": "MSc Dentistry",
+    "degree": "MSc",
+    "department": "Faculty of Medicine",
+    "official_url": "https://www.oulu.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8070999eac75",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8070999eac75",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_oulu_main_education",
+    "university_id": "u_university_of_oulu",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MEd Education",
+    "degree": "MEd",
+    "department": "Faculty of Education",
+    "official_url": "https://www.oulu.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8070999eac75",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8070999eac75",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_oulu_main_economics",
+    "university_id": "u_university_of_oulu",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MSc Economics",
+    "degree": "MSc",
+    "department": "Oulu Business School",
+    "official_url": "https://www.oulu.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8070999eac75",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8070999eac75",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_oulu_main_accounting",
+    "university_id": "u_university_of_oulu",
+    "campus_id": "main",
+    "normalized_program_code": "accounting",
+    "name": "MSc Accounting",
+    "degree": "MSc",
+    "department": "Oulu Business School",
+    "official_url": "https://www.oulu.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8070999eac75",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8070999eac75",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_oulu_main_marketing",
+    "university_id": "u_university_of_oulu",
+    "campus_id": "main",
+    "normalized_program_code": "marketing",
+    "name": "MSc Marketing",
+    "degree": "MSc",
+    "department": "Oulu Business School",
+    "official_url": "https://www.oulu.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8070999eac75",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8070999eac75",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_oulu_main_english",
+    "university_id": "u_university_of_oulu",
+    "campus_id": "main",
+    "normalized_program_code": "english",
+    "name": "MA English",
+    "degree": "MA",
+    "department": "Faculty of Humanities",
+    "official_url": "https://www.oulu.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8070999eac75",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8070999eac75",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_oulu_main_history",
+    "university_id": "u_university_of_oulu",
+    "campus_id": "main",
+    "normalized_program_code": "history",
+    "name": "MA History",
+    "degree": "MA",
+    "department": "Faculty of Humanities",
+    "official_url": "https://www.oulu.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8070999eac75",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8070999eac75",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_oulu_main_cultural_anth",
+    "university_id": "u_university_of_oulu",
+    "campus_id": "main",
+    "normalized_program_code": "cultural_anth",
+    "name": "MA Cultural Anthropology",
+    "degree": "MA",
+    "department": "Faculty of Humanities",
+    "official_url": "https://www.oulu.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8070999eac75",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8070999eac75",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8070999eac75",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

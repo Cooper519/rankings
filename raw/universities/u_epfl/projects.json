@@ -1,0 +1,1829 @@
+[
+  {
+    "project_id": "u_epfl_main_architecture",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "MSc Architecture",
+    "degree": "MSc",
+    "department": "Architecture",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_civil_eng",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MSc Civil Engineering",
+    "degree": "MSc",
+    "department": "Civil Engineering",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_env_sci",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "env_sci",
+    "name": "MSc Environmental Sciences and Engineering",
+    "degree": "MSc",
+    "department": "Civil Engineering",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_urban",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "urban",
+    "name": "MSc Urban Systems",
+    "degree": "MSc",
+    "department": "Civil Engineering",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_ee",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MSc Electrical and Electronic Engineering",
+    "degree": "MSc",
+    "department": "Engineering",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_mech_eng",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MSc Mechanical Engineering",
+    "degree": "MSc",
+    "department": "Engineering",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_microeng",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "microeng",
+    "name": "MSc Microengineering",
+    "degree": "MSc",
+    "department": "Engineering",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_robotics",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "robotics",
+    "name": "MSc Robotics",
+    "degree": "MSc",
+    "department": "Engineering",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_materials",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "materials",
+    "name": "MSc Materials Science and Engineering",
+    "degree": "MSc",
+    "department": "Engineering",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_energy",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "energy",
+    "name": "MSc Energy Science and Technology",
+    "degree": "MSc",
+    "department": "Engineering",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_comp_sci",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "Computer Science",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_cyber",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "cyber",
+    "name": "MSc Cyber Security",
+    "degree": "MSc",
+    "department": "Computer Science",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_data_sci",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "data_sci",
+    "name": "MSc Data Science",
+    "degree": "MSc",
+    "department": "Computer Science",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_mol_chem",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "mol_chem",
+    "name": "MSc Molecular and Biological Chemistry",
+    "degree": "MSc",
+    "department": "Basic Sciences",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_chem_eng",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "chem_eng",
+    "name": "MSc Chemical Engineering and Biotechnology",
+    "degree": "MSc",
+    "department": "Basic Sciences",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_mathematics",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics",
+    "name": "MSc Mathematics",
+    "degree": "MSc",
+    "department": "Basic Sciences",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_applied_math",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "applied_math",
+    "name": "MSc Applied Mathematics",
+    "degree": "MSc",
+    "department": "Basic Sciences",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_statistics",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "statistics",
+    "name": "MSc Statistics",
+    "degree": "MSc",
+    "department": "Basic Sciences",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_comp_sci2",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci2",
+    "name": "MSc Computational Science and Engineering",
+    "degree": "MSc",
+    "department": "Basic Sciences",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_physics",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MSc Physics",
+    "degree": "MSc",
+    "department": "Basic Sciences",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_applied_physics",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "applied_physics",
+    "name": "MSc Applied Physics",
+    "degree": "MSc",
+    "department": "Basic Sciences",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_nuclear",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "nuclear",
+    "name": "MSc Nuclear Engineering",
+    "degree": "MSc",
+    "department": "Basic Sciences",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_life_sci",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "life_sci",
+    "name": "MSc Life Sciences Engineering",
+    "degree": "MSc",
+    "department": "Life Sciences",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_finance",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "MSc Financial Engineering",
+    "degree": "MSc",
+    "department": "Management",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_mgmt_tech",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "mgmt_tech",
+    "name": "MSc Management, Technology and Entrepreneurship",
+    "degree": "MSc",
+    "department": "Management",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_sust_mgmt",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "sust_mgmt",
+    "name": "MSc Sustainable Management and Technology",
+    "degree": "MSc",
+    "department": "Management",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_digital_hum",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "digital_hum",
+    "name": "MSc Digital Humanities",
+    "degree": "MSc",
+    "department": "Humanities",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_neuro_x",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "neuro_x",
+    "name": "MSc Neuro-X",
+    "degree": "MSc",
+    "department": "Cross-School",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_epfl_main_quantum",
+    "university_id": "u_epfl",
+    "campus_id": "main",
+    "normalized_program_code": "quantum",
+    "name": "MSc Quantum Science and Engineering",
+    "degree": "MSc",
+    "department": "Cross-School",
+    "official_url": "https://www.epfl.ch/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_90b2401fa2e5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_90b2401fa2e5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_90b2401fa2e5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

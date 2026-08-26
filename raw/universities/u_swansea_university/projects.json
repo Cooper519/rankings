@@ -1,0 +1,2837 @@
+[
+  {
+    "project_id": "u_swansea_university_main_comp_sci",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "Computer Science",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_advanced_comp_sci",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "advanced_comp_sci",
+    "name": "MSc Advanced Computer Science",
+    "degree": "MSc",
+    "department": "Computer Science",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_data_science",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "data_science",
+    "name": "MSc Data Science",
+    "degree": "MSc",
+    "department": "Computer Science",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_ai_data_science",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "ai_data_science",
+    "name": "MSc Artificial Intelligence and Data Science",
+    "degree": "MSc",
+    "department": "Computer Science",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_cyber_security",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "cyber_security",
+    "name": "MSc Cyber Security",
+    "degree": "MSc",
+    "department": "Computer Science",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_accounting_finance",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "accounting_finance",
+    "name": "MSc Accounting and Finance",
+    "degree": "MSc",
+    "department": "School of Management",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_finance",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "MSc Finance",
+    "degree": "MSc",
+    "department": "School of Management",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_management",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "management",
+    "name": "MSc Management",
+    "degree": "MSc",
+    "department": "School of Management",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_international_business",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_business",
+    "name": "MSc International Business",
+    "degree": "MSc",
+    "department": "School of Management",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_marketing",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "marketing",
+    "name": "MSc Marketing",
+    "degree": "MSc",
+    "department": "School of Management",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_hrm",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "hrm",
+    "name": "MSc Human Resource Management",
+    "degree": "MSc",
+    "department": "School of Management",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_business_analytics",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "business_analytics",
+    "name": "MSc Management (Business Analytics)",
+    "degree": "MSc",
+    "department": "School of Management",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_fintech",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "fintech",
+    "name": "MSc Financial Technology",
+    "degree": "MSc",
+    "department": "School of Management",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_aerospace_eng",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "aerospace_eng",
+    "name": "MSc Aerospace Engineering",
+    "degree": "MSc",
+    "department": "Engineering",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_mechanical_eng",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "mechanical_eng",
+    "name": "MSc Mechanical Engineering",
+    "degree": "MSc",
+    "department": "Engineering",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_civil_eng",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MSc Civil Engineering",
+    "degree": "MSc",
+    "department": "Engineering",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_chemical_eng",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "chemical_eng",
+    "name": "MSc Chemical Engineering",
+    "degree": "MSc",
+    "department": "Engineering",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_materials_eng",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "materials_eng",
+    "name": "MSc Materials Engineering",
+    "degree": "MSc",
+    "department": "Engineering",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_biomedical_eng",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "biomedical_eng",
+    "name": "MSc Biomedical Engineering",
+    "degree": "MSc",
+    "department": "Engineering",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_electrical_eng",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "electrical_eng",
+    "name": "MSc Electronic and Electrical Engineering",
+    "degree": "MSc",
+    "department": "Engineering",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_space_eng",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "space_eng",
+    "name": "MSc Space Engineering",
+    "degree": "MSc",
+    "department": "Engineering",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_fusion_eng",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "fusion_eng",
+    "name": "MSc Fusion Engineering",
+    "degree": "MSc",
+    "department": "Engineering",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_sustainable_eng",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "sustainable_eng",
+    "name": "MSc Sustainable Engineering",
+    "degree": "MSc",
+    "department": "Engineering",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_power_eng",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "power_eng",
+    "name": "MSc Power Engineering and Sustainable Energy",
+    "degree": "MSc",
+    "department": "Engineering",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_economics",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MSc Economics",
+    "degree": "MSc",
+    "department": "School of Management",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_economics_finance",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "economics_finance",
+    "name": "MSc Economics and Finance",
+    "degree": "MSc",
+    "department": "School of Management",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_llm_human_rights",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "llm_human_rights",
+    "name": "LLM Human Rights",
+    "degree": "LLM",
+    "department": "Hilary Rodham Clinton School of Law",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_llm_intl_commercial",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "llm_intl_commercial",
+    "name": "LLM International Commercial Law",
+    "degree": "LLM",
+    "department": "Hilary Rodham Clinton School of Law",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_llm_intl_maritime",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "llm_intl_maritime",
+    "name": "LLM International Maritime Law",
+    "degree": "LLM",
+    "department": "Hilary Rodham Clinton School of Law",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_psychology",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "MSc Psychology (Conversion)",
+    "degree": "MSc",
+    "department": "Psychology",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_clinical_psych",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "clinical_psych",
+    "name": "MSc Clinical Psychology and Mental Health",
+    "degree": "MSc",
+    "department": "Psychology",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_forensic_psych",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "forensic_psych",
+    "name": "MSc Forensic Psychology",
+    "degree": "MSc",
+    "department": "Psychology",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_mathematics",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics",
+    "name": "MSc Mathematics",
+    "degree": "MSc",
+    "department": "Mathematics",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_math_finance",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "math_finance",
+    "name": "MSc Mathematics and Computing for Finance",
+    "degree": "MSc",
+    "department": "Mathematics",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_english_lit",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "english_lit",
+    "name": "MA English Literature",
+    "degree": "MA",
+    "department": "English",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_creative_writing",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "creative_writing",
+    "name": "MA Creative Writing",
+    "degree": "MA",
+    "department": "English",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_history",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "history",
+    "name": "MA History",
+    "degree": "MA",
+    "department": "History",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_intl_relations",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "intl_relations",
+    "name": "MA International Relations",
+    "degree": "MA",
+    "department": "Political and Cultural Studies",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_media_pr",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "media_pr",
+    "name": "MA Communication, Media Practice and Public Relations",
+    "degree": "MA",
+    "department": "Media",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_social_work",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "social_work",
+    "name": "MSc Social Work",
+    "degree": "MSc",
+    "department": "Social Sciences",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_public_health",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "public_health",
+    "name": "MSc Public Health and Health Promotion",
+    "degree": "MSc",
+    "department": "Medicine",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_medical_neuroscience",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "medical_neuroscience",
+    "name": "MSc Medical Neuroscience",
+    "degree": "MSc",
+    "department": "Medicine",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_biomedical_science",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "biomedical_science",
+    "name": "MSc Biomedical Science",
+    "degree": "MSc",
+    "department": "Medicine",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_project_management",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "project_management",
+    "name": "MSc Project Management",
+    "degree": "MSc",
+    "department": "Engineering",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_swansea_university_main_tesol",
+    "university_id": "u_swansea_university",
+    "campus_id": "main",
+    "normalized_program_code": "tesol",
+    "name": "MA Teaching English to Speakers of Other Languages",
+    "degree": "MA",
+    "department": "English",
+    "official_url": "https://www.swansea.ac.uk/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_724c72b022a4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_724c72b022a4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_724c72b022a4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

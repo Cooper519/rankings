@@ -1,0 +1,1262 @@
+[
+  {
+    "project_id": "u_university_of_nebraska_lincoln_main_comp_sci",
+    "university_id": "u_university_of_nebraska_lincoln",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MS Computer Science",
+    "degree": "MS",
+    "department": "Department of Computer Science",
+    "official_url": "https://www.unl.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e2969ff6aa8d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e2969ff6aa8d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_nebraska_lincoln_main_ee",
+    "university_id": "u_university_of_nebraska_lincoln",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MS Electrical Engineering",
+    "degree": "MS",
+    "department": "Department of Electrical Engineering",
+    "official_url": "https://www.unl.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e2969ff6aa8d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e2969ff6aa8d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_nebraska_lincoln_main_mech_eng",
+    "university_id": "u_university_of_nebraska_lincoln",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MS Mechanical Engineering",
+    "degree": "MS",
+    "department": "Department of Mechanical Engineering",
+    "official_url": "https://www.unl.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e2969ff6aa8d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e2969ff6aa8d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_nebraska_lincoln_main_civil_eng",
+    "university_id": "u_university_of_nebraska_lincoln",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MS Civil Engineering",
+    "degree": "MS",
+    "department": "Department of Civil Engineering",
+    "official_url": "https://www.unl.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e2969ff6aa8d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e2969ff6aa8d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_nebraska_lincoln_main_chemical_eng",
+    "university_id": "u_university_of_nebraska_lincoln",
+    "campus_id": "main",
+    "normalized_program_code": "chemical_eng",
+    "name": "MS Chemical Engineering",
+    "degree": "MS",
+    "department": "Department of Chemical Engineering",
+    "official_url": "https://www.unl.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e2969ff6aa8d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e2969ff6aa8d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_nebraska_lincoln_main_physics",
+    "university_id": "u_university_of_nebraska_lincoln",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MS Physics",
+    "degree": "MS",
+    "department": "Department of Physics",
+    "official_url": "https://www.unl.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e2969ff6aa8d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e2969ff6aa8d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_nebraska_lincoln_main_chemistry",
+    "university_id": "u_university_of_nebraska_lincoln",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MS Chemistry",
+    "degree": "MS",
+    "department": "Department of Chemistry",
+    "official_url": "https://www.unl.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e2969ff6aa8d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e2969ff6aa8d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_nebraska_lincoln_main_biology",
+    "university_id": "u_university_of_nebraska_lincoln",
+    "campus_id": "main",
+    "normalized_program_code": "biology",
+    "name": "MS Biology",
+    "degree": "MS",
+    "department": "School of Biological Sciences",
+    "official_url": "https://www.unl.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e2969ff6aa8d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e2969ff6aa8d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_nebraska_lincoln_main_mathematics",
+    "university_id": "u_university_of_nebraska_lincoln",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics",
+    "name": "MS Mathematics",
+    "degree": "MS",
+    "department": "Department of Mathematics",
+    "official_url": "https://www.unl.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e2969ff6aa8d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e2969ff6aa8d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_nebraska_lincoln_main_statistics",
+    "university_id": "u_university_of_nebraska_lincoln",
+    "campus_id": "main",
+    "normalized_program_code": "statistics",
+    "name": "MS Statistics",
+    "degree": "MS",
+    "department": "Department of Statistics",
+    "official_url": "https://www.unl.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e2969ff6aa8d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e2969ff6aa8d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_nebraska_lincoln_main_psychology",
+    "university_id": "u_university_of_nebraska_lincoln",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "MS Psychology",
+    "degree": "MS",
+    "department": "Department of Psychology",
+    "official_url": "https://www.unl.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e2969ff6aa8d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e2969ff6aa8d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_nebraska_lincoln_main_economics",
+    "university_id": "u_university_of_nebraska_lincoln",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MS Economics",
+    "degree": "MS",
+    "department": "Department of Economics",
+    "official_url": "https://www.unl.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e2969ff6aa8d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e2969ff6aa8d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_nebraska_lincoln_main_business",
+    "university_id": "u_university_of_nebraska_lincoln",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MBA",
+    "degree": "MBA",
+    "department": "College of Business",
+    "official_url": "https://www.unl.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e2969ff6aa8d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e2969ff6aa8d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_nebraska_lincoln_main_accounting",
+    "university_id": "u_university_of_nebraska_lincoln",
+    "campus_id": "main",
+    "normalized_program_code": "accounting",
+    "name": "MAcc Accounting",
+    "degree": "MAcc",
+    "department": "College of Business",
+    "official_url": "https://www.unl.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e2969ff6aa8d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e2969ff6aa8d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_nebraska_lincoln_main_law",
+    "university_id": "u_university_of_nebraska_lincoln",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "JD Law",
+    "degree": "JD",
+    "department": "College of Law",
+    "official_url": "https://www.unl.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e2969ff6aa8d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e2969ff6aa8d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_nebraska_lincoln_main_education",
+    "university_id": "u_university_of_nebraska_lincoln",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MEd Education",
+    "degree": "MEd",
+    "department": "College of Education and Human Sciences",
+    "official_url": "https://www.unl.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e2969ff6aa8d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e2969ff6aa8d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_nebraska_lincoln_main_social_work",
+    "university_id": "u_university_of_nebraska_lincoln",
+    "campus_id": "main",
+    "normalized_program_code": "social_work",
+    "name": "MSW Social Work",
+    "degree": "MSW",
+    "department": "College of Education and Human Sciences",
+    "official_url": "https://www.unl.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e2969ff6aa8d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e2969ff6aa8d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_nebraska_lincoln_main_music",
+    "university_id": "u_university_of_nebraska_lincoln",
+    "campus_id": "main",
+    "normalized_program_code": "music",
+    "name": "MM Music",
+    "degree": "MM",
+    "department": "Glenn Korff School of Music",
+    "official_url": "https://www.unl.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e2969ff6aa8d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e2969ff6aa8d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_nebraska_lincoln_main_architecture",
+    "university_id": "u_university_of_nebraska_lincoln",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "MArch Architecture",
+    "degree": "MArch",
+    "department": "College of Architecture",
+    "official_url": "https://www.unl.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e2969ff6aa8d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e2969ff6aa8d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_nebraska_lincoln_main_journalism",
+    "university_id": "u_university_of_nebraska_lincoln",
+    "campus_id": "main",
+    "normalized_program_code": "journalism",
+    "name": "MA Journalism",
+    "degree": "MA",
+    "department": "College of Journalism and Mass Communications",
+    "official_url": "https://www.unl.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e2969ff6aa8d",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e2969ff6aa8d",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e2969ff6aa8d",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

@@ -1,0 +1,1640 @@
+[
+  {
+    "project_id": "u_yonsei_university_main_comp_sci",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "Department of Computer Science",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_ee",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MSc Electrical Engineering",
+    "degree": "MSc",
+    "department": "School of Electrical and Electronic Engineering",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_mech_eng",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MSc Mechanical Engineering",
+    "degree": "MSc",
+    "department": "Department of Mechanical Engineering",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_civil_eng",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MSc Civil Engineering",
+    "degree": "MSc",
+    "department": "Department of Civil and Environmental Engineering",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_chemical_eng",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "chemical_eng",
+    "name": "MSc Chemical Engineering",
+    "degree": "MSc",
+    "department": "Department of Chemical Engineering",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_materials_eng",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "materials_eng",
+    "name": "MSc Materials Science",
+    "degree": "MSc",
+    "department": "Department of Materials Science and Engineering",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_physics",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MSc Physics",
+    "degree": "MSc",
+    "department": "Department of Physics",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_chemistry",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MSc Chemistry",
+    "degree": "MSc",
+    "department": "Department of Chemistry",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_biology",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "biology",
+    "name": "MSc Biology",
+    "degree": "MSc",
+    "department": "Department of Biology",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_mathematics",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics",
+    "name": "MSc Mathematics",
+    "degree": "MSc",
+    "department": "Department of Mathematics",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_statistics",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "statistics",
+    "name": "MSc Statistics",
+    "degree": "MSc",
+    "department": "Department of Statistics",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_psychology",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "MSc Psychology",
+    "degree": "MSc",
+    "department": "Department of Psychology",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_economics",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MSc Economics",
+    "degree": "MSc",
+    "department": "Department of Economics",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_business",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MBA",
+    "degree": "MBA",
+    "department": "Yonsei School of Business",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_finance",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "MSc Finance",
+    "degree": "MSc",
+    "department": "Yonsei School of Business",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_management",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "management",
+    "name": "MSc Management",
+    "degree": "MSc",
+    "department": "Yonsei School of Business",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_marketing",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "marketing",
+    "name": "MSc Marketing",
+    "degree": "MSc",
+    "department": "Yonsei School of Business",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_law",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "LLM Law",
+    "degree": "LLM",
+    "department": "Law School",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_medicine",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "medicine",
+    "name": "MSc Medicine",
+    "degree": "MSc",
+    "department": "College of Medicine",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_dentistry",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "dentistry",
+    "name": "MSc Dentistry",
+    "degree": "MSc",
+    "department": "College of Dentistry",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_nursing",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "nursing",
+    "name": "MSc Nursing",
+    "degree": "MSc",
+    "department": "College of Nursing",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_pharmacy",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "pharmacy",
+    "name": "MSc Pharmacy",
+    "degree": "MSc",
+    "department": "College of Pharmacy",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_public_health",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "public_health",
+    "name": "MPH Public Health",
+    "degree": "MPH",
+    "department": "Graduate School of Public Health",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_international_studies",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_studies",
+    "name": "MA International Studies",
+    "degree": "MA",
+    "department": "Graduate School of International Studies",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_education",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MEd Education",
+    "degree": "MEd",
+    "department": "Graduate School of Education",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_yonsei_university_main_mass_comm",
+    "university_id": "u_yonsei_university",
+    "campus_id": "main",
+    "normalized_program_code": "mass_comm",
+    "name": "MA Mass Communication",
+    "degree": "MA",
+    "department": "Graduate School of Communication",
+    "official_url": "https://www.yonsei.ac.kr/en_sc/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_04e7aa35a53f",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_04e7aa35a53f",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_04e7aa35a53f",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

@@ -1,0 +1,947 @@
+[
+  {
+    "project_id": "u_cairo_university_main_engineering",
+    "university_id": "u_cairo_university",
+    "campus_id": "main",
+    "normalized_program_code": "engineering",
+    "name": "MSc Engineering",
+    "degree": "MSc",
+    "department": "Faculty of Engineering",
+    "official_url": "https://cu.edu.eg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_88572390a1a0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_88572390a1a0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_cairo_university_main_medicine",
+    "university_id": "u_cairo_university",
+    "campus_id": "main",
+    "normalized_program_code": "medicine",
+    "name": "MSc Medicine",
+    "degree": "MSc",
+    "department": "Faculty of Medicine",
+    "official_url": "https://cu.edu.eg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_88572390a1a0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_88572390a1a0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_cairo_university_main_science",
+    "university_id": "u_cairo_university",
+    "campus_id": "main",
+    "normalized_program_code": "science",
+    "name": "MSc Science",
+    "degree": "MSc",
+    "department": "Faculty of Science",
+    "official_url": "https://cu.edu.eg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_88572390a1a0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_88572390a1a0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_cairo_university_main_economics",
+    "university_id": "u_cairo_university",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MSc Economics",
+    "degree": "MSc",
+    "department": "Faculty of Economics",
+    "official_url": "https://cu.edu.eg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_88572390a1a0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_88572390a1a0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_cairo_university_main_law",
+    "university_id": "u_cairo_university",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "LLM Law",
+    "degree": "LLM",
+    "department": "Faculty of Law",
+    "official_url": "https://cu.edu.eg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_88572390a1a0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_88572390a1a0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_cairo_university_main_education",
+    "university_id": "u_cairo_university",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MEd Education",
+    "degree": "MEd",
+    "department": "Faculty of Education",
+    "official_url": "https://cu.edu.eg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_88572390a1a0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_88572390a1a0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_cairo_university_main_pharmacy",
+    "university_id": "u_cairo_university",
+    "campus_id": "main",
+    "normalized_program_code": "pharmacy",
+    "name": "MSc Pharmacy",
+    "degree": "MSc",
+    "department": "Faculty of Pharmacy",
+    "official_url": "https://cu.edu.eg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_88572390a1a0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_88572390a1a0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_cairo_university_main_dentistry",
+    "university_id": "u_cairo_university",
+    "campus_id": "main",
+    "normalized_program_code": "dentistry",
+    "name": "MSc Dentistry",
+    "degree": "MSc",
+    "department": "Faculty of Dentistry",
+    "official_url": "https://cu.edu.eg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_88572390a1a0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_88572390a1a0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_cairo_university_main_computer_science",
+    "university_id": "u_cairo_university",
+    "campus_id": "main",
+    "normalized_program_code": "computer_science",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "Faculty of Computers and Information",
+    "official_url": "https://cu.edu.eg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_88572390a1a0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_88572390a1a0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_cairo_university_main_mass_comm",
+    "university_id": "u_cairo_university",
+    "campus_id": "main",
+    "normalized_program_code": "mass_comm",
+    "name": "MA Mass Communication",
+    "degree": "MA",
+    "department": "Mass Communication Faculty",
+    "official_url": "https://cu.edu.eg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_88572390a1a0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_88572390a1a0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_cairo_university_main_commerce",
+    "university_id": "u_cairo_university",
+    "campus_id": "main",
+    "normalized_program_code": "commerce",
+    "name": "MSc Commerce",
+    "degree": "MSc",
+    "department": "Faculty of Commerce",
+    "official_url": "https://cu.edu.eg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_88572390a1a0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_88572390a1a0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_cairo_university_main_agriculture",
+    "university_id": "u_cairo_university",
+    "campus_id": "main",
+    "normalized_program_code": "agriculture",
+    "name": "MSc Agriculture",
+    "degree": "MSc",
+    "department": "Faculty of Agriculture",
+    "official_url": "https://cu.edu.eg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_88572390a1a0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_88572390a1a0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_cairo_university_main_archaeology",
+    "university_id": "u_cairo_university",
+    "campus_id": "main",
+    "normalized_program_code": "archaeology",
+    "name": "MA Archaeology",
+    "degree": "MA",
+    "department": "Faculty of Archaeology",
+    "official_url": "https://cu.edu.eg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_88572390a1a0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_88572390a1a0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_cairo_university_main_political_sci",
+    "university_id": "u_cairo_university",
+    "campus_id": "main",
+    "normalized_program_code": "political_sci",
+    "name": "MSc Political Science",
+    "degree": "MSc",
+    "department": "Faculty of Political Science",
+    "official_url": "https://cu.edu.eg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_88572390a1a0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_88572390a1a0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_cairo_university_main_veterinary",
+    "university_id": "u_cairo_university",
+    "campus_id": "main",
+    "normalized_program_code": "veterinary",
+    "name": "MSc Veterinary",
+    "degree": "MSc",
+    "department": "Faculty of Veterinary Medicine",
+    "official_url": "https://cu.edu.eg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_88572390a1a0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_88572390a1a0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_88572390a1a0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  }
+]

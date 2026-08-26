@@ -1,0 +1,1199 @@
+[
+  {
+    "project_id": "u_university_of_waterloo_main_comp_sci",
+    "university_id": "u_university_of_waterloo",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MMath Computer Science",
+    "degree": "MMath",
+    "department": "School of Computer Science",
+    "official_url": "https://uwaterloo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f372e116ff30",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f372e116ff30",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_waterloo_main_ee",
+    "university_id": "u_university_of_waterloo",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MEng Electrical Engineering",
+    "degree": "MEng",
+    "department": "Department of Electrical and Computer Engineering",
+    "official_url": "https://uwaterloo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f372e116ff30",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f372e116ff30",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_waterloo_main_mech_eng",
+    "university_id": "u_university_of_waterloo",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MEng Mechanical Engineering",
+    "degree": "MEng",
+    "department": "Department of Mechanical and Mechatronics Engineering",
+    "official_url": "https://uwaterloo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f372e116ff30",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f372e116ff30",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_waterloo_main_civil_eng",
+    "university_id": "u_university_of_waterloo",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MEng Civil Engineering",
+    "degree": "MEng",
+    "department": "Department of Civil and Environmental Engineering",
+    "official_url": "https://uwaterloo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f372e116ff30",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f372e116ff30",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_waterloo_main_chemical_eng",
+    "university_id": "u_university_of_waterloo",
+    "campus_id": "main",
+    "normalized_program_code": "chemical_eng",
+    "name": "MASc Chemical Engineering",
+    "degree": "MASc",
+    "department": "Department of Chemical Engineering",
+    "official_url": "https://uwaterloo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f372e116ff30",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f372e116ff30",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_waterloo_main_materials_eng",
+    "university_id": "u_university_of_waterloo",
+    "campus_id": "main",
+    "normalized_program_code": "materials_eng",
+    "name": "MEng Materials Engineering",
+    "degree": "MEng",
+    "department": "Department of Mechanical and Mechatronics Engineering",
+    "official_url": "https://uwaterloo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f372e116ff30",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f372e116ff30",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_waterloo_main_physics",
+    "university_id": "u_university_of_waterloo",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MSc Physics",
+    "degree": "MSc",
+    "department": "Department of Physics and Astronomy",
+    "official_url": "https://uwaterloo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f372e116ff30",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f372e116ff30",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_waterloo_main_chemistry",
+    "university_id": "u_university_of_waterloo",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MSc Chemistry",
+    "degree": "MSc",
+    "department": "Department of Chemistry",
+    "official_url": "https://uwaterloo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f372e116ff30",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f372e116ff30",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_waterloo_main_biology",
+    "university_id": "u_university_of_waterloo",
+    "campus_id": "main",
+    "normalized_program_code": "biology",
+    "name": "MSc Biology",
+    "degree": "MSc",
+    "department": "Department of Biological Sciences",
+    "official_url": "https://uwaterloo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f372e116ff30",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f372e116ff30",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_waterloo_main_mathematics",
+    "university_id": "u_university_of_waterloo",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics",
+    "name": "MMath Mathematics",
+    "degree": "MMath",
+    "department": "Department of Mathematics",
+    "official_url": "https://uwaterloo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f372e116ff30",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f372e116ff30",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_waterloo_main_statistics",
+    "university_id": "u_university_of_waterloo",
+    "campus_id": "main",
+    "normalized_program_code": "statistics",
+    "name": "MMath Statistics",
+    "degree": "MMath",
+    "department": "Department of Statistics and Actuarial Science",
+    "official_url": "https://uwaterloo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f372e116ff30",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f372e116ff30",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_waterloo_main_psychology",
+    "university_id": "u_university_of_waterloo",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "MA Psychology",
+    "degree": "MA",
+    "department": "Department of Psychology",
+    "official_url": "https://uwaterloo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f372e116ff30",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f372e116ff30",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_waterloo_main_economics",
+    "university_id": "u_university_of_waterloo",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MA Economics",
+    "degree": "MA",
+    "department": "Department of Economics",
+    "official_url": "https://uwaterloo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f372e116ff30",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f372e116ff30",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_waterloo_main_business",
+    "university_id": "u_university_of_waterloo",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MMgt Management",
+    "degree": "MMgt",
+    "department": "School of International Business",
+    "official_url": "https://uwaterloo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f372e116ff30",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f372e116ff30",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_waterloo_main_accounting",
+    "university_id": "u_university_of_waterloo",
+    "campus_id": "main",
+    "normalized_program_code": "accounting",
+    "name": "MMgt Accounting",
+    "degree": "MMgt",
+    "department": "School of International Business",
+    "official_url": "https://uwaterloo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f372e116ff30",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f372e116ff30",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_waterloo_main_finance",
+    "university_id": "u_university_of_waterloo",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "MMgt Finance",
+    "degree": "MMgt",
+    "department": "School of International Business",
+    "official_url": "https://uwaterloo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f372e116ff30",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f372e116ff30",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_waterloo_main_public_policy",
+    "university_id": "u_university_of_waterloo",
+    "campus_id": "main",
+    "normalized_program_code": "public_policy",
+    "name": "MPP Public Policy",
+    "degree": "MPP",
+    "department": "School of Public Policy and Global Affairs",
+    "official_url": "https://uwaterloo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f372e116ff30",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f372e116ff30",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_waterloo_main_architecture",
+    "university_id": "u_university_of_waterloo",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "MArch Architecture",
+    "degree": "MArch",
+    "department": "School of Architecture",
+    "official_url": "https://uwaterloo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f372e116ff30",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f372e116ff30",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_waterloo_main_environment",
+    "university_id": "u_university_of_waterloo",
+    "campus_id": "main",
+    "normalized_program_code": "environment",
+    "name": "MES Environmental Engineering",
+    "degree": "MES",
+    "department": "Department of Civil and Environmental Engineering",
+    "official_url": "https://uwaterloo.ca/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f372e116ff30",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f372e116ff30",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f372e116ff30",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

@@ -1,0 +1,1199 @@
+[
+  {
+    "project_id": "u_hse_university_main_msc_comp_sci",
+    "university_id": "u_hse_university",
+    "campus_id": "main",
+    "normalized_program_code": "msc_comp_sci",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "Faculty of Computer Science",
+    "official_url": "https://www.hse.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_b30c5c05d127",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_b30c5c05d127",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hse_university_main_msc_data_sci",
+    "university_id": "u_hse_university",
+    "campus_id": "main",
+    "normalized_program_code": "msc_data_sci",
+    "name": "MSc Data Science",
+    "degree": "MSc",
+    "department": "Faculty of Computer Science",
+    "official_url": "https://www.hse.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_b30c5c05d127",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_b30c5c05d127",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hse_university_main_msc_math",
+    "university_id": "u_hse_university",
+    "campus_id": "main",
+    "normalized_program_code": "msc_math",
+    "name": "MSc Mathematics",
+    "degree": "MSc",
+    "department": "Faculty of Mathematics",
+    "official_url": "https://www.hse.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_b30c5c05d127",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_b30c5c05d127",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hse_university_main_msc_ai",
+    "university_id": "u_hse_university",
+    "campus_id": "main",
+    "normalized_program_code": "msc_ai",
+    "name": "MSc Artificial Intelligence",
+    "degree": "MSc",
+    "department": "Faculty of Computer Science",
+    "official_url": "https://www.hse.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_b30c5c05d127",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_b30c5c05d127",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hse_university_main_msc_applied_math",
+    "university_id": "u_hse_university",
+    "campus_id": "main",
+    "normalized_program_code": "msc_applied_math",
+    "name": "MSc Applied Mathematics",
+    "degree": "MSc",
+    "department": "Faculty of Mathematics",
+    "official_url": "https://www.hse.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_b30c5c05d127",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_b30c5c05d127",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hse_university_main_msc_stat",
+    "university_id": "u_hse_university",
+    "campus_id": "main",
+    "normalized_program_code": "msc_stat",
+    "name": "MSc Statistics",
+    "degree": "MSc",
+    "department": "Faculty of Mathematics",
+    "official_url": "https://www.hse.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_b30c5c05d127",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_b30c5c05d127",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hse_university_main_msc_econ",
+    "university_id": "u_hse_university",
+    "campus_id": "main",
+    "normalized_program_code": "msc_econ",
+    "name": "MSc Economics",
+    "degree": "MSc",
+    "department": "Faculty of Economic Sciences",
+    "official_url": "https://www.hse.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_b30c5c05d127",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_b30c5c05d127",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hse_university_main_msc_finance",
+    "university_id": "u_hse_university",
+    "campus_id": "main",
+    "normalized_program_code": "msc_finance",
+    "name": "MSc Finance",
+    "degree": "MSc",
+    "department": "Faculty of Economic Sciences",
+    "official_url": "https://www.hse.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_b30c5c05d127",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_b30c5c05d127",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hse_university_main_msc_management",
+    "university_id": "u_hse_university",
+    "campus_id": "main",
+    "normalized_program_code": "msc_management",
+    "name": "MSc Management",
+    "degree": "MSc",
+    "department": "Faculty of Management",
+    "official_url": "https://www.hse.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_b30c5c05d127",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_b30c5c05d127",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hse_university_main_msc_marketing",
+    "university_id": "u_hse_university",
+    "campus_id": "main",
+    "normalized_program_code": "msc_marketing",
+    "name": "MSc Marketing",
+    "degree": "MSc",
+    "department": "Faculty of Management",
+    "official_url": "https://www.hse.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_b30c5c05d127",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_b30c5c05d127",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hse_university_main_msc_political_sci",
+    "university_id": "u_hse_university",
+    "campus_id": "main",
+    "normalized_program_code": "msc_political_sci",
+    "name": "MA Political Science",
+    "degree": "MA",
+    "department": "Faculty of Social Sciences",
+    "official_url": "https://www.hse.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_b30c5c05d127",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_b30c5c05d127",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hse_university_main_msc_sociology",
+    "university_id": "u_hse_university",
+    "campus_id": "main",
+    "normalized_program_code": "msc_sociology",
+    "name": "MA Sociology",
+    "degree": "MA",
+    "department": "Faculty of Social Sciences",
+    "official_url": "https://www.hse.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_b30c5c05d127",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_b30c5c05d127",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hse_university_main_msc_international_rel",
+    "university_id": "u_hse_university",
+    "campus_id": "main",
+    "normalized_program_code": "msc_international_rel",
+    "name": "MA International Relations",
+    "degree": "MA",
+    "department": "Faculty of World Economy and International Affairs",
+    "official_url": "https://www.hse.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_b30c5c05d127",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_b30c5c05d127",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hse_university_main_msc_philosophy",
+    "university_id": "u_hse_university",
+    "campus_id": "main",
+    "normalized_program_code": "msc_philosophy",
+    "name": "MA Philosophy",
+    "degree": "MA",
+    "department": "School of Philosophy and Cultural Studies",
+    "official_url": "https://www.hse.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_b30c5c05d127",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_b30c5c05d127",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hse_university_main_msc_history",
+    "university_id": "u_hse_university",
+    "campus_id": "main",
+    "normalized_program_code": "msc_history",
+    "name": "MA History",
+    "degree": "MA",
+    "department": "School of Historical Sciences",
+    "official_url": "https://www.hse.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_b30c5c05d127",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_b30c5c05d127",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hse_university_main_msc_psych",
+    "university_id": "u_hse_university",
+    "campus_id": "main",
+    "normalized_program_code": "msc_psych",
+    "name": "MA Psychology",
+    "degree": "MA",
+    "department": "School of Psychology",
+    "official_url": "https://www.hse.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_b30c5c05d127",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_b30c5c05d127",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hse_university_main_msc_education",
+    "university_id": "u_hse_university",
+    "campus_id": "main",
+    "normalized_program_code": "msc_education",
+    "name": "MA Education",
+    "degree": "MA",
+    "department": "Institute of Education",
+    "official_url": "https://www.hse.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_b30c5c05d127",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_b30c5c05d127",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hse_university_main_msc_law",
+    "university_id": "u_hse_university",
+    "campus_id": "main",
+    "normalized_program_code": "msc_law",
+    "name": "LLM Law",
+    "degree": "LLM",
+    "department": "Faculty of Law",
+    "official_url": "https://www.hse.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_b30c5c05d127",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_b30c5c05d127",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hse_university_main_msc_sociology_res",
+    "university_id": "u_hse_university",
+    "campus_id": "main",
+    "normalized_program_code": "msc_sociology_res",
+    "name": "MSc Social Sciences",
+    "degree": "MSc",
+    "department": "Faculty of Social Sciences",
+    "official_url": "https://www.hse.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_b30c5c05d127",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_b30c5c05d127",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_b30c5c05d127",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

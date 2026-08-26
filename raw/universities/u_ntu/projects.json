@@ -1,0 +1,1892 @@
+[
+  {
+    "project_id": "u_ntu_main_comp_sci",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "Computer Science",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_data_sci",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "data_sci",
+    "name": "MSc Data Science",
+    "degree": "MSc",
+    "department": "Computer Science",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_ai",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "ai",
+    "name": "MSc Artificial Intelligence",
+    "degree": "MSc",
+    "department": "Computer Science",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_cyber",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "cyber",
+    "name": "MSc Cyber Security",
+    "degree": "MSc",
+    "department": "Computer Science",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_ee",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MSc Electrical and Electronic Engineering",
+    "degree": "MSc",
+    "department": "Electrical",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_mech_eng",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MSc Mechanical Engineering",
+    "degree": "MSc",
+    "department": "Mechanical",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_aerospace",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "aerospace",
+    "name": "MSc Aerospace Engineering",
+    "degree": "MSc",
+    "department": "Mechanical",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_civil_eng",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MSc Civil Engineering",
+    "degree": "MSc",
+    "department": "Civil and Environmental",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_chemical",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "chemical",
+    "name": "MSc Chemical Engineering",
+    "degree": "MSc",
+    "department": "Chemical and Biomedical",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_biomedical",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "biomedical",
+    "name": "MSc Biomedical Engineering",
+    "degree": "MSc",
+    "department": "Chemical and Biomedical",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_materials",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "materials",
+    "name": "MSc Materials Science and Engineering",
+    "degree": "MSc",
+    "department": "Materials",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_env_eng",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "env_eng",
+    "name": "MSc Environmental Engineering",
+    "degree": "MSc",
+    "department": "Civil and Environmental",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_physics",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MSc Physics",
+    "degree": "MSc",
+    "department": "Physical and Mathematical",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_chemistry",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MSc Chemistry",
+    "degree": "MSc",
+    "department": "Physical and Mathematical",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_math",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "math",
+    "name": "MSc Mathematics",
+    "degree": "MSc",
+    "department": "Physical and Mathematical",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_economics",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MSc Economics",
+    "degree": "MSc",
+    "department": "Social Sciences",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_psychology",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "MSc Psychology",
+    "degree": "MSc",
+    "department": "Social Sciences",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_business",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MBA",
+    "degree": "MBA",
+    "department": "Business",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_finance",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "MSc Finance",
+    "degree": "MSc",
+    "department": "Business",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_mgmt",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "mgmt",
+    "name": "MSc Management",
+    "degree": "MSc",
+    "department": "Business",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_marketing",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "marketing",
+    "name": "MSc Marketing",
+    "degree": "MSc",
+    "department": "Business",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_accounting",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "accounting",
+    "name": "MSc Accountancy",
+    "degree": "MSc",
+    "department": "Business",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_supply",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "supply",
+    "name": "MSc Supply Chain Management",
+    "degree": "MSc",
+    "department": "Business",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_analytics",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "analytics",
+    "name": "MSc Business Analytics",
+    "degree": "MSc",
+    "department": "Business",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_communication",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "communication",
+    "name": "MA Communication",
+    "degree": "MA",
+    "department": "Communication",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_education",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MEd Education",
+    "degree": "MEd",
+    "department": "Education",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_pub_admin",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "pub_admin",
+    "name": "MPA Public Administration",
+    "degree": "MPA",
+    "department": "International Studies",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_intl_rel",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "intl_rel",
+    "name": "MSc International Relations",
+    "degree": "MSc",
+    "department": "International Studies",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_art_design",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "art_design",
+    "name": "MA Art and Design",
+    "degree": "MA",
+    "department": "Art Design",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ntu_main_music",
+    "university_id": "u_ntu",
+    "campus_id": "main",
+    "normalized_program_code": "music",
+    "name": "MMus Music",
+    "degree": "MMus",
+    "department": "Art Design",
+    "official_url": "https://www.ntu.edu.sg/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e6e97fc8806a",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e6e97fc8806a",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e6e97fc8806a",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

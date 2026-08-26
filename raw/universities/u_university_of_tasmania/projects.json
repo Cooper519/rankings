@@ -1,0 +1,947 @@
+[
+  {
+    "project_id": "u_university_of_tasmania_main_accounting",
+    "university_id": "u_university_of_tasmania",
+    "campus_id": "main",
+    "normalized_program_code": "accounting",
+    "name": "Master of Professional Accounting",
+    "degree": "MPA",
+    "department": "Tasmanian School of Business and Economics",
+    "official_url": "https://www.utas.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cbdeddadebbc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cbdeddadebbc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tasmania_main_business",
+    "university_id": "u_university_of_tasmania",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MBA Business Administration",
+    "degree": "MBA",
+    "department": "Tasmanian School of Business and Economics",
+    "official_url": "https://www.utas.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cbdeddadebbc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cbdeddadebbc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tasmania_main_finance",
+    "university_id": "u_university_of_tasmania",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "Master of Finance",
+    "degree": "MFin",
+    "department": "Tasmanian School of Business and Economics",
+    "official_url": "https://www.utas.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cbdeddadebbc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cbdeddadebbc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tasmania_main_engineering",
+    "university_id": "u_university_of_tasmania",
+    "campus_id": "main",
+    "normalized_program_code": "engineering",
+    "name": "Master of Engineering",
+    "degree": "MEng",
+    "department": "College of Science and Engineering",
+    "official_url": "https://www.utas.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cbdeddadebbc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cbdeddadebbc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tasmania_main_information_tech",
+    "university_id": "u_university_of_tasmania",
+    "campus_id": "main",
+    "normalized_program_code": "information_tech",
+    "name": "Master of Information Technology",
+    "degree": "MIT",
+    "department": "College of Science and Engineering",
+    "official_url": "https://www.utas.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cbdeddadebbc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cbdeddadebbc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tasmania_main_data_science",
+    "university_id": "u_university_of_tasmania",
+    "campus_id": "main",
+    "normalized_program_code": "data_science",
+    "name": "Master of Data Science",
+    "degree": "MDatSc",
+    "department": "College of Science and Engineering",
+    "official_url": "https://www.utas.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cbdeddadebbc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cbdeddadebbc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tasmania_main_environment",
+    "university_id": "u_university_of_tasmania",
+    "campus_id": "main",
+    "normalized_program_code": "environment",
+    "name": "Master of Environment",
+    "degree": "MEnv",
+    "department": "College of Sciences and Engineering",
+    "official_url": "https://www.utas.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cbdeddadebbc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cbdeddadebbc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tasmania_main_education",
+    "university_id": "u_university_of_tasmania",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "Master of Education",
+    "degree": "MEd",
+    "department": "College of Arts, Law and Education",
+    "official_url": "https://www.utas.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cbdeddadebbc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cbdeddadebbc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tasmania_main_nursing",
+    "university_id": "u_university_of_tasmania",
+    "campus_id": "main",
+    "normalized_program_code": "nursing",
+    "name": "Master of Nursing",
+    "degree": "MN",
+    "department": "College of Health and Medicine",
+    "official_url": "https://www.utas.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cbdeddadebbc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cbdeddadebbc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tasmania_main_public_health",
+    "university_id": "u_university_of_tasmania",
+    "campus_id": "main",
+    "normalized_program_code": "public_health",
+    "name": "Master of Public Health",
+    "degree": "MPH",
+    "department": "College of Health and Medicine",
+    "official_url": "https://www.utas.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cbdeddadebbc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cbdeddadebbc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tasmania_main_social_work",
+    "university_id": "u_university_of_tasmania",
+    "campus_id": "main",
+    "normalized_program_code": "social_work",
+    "name": "Master of Social Work",
+    "degree": "MSW",
+    "department": "College of Arts, Law and Education",
+    "official_url": "https://www.utas.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cbdeddadebbc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cbdeddadebbc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tasmania_main_psychology",
+    "university_id": "u_university_of_tasmania",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "Master of Psychology",
+    "degree": "MPsych",
+    "department": "College of Health and Medicine",
+    "official_url": "https://www.utas.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cbdeddadebbc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cbdeddadebbc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tasmania_main_law",
+    "university_id": "u_university_of_tasmania",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "Juris Doctor",
+    "degree": "JD",
+    "department": "College of Arts, Law and Education",
+    "official_url": "https://www.utas.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cbdeddadebbc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cbdeddadebbc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tasmania_main_marine_science",
+    "university_id": "u_university_of_tasmania",
+    "campus_id": "main",
+    "normalized_program_code": "marine_science",
+    "name": "Master of Marine Science",
+    "degree": "MMarineSci",
+    "department": "Institute for Marine and Antarctic Studies",
+    "official_url": "https://www.utas.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cbdeddadebbc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cbdeddadebbc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tasmania_main_aquaculture",
+    "university_id": "u_university_of_tasmania",
+    "campus_id": "main",
+    "normalized_program_code": "aquaculture",
+    "name": "Master of Aquaculture",
+    "degree": "MAquac",
+    "department": "Institute for Marine and Antarctic Studies",
+    "official_url": "https://www.utas.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cbdeddadebbc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cbdeddadebbc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cbdeddadebbc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

@@ -1,0 +1,2222 @@
+[
+  {
+    "project_id": "u_aalto_university_main_electronics_nanotech",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "electronics_nanotech",
+    "name": "MSc Electronics and Nanotechnology",
+    "degree": "MSc",
+    "department": "School of Electrical Engineering",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_comms_eng",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "comms_eng",
+    "name": "MSc Communications Engineering",
+    "degree": "MSc",
+    "department": "School of Electrical Engineering",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_automation_ee",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "automation_ee",
+    "name": "MSc Automation and Electrical Engineering",
+    "degree": "MSc",
+    "department": "School of Electrical Engineering",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_acoustics",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "acoustics",
+    "name": "MSc Acoustics and Audio Technology",
+    "degree": "MSc",
+    "department": "School of Electrical Engineering",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_speech_lang",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "speech_lang",
+    "name": "MSc Speech and Language Technology",
+    "degree": "MSc",
+    "department": "School of Electrical Engineering",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_water_env_eng",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "water_env_eng",
+    "name": "MSc Water and Environmental Engineering",
+    "degree": "MSc",
+    "department": "School of Engineering",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_signal_processing",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "signal_processing",
+    "name": "MSc Signal Processing and Data Science",
+    "degree": "MSc",
+    "department": "School of Electrical Engineering",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_hydrogen_elec",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "hydrogen_elec",
+    "name": "MSc Hydrogen and Electric Systems",
+    "degree": "MSc",
+    "department": "School of Chemical Engineering",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_geoengineering",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "geoengineering",
+    "name": "MSc Geoengineering",
+    "degree": "MSc",
+    "department": "School of Engineering",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_comp_sci",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "School of Science",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_machine_learning",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "machine_learning",
+    "name": "MSc Machine Learning, Data Science and AI",
+    "degree": "MSc",
+    "department": "School of Science",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_life_tech",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "life_tech",
+    "name": "MSc Life Science Technologies",
+    "degree": "MSc",
+    "department": "School of Science",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_digital_media",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "digital_media",
+    "name": "MSc Digital Media",
+    "degree": "MSc",
+    "department": "School of Arts, Design and Architecture",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_nordic_visual",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "nordic_visual",
+    "name": "Nordic Master in Visual Studies and Art Education",
+    "degree": "MA",
+    "department": "School of Arts, Design and Architecture",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_art_media",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "art_media",
+    "name": "MA Arts and Media",
+    "degree": "MA",
+    "department": "School of Arts, Design and Architecture",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_business_tech",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "business_tech",
+    "name": "MSc Business Analytics",
+    "degree": "MSc",
+    "department": "School of Business",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_finance",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "MSc Finance",
+    "degree": "MSc",
+    "department": "School of Business",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_accounting",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "accounting",
+    "name": "MSc Accounting",
+    "degree": "MSc",
+    "department": "School of Business",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_management",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "management",
+    "name": "MSc Management and International Business",
+    "degree": "MSc",
+    "department": "School of Business",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_marketing",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "marketing",
+    "name": "MSc Marketing",
+    "degree": "MSc",
+    "department": "School of Business",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_economics",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MSc Economics",
+    "degree": "MSc",
+    "department": "School of Business",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_industrial_mgmt",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "industrial_mgmt",
+    "name": "MSc Industrial Engineering and Management",
+    "degree": "MSc",
+    "department": "School of Science",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_architecture",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "MSc Architecture",
+    "degree": "MSc",
+    "department": "School of Arts, Design and Architecture",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_landscape",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "landscape",
+    "name": "MSc Landscape Architecture",
+    "degree": "MSc",
+    "department": "School of Arts, Design and Architecture",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_design",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "design",
+    "name": "MA Design",
+    "degree": "MA",
+    "department": "School of Arts, Design and Architecture",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_film",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "film",
+    "name": "MA Film and Television",
+    "degree": "MA",
+    "department": "School of Arts, Design and Architecture",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_chem_bio",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "chem_bio",
+    "name": "MSc Chemical and Bioengineering",
+    "degree": "MSc",
+    "department": "School of Chemical Engineering",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_materials_eng",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "materials_eng",
+    "name": "MSc Materials Science",
+    "degree": "MSc",
+    "department": "School of Chemical Engineering",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_biotech",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "biotech",
+    "name": "MSc Biotechnology",
+    "degree": "MSc",
+    "department": "School of Chemical Engineering",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_aalto_university_main_energy_eng",
+    "university_id": "u_aalto_university",
+    "campus_id": "main",
+    "normalized_program_code": "energy_eng",
+    "name": "MSc Energy Systems",
+    "degree": "MSc",
+    "department": "School of Engineering",
+    "official_url": "https://www.aalto.fi/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-12-07",
+            "date_end": "2027-01-05",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f34a6127c003",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f34a6127c003",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "17000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu_eea",
+            "condition": "Master's studies",
+            "source_id": "src_f34a6127c003",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_f34a6127c003",
+        "verification_status": "extracted"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  }
+]

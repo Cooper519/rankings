@@ -1,0 +1,2522 @@
+[
+  {
+    "project_id": "u_florida_international_university_main_accounting",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "accounting",
+    "name": "MAcc Accounting",
+    "degree": "MAcc",
+    "department": "College of Business",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_business",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MBA Business Administration",
+    "degree": "MBA",
+    "department": "College of Business",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_finance",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "MS Finance",
+    "degree": "MS",
+    "department": "College of Business",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_management",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "management",
+    "name": "MS Management",
+    "degree": "MS",
+    "department": "College of Business",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_marketing",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "marketing",
+    "name": "MS Marketing",
+    "degree": "MS",
+    "department": "College of Business",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_international_bus",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_bus",
+    "name": "MS International Business",
+    "degree": "MS",
+    "department": "College of Business",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_real_estate",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "real_estate",
+    "name": "MS Real Estate",
+    "degree": "MS",
+    "department": "College of Business",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_taxation",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "taxation",
+    "name": "MS Taxation",
+    "degree": "MS",
+    "department": "College of Business",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_comp_sci",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MS Computer Science",
+    "degree": "MS",
+    "department": "College of Engineering and Computing",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_data_science",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "data_science",
+    "name": "MS Data Science",
+    "degree": "MS",
+    "department": "College of Engineering and Computing",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_cyber_security",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "cyber_security",
+    "name": "MS Cyber Security",
+    "degree": "MS",
+    "department": "College of Engineering and Computing",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_ee",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MS Electrical Engineering",
+    "degree": "MS",
+    "department": "College of Engineering and Computing",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_mech_eng",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MS Mechanical Engineering",
+    "degree": "MS",
+    "department": "College of Engineering and Computing",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_civil_eng",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MS Civil Engineering",
+    "degree": "MS",
+    "department": "College of Engineering and Computing",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_biomedical_eng",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "biomedical_eng",
+    "name": "MS Biomedical Engineering",
+    "degree": "MS",
+    "department": "College of Engineering and Computing",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_construction_mgmt",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "construction_mgmt",
+    "name": "MS Construction Management",
+    "degree": "MS",
+    "department": "College of Engineering and Computing",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_engineering_mgmt",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "engineering_mgmt",
+    "name": "MS Engineering Management",
+    "degree": "MS",
+    "department": "College of Engineering and Computing",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_physics",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MS Physics",
+    "degree": "MS",
+    "department": "College of Arts, Sciences and Education",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_chemistry",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MS Chemistry",
+    "degree": "MS",
+    "department": "College of Arts, Sciences and Education",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_biology",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "biology",
+    "name": "MS Biology",
+    "degree": "MS",
+    "department": "College of Arts, Sciences and Education",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_mathematics",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics",
+    "name": "MS Mathematics",
+    "degree": "MS",
+    "department": "College of Arts, Sciences and Education",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_psychology",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "MA Psychology",
+    "degree": "MA",
+    "department": "College of Arts, Sciences and Education",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_economics",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MA Economics",
+    "degree": "MA",
+    "department": "College of Arts, Sciences and Education",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_english",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "english",
+    "name": "MA English",
+    "degree": "MA",
+    "department": "College of Arts, Sciences and Education",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_history",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "history",
+    "name": "MA History",
+    "degree": "MA",
+    "department": "College of Arts, Sciences and Education",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_political_sci",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "political_sci",
+    "name": "MA Political Science",
+    "degree": "MA",
+    "department": "College of Arts, Sciences and Education",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_international_rel",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_rel",
+    "name": "MA International Relations",
+    "degree": "MA",
+    "department": "College of Arts, Sciences and Education",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_sociology",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "sociology",
+    "name": "MA Sociology",
+    "degree": "MA",
+    "department": "College of Arts, Sciences and Education",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_law",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "JD Law",
+    "degree": "JD",
+    "department": "College of Law",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_llm",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "llm",
+    "name": "LLM Law",
+    "degree": "LLM",
+    "department": "College of Law",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_education",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MEd Education",
+    "degree": "MEd",
+    "department": "College of Arts, Sciences and Education",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_social_work",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "social_work",
+    "name": "MSW Social Work",
+    "degree": "MSW",
+    "department": "Robert Stempel College of Public Health and Social Work",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_public_health",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "public_health",
+    "name": "MPH Public Health",
+    "degree": "MPH",
+    "department": "Robert Stempel College of Public Health and Social Work",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_nursing",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "nursing",
+    "name": "MSN Nursing",
+    "degree": "MSN",
+    "department": "Nicole Wertheim College of Nursing and Health Sciences",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_health_admin",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "health_admin",
+    "name": "MHA Health Administration",
+    "degree": "MHA",
+    "department": "Nicole Wertheim College of Nursing and Health Sciences",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_music",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "music",
+    "name": "MM Music",
+    "degree": "MM",
+    "department": "College of Communication, Architecture and The Arts",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_architecture",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "MArch Architecture",
+    "degree": "MArch",
+    "department": "College of Communication, Architecture and The Arts",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_interior_design",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "interior_design",
+    "name": "MFA Interior Design",
+    "degree": "MFA",
+    "department": "College of Communication, Architecture and The Arts",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_public_admin",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "public_admin",
+    "name": "MPA Public Administration",
+    "degree": "MPA",
+    "department": "Steven J. Green School of International and Public Affairs",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_florida_international_university_main_global_affairs",
+    "university_id": "u_florida_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "global_affairs",
+    "name": "MA Global Affairs",
+    "degree": "MA",
+    "department": "Steven J. Green School of International and Public Affairs",
+    "official_url": "https://www.fiu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a4ba451d0a43",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a4ba451d0a43",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a4ba451d0a43",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

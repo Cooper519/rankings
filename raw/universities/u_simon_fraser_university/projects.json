@@ -1,0 +1,1260 @@
+[
+  {
+    "project_id": "u_simon_fraser_university_burnaby_computing_science",
+    "university_id": "u_simon_fraser_university",
+    "campus_id": "burnaby",
+    "normalized_program_code": "computing_science",
+    "name": "MSc Computing Science",
+    "degree": "MSc",
+    "department": "School of Computing Science",
+    "official_url": "https://www.sfu.ca/gradstudies/programs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3f4c22edd865",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "2192.57",
+            "currency": "CAD",
+            "period": "term",
+            "applicant_group": "domestic",
+            "condition": "Regular full-time research programs, first 6 terms (2026-2027)",
+            "source_id": "src_724fd88198df",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_3f4c22edd865",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_simon_fraser_university_burnaby_engineering_science_masc",
+    "university_id": "u_simon_fraser_university",
+    "campus_id": "burnaby",
+    "normalized_program_code": "engineering_science_masc",
+    "name": "MASc Engineering Science",
+    "degree": "MASc",
+    "department": "School of Engineering Science",
+    "official_url": "https://www.sfu.ca/gradstudies/programs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3f4c22edd865",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "2192.57",
+            "currency": "CAD",
+            "period": "term",
+            "applicant_group": "domestic",
+            "condition": "Regular full-time research programs, first 6 terms (2026-2027)",
+            "source_id": "src_724fd88198df",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_3f4c22edd865",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_simon_fraser_university_burnaby_engineering_science_meng",
+    "university_id": "u_simon_fraser_university",
+    "campus_id": "burnaby",
+    "normalized_program_code": "engineering_science_meng",
+    "name": "MEng Engineering Science",
+    "degree": "MEng",
+    "department": "School of Engineering Science",
+    "official_url": "https://www.sfu.ca/gradstudies/programs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3f4c22edd865",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "2192.57",
+            "currency": "CAD",
+            "period": "term",
+            "applicant_group": "domestic",
+            "condition": "Regular full-time research programs, first 6 terms (2026-2027)",
+            "source_id": "src_724fd88198df",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_3f4c22edd865",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_simon_fraser_university_burnaby_business_administration",
+    "university_id": "u_simon_fraser_university",
+    "campus_id": "burnaby",
+    "normalized_program_code": "business_administration",
+    "name": "Master of Business Administration",
+    "degree": "MBA",
+    "department": "Beedie School of Business",
+    "official_url": "https://www.sfu.ca/gradstudies/programs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3f4c22edd865",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "2192.57",
+            "currency": "CAD",
+            "period": "term",
+            "applicant_group": "domestic",
+            "condition": "Regular full-time research programs, first 6 terms (2026-2027)",
+            "source_id": "src_724fd88198df",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_3f4c22edd865",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_simon_fraser_university_burnaby_data_science",
+    "university_id": "u_simon_fraser_university",
+    "campus_id": "burnaby",
+    "normalized_program_code": "data_science",
+    "name": "MSc Big Data",
+    "degree": "MSc",
+    "department": "School of Computing Science",
+    "official_url": "https://www.sfu.ca/gradstudies/programs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3f4c22edd865",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "2192.57",
+            "currency": "CAD",
+            "period": "term",
+            "applicant_group": "domestic",
+            "condition": "Regular full-time research programs, first 6 terms (2026-2027)",
+            "source_id": "src_724fd88198df",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_3f4c22edd865",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_simon_fraser_university_burnaby_mathematics",
+    "university_id": "u_simon_fraser_university",
+    "campus_id": "burnaby",
+    "normalized_program_code": "mathematics",
+    "name": "MSc Mathematics",
+    "degree": "MSc",
+    "department": "Department of Mathematics",
+    "official_url": "https://www.sfu.ca/gradstudies/programs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3f4c22edd865",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "2192.57",
+            "currency": "CAD",
+            "period": "term",
+            "applicant_group": "domestic",
+            "condition": "Regular full-time research programs, first 6 terms (2026-2027)",
+            "source_id": "src_724fd88198df",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_3f4c22edd865",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_simon_fraser_university_burnaby_statistics",
+    "university_id": "u_simon_fraser_university",
+    "campus_id": "burnaby",
+    "normalized_program_code": "statistics",
+    "name": "MSc Statistics",
+    "degree": "MSc",
+    "department": "Department of Statistics",
+    "official_url": "https://www.sfu.ca/gradstudies/programs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3f4c22edd865",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "2192.57",
+            "currency": "CAD",
+            "period": "term",
+            "applicant_group": "domestic",
+            "condition": "Regular full-time research programs, first 6 terms (2026-2027)",
+            "source_id": "src_724fd88198df",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_3f4c22edd865",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_simon_fraser_university_burnaby_biological_sciences",
+    "university_id": "u_simon_fraser_university",
+    "campus_id": "burnaby",
+    "normalized_program_code": "biological_sciences",
+    "name": "MSc Biological Sciences",
+    "degree": "MSc",
+    "department": "Department of Biological Sciences",
+    "official_url": "https://www.sfu.ca/gradstudies/programs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3f4c22edd865",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "2192.57",
+            "currency": "CAD",
+            "period": "term",
+            "applicant_group": "domestic",
+            "condition": "Regular full-time research programs, first 6 terms (2026-2027)",
+            "source_id": "src_724fd88198df",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_3f4c22edd865",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_simon_fraser_university_burnaby_economics",
+    "university_id": "u_simon_fraser_university",
+    "campus_id": "burnaby",
+    "normalized_program_code": "economics",
+    "name": "MA Economics",
+    "degree": "MA",
+    "department": "Department of Economics",
+    "official_url": "https://www.sfu.ca/gradstudies/programs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3f4c22edd865",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "2192.57",
+            "currency": "CAD",
+            "period": "term",
+            "applicant_group": "domestic",
+            "condition": "Regular full-time research programs, first 6 terms (2026-2027)",
+            "source_id": "src_724fd88198df",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_3f4c22edd865",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_simon_fraser_university_burnaby_psychology",
+    "university_id": "u_simon_fraser_university",
+    "campus_id": "burnaby",
+    "normalized_program_code": "psychology",
+    "name": "MA Psychology",
+    "degree": "MA",
+    "department": "Department of Psychology",
+    "official_url": "https://www.sfu.ca/gradstudies/programs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3f4c22edd865",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "2192.57",
+            "currency": "CAD",
+            "period": "term",
+            "applicant_group": "domestic",
+            "condition": "Regular full-time research programs, first 6 terms (2026-2027)",
+            "source_id": "src_724fd88198df",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_3f4c22edd865",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_simon_fraser_university_burnaby_environmental_science",
+    "university_id": "u_simon_fraser_university",
+    "campus_id": "burnaby",
+    "normalized_program_code": "environmental_science",
+    "name": "MSc Environmental Science",
+    "degree": "MSc",
+    "department": "Faculty of Environment",
+    "official_url": "https://www.sfu.ca/gradstudies/programs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3f4c22edd865",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "2192.57",
+            "currency": "CAD",
+            "period": "term",
+            "applicant_group": "domestic",
+            "condition": "Regular full-time research programs, first 6 terms (2026-2027)",
+            "source_id": "src_724fd88198df",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_3f4c22edd865",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_simon_fraser_university_burnaby_health_sciences_mph",
+    "university_id": "u_simon_fraser_university",
+    "campus_id": "burnaby",
+    "normalized_program_code": "health_sciences_mph",
+    "name": "Master of Public Health",
+    "degree": "MPH",
+    "department": "Faculty of Health Sciences",
+    "official_url": "https://www.sfu.ca/gradstudies/programs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3f4c22edd865",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "2192.57",
+            "currency": "CAD",
+            "period": "term",
+            "applicant_group": "domestic",
+            "condition": "Regular full-time research programs, first 6 terms (2026-2027)",
+            "source_id": "src_724fd88198df",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_3f4c22edd865",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_simon_fraser_university_burnaby_interactive_arts_tech_ma",
+    "university_id": "u_simon_fraser_university",
+    "campus_id": "burnaby",
+    "normalized_program_code": "interactive_arts_tech_ma",
+    "name": "MA Interactive Arts and Technology",
+    "degree": "MA",
+    "department": "School of Interactive Arts and Technology",
+    "official_url": "https://www.sfu.ca/gradstudies/programs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3f4c22edd865",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "2192.57",
+            "currency": "CAD",
+            "period": "term",
+            "applicant_group": "domestic",
+            "condition": "Regular full-time research programs, first 6 terms (2026-2027)",
+            "source_id": "src_724fd88198df",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_3f4c22edd865",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_simon_fraser_university_burnaby_interactive_arts_tech_msc",
+    "university_id": "u_simon_fraser_university",
+    "campus_id": "burnaby",
+    "normalized_program_code": "interactive_arts_tech_msc",
+    "name": "MSc Interactive Arts and Technology",
+    "degree": "MSc",
+    "department": "School of Interactive Arts and Technology",
+    "official_url": "https://www.sfu.ca/gradstudies/programs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3f4c22edd865",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "2192.57",
+            "currency": "CAD",
+            "period": "term",
+            "applicant_group": "domestic",
+            "condition": "Regular full-time research programs, first 6 terms (2026-2027)",
+            "source_id": "src_724fd88198df",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_3f4c22edd865",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_simon_fraser_university_burnaby_sustainable_energy",
+    "university_id": "u_simon_fraser_university",
+    "campus_id": "burnaby",
+    "normalized_program_code": "sustainable_energy",
+    "name": "MASc Sustainable Energy Engineering",
+    "degree": "MASc",
+    "department": "School of Sustainable Energy Engineering",
+    "official_url": "https://www.sfu.ca/gradstudies/programs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3f4c22edd865",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "2192.57",
+            "currency": "CAD",
+            "period": "term",
+            "applicant_group": "domestic",
+            "condition": "Regular full-time research programs, first 6 terms (2026-2027)",
+            "source_id": "src_724fd88198df",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_3f4c22edd865",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_simon_fraser_university_burnaby_sustainable_energy_meng",
+    "university_id": "u_simon_fraser_university",
+    "campus_id": "burnaby",
+    "normalized_program_code": "sustainable_energy_meng",
+    "name": "MEng Sustainable Energy Engineering",
+    "degree": "MEng",
+    "department": "School of Sustainable Energy Engineering",
+    "official_url": "https://www.sfu.ca/gradstudies/programs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3f4c22edd865",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "2192.57",
+            "currency": "CAD",
+            "period": "term",
+            "applicant_group": "domestic",
+            "condition": "Regular full-time research programs, first 6 terms (2026-2027)",
+            "source_id": "src_724fd88198df",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_3f4c22edd865",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_simon_fraser_university_burnaby_mechatronic_systems",
+    "university_id": "u_simon_fraser_university",
+    "campus_id": "burnaby",
+    "normalized_program_code": "mechatronic_systems",
+    "name": "MASc Mechatronic Systems Engineering",
+    "degree": "MASc",
+    "department": "School of Mechatronic Systems Engineering",
+    "official_url": "https://www.sfu.ca/gradstudies/programs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3f4c22edd865",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3f4c22edd865",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_type": "tuition",
+            "amount": "2192.57",
+            "currency": "CAD",
+            "period": "term",
+            "applicant_group": "domestic",
+            "condition": "Regular full-time research programs, first 6 terms (2026-2027)",
+            "source_id": "src_724fd88198df",
+            "verification_status": "extracted"
+          }
+        ],
+        "source_id": "src_3f4c22edd865",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

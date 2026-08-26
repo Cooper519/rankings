@@ -1,0 +1,2144 @@
+[
+  {
+    "project_id": "u_chalmers_main_comp_sci",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "Computer Science",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_software",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "software",
+    "name": "MSc Software Engineering",
+    "degree": "MSc",
+    "department": "Computer Science",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_data_sci",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "data_sci",
+    "name": "MSc Data Science",
+    "degree": "MSc",
+    "department": "Computer Science",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_ai",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "ai",
+    "name": "MSc Artificial Intelligence",
+    "degree": "MSc",
+    "department": "Computer Science",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_cyber",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "cyber",
+    "name": "MSc Cyber Security",
+    "degree": "MSc",
+    "department": "Computer Science",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_ee",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MSc Electrical Engineering",
+    "degree": "MSc",
+    "department": "Electrical Engineering",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_mech_eng",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MSc Mechanical Engineering",
+    "degree": "MSc",
+    "department": "Mechanical Engineering",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_civil_eng",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MSc Civil Engineering",
+    "degree": "MSc",
+    "department": "Architecture",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_chemical",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "chemical",
+    "name": "MSc Chemical Engineering",
+    "degree": "MSc",
+    "department": "Chemistry and Chemical Engineering",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_biomedical",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "biomedical",
+    "name": "MSc Biomedical Engineering",
+    "degree": "MSc",
+    "department": "Electrical Engineering",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_materials",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "materials",
+    "name": "MSc Materials Engineering",
+    "degree": "MSc",
+    "department": "Industrial and Materials Science",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_architecture",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "MSc Architecture",
+    "degree": "MSc",
+    "department": "Architecture",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_physics",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MSc Physics",
+    "degree": "MSc",
+    "department": "Physics",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_math",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "math",
+    "name": "MSc Mathematics",
+    "degree": "MSc",
+    "department": "Mathematics",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_industrial_mgmt",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "industrial_mgmt",
+    "name": "MSc Industrial Management",
+    "degree": "MSc",
+    "department": "Technology Management",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_engineering_physics",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "engineering_physics",
+    "name": "MSc Engineering Physics",
+    "degree": "MSc",
+    "department": "Physics",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_automation",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "automation",
+    "name": "MSc Automation and Mechatronics",
+    "degree": "MSc",
+    "department": "Electrical Engineering",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_nano",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "nano",
+    "name": "MSc Nanotechnology",
+    "degree": "MSc",
+    "department": "Physics",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_sustainable_energy",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "sustainable_energy",
+    "name": "MSc Sustainable Energy Systems",
+    "degree": "MSc",
+    "department": "Space",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_design",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "design",
+    "name": "MFA Design",
+    "degree": "MFA",
+    "department": "Industrial Design",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_maritime",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "maritime",
+    "name": "MSc Maritime Management",
+    "degree": "MSc",
+    "department": "Mechanical Engineering",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_structural",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "structural",
+    "name": "MSc Structural Engineering",
+    "degree": "MSc",
+    "department": "Architecture",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_water",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "water",
+    "name": "MSc Water Resources Engineering",
+    "degree": "MSc",
+    "department": "Architecture",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_geoengineering",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "geoengineering",
+    "name": "MSc Geoengineering",
+    "degree": "MSc",
+    "department": "Architecture",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_innovation",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "innovation",
+    "name": "MSc Innovation and Entrepreneurship",
+    "degree": "MSc",
+    "department": "Technology Management",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_quality",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "quality",
+    "name": "MSc Quality and Operations Management",
+    "degree": "MSc",
+    "department": "Technology Management",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_supply_chain",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "supply_chain",
+    "name": "MSc Supply Chain Management",
+    "degree": "MSc",
+    "department": "Technology Management",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_production",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "production",
+    "name": "MSc Production Engineering",
+    "degree": "MSc",
+    "department": "Industrial",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_vehicle",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "vehicle",
+    "name": "MSc Vehicle Engineering",
+    "degree": "MSc",
+    "department": "Mechanical Engineering",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_complex_adaptive",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "complex_adaptive",
+    "name": "MSc Complex Adaptive Systems Science",
+    "degree": "MSc",
+    "department": "Physics",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_math2",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "math2",
+    "name": "MSc Applied Mathematics",
+    "degree": "MSc",
+    "department": "Mathematics",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_nuclear_eng",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "nuclear_eng",
+    "name": "MSc Nuclear Engineering",
+    "degree": "MSc",
+    "department": "Physics",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_computational",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "computational",
+    "name": "MSc Computational Science and Engineering",
+    "degree": "MSc",
+    "department": "Physics",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_chalmers_main_energy_sci",
+    "university_id": "u_chalmers",
+    "campus_id": "main",
+    "normalized_program_code": "energy_sci",
+    "name": "MSc Energy Science and Technology",
+    "degree": "MSc",
+    "department": "Physics",
+    "official_url": "https://www.chalmers.se/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_896aea68a895",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_896aea68a895",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_896aea68a895",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

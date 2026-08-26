@@ -1,0 +1,1892 @@
+[
+  {
+    "project_id": "u_la_trobe_university_main_accounting",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "accounting",
+    "name": "Master of Professional Accounting",
+    "degree": "MPA",
+    "department": "La Trobe Business School",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_business",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "Master of Business Administration",
+    "degree": "MBA",
+    "department": "La Trobe Business School",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_finance",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "Master of Finance",
+    "degree": "MFin",
+    "department": "La Trobe Business School",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_human_resource",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "human_resource",
+    "name": "Master of Human Resource Management",
+    "degree": "MHRM",
+    "department": "La Trobe Business School",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_management",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "management",
+    "name": "Master of Management",
+    "degree": "MMgmt",
+    "department": "La Trobe Business School",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_marketing",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "marketing",
+    "name": "Master of Marketing",
+    "degree": "MMkt",
+    "department": "La Trobe Business School",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_project_mgmt",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "project_mgmt",
+    "name": "Master of Project Management",
+    "degree": "MPM",
+    "department": "La Trobe Business School",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_information_mgmt",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "information_mgmt",
+    "name": "Master of Information Management",
+    "degree": "MIM",
+    "department": "La Trobe Business School",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_business_analytics",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "business_analytics",
+    "name": "Master of Business Analytics",
+    "degree": "MBusAn",
+    "department": "La Trobe Business School",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_law",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "Juris Doctor",
+    "degree": "JD",
+    "department": "La Trobe Law School",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_llm",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "llm",
+    "name": "Master of Laws",
+    "degree": "LLM",
+    "department": "La Trobe Law School",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_education",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "Master of Education",
+    "degree": "MEd",
+    "department": "School of Education",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_teaching",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "teaching",
+    "name": "Master of Teaching",
+    "degree": "MT",
+    "department": "School of Education",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_nursing",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "nursing",
+    "name": "Master of Nursing",
+    "degree": "MN",
+    "department": "School of Nursing and Midwifery",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_public_health",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "public_health",
+    "name": "Master of Public Health",
+    "degree": "MPH",
+    "department": "School of Psychology and Public Health",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_health_admin",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "health_admin",
+    "name": "Master of Health Administration",
+    "degree": "MHA",
+    "department": "School of Psychology and Public Health",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_psychology",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "Master of Psychology",
+    "degree": "MPsych",
+    "department": "School of Psychology and Public Health",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_clinical_psych",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "clinical_psych",
+    "name": "Master of Clinical Psychology",
+    "degree": "MClinPsych",
+    "department": "School of Psychology and Public Health",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_social_work",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "social_work",
+    "name": "Master of Social Work",
+    "degree": "MSW",
+    "department": "Department of Social Work",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_information_technology",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "information_technology",
+    "name": "Master of Information Technology",
+    "degree": "MIT",
+    "department": "Department of Computer Science and Information Technology",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_data_science",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "data_science",
+    "name": "Master of Data Science",
+    "degree": "MDatSc",
+    "department": "Department of Computer Science and Information Technology",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_cyber_security",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "cyber_security",
+    "name": "Master of Cyber Security",
+    "degree": "MCybSec",
+    "department": "Department of Computer Science and Information Technology",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_engineering",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "engineering",
+    "name": "Master of Engineering",
+    "degree": "MEng",
+    "department": "Department of Engineering",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_biotechnology",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "biotechnology",
+    "name": "Master of Biotechnology",
+    "degree": "MBiotech",
+    "department": "Department of Microbiology, Immunology and Medical Science",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_science",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "science",
+    "name": "Master of Science",
+    "degree": "MSc",
+    "department": "Department of Environment and Genetics",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_archaeology",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "archaeology",
+    "name": "Master of Archaeology",
+    "degree": "MArch",
+    "department": "Department of Archaeology and History",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_arts",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "arts",
+    "name": "Master of Arts",
+    "degree": "MA",
+    "department": "Department of Humanities and Social Sciences",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_creative_arts",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "creative_arts",
+    "name": "Master of Creative Arts",
+    "degree": "MCA",
+    "department": "Department of Creative Arts",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_international_rel",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_rel",
+    "name": "Master of International Relations",
+    "degree": "MIR",
+    "department": "Department of Politics, Media and Philosophy",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_la_trobe_university_main_communication",
+    "university_id": "u_la_trobe_university",
+    "campus_id": "main",
+    "normalized_program_code": "communication",
+    "name": "Master of Strategic Communication",
+    "degree": "MStratComm",
+    "department": "Department of Communication and Media",
+    "official_url": "https://www.latrobe.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_fa128e326afa",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_fa128e326afa",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_fa128e326afa",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

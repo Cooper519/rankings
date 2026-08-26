@@ -1,0 +1,1892 @@
+[
+  {
+    "project_id": "u_bilkent_university_main_comp_sci",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "Department of Computer Engineering",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_ee",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MSc Electrical and Electronics Engineering",
+    "degree": "MSc",
+    "department": "Department of Electrical and Electronics Engineering",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_industrial_eng",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "industrial_eng",
+    "name": "MSc Industrial Engineering",
+    "degree": "MSc",
+    "department": "Department of Industrial Engineering",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_mech_eng",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MSc Mechanical Engineering",
+    "degree": "MSc",
+    "department": "Department of Mechanical Engineering",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_materials_sci",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "materials_sci",
+    "name": "MSc Materials Science and Nanotechnology",
+    "degree": "MSc",
+    "department": "Institute of Materials Science and Nanotechnology",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_physics",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MSc Physics",
+    "degree": "MSc",
+    "department": "Department of Physics",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_chemistry",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MSc Chemistry",
+    "degree": "MSc",
+    "department": "Department of Chemistry",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_mathematics",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics",
+    "name": "MSc Mathematics",
+    "degree": "MSc",
+    "department": "Department of Mathematics",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_molecular_bio",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "molecular_bio",
+    "name": "MSc Molecular Biology and Genetics",
+    "degree": "MSc",
+    "department": "Department of Molecular Biology and Genetics",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_economics",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MA Economics",
+    "degree": "MA",
+    "department": "Department of Economics",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_business",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MBA",
+    "degree": "MBA",
+    "department": "Faculty of Business Administration",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_finance",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "MSc Finance",
+    "degree": "MSc",
+    "department": "Faculty of Business Administration",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_management",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "management",
+    "name": "MSc Management",
+    "degree": "MSc",
+    "department": "Faculty of Business Administration",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_marketing",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "marketing",
+    "name": "MSc Marketing",
+    "degree": "MSc",
+    "department": "Faculty of Business Administration",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_accounting",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "accounting",
+    "name": "MSc Accounting",
+    "degree": "MSc",
+    "department": "Faculty of Business Administration",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_political_sci",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "political_sci",
+    "name": "MA Political Science",
+    "degree": "MA",
+    "department": "Department of Political Science",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_international_rel",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_rel",
+    "name": "MA International Relations",
+    "degree": "MA",
+    "department": "Department of International Relations",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_history",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "history",
+    "name": "MA History",
+    "degree": "MA",
+    "department": "Department of History",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_english",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "english",
+    "name": "MA English Literature",
+    "degree": "MA",
+    "department": "Department of English Language and Literature",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_philosophy",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "philosophy",
+    "name": "MA Philosophy",
+    "degree": "MA",
+    "department": "Department of Philosophy",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_archaeology",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "archaeology",
+    "name": "MA Archaeology",
+    "degree": "MA",
+    "department": "Department of Archaeology",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_fine_arts",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "fine_arts",
+    "name": "MFA Fine Arts",
+    "degree": "MFA",
+    "department": "Department of Fine Arts",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_music",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "music",
+    "name": "MM Music",
+    "degree": "MM",
+    "department": "Department of Music",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_law",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "LLM Law",
+    "degree": "LLM",
+    "department": "Faculty of Law",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_education",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MA Education",
+    "degree": "MA",
+    "department": "Faculty of Education",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_psychology",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "MA Psychology",
+    "degree": "MA",
+    "department": "Department of Psychology",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_architecture",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "MArch Architecture",
+    "degree": "MArch",
+    "department": "Department of Architecture",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_interior_arch",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "interior_arch",
+    "name": "MFA Interior Architecture",
+    "degree": "MFA",
+    "department": "Department of Interior Architecture",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_graphic_design",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "graphic_design",
+    "name": "MFA Graphic Design",
+    "degree": "MFA",
+    "department": "Department of Graphic Design",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bilkent_university_main_urban_design",
+    "university_id": "u_bilkent_university",
+    "campus_id": "main",
+    "normalized_program_code": "urban_design",
+    "name": "MSc Urban Design",
+    "degree": "MSc",
+    "department": "Department of Urban Design and Landscape Architecture",
+    "official_url": "https://www.bilkent.edu.tr/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0abe6ac298c0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0abe6ac298c0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0abe6ac298c0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

@@ -1,0 +1,884 @@
+[
+  {
+    "project_id": "u_tokyo_tech_main_comp_sci",
+    "university_id": "u_tokyo_tech",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "Mathematical and Computing Science",
+    "official_url": "https://www.titech.ac.jp/english",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cfca60900561",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cfca60900561",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tokyo_tech_main_ee",
+    "university_id": "u_tokyo_tech",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MSc Electrical and Electronic Engineering",
+    "degree": "MSc",
+    "department": "Electrical Engineering",
+    "official_url": "https://www.titech.ac.jp/english",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cfca60900561",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cfca60900561",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tokyo_tech_main_mech_eng",
+    "university_id": "u_tokyo_tech",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MSc Mechanical Engineering",
+    "degree": "MSc",
+    "department": "Mechanical Engineering",
+    "official_url": "https://www.titech.ac.jp/english",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cfca60900561",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cfca60900561",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tokyo_tech_main_civil_eng",
+    "university_id": "u_tokyo_tech",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MSc Civil Engineering",
+    "degree": "MSc",
+    "department": "Civil and Environmental Engineering",
+    "official_url": "https://www.titech.ac.jp/english",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cfca60900561",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cfca60900561",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tokyo_tech_main_chemical",
+    "university_id": "u_tokyo_tech",
+    "campus_id": "main",
+    "normalized_program_code": "chemical",
+    "name": "MSc Chemical Engineering",
+    "degree": "MSc",
+    "department": "Chemical Science",
+    "official_url": "https://www.titech.ac.jp/english",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cfca60900561",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cfca60900561",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tokyo_tech_main_materials",
+    "university_id": "u_tokyo_tech",
+    "campus_id": "main",
+    "normalized_program_code": "materials",
+    "name": "MSc Materials Science",
+    "degree": "MSc",
+    "department": "Materials Science",
+    "official_url": "https://www.titech.ac.jp/english",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cfca60900561",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cfca60900561",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tokyo_tech_main_physics",
+    "university_id": "u_tokyo_tech",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MSc Physics",
+    "degree": "MSc",
+    "department": "Physics",
+    "official_url": "https://www.titech.ac.jp/english",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cfca60900561",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cfca60900561",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tokyo_tech_main_chemistry",
+    "university_id": "u_tokyo_tech",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MSc Chemistry",
+    "degree": "MSc",
+    "department": "Chemistry",
+    "official_url": "https://www.titech.ac.jp/english",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cfca60900561",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cfca60900561",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tokyo_tech_main_math",
+    "university_id": "u_tokyo_tech",
+    "campus_id": "main",
+    "normalized_program_code": "math",
+    "name": "MSc Mathematics",
+    "degree": "MSc",
+    "department": "Mathematical and Computing Science",
+    "official_url": "https://www.titech.ac.jp/english",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cfca60900561",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cfca60900561",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tokyo_tech_main_biology",
+    "university_id": "u_tokyo_tech",
+    "campus_id": "main",
+    "normalized_program_code": "biology",
+    "name": "MSc Biology",
+    "degree": "MSc",
+    "department": "Life Science and Technology",
+    "official_url": "https://www.titech.ac.jp/english",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cfca60900561",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cfca60900561",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tokyo_tech_main_earth",
+    "university_id": "u_tokyo_tech",
+    "campus_id": "main",
+    "normalized_program_code": "earth",
+    "name": "MSc Earth and Planetary Sciences",
+    "degree": "MSc",
+    "department": "Earth and Planetary Sciences",
+    "official_url": "https://www.titech.ac.jp/english",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cfca60900561",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cfca60900561",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tokyo_tech_main_applied_chem",
+    "university_id": "u_tokyo_tech",
+    "campus_id": "main",
+    "normalized_program_code": "applied_chem",
+    "name": "MSc Applied Chemistry",
+    "degree": "MSc",
+    "department": "Chemical Science",
+    "official_url": "https://www.titech.ac.jp/english",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cfca60900561",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cfca60900561",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tokyo_tech_main_applied_physics",
+    "university_id": "u_tokyo_tech",
+    "campus_id": "main",
+    "normalized_program_code": "applied_physics",
+    "name": "MSc Applied Physics",
+    "degree": "MSc",
+    "department": "Physics",
+    "official_url": "https://www.titech.ac.jp/english",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cfca60900561",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cfca60900561",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tokyo_tech_main_applied_math",
+    "university_id": "u_tokyo_tech",
+    "campus_id": "main",
+    "normalized_program_code": "applied_math",
+    "name": "MSc Applied Mathematics",
+    "degree": "MSc",
+    "department": "Mathematical and Computing Science",
+    "official_url": "https://www.titech.ac.jp/english",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_cfca60900561",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_cfca60900561",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_cfca60900561",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

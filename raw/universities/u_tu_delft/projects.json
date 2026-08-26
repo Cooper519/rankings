@@ -1,0 +1,1892 @@
+[
+  {
+    "project_id": "u_tu_delft_main_comp_sci",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "EEMCS",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_data_sci",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "data_sci",
+    "name": "MSc Data Science",
+    "degree": "MSc",
+    "department": "EEMCS",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_ee",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MSc Electrical Engineering",
+    "degree": "MSc",
+    "department": "EEMCS",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_mech_eng",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MSc Mechanical Engineering",
+    "degree": "MSc",
+    "department": "Mechanical Engineering",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_civil_eng",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MSc Civil Engineering",
+    "degree": "MSc",
+    "department": "Civil Engineering",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_chemical",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "chemical",
+    "name": "MSc Chemical Engineering",
+    "degree": "MSc",
+    "department": "Applied Sciences",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_biomedical",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "biomedical",
+    "name": "MSc Biomedical Engineering",
+    "degree": "MSc",
+    "department": "Mechanical Engineering",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_materials",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "materials",
+    "name": "MSc Materials Science",
+    "degree": "MSc",
+    "department": "Applied Sciences",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_architecture",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "MSc Architecture",
+    "degree": "MSc",
+    "department": "Architecture",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_urban",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "urban",
+    "name": "MSc Urbanism",
+    "degree": "MSc",
+    "department": "Architecture",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_physics",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MSc Physics",
+    "degree": "MSc",
+    "department": "Applied Sciences",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_math",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "math",
+    "name": "MSc Applied Mathematics",
+    "degree": "MSc",
+    "department": "EEMCS",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_aerospace",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "aerospace",
+    "name": "MSc Aerospace Engineering",
+    "degree": "MSc",
+    "department": "Aerospace Engineering",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_product_design",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "product_design",
+    "name": "MSc Strategic Product Design",
+    "degree": "MSc",
+    "department": "Industrial Design",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_water",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "water",
+    "name": "MSc Water Management",
+    "degree": "MSc",
+    "department": "Civil Engineering",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_transport",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "transport",
+    "name": "MSc Transport, Infrastructure and Logistics",
+    "degree": "MSc",
+    "department": "Civil Engineering",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_earth",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "earth",
+    "name": "MSc Applied Earth Sciences",
+    "degree": "MSc",
+    "department": "Civil Engineering",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_life_sci",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "life_sci",
+    "name": "MSc Life Science and Technology",
+    "degree": "MSc",
+    "department": "Applied Sciences",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_nano",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "nano",
+    "name": "MSc Nanoscience",
+    "degree": "MSc",
+    "department": "Applied Sciences",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_tech_med",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "tech_med",
+    "name": "MSc Technical Medicine",
+    "degree": "MSc",
+    "department": "TU/e joint",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_industrial_design",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "industrial_design",
+    "name": "MSc Integrated Product Design",
+    "degree": "MSc",
+    "department": "Industrial Design",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_systems_control",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "systems_control",
+    "name": "MSc Systems and Control",
+    "degree": "MSc",
+    "department": "EEMCS",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_electrical_power",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "electrical_power",
+    "name": "MSc Electrical Power Engineering",
+    "degree": "MSc",
+    "department": "EEMCS",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_sustainable_energy",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "sustainable_energy",
+    "name": "MSc Sustainable Energy Technology",
+    "degree": "MSc",
+    "department": "Mechanical Engineering",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_biotech",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "biotech",
+    "name": "MSc Life Science and Technology",
+    "degree": "MSc",
+    "department": "Applied Sciences",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_clinical_tech",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "clinical_tech",
+    "name": "MSc Clinical Technology",
+    "degree": "MSc",
+    "department": "TU/e joint",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_geomatics",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "geomatics",
+    "name": "MSc Geomatics",
+    "degree": "MSc",
+    "department": "Civil Engineering",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_construction_mgmt",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "construction_mgmt",
+    "name": "MSc Construction Management and Engineering",
+    "degree": "MSc",
+    "department": "Civil Engineering",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_environmental",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "environmental",
+    "name": "MSc Environmental Engineering",
+    "degree": "MSc",
+    "department": "Civil Engineering",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_tu_delft_main_offshore_dredging",
+    "university_id": "u_tu_delft",
+    "campus_id": "main",
+    "normalized_program_code": "offshore_dredging",
+    "name": "MSc Offshore and Dredging Engineering",
+    "degree": "MSc",
+    "department": "Civil Engineering",
+    "official_url": "https://www.tudelft.nl/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_f92208332f96",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_f92208332f96",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_f92208332f96",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

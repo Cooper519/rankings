@@ -1,0 +1,632 @@
+[
+  {
+    "project_id": "u_university_of_tsukuba_main_education",
+    "university_id": "u_university_of_tsukuba",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "Masters Program in Education",
+    "degree": "MEd",
+    "department": "Graduate School of Education",
+    "official_url": "https://www.tsukuba.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0735938a7b5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0735938a7b5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tsukuba_main_science_tech",
+    "university_id": "u_university_of_tsukuba",
+    "campus_id": "main",
+    "normalized_program_code": "science_tech",
+    "name": "Graduate School of Science and Technology",
+    "degree": "MSc",
+    "department": "Graduate School of Science and Technology",
+    "official_url": "https://www.tsukuba.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0735938a7b5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0735938a7b5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tsukuba_main_humanities",
+    "university_id": "u_university_of_tsukuba",
+    "campus_id": "main",
+    "normalized_program_code": "humanities",
+    "name": "Graduate School of Humanities and Social Sciences",
+    "degree": "MA",
+    "department": "Graduate School of Humanities and Social Sciences",
+    "official_url": "https://www.tsukuba.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0735938a7b5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0735938a7b5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tsukuba_main_business_sci",
+    "university_id": "u_university_of_tsukuba",
+    "campus_id": "main",
+    "normalized_program_code": "business_sci",
+    "name": "Graduate School of Business Sciences",
+    "degree": "MBA",
+    "department": "Graduate School of Business Sciences",
+    "official_url": "https://www.tsukuba.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0735938a7b5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0735938a7b5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tsukuba_main_pure_applied",
+    "university_id": "u_university_of_tsukuba",
+    "campus_id": "main",
+    "normalized_program_code": "pure_applied",
+    "name": "Graduate School of Pure and Applied Sciences",
+    "degree": "MSc",
+    "department": "Graduate School of Pure and Applied Sciences",
+    "official_url": "https://www.tsukuba.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0735938a7b5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0735938a7b5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tsukuba_main_systems_info",
+    "university_id": "u_university_of_tsukuba",
+    "campus_id": "main",
+    "normalized_program_code": "systems_info",
+    "name": "Graduate School of Systems and Information Engineering",
+    "degree": "MSc",
+    "department": "Graduate School of Systems and Information Engineering",
+    "official_url": "https://www.tsukuba.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0735938a7b5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0735938a7b5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tsukuba_main_life_env",
+    "university_id": "u_university_of_tsukuba",
+    "campus_id": "main",
+    "normalized_program_code": "life_env",
+    "name": "Graduate School of Life and Environmental Sciences",
+    "degree": "MSc",
+    "department": "Graduate School of Life and Environmental Sciences",
+    "official_url": "https://www.tsukuba.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0735938a7b5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0735938a7b5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tsukuba_main_comprehensive_human",
+    "university_id": "u_university_of_tsukuba",
+    "campus_id": "main",
+    "normalized_program_code": "comprehensive_human",
+    "name": "Graduate School of Comprehensive Human Sciences",
+    "degree": "MA",
+    "department": "Graduate School of Comprehensive Human Sciences",
+    "official_url": "https://www.tsukuba.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0735938a7b5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0735938a7b5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tsukuba_main_library_info",
+    "university_id": "u_university_of_tsukuba",
+    "campus_id": "main",
+    "normalized_program_code": "library_info",
+    "name": "Graduate School of Library, Information and Media Studies",
+    "degree": "MInf",
+    "department": "Graduate School of Library, Information and Media Studies",
+    "official_url": "https://www.tsukuba.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0735938a7b5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0735938a7b5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_tsukuba_main_integrative_global",
+    "university_id": "u_university_of_tsukuba",
+    "campus_id": "main",
+    "normalized_program_code": "integrative_global",
+    "name": "School of Integrative and Global Majors (SIGMA)",
+    "degree": "MSc",
+    "department": "School of Integrative and Global Majors",
+    "official_url": "https://www.tsukuba.ac.jp/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_e0735938a7b5",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_e0735938a7b5",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_e0735938a7b5",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

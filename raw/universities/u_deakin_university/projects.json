@@ -1,0 +1,1892 @@
+[
+  {
+    "project_id": "u_deakin_university_main_accounting",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "accounting",
+    "name": "Master of Professional Accounting",
+    "degree": "MPA",
+    "department": "Deakin Business School",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_business",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "Master of Business Administration",
+    "degree": "MBA",
+    "department": "Deakin Business School",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_finance",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "Master of Finance",
+    "degree": "MFin",
+    "department": "Deakin Business School",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_human_resource",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "human_resource",
+    "name": "Master of Human Resource Management",
+    "degree": "MHRM",
+    "department": "Deakin Business School",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_international_bus",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_bus",
+    "name": "Master of International Business",
+    "degree": "MIB",
+    "department": "Deakin Business School",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_management",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "management",
+    "name": "Master of Management",
+    "degree": "MMgmt",
+    "department": "Deakin Business School",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_marketing",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "marketing",
+    "name": "Master of Marketing",
+    "degree": "MMkt",
+    "department": "Deakin Business School",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_project_mgmt",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "project_mgmt",
+    "name": "Master of Project Management",
+    "degree": "MPM",
+    "department": "Deakin Business School",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_supply_chain",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "supply_chain",
+    "name": "Master of Supply Chain Management",
+    "degree": "MSCM",
+    "department": "Deakin Business School",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_analytics",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "analytics",
+    "name": "Master of Business Analytics",
+    "degree": "MBusAn",
+    "department": "Deakin Business School",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_law",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "Juris Doctor",
+    "degree": "JD",
+    "department": "Deakin Law School",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_llm",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "llm",
+    "name": "Master of Laws",
+    "degree": "LLM",
+    "department": "Deakin Law School",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_education",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "Master of Education",
+    "degree": "MEd",
+    "department": "School of Education",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_teaching",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "teaching",
+    "name": "Master of Teaching",
+    "degree": "MT",
+    "department": "School of Education",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_special_ed",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "special_ed",
+    "name": "Master of Special Education",
+    "degree": "MSpEd",
+    "department": "School of Education",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_nursing",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "nursing",
+    "name": "Master of Nursing",
+    "degree": "MN",
+    "department": "School of Nursing and Midwifery",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_public_health",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "public_health",
+    "name": "Master of Public Health",
+    "degree": "MPH",
+    "department": "School of Health and Social Development",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_health_admin",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "health_admin",
+    "name": "Master of Health Administration",
+    "degree": "MHA",
+    "department": "School of Health and Social Development",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_social_work",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "social_work",
+    "name": "Master of Social Work",
+    "degree": "MSW",
+    "department": "School of Health and Social Development",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_psychology",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "Master of Psychology",
+    "degree": "MPsych",
+    "department": "School of Psychology",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_clinical_psych",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "clinical_psych",
+    "name": "Master of Clinical Psychology",
+    "degree": "MClinPsych",
+    "department": "School of Psychology",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_information_technology",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "information_technology",
+    "name": "Master of Information Technology",
+    "degree": "MIT",
+    "department": "School of Information Technology",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_data_science",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "data_science",
+    "name": "Master of Data Science",
+    "degree": "MDatSc",
+    "department": "School of Information Technology",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_cyber_security",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "cyber_security",
+    "name": "Master of Cyber Security",
+    "degree": "MCybSec",
+    "department": "School of Information Technology",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_artificial_intelligence",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "artificial_intelligence",
+    "name": "Master of Artificial Intelligence",
+    "degree": "MAI",
+    "department": "School of Information Technology",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_engineering",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "engineering",
+    "name": "Master of Engineering",
+    "degree": "MEng",
+    "department": "School of Engineering",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_construction_mgmt",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "construction_mgmt",
+    "name": "Master of Construction Management",
+    "degree": "MCM",
+    "department": "School of Architecture and Built Environment",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_architecture",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "Master of Architecture",
+    "degree": "MArch",
+    "department": "School of Architecture and Built Environment",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_environment",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "environment",
+    "name": "Master of Environment",
+    "degree": "MEnv",
+    "department": "School of Life and Environmental Sciences",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_deakin_university_main_science",
+    "university_id": "u_deakin_university",
+    "campus_id": "main",
+    "normalized_program_code": "science",
+    "name": "Master of Science",
+    "degree": "MSc",
+    "department": "School of Life and Environmental Sciences",
+    "official_url": "https://www.deakin.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bb72ad19ae00",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bb72ad19ae00",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bb72ad19ae00",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

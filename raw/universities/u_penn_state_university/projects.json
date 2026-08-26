@@ -1,0 +1,1703 @@
+[
+  {
+    "project_id": "u_penn_state_university_main_comp_sci",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MS Computer Science",
+    "degree": "MS",
+    "department": "EECS",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_ee",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MS Electrical Engineering",
+    "degree": "MS",
+    "department": "EECS",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_mech_eng",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MS Mechanical Engineering",
+    "degree": "MS",
+    "department": "ME",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_civil_eng",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MS Civil Engineering",
+    "degree": "MS",
+    "department": "CEE",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_chemical_eng",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "chemical_eng",
+    "name": "MS Chemical Engineering",
+    "degree": "MS",
+    "department": "ChE",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_biomedical_eng",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "biomedical_eng",
+    "name": "MS Biomedical Engineering",
+    "degree": "MS",
+    "department": "BME",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_industrial_eng",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "industrial_eng",
+    "name": "MS Industrial Engineering",
+    "degree": "MS",
+    "department": "IME",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_materials_eng",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "materials_eng",
+    "name": "MS Materials Science",
+    "degree": "MS",
+    "department": "MSE",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_nuclear_eng",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "nuclear_eng",
+    "name": "MS Nuclear Engineering",
+    "degree": "MS",
+    "department": "ME",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_architectural_eng",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "architectural_eng",
+    "name": "MS Architectural Engineering",
+    "degree": "MS",
+    "department": "AE",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_physics",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MS Physics",
+    "degree": "MS",
+    "department": "Physics",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_chemistry",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MS Chemistry",
+    "degree": "MS",
+    "department": "Chemistry",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_biology",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "biology",
+    "name": "MS Biology",
+    "degree": "MS",
+    "department": "Biology",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_math",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "math",
+    "name": "MS Mathematics",
+    "degree": "MS",
+    "department": "Math",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_stats",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "stats",
+    "name": "MS Statistics",
+    "degree": "MS",
+    "department": "Stats",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_psych",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "psych",
+    "name": "MS Psychology",
+    "degree": "MS",
+    "department": "Psych",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_econ",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "econ",
+    "name": "MA Economics",
+    "degree": "MA",
+    "department": "Econ",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_english",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "english",
+    "name": "MA English",
+    "degree": "MA",
+    "department": "English",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_business",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MBA",
+    "degree": "MBA",
+    "department": "Smeal",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_law",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "JD",
+    "degree": "JD",
+    "department": "Law",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_medicine",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "medicine",
+    "name": "MD",
+    "degree": "MD",
+    "department": "Med",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_nursing",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "nursing",
+    "name": "MSN",
+    "degree": "MSN",
+    "department": "Nursing",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_public_health",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "public_health",
+    "name": "MPH",
+    "degree": "MPH",
+    "department": "Med",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_education",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MEd",
+    "degree": "MEd",
+    "department": "Education",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_social_work",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "social_work",
+    "name": "MSW",
+    "degree": "MSW",
+    "department": "Social Work",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_music",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "music",
+    "name": "MM",
+    "degree": "MM",
+    "department": "Music",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_penn_state_university_main_architecture",
+    "university_id": "u_penn_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "MArch",
+    "degree": "MArch",
+    "department": "Architecture",
+    "official_url": "https://www.psu.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_ae7a70a283bd",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_ae7a70a283bd",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_ae7a70a283bd",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

@@ -1,0 +1,1703 @@
+[
+  {
+    "project_id": "u_indiana_university_bloomington_main_comp_sci",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MS Computer Science",
+    "degree": "MS",
+    "department": "Luddy",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_data_science",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "data_science",
+    "name": "MS Data Science",
+    "degree": "MS",
+    "department": "Luddy",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_informatics",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "informatics",
+    "name": "MS Informatics",
+    "degree": "MS",
+    "department": "Luddy",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_ee",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MS Electrical Engineering",
+    "degree": "MS",
+    "department": "Luddy",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_physics",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MS Physics",
+    "degree": "MS",
+    "department": "A&S",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_chemistry",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MS Chemistry",
+    "degree": "MS",
+    "department": "A&S",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_biology",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "biology",
+    "name": "MS Biology",
+    "degree": "MS",
+    "department": "A&S",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_math",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "math",
+    "name": "MS Mathematics",
+    "degree": "MS",
+    "department": "A&S",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_stats",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "stats",
+    "name": "MS Statistics",
+    "degree": "MS",
+    "department": "A&S",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_psych",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "psych",
+    "name": "MS Psychology",
+    "degree": "MS",
+    "department": "A&S",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_econ",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "econ",
+    "name": "MA Economics",
+    "degree": "MA",
+    "department": "A&S",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_english",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "english",
+    "name": "MA English",
+    "degree": "MA",
+    "department": "A&S",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_history",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "history",
+    "name": "MA History",
+    "degree": "MA",
+    "department": "A&S",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_philosophy",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "philosophy",
+    "name": "MA Philosophy",
+    "degree": "MA",
+    "department": "A&S",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_political_sci",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "political_sci",
+    "name": "MA Political Science",
+    "degree": "MA",
+    "department": "A&S",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_sociology",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "sociology",
+    "name": "MA Sociology",
+    "degree": "MA",
+    "department": "A&S",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_music",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "music",
+    "name": "MM",
+    "degree": "MM",
+    "department": "Jacobs",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_business",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MBA",
+    "degree": "MBA",
+    "department": "Kelley",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_finance",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "MS Finance",
+    "degree": "MS",
+    "department": "Kelley",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_accounting",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "accounting",
+    "name": "MS Accounting",
+    "degree": "MS",
+    "department": "Kelley",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_marketing",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "marketing",
+    "name": "MS Marketing",
+    "degree": "MS",
+    "department": "Kelley",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_law",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "JD",
+    "degree": "JD",
+    "department": "Law",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_medicine",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "medicine",
+    "name": "MD",
+    "degree": "MD",
+    "department": "Med",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_nursing",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "nursing",
+    "name": "MSN",
+    "degree": "MSN",
+    "department": "Nursing",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_public_health",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "public_health",
+    "name": "MPH",
+    "degree": "MPH",
+    "department": "Public Health",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_education",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MSEd",
+    "degree": "MSEd",
+    "department": "Education",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_indiana_university_bloomington_main_social_work",
+    "university_id": "u_indiana_university_bloomington",
+    "campus_id": "main",
+    "normalized_program_code": "social_work",
+    "name": "MSW",
+    "degree": "MSW",
+    "department": "Social Work",
+    "official_url": "https://www.indiana.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_83156477ef74",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_83156477ef74",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_83156477ef74",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

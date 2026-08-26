@@ -1,0 +1,632 @@
+[
+  {
+    "project_id": "u_university_of_canterbury_main_engineering",
+    "university_id": "u_university_of_canterbury",
+    "campus_id": "main",
+    "normalized_program_code": "engineering",
+    "name": "Master of Engineering",
+    "degree": "ME",
+    "department": "Faculty of Engineering",
+    "official_url": "https://www.canterbury.ac.nz",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_331e4aa0eccc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_331e4aa0eccc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_canterbury_main_computer_science",
+    "university_id": "u_university_of_canterbury",
+    "campus_id": "main",
+    "normalized_program_code": "computer_science",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "Faculty of Engineering",
+    "official_url": "https://www.canterbury.ac.nz",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_331e4aa0eccc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_331e4aa0eccc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_canterbury_main_science",
+    "university_id": "u_university_of_canterbury",
+    "campus_id": "main",
+    "normalized_program_code": "science",
+    "name": "Master of Science",
+    "degree": "MSc",
+    "department": "Faculty of Science",
+    "official_url": "https://www.canterbury.ac.nz",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_331e4aa0eccc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_331e4aa0eccc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_canterbury_main_arts",
+    "university_id": "u_university_of_canterbury",
+    "campus_id": "main",
+    "normalized_program_code": "arts",
+    "name": "Master of Arts",
+    "degree": "MA",
+    "department": "Faculty of Arts",
+    "official_url": "https://www.canterbury.ac.nz",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_331e4aa0eccc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_331e4aa0eccc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_canterbury_main_business",
+    "university_id": "u_university_of_canterbury",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "Master of Business",
+    "degree": "MBus",
+    "department": "UC Business School",
+    "official_url": "https://www.canterbury.ac.nz",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_331e4aa0eccc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_331e4aa0eccc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_canterbury_main_education",
+    "university_id": "u_university_of_canterbury",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "Master of Education",
+    "degree": "MEd",
+    "department": "College of Education",
+    "official_url": "https://www.canterbury.ac.nz",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_331e4aa0eccc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_331e4aa0eccc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_canterbury_main_law",
+    "university_id": "u_university_of_canterbury",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "LLM Law",
+    "degree": "LLM",
+    "department": "Faculty of Law",
+    "official_url": "https://www.canterbury.ac.nz",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_331e4aa0eccc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_331e4aa0eccc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_canterbury_main_fine_arts",
+    "university_id": "u_university_of_canterbury",
+    "campus_id": "main",
+    "normalized_program_code": "fine_arts",
+    "name": "Master of Fine Arts",
+    "degree": "MFA",
+    "department": "Faculty of Fine Arts",
+    "official_url": "https://www.canterbury.ac.nz",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_331e4aa0eccc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_331e4aa0eccc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_canterbury_main_music",
+    "university_id": "u_university_of_canterbury",
+    "campus_id": "main",
+    "normalized_program_code": "music",
+    "name": "Master of Music",
+    "degree": "MMus",
+    "department": "Faculty of Fine Arts",
+    "official_url": "https://www.canterbury.ac.nz",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_331e4aa0eccc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_331e4aa0eccc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_canterbury_main_social_work",
+    "university_id": "u_university_of_canterbury",
+    "campus_id": "main",
+    "normalized_program_code": "social_work",
+    "name": "Master of Social Work",
+    "degree": "MSW",
+    "department": "Faculty of Arts",
+    "official_url": "https://www.canterbury.ac.nz",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_331e4aa0eccc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_331e4aa0eccc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_331e4aa0eccc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

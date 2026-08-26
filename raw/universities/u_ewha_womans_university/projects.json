@@ -1,0 +1,1136 @@
+[
+  {
+    "project_id": "u_ewha_womans_university_main_comp_sci",
+    "university_id": "u_ewha_womans_university",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "Department of Computer Science",
+    "official_url": "https://www.ewha.ac.kr/eng/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_79609bbea9b3",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_79609bbea9b3",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_ewha_womans_university_main_ee",
+    "university_id": "u_ewha_womans_university",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MSc Electrical Engineering",
+    "degree": "MSc",
+    "department": "Department of Electrical Engineering",
+    "official_url": "https://www.ewha.ac.kr/eng/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_79609bbea9b3",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_79609bbea9b3",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_ewha_womans_university_main_mech_eng",
+    "university_id": "u_ewha_womans_university",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MSc Mechanical Engineering",
+    "degree": "MSc",
+    "department": "Department of Mechanical Engineering",
+    "official_url": "https://www.ewha.ac.kr/eng/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_79609bbea9b3",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_79609bbea9b3",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_ewha_womans_university_main_materials_eng",
+    "university_id": "u_ewha_womans_university",
+    "campus_id": "main",
+    "normalized_program_code": "materials_eng",
+    "name": "MSc Materials Science",
+    "degree": "MSc",
+    "department": "Department of Materials Science",
+    "official_url": "https://www.ewha.ac.kr/eng/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_79609bbea9b3",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_79609bbea9b3",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_ewha_womans_university_main_physics",
+    "university_id": "u_ewha_womans_university",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MSc Physics",
+    "degree": "MSc",
+    "department": "Department of Physics",
+    "official_url": "https://www.ewha.ac.kr/eng/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_79609bbea9b3",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_79609bbea9b3",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_ewha_womans_university_main_chemistry",
+    "university_id": "u_ewha_womans_university",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MSc Chemistry",
+    "degree": "MSc",
+    "department": "Department of Chemistry",
+    "official_url": "https://www.ewha.ac.kr/eng/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_79609bbea9b3",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_79609bbea9b3",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_ewha_womans_university_main_biology",
+    "university_id": "u_ewha_womans_university",
+    "campus_id": "main",
+    "normalized_program_code": "biology",
+    "name": "MSc Biology",
+    "degree": "MSc",
+    "department": "Department of Life Sciences",
+    "official_url": "https://www.ewha.ac.kr/eng/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_79609bbea9b3",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_79609bbea9b3",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_ewha_womans_university_main_mathematics",
+    "university_id": "u_ewha_womans_university",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics",
+    "name": "MSc Mathematics",
+    "degree": "MSc",
+    "department": "Department of Mathematics",
+    "official_url": "https://www.ewha.ac.kr/eng/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_79609bbea9b3",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_79609bbea9b3",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_ewha_womans_university_main_business",
+    "university_id": "u_ewha_womans_university",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MBA",
+    "degree": "MBA",
+    "department": "School of Business",
+    "official_url": "https://www.ewha.ac.kr/eng/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_79609bbea9b3",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_79609bbea9b3",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_ewha_womans_university_main_economics",
+    "university_id": "u_ewha_womans_university",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MSc Economics",
+    "degree": "MSc",
+    "department": "School of Business",
+    "official_url": "https://www.ewha.ac.kr/eng/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_79609bbea9b3",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_79609bbea9b3",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_ewha_womans_university_main_law",
+    "university_id": "u_ewha_womans_university",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "LLM Law",
+    "degree": "LLM",
+    "department": "Law School",
+    "official_url": "https://www.ewha.ac.kr/eng/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_79609bbea9b3",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_79609bbea9b3",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_ewha_womans_university_main_education",
+    "university_id": "u_ewha_womans_university",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MEd Education",
+    "degree": "MEd",
+    "department": "Graduate School of Education",
+    "official_url": "https://www.ewha.ac.kr/eng/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_79609bbea9b3",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_79609bbea9b3",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_ewha_womans_university_main_psychology",
+    "university_id": "u_ewha_womans_university",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "MSc Psychology",
+    "degree": "MSc",
+    "department": "Department of Psychology",
+    "official_url": "https://www.ewha.ac.kr/eng/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_79609bbea9b3",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_79609bbea9b3",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_ewha_womans_university_main_international_studies",
+    "university_id": "u_ewha_womans_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_studies",
+    "name": "MA International Studies",
+    "degree": "MA",
+    "department": "Graduate School of International Studies",
+    "official_url": "https://www.ewha.ac.kr/eng/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_79609bbea9b3",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_79609bbea9b3",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_ewha_womans_university_main_medicine",
+    "university_id": "u_ewha_womans_university",
+    "campus_id": "main",
+    "normalized_program_code": "medicine",
+    "name": "MD Medicine",
+    "degree": "MD",
+    "department": "College of Medicine",
+    "official_url": "https://www.ewha.ac.kr/eng/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_79609bbea9b3",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_79609bbea9b3",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_ewha_womans_university_main_pharmacy",
+    "university_id": "u_ewha_womans_university",
+    "campus_id": "main",
+    "normalized_program_code": "pharmacy",
+    "name": "MSc Pharmacy",
+    "degree": "MSc",
+    "department": "College of Pharmacy",
+    "official_url": "https://www.ewha.ac.kr/eng/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_79609bbea9b3",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_79609bbea9b3",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_ewha_womans_university_main_public_health",
+    "university_id": "u_ewha_womans_university",
+    "campus_id": "main",
+    "normalized_program_code": "public_health",
+    "name": "MPH Public Health",
+    "degree": "MPH",
+    "department": "Graduate School of Public Health",
+    "official_url": "https://www.ewha.ac.kr/eng/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_79609bbea9b3",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_79609bbea9b3",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_ewha_womans_university_main_gender_studies",
+    "university_id": "u_ewha_womans_university",
+    "campus_id": "main",
+    "normalized_program_code": "gender_studies",
+    "name": "MA Gender and Culture Studies",
+    "degree": "MA",
+    "department": "Graduate School of International Studies",
+    "official_url": "https://www.ewha.ac.kr/eng/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_79609bbea9b3",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_79609bbea9b3",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_79609bbea9b3",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  }
+]

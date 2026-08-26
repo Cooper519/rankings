@@ -1,0 +1,1892 @@
+[
+  {
+    "project_id": "u_macquarie_university_main_accounting",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "accounting",
+    "name": "Master of Professional Accounting",
+    "degree": "MPA",
+    "department": "Macquarie Business School",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_actuarial",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "actuarial",
+    "name": "Master of Actuarial Practice",
+    "degree": "MActPrac",
+    "department": "Macquarie Business School",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_business",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "Master of Business Administration",
+    "degree": "MBA",
+    "department": "Macquarie Business School",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_business_analytics",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "business_analytics",
+    "name": "Master of Business Analytics",
+    "degree": "MBusAn",
+    "department": "Macquarie Business School",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_finance",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "Master of Applied Finance",
+    "degree": "MAF",
+    "department": "Macquarie Business School",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_human_resource",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "human_resource",
+    "name": "Master of Human Resource Management",
+    "degree": "MHRM",
+    "department": "Macquarie Business School",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_international_bus",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_bus",
+    "name": "Master of International Business",
+    "degree": "MIB",
+    "department": "Macquarie Business School",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_management",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "management",
+    "name": "Master of Management",
+    "degree": "MMgmt",
+    "department": "Macquarie Business School",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_marketing",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "marketing",
+    "name": "Master of Marketing",
+    "degree": "MMkt",
+    "department": "Macquarie Business School",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_professional_accounting",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "professional_accounting",
+    "name": "Master of Professional Accounting",
+    "degree": "MPA",
+    "department": "Macquarie Business School",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_law",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "Juris Doctor",
+    "degree": "JD",
+    "department": "Macquarie Law School",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_llm",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "llm",
+    "name": "Master of Laws",
+    "degree": "LLM",
+    "department": "Macquarie Law School",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_education",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "Master of Education",
+    "degree": "MEd",
+    "department": "Faculty of Arts",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_teaching",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "teaching",
+    "name": "Master of Teaching",
+    "degree": "MT",
+    "department": "Faculty of Arts",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_creative_writing",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "creative_writing",
+    "name": "Master of Creative Writing",
+    "degree": "MCW",
+    "department": "Faculty of Arts",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_english",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "english",
+    "name": "Master of English Literature",
+    "degree": "MEL",
+    "department": "Faculty of Arts",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_international_rel",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_rel",
+    "name": "Master of International Relations",
+    "degree": "MIR",
+    "department": "Faculty of Arts",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_media",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "media",
+    "name": "Master of Media",
+    "degree": "MMedia",
+    "department": "Faculty of Arts",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_translation",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "translation",
+    "name": "Master of Translation and Interpreting Studies",
+    "degree": "MTIS",
+    "department": "Faculty of Arts",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_ancient_history",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "ancient_history",
+    "name": "Master of Ancient History",
+    "degree": "MAH",
+    "department": "Faculty of Arts",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_sociology",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "sociology",
+    "name": "Master of Sociology",
+    "degree": "MSoc",
+    "department": "Faculty of Arts",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_archaeology",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "archaeology",
+    "name": "Master of Archaeology",
+    "degree": "MArch",
+    "department": "Faculty of Arts",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_psychology",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "Master of Psychology",
+    "degree": "MPsych",
+    "department": "Faculty of Medicine, Health and Human Sciences",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_clinical_psych",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "clinical_psych",
+    "name": "Master of Clinical Psychology",
+    "degree": "MClinPsych",
+    "department": "Faculty of Medicine, Health and Human Sciences",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_public_health",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "public_health",
+    "name": "Master of Public Health",
+    "degree": "MPH",
+    "department": "Faculty of Medicine, Health and Human Sciences",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_health_management",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "health_management",
+    "name": "Master of Health Management",
+    "degree": "MHM",
+    "department": "Faculty of Medicine, Health and Human Sciences",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_nursing",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "nursing",
+    "name": "Master of Nursing",
+    "degree": "MN",
+    "department": "Faculty of Medicine, Health and Human Sciences",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_chiropractic",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "chiropractic",
+    "name": "Master of Chiropractic",
+    "degree": "MChiro",
+    "department": "Faculty of Medicine, Health and Human Sciences",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_speech_pathology",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "speech_pathology",
+    "name": "Master of Speech Pathology",
+    "degree": "MSpPath",
+    "department": "Faculty of Medicine, Health and Human Sciences",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_macquarie_university_main_data_science",
+    "university_id": "u_macquarie_university",
+    "campus_id": "main",
+    "normalized_program_code": "data_science",
+    "name": "Master of Data Science",
+    "degree": "MDatSc",
+    "department": "Faculty of Science and Engineering",
+    "official_url": "https://www.mq.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_9210454395e8",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_9210454395e8",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_9210454395e8",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

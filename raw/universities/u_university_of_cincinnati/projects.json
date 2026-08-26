@@ -1,0 +1,1640 @@
+[
+  {
+    "project_id": "u_university_of_cincinnati_main_comp_sci",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MS Computer Science",
+    "degree": "MS",
+    "department": "Department of Computer Science",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_ee",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MS Electrical Engineering",
+    "degree": "MS",
+    "department": "Department of Electrical Engineering",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_mech_eng",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MS Mechanical Engineering",
+    "degree": "MS",
+    "department": "Department of Mechanical Engineering",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_civil_eng",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MS Civil Engineering",
+    "degree": "MS",
+    "department": "Department of Civil Engineering",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_chemical_eng",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "chemical_eng",
+    "name": "MS Chemical Engineering",
+    "degree": "MS",
+    "department": "Department of Chemical Engineering",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_biomedical_eng",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "biomedical_eng",
+    "name": "MS Biomedical Engineering",
+    "degree": "MS",
+    "department": "Department of Biomedical Engineering",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_materials_eng",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "materials_eng",
+    "name": "MS Materials Science",
+    "degree": "MS",
+    "department": "Department of Materials Science",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_physics",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MS Physics",
+    "degree": "MS",
+    "department": "Department of Physics",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_chemistry",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MS Chemistry",
+    "degree": "MS",
+    "department": "Department of Chemistry",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_biology",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "biology",
+    "name": "MS Biology",
+    "degree": "MS",
+    "department": "Department of Biology",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_mathematics",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics",
+    "name": "MS Mathematics",
+    "degree": "MS",
+    "department": "Department of Mathematics",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_psychology",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "MS Psychology",
+    "degree": "MS",
+    "department": "Department of Psychology",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_economics",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MA Economics",
+    "degree": "MA",
+    "department": "Department of Economics",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_business",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MBA",
+    "degree": "MBA",
+    "department": "Carl H. Lindner College of Business",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_finance",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "MS Finance",
+    "degree": "MS",
+    "department": "Carl H. Lindner College of Business",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_accounting",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "accounting",
+    "name": "MS Accounting",
+    "degree": "MS",
+    "department": "Carl H. Lindner College of Business",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_marketing",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "marketing",
+    "name": "MS Marketing",
+    "degree": "MS",
+    "department": "Carl H. Lindner College of Business",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_law",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "JD Law",
+    "degree": "JD",
+    "department": "College of Law",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_medicine",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "medicine",
+    "name": "MD Medicine",
+    "degree": "MD",
+    "department": "College of Medicine",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_nursing",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "nursing",
+    "name": "MSN Nursing",
+    "degree": "MSN",
+    "department": "College of Nursing",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_pharmacy",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "pharmacy",
+    "name": "PharmD Pharmacy",
+    "degree": "PharmD",
+    "department": "James L. Winkle College of Pharmacy",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_education",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MEd Education",
+    "degree": "MEd",
+    "department": "College of Education",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_social_work",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "social_work",
+    "name": "MSW Social Work",
+    "degree": "MSW",
+    "department": "College of Allied Health Sciences",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_music",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "music",
+    "name": "MM Music",
+    "degree": "MM",
+    "department": "College-Conservatory of Music",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_architecture",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "MArch Architecture",
+    "degree": "MArch",
+    "department": "College of Design, Architecture, Art, and Planning",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_cincinnati_main_fine_arts",
+    "university_id": "u_university_of_cincinnati",
+    "campus_id": "main",
+    "normalized_program_code": "fine_arts",
+    "name": "MFA Fine Arts",
+    "degree": "MFA",
+    "department": "College of Design, Architecture, Art, and Planning",
+    "official_url": "https://www.uc.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_d29c1dc35c32",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_d29c1dc35c32",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_d29c1dc35c32",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

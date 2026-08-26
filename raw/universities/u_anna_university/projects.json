@@ -1,0 +1,632 @@
+[
+  {
+    "project_id": "u_anna_university_main_engineering",
+    "university_id": "u_anna_university",
+    "campus_id": "main",
+    "normalized_program_code": "engineering",
+    "name": "ME Engineering",
+    "degree": "ME",
+    "department": "College of Engineering",
+    "official_url": "https://www.annauniversity.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a8dc3012a8fb",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a8dc3012a8fb",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_anna_university_main_computer_science",
+    "university_id": "u_anna_university",
+    "campus_id": "main",
+    "normalized_program_code": "computer_science",
+    "name": "ME Computer Science",
+    "degree": "ME",
+    "department": "College of Engineering",
+    "official_url": "https://www.annauniversity.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a8dc3012a8fb",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a8dc3012a8fb",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_anna_university_main_ee",
+    "university_id": "u_anna_university",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "ME Electrical Engineering",
+    "degree": "ME",
+    "department": "College of Engineering",
+    "official_url": "https://www.annauniversity.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a8dc3012a8fb",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a8dc3012a8fb",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_anna_university_main_mech_eng",
+    "university_id": "u_anna_university",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "ME Mechanical Engineering",
+    "degree": "ME",
+    "department": "College of Engineering",
+    "official_url": "https://www.annauniversity.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a8dc3012a8fb",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a8dc3012a8fb",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_anna_university_main_civil_eng",
+    "university_id": "u_anna_university",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "ME Civil Engineering",
+    "degree": "ME",
+    "department": "College of Engineering",
+    "official_url": "https://www.annauniversity.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a8dc3012a8fb",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a8dc3012a8fb",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_anna_university_main_chemical_eng",
+    "university_id": "u_anna_university",
+    "campus_id": "main",
+    "normalized_program_code": "chemical_eng",
+    "name": "ME Chemical Engineering",
+    "degree": "ME",
+    "department": "College of Engineering",
+    "official_url": "https://www.annauniversity.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a8dc3012a8fb",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a8dc3012a8fb",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_anna_university_main_electronics",
+    "university_id": "u_anna_university",
+    "campus_id": "main",
+    "normalized_program_code": "electronics",
+    "name": "ME Electronics",
+    "degree": "ME",
+    "department": "College of Engineering",
+    "official_url": "https://www.annauniversity.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a8dc3012a8fb",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a8dc3012a8fb",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_anna_university_main_bio_tech",
+    "university_id": "u_anna_university",
+    "campus_id": "main",
+    "normalized_program_code": "bio_tech",
+    "name": "ME Bio Technology",
+    "degree": "ME",
+    "department": "College of Technology",
+    "official_url": "https://www.annauniversity.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a8dc3012a8fb",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a8dc3012a8fb",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_anna_university_main_architecture",
+    "university_id": "u_anna_university",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "MArch Architecture",
+    "degree": "MArch",
+    "department": "School of Architecture",
+    "official_url": "https://www.annauniversity.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a8dc3012a8fb",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a8dc3012a8fb",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_anna_university_main_management",
+    "university_id": "u_anna_university",
+    "campus_id": "main",
+    "normalized_program_code": "management",
+    "name": "MBA Business Administration",
+    "degree": "MBA",
+    "department": "Department of Management Studies",
+    "official_url": "https://www.annauniversity.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_a8dc3012a8fb",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_a8dc3012a8fb",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_a8dc3012a8fb",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

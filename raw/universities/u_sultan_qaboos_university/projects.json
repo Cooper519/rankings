@@ -1,0 +1,758 @@
+[
+  {
+    "project_id": "u_sultan_qaboos_university_main_engineering",
+    "university_id": "u_sultan_qaboos_university",
+    "campus_id": "main",
+    "normalized_program_code": "engineering",
+    "name": "MSc Engineering",
+    "degree": "MSc",
+    "department": "College of Engineering",
+    "official_url": "https://www.squ.edu.om/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0eaadc3698f4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0eaadc3698f4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_sultan_qaboos_university_main_science",
+    "university_id": "u_sultan_qaboos_university",
+    "campus_id": "main",
+    "normalized_program_code": "science",
+    "name": "MSc Science",
+    "degree": "MSc",
+    "department": "College of Science",
+    "official_url": "https://www.squ.edu.om/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0eaadc3698f4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0eaadc3698f4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_sultan_qaboos_university_main_medicine",
+    "university_id": "u_sultan_qaboos_university",
+    "campus_id": "main",
+    "normalized_program_code": "medicine",
+    "name": "MSc Medicine",
+    "degree": "MSc",
+    "department": "College of Medicine",
+    "official_url": "https://www.squ.edu.om/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0eaadc3698f4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0eaadc3698f4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_sultan_qaboos_university_main_nursing",
+    "university_id": "u_sultan_qaboos_university",
+    "campus_id": "main",
+    "normalized_program_code": "nursing",
+    "name": "MSc Nursing",
+    "degree": "MSc",
+    "department": "College of Nursing",
+    "official_url": "https://www.squ.edu.om/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0eaadc3698f4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0eaadc3698f4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_sultan_qaboos_university_main_pharmacy",
+    "university_id": "u_sultan_qaboos_university",
+    "campus_id": "main",
+    "normalized_program_code": "pharmacy",
+    "name": "MSc Pharmacy",
+    "degree": "MSc",
+    "department": "College of Pharmacy",
+    "official_url": "https://www.squ.edu.om/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0eaadc3698f4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0eaadc3698f4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_sultan_qaboos_university_main_education",
+    "university_id": "u_sultan_qaboos_university",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MEd Education",
+    "degree": "MEd",
+    "department": "College of Education",
+    "official_url": "https://www.squ.edu.om/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0eaadc3698f4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0eaadc3698f4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_sultan_qaboos_university_main_economics",
+    "university_id": "u_sultan_qaboos_university",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MSc Economics",
+    "degree": "MSc",
+    "department": "College of Commerce and Economics",
+    "official_url": "https://www.squ.edu.om/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0eaadc3698f4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0eaadc3698f4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_sultan_qaboos_university_main_business",
+    "university_id": "u_sultan_qaboos_university",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MBA",
+    "degree": "MBA",
+    "department": "College of Commerce and Economics",
+    "official_url": "https://www.squ.edu.om/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0eaadc3698f4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0eaadc3698f4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_sultan_qaboos_university_main_law",
+    "university_id": "u_sultan_qaboos_university",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "LLM Law",
+    "degree": "LLM",
+    "department": "College of Law",
+    "official_url": "https://www.squ.edu.om/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0eaadc3698f4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0eaadc3698f4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_sultan_qaboos_university_main_agriculture",
+    "university_id": "u_sultan_qaboos_university",
+    "campus_id": "main",
+    "normalized_program_code": "agriculture",
+    "name": "MSc Agriculture",
+    "degree": "MSc",
+    "department": "College of Agricultural and Marine Sciences",
+    "official_url": "https://www.squ.edu.om/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0eaadc3698f4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0eaadc3698f4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_sultan_qaboos_university_main_arts",
+    "university_id": "u_sultan_qaboos_university",
+    "campus_id": "main",
+    "normalized_program_code": "arts",
+    "name": "MA Arts",
+    "degree": "MA",
+    "department": "College of Arts and Social Sciences",
+    "official_url": "https://www.squ.edu.om/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0eaadc3698f4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0eaadc3698f4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_sultan_qaboos_university_main_information_sys",
+    "university_id": "u_sultan_qaboos_university",
+    "campus_id": "main",
+    "normalized_program_code": "information_sys",
+    "name": "MSc Information Systems",
+    "degree": "MSc",
+    "department": "College of Economics and Political Science",
+    "official_url": "https://www.squ.edu.om/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_0eaadc3698f4",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_0eaadc3698f4",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_0eaadc3698f4",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  }
+]

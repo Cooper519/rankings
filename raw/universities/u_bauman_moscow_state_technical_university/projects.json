@@ -1,0 +1,632 @@
+[
+  {
+    "project_id": "u_bauman_moscow_state_technical_university_main_comp_sci",
+    "university_id": "u_bauman_moscow_state_technical_university",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MSc Computer Science",
+    "degree": "MSc",
+    "department": "Institute of Informatics and Control",
+    "official_url": "https://www.bmstu.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8c397ac04e55",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8c397ac04e55",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_bauman_moscow_state_technical_university_main_ee",
+    "university_id": "u_bauman_moscow_state_technical_university",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MSc Electrical Engineering",
+    "degree": "MSc",
+    "department": "Institute of Radioelectronics and Information Technology",
+    "official_url": "https://www.bmstu.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8c397ac04e55",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8c397ac04e55",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_bauman_moscow_state_technical_university_main_mech_eng",
+    "university_id": "u_bauman_moscow_state_technical_university",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MSc Mechanical Engineering",
+    "degree": "MSc",
+    "department": "Institute of Mechanical Engineering",
+    "official_url": "https://www.bmstu.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8c397ac04e55",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8c397ac04e55",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_bauman_moscow_state_technical_university_main_aerospace_eng",
+    "university_id": "u_bauman_moscow_state_technical_university",
+    "campus_id": "main",
+    "normalized_program_code": "aerospace_eng",
+    "name": "MSc Aerospace Engineering",
+    "degree": "MSc",
+    "department": "Institute of Aerospace Engineering",
+    "official_url": "https://www.bmstu.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8c397ac04e55",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8c397ac04e55",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_bauman_moscow_state_technical_university_main_civil_eng",
+    "university_id": "u_bauman_moscow_state_technical_university",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MSc Civil Engineering",
+    "degree": "MSc",
+    "department": "Institute of Specialized Construction Studies",
+    "official_url": "https://www.bmstu.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8c397ac04e55",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8c397ac04e55",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_bauman_moscow_state_technical_university_main_chemical_eng",
+    "university_id": "u_bauman_moscow_state_technical_university",
+    "campus_id": "main",
+    "normalized_program_code": "chemical_eng",
+    "name": "MSc Chemical Engineering",
+    "degree": "MSc",
+    "department": "Institute of Physics and Technology",
+    "official_url": "https://www.bmstu.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8c397ac04e55",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8c397ac04e55",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_bauman_moscow_state_technical_university_main_materials_eng",
+    "university_id": "u_bauman_moscow_state_technical_university",
+    "campus_id": "main",
+    "normalized_program_code": "materials_eng",
+    "name": "MSc Materials Science",
+    "degree": "MSc",
+    "department": "Institute of Physical, Chemical and Nanomaterials Technologies",
+    "official_url": "https://www.bmstu.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8c397ac04e55",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8c397ac04e55",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_bauman_moscow_state_technical_university_main_robotics",
+    "university_id": "u_bauman_moscow_state_technical_university",
+    "campus_id": "main",
+    "normalized_program_code": "robotics",
+    "name": "MSc Robotics",
+    "degree": "MSc",
+    "department": "Institute of Cyber-Physical Systems",
+    "official_url": "https://www.bmstu.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8c397ac04e55",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8c397ac04e55",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_bauman_moscow_state_technical_university_main_energy_eng",
+    "university_id": "u_bauman_moscow_state_technical_university",
+    "campus_id": "main",
+    "normalized_program_code": "energy_eng",
+    "name": "MSc Energy Engineering",
+    "degree": "MSc",
+    "department": "Institute of Energy Engineering",
+    "official_url": "https://www.bmstu.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8c397ac04e55",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8c397ac04e55",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_bauman_moscow_state_technical_university_main_transport",
+    "university_id": "u_bauman_moscow_state_technical_university",
+    "campus_id": "main",
+    "normalized_program_code": "transport",
+    "name": "MSc Transport Engineering",
+    "degree": "MSc",
+    "department": "Institute of Information Technologies in Transport",
+    "official_url": "https://www.bmstu.ru/en/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_8c397ac04e55",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_8c397ac04e55",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_8c397ac04e55",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  }
+]

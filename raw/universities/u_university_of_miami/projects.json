@@ -1,0 +1,2522 @@
+[
+  {
+    "project_id": "u_university_of_miami_main_accounting",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "accounting",
+    "name": "MAcc Accounting",
+    "degree": "MAcc",
+    "department": "Miami Herbert Business School",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_business",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MBA Business Administration",
+    "degree": "MBA",
+    "department": "Miami Herbert Business School",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_finance",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "MS Finance",
+    "degree": "MS",
+    "department": "Miami Herbert Business School",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_management",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "management",
+    "name": "MS Management",
+    "degree": "MS",
+    "department": "Miami Herbert Business School",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_marketing",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "marketing",
+    "name": "MS Marketing",
+    "degree": "MS",
+    "department": "Miami Herbert Business School",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_real_estate",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "real_estate",
+    "name": "MS Real Estate",
+    "degree": "MS",
+    "department": "Miami Herbert Business School",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_taxation",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "taxation",
+    "name": "MS Taxation",
+    "degree": "MS",
+    "department": "Miami Herbert Business School",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_business_analytics",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "business_analytics",
+    "name": "MS Business Analytics",
+    "degree": "MS",
+    "department": "Miami Herbert Business School",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_comp_sci",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MS Computer Science",
+    "degree": "MS",
+    "department": "College of Engineering",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_data_science",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "data_science",
+    "name": "MS Data Science",
+    "degree": "MS",
+    "department": "College of Engineering",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_ee",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MS Electrical and Computer Engineering",
+    "degree": "MS",
+    "department": "College of Engineering",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_mech_eng",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MS Mechanical Engineering",
+    "degree": "MS",
+    "department": "College of Engineering",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_civil_eng",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MS Civil Engineering",
+    "degree": "MS",
+    "department": "College of Engineering",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_biomedical_eng",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "biomedical_eng",
+    "name": "MS Biomedical Engineering",
+    "degree": "MS",
+    "department": "College of Engineering",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_industrial_eng",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "industrial_eng",
+    "name": "MS Industrial Engineering",
+    "degree": "MS",
+    "department": "College of Engineering",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_physics",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MS Physics",
+    "degree": "MS",
+    "department": "College of Arts and Sciences",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_chemistry",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MS Chemistry",
+    "degree": "MS",
+    "department": "College of Arts and Sciences",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_biology",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "biology",
+    "name": "MS Biology",
+    "degree": "MS",
+    "department": "College of Arts and Sciences",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_mathematics",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics",
+    "name": "MS Mathematics",
+    "degree": "MS",
+    "department": "College of Arts and Sciences",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_psychology",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "MA Psychology",
+    "degree": "MA",
+    "department": "College of Arts and Sciences",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_economics",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MA Economics",
+    "degree": "MA",
+    "department": "College of Arts and Sciences",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_english",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "english",
+    "name": "MA English",
+    "degree": "MA",
+    "department": "College of Arts and Sciences",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_history",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "history",
+    "name": "MA History",
+    "degree": "MA",
+    "department": "College of Arts and Sciences",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_music",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "music",
+    "name": "MM Music",
+    "degree": "MM",
+    "department": "Frost School of Music",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_law",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "JD Law",
+    "degree": "JD",
+    "department": "School of Law",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_llm",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "llm",
+    "name": "LLM Law",
+    "degree": "LLM",
+    "department": "School of Law",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_medicine",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "medicine",
+    "name": "MD Medicine",
+    "degree": "MD",
+    "department": "Miller School of Medicine",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_nursing",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "nursing",
+    "name": "MSN Nursing",
+    "degree": "MSN",
+    "department": "School of Nursing and Health Studies",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_public_health",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "public_health",
+    "name": "MPH Public Health",
+    "degree": "MPH",
+    "department": "Miller School of Medicine",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_education",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MEd Education",
+    "degree": "MEd",
+    "department": "School of Education and Human Development",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_social_work",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "social_work",
+    "name": "MSW Social Work",
+    "degree": "MSW",
+    "department": "School of Education and Human Development",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_architecture",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "MArch Architecture",
+    "degree": "MArch",
+    "department": "School of Architecture",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_marine_sci",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "marine_sci",
+    "name": "MS Marine Science",
+    "degree": "MS",
+    "department": "Rosenstiel School of Marine and Atmospheric Science",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_atmospheric_sci",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "atmospheric_sci",
+    "name": "MS Atmospheric Science",
+    "degree": "MS",
+    "department": "Rosenstiel School of Marine and Atmospheric Science",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_communication",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "communication",
+    "name": "MA Communication",
+    "degree": "MA",
+    "department": "School of Communication",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_film",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "film",
+    "name": "MFA Film",
+    "degree": "MFA",
+    "department": "School of Communication",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_journalism",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "journalism",
+    "name": "MA Journalism",
+    "degree": "MA",
+    "department": "School of Communication",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_public_admin",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "public_admin",
+    "name": "MPA Public Administration",
+    "degree": "MPA",
+    "department": "College of Arts and Sciences",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_international_rel",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "international_rel",
+    "name": "MA International Studies",
+    "degree": "MA",
+    "department": "College of Arts and Sciences",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_university_of_miami_main_sports_admin",
+    "university_id": "u_university_of_miami",
+    "campus_id": "main",
+    "normalized_program_code": "sports_admin",
+    "name": "MS Sports Administration",
+    "degree": "MS",
+    "department": "School of Education and Human Development",
+    "official_url": "https://www.miami.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_46a95ea5bec2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_46a95ea5bec2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_46a95ea5bec2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

@@ -1,0 +1,1892 @@
+[
+  {
+    "project_id": "u_northeastern_university_main_comp_sci",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MS Computer Science",
+    "degree": "MS",
+    "department": "Khoury College of Computer Sciences",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_data_science",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "data_science",
+    "name": "MS Data Science",
+    "degree": "MS",
+    "department": "Khoury College of Computer Sciences",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_ai",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "ai",
+    "name": "MS Artificial Intelligence",
+    "degree": "MS",
+    "department": "Khoury College of Computer Sciences",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_cyber_security",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "cyber_security",
+    "name": "MS Cyber Security",
+    "degree": "MS",
+    "department": "Khoury College of Computer Sciences",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_ee",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "ee",
+    "name": "MS Electrical Engineering",
+    "degree": "MS",
+    "department": "College of Engineering",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_mech_eng",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "mech_eng",
+    "name": "MS Mechanical Engineering",
+    "degree": "MS",
+    "department": "College of Engineering",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_civil_eng",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "civil_eng",
+    "name": "MS Civil Engineering",
+    "degree": "MS",
+    "department": "College of Engineering",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_chemical_eng",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "chemical_eng",
+    "name": "MS Chemical Engineering",
+    "degree": "MS",
+    "department": "College of Engineering",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_biomedical_eng",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "biomedical_eng",
+    "name": "MS Biomedical Engineering",
+    "degree": "MS",
+    "department": "College of Engineering",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_systems_eng",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "systems_eng",
+    "name": "MS Systems Engineering",
+    "degree": "MS",
+    "department": "College of Engineering",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_physics",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MS Physics",
+    "degree": "MS",
+    "department": "College of Science",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_chemistry",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MS Chemistry",
+    "degree": "MS",
+    "department": "College of Science",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_biology",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "biology",
+    "name": "MS Biology",
+    "degree": "MS",
+    "department": "College of Science",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_mathematics",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics",
+    "name": "MS Mathematics",
+    "degree": "MS",
+    "department": "College of Science",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_psychology",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "MS Psychology",
+    "degree": "MS",
+    "department": "College of Science",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_economics",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MA Economics",
+    "degree": "MA",
+    "department": "College of Social Sciences",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_business",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "MBA",
+    "degree": "MBA",
+    "department": "D'Amore-McKim School of Business",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_finance",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "MS Finance",
+    "degree": "MS",
+    "department": "D'Amore-McKim School of Business",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_accounting",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "accounting",
+    "name": "MS Accounting",
+    "degree": "MS",
+    "department": "D'Amore-McKim School of Business",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_management",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "management",
+    "name": "MS Management",
+    "degree": "MS",
+    "department": "D'Amore-McKim School of Business",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_marketing",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "marketing",
+    "name": "MS Marketing",
+    "degree": "MS",
+    "department": "D'Amore-McKim School of Business",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_taxation",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "taxation",
+    "name": "MS Taxation",
+    "degree": "MS",
+    "department": "D'Amore-McKim School of Business",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_law",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "JD Law",
+    "degree": "JD",
+    "department": "School of Law",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_llm",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "llm",
+    "name": "LLM Law",
+    "degree": "LLM",
+    "department": "School of Law",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_education",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MEd Education",
+    "degree": "MEd",
+    "department": "College of Education",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_pharmaceutical_sci",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "pharmaceutical_sci",
+    "name": "MS Pharmaceutical Sciences",
+    "degree": "MS",
+    "department": "School of Pharmacy",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_public_health",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "public_health",
+    "name": "MPH Public Health",
+    "degree": "MPH",
+    "department": "Bouvé College of Health Sciences",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_nursing",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "nursing",
+    "name": "MSN Nursing",
+    "degree": "MSN",
+    "department": "Bouvé College of Health Sciences",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_information_sys",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "information_sys",
+    "name": "MS Information Systems",
+    "degree": "MS",
+    "department": "College of Engineering",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  },
+  {
+    "project_id": "u_northeastern_university_main_game_design",
+    "university_id": "u_northeastern_university",
+    "campus_id": "main",
+    "normalized_program_code": "game_design",
+    "name": "MS Game Science and Design",
+    "degree": "MS",
+    "department": "Khoury College",
+    "official_url": "https://www.northeastern.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_5339aa6a308b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_5339aa6a308b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_5339aa6a308b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted"
+  }
+]

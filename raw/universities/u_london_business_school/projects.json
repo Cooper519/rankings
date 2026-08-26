@@ -1,0 +1,821 @@
+[
+  {
+    "project_id": "u_london_business_school_main_mba",
+    "university_id": "u_london_business_school",
+    "campus_id": "main",
+    "normalized_program_code": "mba",
+    "name": "MBA",
+    "degree": "MBA",
+    "department": "Business",
+    "official_url": "https://www.london.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_924e6c97fb7c",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_924e6c97fb7c",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_london_business_school_main_finance",
+    "university_id": "u_london_business_school",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "MSc Finance",
+    "degree": "MSc",
+    "department": "Finance",
+    "official_url": "https://www.london.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_924e6c97fb7c",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_924e6c97fb7c",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_london_business_school_main_accounting",
+    "university_id": "u_london_business_school",
+    "campus_id": "main",
+    "normalized_program_code": "accounting",
+    "name": "MSc Accounting",
+    "degree": "MSc",
+    "department": "Accounting",
+    "official_url": "https://www.london.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_924e6c97fb7c",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_924e6c97fb7c",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_london_business_school_main_management",
+    "university_id": "u_london_business_school",
+    "campus_id": "main",
+    "normalized_program_code": "management",
+    "name": "MSc Management",
+    "degree": "MSc",
+    "department": "Management",
+    "official_url": "https://www.london.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_924e6c97fb7c",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_924e6c97fb7c",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_london_business_school_main_marketing",
+    "university_id": "u_london_business_school",
+    "campus_id": "main",
+    "normalized_program_code": "marketing",
+    "name": "MSc Marketing",
+    "degree": "MSc",
+    "department": "Marketing",
+    "official_url": "https://www.london.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_924e6c97fb7c",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_924e6c97fb7c",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_london_business_school_main_analytics",
+    "university_id": "u_london_business_school",
+    "campus_id": "main",
+    "normalized_program_code": "analytics",
+    "name": "MSc Analytics and Management",
+    "degree": "MSc",
+    "department": "Analytics",
+    "official_url": "https://www.london.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_924e6c97fb7c",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_924e6c97fb7c",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_london_business_school_main_entrepreneurship",
+    "university_id": "u_london_business_school",
+    "campus_id": "main",
+    "normalized_program_code": "entrepreneurship",
+    "name": "MSc Entrepreneurship",
+    "degree": "MSc",
+    "department": "Entrepreneurship",
+    "official_url": "https://www.london.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_924e6c97fb7c",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_924e6c97fb7c",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_london_business_school_main_global_masters",
+    "university_id": "u_london_business_school",
+    "campus_id": "main",
+    "normalized_program_code": "global_masters",
+    "name": "MSc Global Masters in Management",
+    "degree": "MSc",
+    "department": "Management",
+    "official_url": "https://www.london.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_924e6c97fb7c",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_924e6c97fb7c",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_london_business_school_main_finance_analytics",
+    "university_id": "u_london_business_school",
+    "campus_id": "main",
+    "normalized_program_code": "finance_analytics",
+    "name": "MSc Finance and Analytics",
+    "degree": "MSc",
+    "department": "Finance",
+    "official_url": "https://www.london.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_924e6c97fb7c",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_924e6c97fb7c",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_london_business_school_main_international_business",
+    "university_id": "u_london_business_school",
+    "campus_id": "main",
+    "normalized_program_code": "international_business",
+    "name": "MSc International Business",
+    "degree": "MSc",
+    "department": "International Business",
+    "official_url": "https://www.london.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_924e6c97fb7c",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_924e6c97fb7c",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_london_business_school_main_london_bus",
+    "university_id": "u_london_business_school",
+    "campus_id": "main",
+    "normalized_program_code": "london_bus",
+    "name": "MSc in London Business School Finance",
+    "degree": "MSc",
+    "department": "Finance",
+    "official_url": "https://www.london.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_924e6c97fb7c",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_924e6c97fb7c",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_london_business_school_main_mim",
+    "university_id": "u_london_business_school",
+    "campus_id": "main",
+    "normalized_program_code": "mim",
+    "name": "Masters in Management",
+    "degree": "MIM",
+    "department": "Management",
+    "official_url": "https://www.london.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_924e6c97fb7c",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_924e6c97fb7c",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_london_business_school_main_mgm",
+    "university_id": "u_london_business_school",
+    "campus_id": "main",
+    "normalized_program_code": "mgm",
+    "name": "Masters in Global Management",
+    "degree": "MGM",
+    "department": "Management",
+    "official_url": "https://www.london.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_924e6c97fb7c",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_924e6c97fb7c",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_924e6c97fb7c",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

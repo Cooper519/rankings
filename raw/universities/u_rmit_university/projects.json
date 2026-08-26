@@ -1,0 +1,695 @@
+[
+  {
+    "project_id": "u_rmit_university_main_mba",
+    "university_id": "u_rmit_university",
+    "campus_id": "main",
+    "normalized_program_code": "mba",
+    "name": "Executive MBA",
+    "degree": "MBA",
+    "department": "College of Business and Law",
+    "official_url": "https://www.rmit.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bfcc38710ba0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bfcc38710ba0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_rmit_university_main_cyber_security",
+    "university_id": "u_rmit_university",
+    "campus_id": "main",
+    "normalized_program_code": "cyber_security",
+    "name": "Master of Cyber Security",
+    "degree": "MCybSec",
+    "department": "College of Science, Engineering and Health",
+    "official_url": "https://www.rmit.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bfcc38710ba0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bfcc38710ba0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_rmit_university_main_comp_sci",
+    "university_id": "u_rmit_university",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "Master of Computer Science",
+    "degree": "MCompSc",
+    "department": "College of Science, Engineering and Health",
+    "official_url": "https://www.rmit.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bfcc38710ba0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bfcc38710ba0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_rmit_university_main_data_science",
+    "university_id": "u_rmit_university",
+    "campus_id": "main",
+    "normalized_program_code": "data_science",
+    "name": "Master of Data Science",
+    "degree": "MDatSc",
+    "department": "College of Science, Engineering and Health",
+    "official_url": "https://www.rmit.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bfcc38710ba0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bfcc38710ba0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_rmit_university_main_ai",
+    "university_id": "u_rmit_university",
+    "campus_id": "main",
+    "normalized_program_code": "ai",
+    "name": "Master of Artificial Intelligence",
+    "degree": "MAI",
+    "department": "College of Science, Engineering and Health",
+    "official_url": "https://www.rmit.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bfcc38710ba0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bfcc38710ba0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_rmit_university_main_engineering",
+    "university_id": "u_rmit_university",
+    "campus_id": "main",
+    "normalized_program_code": "engineering",
+    "name": "Master of Engineering",
+    "degree": "MEng",
+    "department": "College of Science, Engineering and Health",
+    "official_url": "https://www.rmit.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bfcc38710ba0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bfcc38710ba0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_rmit_university_main_architecture",
+    "university_id": "u_rmit_university",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "Master of Architecture",
+    "degree": "MArch",
+    "department": "College of Design and Social Context",
+    "official_url": "https://www.rmit.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bfcc38710ba0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bfcc38710ba0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_rmit_university_main_design",
+    "university_id": "u_rmit_university",
+    "campus_id": "main",
+    "normalized_program_code": "design",
+    "name": "Master of Design",
+    "degree": "MDes",
+    "department": "College of Design and Social Context",
+    "official_url": "https://www.rmit.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bfcc38710ba0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bfcc38710ba0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_rmit_university_main_business",
+    "university_id": "u_rmit_university",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "Master of Business",
+    "degree": "MBus",
+    "department": "College of Business and Law",
+    "official_url": "https://www.rmit.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bfcc38710ba0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bfcc38710ba0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_rmit_university_main_finance",
+    "university_id": "u_rmit_university",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "Master of Finance",
+    "degree": "MFin",
+    "department": "College of Business and Law",
+    "official_url": "https://www.rmit.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bfcc38710ba0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bfcc38710ba0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_rmit_university_main_analytics",
+    "university_id": "u_rmit_university",
+    "campus_id": "main",
+    "normalized_program_code": "analytics",
+    "name": "Master of Analytics",
+    "degree": "MAn",
+    "department": "College of Business and Law",
+    "official_url": "https://www.rmit.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_bfcc38710ba0",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_bfcc38710ba0",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_bfcc38710ba0",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

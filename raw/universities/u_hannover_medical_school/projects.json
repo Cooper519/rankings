@@ -1,0 +1,632 @@
+[
+  {
+    "project_id": "u_hannover_medical_school_main_medicine",
+    "university_id": "u_hannover_medical_school",
+    "campus_id": "main",
+    "normalized_program_code": "medicine",
+    "name": "MSc Medicine",
+    "degree": "MSc",
+    "department": "Medical School Hannover",
+    "official_url": "https://www.mhh.de/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_13d199adc80e",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_13d199adc80e",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hannover_medical_school_main_biomedical_eng",
+    "university_id": "u_hannover_medical_school",
+    "campus_id": "main",
+    "normalized_program_code": "biomedical_eng",
+    "name": "MSc Biomedical Engineering",
+    "degree": "MSc",
+    "department": "Institute of Biomedical Engineering",
+    "official_url": "https://www.mhh.de/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_13d199adc80e",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_13d199adc80e",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hannover_medical_school_main_infectious_disease",
+    "university_id": "u_hannover_medical_school",
+    "campus_id": "main",
+    "normalized_program_code": "infectious_disease",
+    "name": "MSc Infectious Disease",
+    "degree": "MSc",
+    "department": "Department of Virology",
+    "official_url": "https://www.mhh.de/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_13d199adc80e",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_13d199adc80e",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hannover_medical_school_main_immunology",
+    "university_id": "u_hannover_medical_school",
+    "campus_id": "main",
+    "normalized_program_code": "immunology",
+    "name": "MSc Immunology",
+    "degree": "MSc",
+    "department": "Institute of Immunology",
+    "official_url": "https://www.mhh.de/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_13d199adc80e",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_13d199adc80e",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hannover_medical_school_main_pharmacy",
+    "university_id": "u_hannover_medical_school",
+    "campus_id": "main",
+    "normalized_program_code": "pharmacy",
+    "name": "MSc Pharmaceutical Sciences",
+    "degree": "MSc",
+    "department": "Institute of Pharmaceutical Sciences",
+    "official_url": "https://www.mhh.de/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_13d199adc80e",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_13d199adc80e",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hannover_medical_school_main_public_health",
+    "university_id": "u_hannover_medical_school",
+    "campus_id": "main",
+    "normalized_program_code": "public_health",
+    "name": "MPH Public Health",
+    "degree": "MPH",
+    "department": "Institute of Epidemiology",
+    "official_url": "https://www.mhh.de/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_13d199adc80e",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_13d199adc80e",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hannover_medical_school_main_biomedical_research",
+    "university_id": "u_hannover_medical_school",
+    "campus_id": "main",
+    "normalized_program_code": "biomedical_research",
+    "name": "MSc Biomedical Research",
+    "degree": "MSc",
+    "department": "Institute of Experimental Hematology",
+    "official_url": "https://www.mhh.de/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_13d199adc80e",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_13d199adc80e",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hannover_medical_school_main_auditory",
+    "university_id": "u_hannover_medical_school",
+    "campus_id": "main",
+    "normalized_program_code": "auditory",
+    "name": "MSc Hearing and Speech Sciences",
+    "degree": "MSc",
+    "department": "Institute of AudioNeuroTechnology",
+    "official_url": "https://www.mhh.de/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_13d199adc80e",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_13d199adc80e",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hannover_medical_school_main_nursing",
+    "university_id": "u_hannover_medical_school",
+    "campus_id": "main",
+    "normalized_program_code": "nursing",
+    "name": "MSc Nursing",
+    "degree": "MSc",
+    "department": "Institute of Nursing Science",
+    "official_url": "https://www.mhh.de/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_13d199adc80e",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_13d199adc80e",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_hannover_medical_school_main_biomedicine",
+    "university_id": "u_hannover_medical_school",
+    "campus_id": "main",
+    "normalized_program_code": "biomedicine",
+    "name": "MSc Biomedicine",
+    "degree": "MSc",
+    "department": "Institute of Molecular Medicine",
+    "official_url": "https://www.mhh.de/en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_13d199adc80e",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_13d199adc80e",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_13d199adc80e",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

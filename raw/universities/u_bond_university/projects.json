@@ -1,0 +1,884 @@
+[
+  {
+    "project_id": "u_bond_university_main_actuarial_sci",
+    "university_id": "u_bond_university",
+    "campus_id": "main",
+    "normalized_program_code": "actuarial_sci",
+    "name": "Master of Actuarial Science",
+    "degree": "MActSc",
+    "department": "Faculty of Actuarial Science and Data Analytics",
+    "official_url": "https://bond.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3810eadc201b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3810eadc201b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bond_university_main_architecture",
+    "university_id": "u_bond_university",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "Master of Architecture",
+    "degree": "MArch",
+    "department": "Faculty of Society and Design",
+    "official_url": "https://bond.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3810eadc201b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3810eadc201b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bond_university_main_business",
+    "university_id": "u_bond_university",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "Master of Business",
+    "degree": "MBus",
+    "department": "Bond Business School",
+    "official_url": "https://bond.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3810eadc201b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3810eadc201b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bond_university_main_commerce",
+    "university_id": "u_bond_university",
+    "campus_id": "main",
+    "normalized_program_code": "commerce",
+    "name": "Master of Commerce",
+    "degree": "MComm",
+    "department": "Bond Business School",
+    "official_url": "https://bond.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3810eadc201b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3810eadc201b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bond_university_main_mba",
+    "university_id": "u_bond_university",
+    "campus_id": "main",
+    "normalized_program_code": "mba",
+    "name": "MBA",
+    "degree": "MBA",
+    "department": "Bond Business School",
+    "official_url": "https://bond.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3810eadc201b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3810eadc201b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bond_university_main_construction_mgmt",
+    "university_id": "u_bond_university",
+    "campus_id": "main",
+    "normalized_program_code": "construction_mgmt",
+    "name": "Master of Construction Management",
+    "degree": "MCM",
+    "department": "Faculty of Society and Design",
+    "official_url": "https://bond.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3810eadc201b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3810eadc201b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bond_university_main_data_analytics",
+    "university_id": "u_bond_university",
+    "campus_id": "main",
+    "normalized_program_code": "data_analytics",
+    "name": "Master of Data Analytics",
+    "degree": "MDA",
+    "department": "Faculty of Actuarial Science and Data Analytics",
+    "official_url": "https://bond.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3810eadc201b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3810eadc201b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bond_university_main_film_tv",
+    "university_id": "u_bond_university",
+    "campus_id": "main",
+    "normalized_program_code": "film_tv",
+    "name": "Master of Film and Television",
+    "degree": "MFT",
+    "department": "Faculty of Society and Design",
+    "official_url": "https://bond.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3810eadc201b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3810eadc201b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bond_university_main_health_sci",
+    "university_id": "u_bond_university",
+    "campus_id": "main",
+    "normalized_program_code": "health_sci",
+    "name": "Master of Health Sciences",
+    "degree": "MHS",
+    "department": "Faculty of Health Sciences and Medicine",
+    "official_url": "https://bond.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3810eadc201b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3810eadc201b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bond_university_main_international_relations",
+    "university_id": "u_bond_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_relations",
+    "name": "Master of International Relations",
+    "degree": "MIR",
+    "department": "Faculty of Society and Design",
+    "official_url": "https://bond.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3810eadc201b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3810eadc201b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bond_university_main_law",
+    "university_id": "u_bond_university",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "Juris Doctor",
+    "degree": "JD",
+    "department": "Faculty of Law",
+    "official_url": "https://bond.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3810eadc201b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3810eadc201b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bond_university_main_psychology",
+    "university_id": "u_bond_university",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "Master of Psychology",
+    "degree": "MPsych",
+    "department": "Faculty of Society and Design",
+    "official_url": "https://bond.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3810eadc201b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3810eadc201b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bond_university_main_project_mgmt",
+    "university_id": "u_bond_university",
+    "campus_id": "main",
+    "normalized_program_code": "project_mgmt",
+    "name": "Master of Project Management",
+    "degree": "MPM",
+    "department": "Faculty of Society and Design",
+    "official_url": "https://bond.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3810eadc201b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3810eadc201b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_bond_university_main_sport_mgmt",
+    "university_id": "u_bond_university",
+    "campus_id": "main",
+    "normalized_program_code": "sport_mgmt",
+    "name": "Master of Sport Management",
+    "degree": "MSM",
+    "department": "Faculty of Health Sciences and Medicine",
+    "official_url": "https://bond.edu.au/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_3810eadc201b",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_3810eadc201b",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_3810eadc201b",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

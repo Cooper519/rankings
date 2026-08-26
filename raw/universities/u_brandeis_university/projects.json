@@ -1,0 +1,1766 @@
+[
+  {
+    "project_id": "u_brandeis_university_main_comp_sci",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "comp_sci",
+    "name": "MS Computer Science",
+    "degree": "MS",
+    "department": "Department of Computer Science",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_data_science",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "data_science",
+    "name": "MS Data Science",
+    "degree": "MS",
+    "department": "Department of Computer Science",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_bioinformatics",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "bioinformatics",
+    "name": "MS Bioinformatics",
+    "degree": "MS",
+    "department": "Department of Computer Science",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_physics",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MS Physics",
+    "degree": "MS",
+    "department": "Department of Physics",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_chemistry",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "MS Chemistry",
+    "degree": "MS",
+    "department": "Department of Chemistry",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_biology",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "biology",
+    "name": "MS Biology",
+    "degree": "MS",
+    "department": "Department of Biology",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_mathematics",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics",
+    "name": "MA Mathematics",
+    "degree": "MA",
+    "department": "Department of Mathematics",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_physics",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "physics",
+    "name": "MS Physics",
+    "degree": "MS",
+    "department": "Department of Physics",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_neuroscience",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "neuroscience",
+    "name": "MS Neuroscience",
+    "degree": "MS",
+    "department": "Department of Neuroscience",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_economics",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "MA Economics",
+    "degree": "MA",
+    "department": "Department of Economics",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_international_rel",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_rel",
+    "name": "MA International Relations",
+    "degree": "MA",
+    "department": "Department of Politics",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_politics",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "politics",
+    "name": "MA Politics",
+    "degree": "MA",
+    "department": "Department of Politics",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_sociology",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "sociology",
+    "name": "MA Sociology",
+    "degree": "MA",
+    "department": "Department of Sociology",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_anthropology",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "anthropology",
+    "name": "MA Anthropology",
+    "degree": "MA",
+    "department": "Department of Anthropology",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_history",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "history",
+    "name": "MA History",
+    "degree": "MA",
+    "department": "Department of History",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_english",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "english",
+    "name": "MA English",
+    "degree": "MA",
+    "department": "Department of English",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_philosophy",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "philosophy",
+    "name": "MA Philosophy",
+    "degree": "MA",
+    "department": "Department of Philosophy",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_music",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "music",
+    "name": "MM Music",
+    "degree": "MM",
+    "department": "Department of Music",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_fine_arts",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "fine_arts",
+    "name": "MFA Fine Arts",
+    "degree": "MFA",
+    "department": "Department of Fine Arts",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_psychology",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "psychology",
+    "name": "MA Psychology",
+    "degree": "MA",
+    "department": "Department of Psychology",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_education",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "education",
+    "name": "MA Education",
+    "degree": "MA",
+    "department": "Department of Education",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_jewish_studies",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "jewish_studies",
+    "name": "MA Jewish Studies",
+    "degree": "MA",
+    "department": "Department of Near Eastern and Judaic Studies",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_women_studies",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "women_studies",
+    "name": "MA Women Gender and Sexuality Studies",
+    "degree": "MA",
+    "department": "Department of Women Gender and Sexuality Studies",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_public_policy",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "public_policy",
+    "name": "MA Public Policy",
+    "degree": "MA",
+    "department": "Heller School for Social Policy and Management",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_business_analytics",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "business_analytics",
+    "name": "MS Business Analytics",
+    "degree": "MS",
+    "department": "International Business School",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_finance",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "MS Finance",
+    "degree": "MS",
+    "department": "International Business School",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_management",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "management",
+    "name": "MA Management",
+    "degree": "MA",
+    "department": "International Business School",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_brandeis_university_main_mba",
+    "university_id": "u_brandeis_university",
+    "campus_id": "main",
+    "normalized_program_code": "mba",
+    "name": "MBA",
+    "degree": "MBA",
+    "department": "International Business School",
+    "official_url": "https://www.brandeis.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_1ee881cc1fdc",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_1ee881cc1fdc",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_1ee881cc1fdc",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

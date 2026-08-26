@@ -1,0 +1,4285 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-14T02:59:01.472993+00:00",
+  "policy": {
+    "rorIdentityRequired": true,
+    "rorDomainConsistencyRequired": true,
+    "liveOfficialPageRequired": true,
+    "liveStructuredIdentityRequired": true,
+    "liveVisibleBodyIdentityRequired": true,
+    "rorAloneCannotVerify": true,
+    "targetsModified": false,
+    "manifestsModified": false,
+    "sitemapOptional": false
+  },
+  "summary": {
+    "processed": 10,
+    "verified": 10,
+    "review": 0,
+    "blocked": 0,
+    "rejected": 0
+  },
+  "selection": {
+    "totalInput": 10,
+    "workerIndex": 0,
+    "workerCount": 1,
+    "limit": null,
+    "selected": 10
+  },
+  "items": [
+    {
+      "queuePosition": 91,
+      "canonicalId": "u_beihang_university",
+      "name": "Beihang University",
+      "country": "China",
+      "sourceUniversityIds": [
+        "u_beihang_university",
+        "u_beihang_university_former_buaa"
+      ],
+      "rankingSources": [
+        "qs",
+        "the",
+        "arwu",
+        "usnews"
+      ],
+      "rankingSourceCount": 4,
+      "rankingAppearances": [
+        {
+          "source": "qs",
+          "rank": 349,
+          "year": 2027,
+          "universityId": "u_beihang_university_former_buaa",
+          "name": "Beihang University (former BUAA)"
+        },
+        {
+          "source": "the",
+          "rank": 251,
+          "year": 2025,
+          "universityId": "u_beihang_university",
+          "name": "Beihang University"
+        },
+        {
+          "source": "arwu",
+          "rank": 151,
+          "year": 2024,
+          "universityId": "u_beihang_university",
+          "name": "Beihang University"
+        },
+        {
+          "source": "usnews",
+          "rank": 183,
+          "year": 2025,
+          "universityId": "u_beihang_university",
+          "name": "Beihang University"
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Beihang University\" China official graduate programs",
+          "purpose": "official-graduate-catalog",
+          "domainHint": null,
+          "domainHintIsVerification": false
+        },
+        {
+          "query": "\"Beihang University\" China official master programs",
+          "purpose": "official-master-catalog",
+          "domainHint": null,
+          "domainHintIsVerification": false
+        }
+      ],
+      "officialDomains": [],
+      "indexUrl": null,
+      "verificationStatus": "verified",
+      "shard": 9,
+      "aliasProposal": null,
+      "rorOrganization": {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "buaa.edu.cn"
+        ],
+        "established": 1952,
+        "external_ids": [
+          {
+            "all": [
+              "501100002358",
+              "501100003096",
+              "501100012240"
+            ],
+            "preferred": "501100002358",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.64939.31"
+            ],
+            "preferred": "grid.64939.31",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9999 1211"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2299797"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00wk2mp56",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://buaa.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Beihang_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BUAA"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beihang University"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Beijing University of Aeronautics and Astronautics"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京航空航天大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory of Software Development Environment",
+            "type": "child",
+            "id": "https://ror.org/017r4dj03"
+          },
+          {
+            "label": "State Key Laboratory of Virtual Reality Technology and Systems",
+            "type": "child",
+            "id": "https://ror.org/0009eea46"
+          },
+          {
+            "label": "Tianmushan Laboratory",
+            "type": "child",
+            "id": "https://ror.org/03smwa682"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      "registryResolution": {
+        "provider": "ROR",
+        "queryUrl": "https://api.ror.org/v2/organizations?query=%22Beihang%20University%22",
+        "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_beihang_university\\query_sha256=881511437f50071f.json.gz",
+        "rawManifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_beihang_university\\query_sha256=881511437f50071f.manifest.json",
+        "rawSha256": "45e911e5b704b39ab3cb6f85e1a8eb12ae7be6b26591e45898fcc598fd44a280",
+        "captureStatus": "cached",
+        "resultCount": 1,
+        "selected": {
+          "rorId": "https://ror.org/00wk2mp56",
+          "name": "Beihang University",
+          "score": 1.0,
+          "confidence": "high",
+          "exactName": true,
+          "translatedTokenExact": true,
+          "sequenceSimilarity": 1.0,
+          "tokenJaccard": 1.0,
+          "countryMatch": true,
+          "candidateCountry": "China",
+          "registryDomains": [
+            "buaa.edu.cn"
+          ]
+        },
+        "candidates": [
+          {
+            "rorId": "https://ror.org/00wk2mp56",
+            "name": "Beihang University",
+            "score": 1.0,
+            "confidence": "high",
+            "exactName": true,
+            "translatedTokenExact": true,
+            "sequenceSimilarity": 1.0,
+            "tokenJaccard": 1.0,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "buaa.edu.cn"
+            ]
+          }
+        ],
+        "attempts": [
+          {
+            "queryUrl": "https://api.ror.org/v2/organizations?query=%22Beihang%20University%22",
+            "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_beihang_university\\query_sha256=881511437f50071f.json.gz",
+            "rawManifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_beihang_university\\query_sha256=881511437f50071f.manifest.json",
+            "rawSha256": "45e911e5b704b39ab3cb6f85e1a8eb12ae7be6b26591e45898fcc598fd44a280",
+            "captureStatus": "cached",
+            "resultCount": 1,
+            "selected": {
+              "rorId": "https://ror.org/00wk2mp56",
+              "name": "Beihang University",
+              "score": 1.0,
+              "confidence": "high",
+              "exactName": true,
+              "translatedTokenExact": true,
+              "sequenceSimilarity": 1.0,
+              "tokenJaccard": 1.0,
+              "countryMatch": true,
+              "candidateCountry": "China",
+              "registryDomains": [
+                "buaa.edu.cn"
+              ]
+            },
+            "candidates": [
+              {
+                "rorId": "https://ror.org/00wk2mp56",
+                "name": "Beihang University",
+                "score": 1.0,
+                "confidence": "high",
+                "exactName": true,
+                "translatedTokenExact": true,
+                "sequenceSimilarity": 1.0,
+                "tokenJaccard": 1.0,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "buaa.edu.cn"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "registryDomainHints": [
+        "buaa.edu.cn"
+      ],
+      "discoveryVerificationStatus": "review",
+      "discoveryCaptureStatus": "captured",
+      "captureStatus": "cached",
+      "verification": {
+        "verificationStatus": "verified",
+        "captureStatus": "cached",
+        "reasonCodes": [],
+        "reasons": [],
+        "evidence": {
+          "registryIdentity": {
+            "targetName": "Beihang University",
+            "targetCountry": "china",
+            "rorCountry": "China",
+            "countryMatch": true,
+            "rorNames": [
+              "BUAA",
+              "Beihang University",
+              "Beijing University of Aeronautics and Astronautics",
+              "北京航空航天大学"
+            ],
+            "nameMatch": true,
+            "matchedName": "Beihang University",
+            "matchSource": "target-name",
+            "rorId": "https://ror.org/00wk2mp56"
+          },
+          "domainConsistency": {
+            "candidateUrl": "https://buaa.edu.cn",
+            "candidateHost": "buaa.edu.cn",
+            "rorDomains": [
+              "buaa.edu.cn"
+            ],
+            "domainMatch": true
+          },
+          "liveOfficialPage": {
+            "requestedUrl": "https://buaa.edu.cn/",
+            "finalUrl": "https://buaa.edu.cn/",
+            "status": 200,
+            "captureStatus": "cached",
+            "redirected": false,
+            "finalDomainMatch": true,
+            "raw": {
+              "schemaVersion": 1,
+              "kind": "homepage",
+              "requestedUrl": "https://buaa.edu.cn/",
+              "finalUrl": "https://buaa.edu.cn/",
+              "status": 200,
+              "headers": {
+                "Accept-Ranges": "bytes",
+                "Cache-Control": "max-age=600",
+                "Content-Language": "zh-CN",
+                "Content-Length": "70602",
+                "Content-Type": "text/html",
+                "Date": "Thu, 13 Aug 2026 14:58:30 GMT",
+                "Etag": "\"113ca-658e82409f486-gzip\"",
+                "Expires": "Thu, 13 Aug 2026 15:08:30 GMT",
+                "Last-Modified": "Thu, 13 Aug 2026 06:52:00 GMT",
+                "Nel": "{\"failure_fraction\":1,\"include_subdomains\":false,\"max_age\":86400,\"report_to\":\"websdp-nel\",\"success_fraction\":0}",
+                "Report-To": "{\"endpoints\":[{\"url\":\"https://buaa.edu.cn/__websdp/report/nel?s=gqk7_fhWe87JwUc3DlMjJtEThtHjthoIeVQf_Wcy-3w\"}],\"group\":\"websdp-nel\",\"max_age\":86400}",
+                "Reporting-Endpoints": "websdp-nel=\"https://buaa.edu.cn/__websdp/report/nel?s=gqk7_fhWe87JwUc3DlMjJtEThtHjthoIeVQf_Wcy-3w\"",
+                "Server": "***",
+                "Set-Cookie": "_zte_sid_=7a5ad200-5fdc-a8e3-6325-8bb257c2e565; Path=/; HttpOnly; Secure",
+                "Vary": "Accept-Encoding",
+                "X-Frame-Options": "SAMEORIGIN",
+                "Connection": "close"
+              },
+              "bytes": 70602,
+              "sha256": "4133a74d8199d604198828aeab45d041d38b01b498a9fc330ad63945621454b7",
+              "capturedAt": "2026-08-13T14:58:31.382877+00:00",
+              "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\official-sites\\u_beihang_university\\homepage_sha256=4133a74d8199d604198828aeab45d041d38b01b498a9fc330ad63945621454b7.body",
+              "manifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\official-sites\\u_beihang_university\\homepage_sha256=4133a74d8199d604198828aeab45d041d38b01b498a9fc330ad63945621454b7.manifest.json",
+              "captureStatus": "cached"
+            },
+            "title": "北京航空航天大学",
+            "h1": [],
+            "meta": [],
+            "jsonLdOrganizationNames": [],
+            "jsonLdErrors": [],
+            "identityCandidates": [
+              {
+                "source": "title",
+                "value": "北京航空航天大学",
+                "matchesAcceptedName": true,
+                "matchedName": "北京航空航天大学"
+              }
+            ],
+            "structuredIdentityMatches": true,
+            "structuredIdentityMatchedSources": [
+              "title"
+            ],
+            "titleMatches": true,
+            "titleMatchedName": "北京航空航天大学",
+            "bodyMatches": true,
+            "bodyMatchedName": "BUAA"
+          }
+        }
+      }
+    },
+    {
+      "queuePosition": 80,
+      "canonicalId": "u_beijing_institute_of_technology",
+      "name": "Beijing Institute of Technology",
+      "country": "China",
+      "sourceUniversityIds": [
+        "u_beijing_institute_of_technology"
+      ],
+      "rankingSources": [
+        "qs",
+        "the",
+        "arwu",
+        "usnews"
+      ],
+      "rankingSourceCount": 4,
+      "rankingAppearances": [
+        {
+          "source": "qs",
+          "rank": 243,
+          "year": 2027,
+          "universityId": "u_beijing_institute_of_technology",
+          "name": "Beijing Institute of Technology"
+        },
+        {
+          "source": "the",
+          "rank": 201,
+          "year": 2025,
+          "universityId": "u_beijing_institute_of_technology",
+          "name": "Beijing Institute of Technology"
+        },
+        {
+          "source": "arwu",
+          "rank": 101,
+          "year": 2024,
+          "universityId": "u_beijing_institute_of_technology",
+          "name": "Beijing Institute of Technology"
+        },
+        {
+          "source": "usnews",
+          "rank": 152,
+          "year": 2025,
+          "universityId": "u_beijing_institute_of_technology",
+          "name": "Beijing Institute of Technology"
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Beijing Institute of Technology\" China official graduate programs",
+          "purpose": "official-graduate-catalog",
+          "domainHint": null,
+          "domainHintIsVerification": false
+        },
+        {
+          "query": "\"Beijing Institute of Technology\" China official master programs",
+          "purpose": "official-master-catalog",
+          "domainHint": null,
+          "domainHintIsVerification": false
+        }
+      ],
+      "officialDomains": [],
+      "indexUrl": null,
+      "verificationStatus": "verified",
+      "shard": 5,
+      "aliasProposal": null,
+      "rorOrganization": {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-05-05",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bit.edu.cn"
+        ],
+        "established": 1940,
+        "external_ids": [
+          {
+            "all": [
+              "501100005085",
+              "501100012236"
+            ],
+            "preferred": "501100005085",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.43555.32"
+            ],
+            "preferred": "grid.43555.32",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 8841 6246"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q23101"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01skt4w74",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://bit.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Beijing_Institute_of_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BIT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing Institute of Technology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京理工大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Ministry of Industry and Information Technology",
+            "type": "parent",
+            "id": "https://ror.org/0385nmy68"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      "registryResolution": {
+        "provider": "ROR",
+        "queryUrl": "https://api.ror.org/v2/organizations?query=%22Beijing%20Institute%20of%20Technology%22",
+        "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_beijing_institute_of_technology\\query_sha256=7f26d45dd83adcee.json.gz",
+        "rawManifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_beijing_institute_of_technology\\query_sha256=7f26d45dd83adcee.manifest.json",
+        "rawSha256": "554a68fc374f411947c6d92b3b5cc9ba9e8b88fff9ade6e08977321b70529b64",
+        "captureStatus": "cached",
+        "resultCount": 1,
+        "selected": {
+          "rorId": "https://ror.org/01skt4w74",
+          "name": "Beijing Institute of Technology",
+          "score": 1.0,
+          "confidence": "high",
+          "exactName": true,
+          "translatedTokenExact": true,
+          "sequenceSimilarity": 1.0,
+          "tokenJaccard": 1.0,
+          "countryMatch": true,
+          "candidateCountry": "China",
+          "registryDomains": [
+            "bit.edu.cn"
+          ]
+        },
+        "candidates": [
+          {
+            "rorId": "https://ror.org/01skt4w74",
+            "name": "Beijing Institute of Technology",
+            "score": 1.0,
+            "confidence": "high",
+            "exactName": true,
+            "translatedTokenExact": true,
+            "sequenceSimilarity": 1.0,
+            "tokenJaccard": 1.0,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "bit.edu.cn"
+            ]
+          }
+        ],
+        "attempts": [
+          {
+            "queryUrl": "https://api.ror.org/v2/organizations?query=%22Beijing%20Institute%20of%20Technology%22",
+            "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_beijing_institute_of_technology\\query_sha256=7f26d45dd83adcee.json.gz",
+            "rawManifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_beijing_institute_of_technology\\query_sha256=7f26d45dd83adcee.manifest.json",
+            "rawSha256": "554a68fc374f411947c6d92b3b5cc9ba9e8b88fff9ade6e08977321b70529b64",
+            "captureStatus": "cached",
+            "resultCount": 1,
+            "selected": {
+              "rorId": "https://ror.org/01skt4w74",
+              "name": "Beijing Institute of Technology",
+              "score": 1.0,
+              "confidence": "high",
+              "exactName": true,
+              "translatedTokenExact": true,
+              "sequenceSimilarity": 1.0,
+              "tokenJaccard": 1.0,
+              "countryMatch": true,
+              "candidateCountry": "China",
+              "registryDomains": [
+                "bit.edu.cn"
+              ]
+            },
+            "candidates": [
+              {
+                "rorId": "https://ror.org/01skt4w74",
+                "name": "Beijing Institute of Technology",
+                "score": 1.0,
+                "confidence": "high",
+                "exactName": true,
+                "translatedTokenExact": true,
+                "sequenceSimilarity": 1.0,
+                "tokenJaccard": 1.0,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "bit.edu.cn"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "registryDomainHints": [
+        "bit.edu.cn"
+      ],
+      "discoveryVerificationStatus": "review",
+      "discoveryCaptureStatus": "cached",
+      "captureStatus": "cached",
+      "verification": {
+        "verificationStatus": "verified",
+        "captureStatus": "cached",
+        "reasonCodes": [],
+        "reasons": [],
+        "evidence": {
+          "registryIdentity": {
+            "targetName": "Beijing Institute of Technology",
+            "targetCountry": "china",
+            "rorCountry": "China",
+            "countryMatch": true,
+            "rorNames": [
+              "BIT",
+              "Beijing Institute of Technology",
+              "北京理工大学"
+            ],
+            "nameMatch": true,
+            "matchedName": "Beijing Institute of Technology",
+            "matchSource": "target-name",
+            "rorId": "https://ror.org/01skt4w74"
+          },
+          "domainConsistency": {
+            "candidateUrl": "https://bit.edu.cn",
+            "candidateHost": "bit.edu.cn",
+            "rorDomains": [
+              "bit.edu.cn"
+            ],
+            "domainMatch": true
+          },
+          "liveOfficialPage": {
+            "requestedUrl": "https://bit.edu.cn/",
+            "finalUrl": "https://bit.edu.cn/",
+            "status": 200,
+            "captureStatus": "cached",
+            "redirected": false,
+            "finalDomainMatch": true,
+            "raw": {
+              "schemaVersion": 1,
+              "kind": "homepage",
+              "requestedUrl": "https://bit.edu.cn/",
+              "finalUrl": "https://bit.edu.cn/",
+              "status": 200,
+              "headers": {
+                "Server": "nginx",
+                "Date": "Thu, 13 Aug 2026 14:46:19 GMT",
+                "Content-Type": "text/html",
+                "Content-Length": "55970",
+                "Last-Modified": "Wed, 12 Aug 2026 11:08:14 GMT",
+                "Connection": "close",
+                "ETag": "\"6a7c541e-daa2\"",
+                "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+                "Pragma": "no-cache",
+                "Expires": "0",
+                "X-Content-Type-Options": "nosniff",
+                "X-XSS-Protection": "1; mode=block",
+                "Strict-Transport-Security": "value",
+                "X-Permitted-Cross-Domain-Policies": "value",
+                "X-Download-Options": "value",
+                "Referrer-Policy": "value",
+                "Set-Cookie": "Path=/; HttpOnly; Secure",
+                "Accept-Ranges": "bytes"
+              },
+              "bytes": 55970,
+              "sha256": "707d62585981229b946e5560905aad45bfaa496469dfbe4539a6c0564beb9724",
+              "capturedAt": "2026-08-13T14:56:50.502592+00:00",
+              "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\official-sites\\u_beijing_institute_of_technology\\homepage_sha256=707d62585981229b946e5560905aad45bfaa496469dfbe4539a6c0564beb9724.body",
+              "manifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\official-sites\\u_beijing_institute_of_technology\\homepage_sha256=707d62585981229b946e5560905aad45bfaa496469dfbe4539a6c0564beb9724.manifest.json",
+              "captureStatus": "cached"
+            },
+            "title": "北京理工大学",
+            "h1": [],
+            "meta": [],
+            "jsonLdOrganizationNames": [],
+            "jsonLdErrors": [],
+            "identityCandidates": [
+              {
+                "source": "title",
+                "value": "北京理工大学",
+                "matchesAcceptedName": true,
+                "matchedName": "北京理工大学"
+              }
+            ],
+            "structuredIdentityMatches": true,
+            "structuredIdentityMatchedSources": [
+              "title"
+            ],
+            "titleMatches": true,
+            "titleMatchedName": "北京理工大学",
+            "bodyMatches": true,
+            "bodyMatchedName": "BIT"
+          }
+        }
+      }
+    },
+    {
+      "queuePosition": 89,
+      "canonicalId": "u_beijing_normal_university",
+      "name": "Beijing Normal University",
+      "country": "China",
+      "sourceUniversityIds": [
+        "u_beijing_normal_university"
+      ],
+      "rankingSources": [
+        "qs",
+        "the",
+        "arwu",
+        "usnews"
+      ],
+      "rankingSourceCount": 4,
+      "rankingAppearances": [
+        {
+          "source": "qs",
+          "rank": 237,
+          "year": 2027,
+          "universityId": "u_beijing_normal_university",
+          "name": "Beijing Normal University"
+        },
+        {
+          "source": "the",
+          "rank": 146,
+          "year": 2025,
+          "universityId": "u_beijing_normal_university",
+          "name": "Beijing Normal University"
+        },
+        {
+          "source": "arwu",
+          "rank": 151,
+          "year": 2024,
+          "universityId": "u_beijing_normal_university",
+          "name": "Beijing Normal University"
+        },
+        {
+          "source": "usnews",
+          "rank": 135,
+          "year": 2025,
+          "universityId": "u_beijing_normal_university",
+          "name": "Beijing Normal University"
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Beijing Normal University\" China official graduate programs",
+          "purpose": "official-graduate-catalog",
+          "domainHint": null,
+          "domainHintIsVerification": false
+        },
+        {
+          "query": "\"Beijing Normal University\" China official master programs",
+          "purpose": "official-master-catalog",
+          "domainHint": null,
+          "domainHintIsVerification": false
+        }
+      ],
+      "officialDomains": [],
+      "indexUrl": null,
+      "verificationStatus": "verified",
+      "shard": 3,
+      "aliasProposal": null,
+      "rorOrganization": {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2025-10-28",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "bnu.edu.cn"
+        ],
+        "established": 1902,
+        "external_ids": [
+          {
+            "all": [
+              "501100002726"
+            ],
+            "preferred": "501100002726",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.20513.35"
+            ],
+            "preferred": "grid.20513.35",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1789 9964"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1604022"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/022k4wk35",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.bnu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Beijing_Normal_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BNU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing Normal University"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Běijīng Shīfàn Dàxué"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京师范大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory of Cognitive Neuroscience and Learning",
+            "type": "child",
+            "id": "https://ror.org/059y0zb32"
+          },
+          {
+            "label": "State Key Laboratory of Earth Surface Processes and Resource Ecology",
+            "type": "child",
+            "id": "https://ror.org/050mxte83"
+          },
+          {
+            "label": "State Key Laboratory of Remote Sensing Science",
+            "type": "related",
+            "id": "https://ror.org/05wzjqa24"
+          },
+          {
+            "label": "Beijing Normal-Hong Kong Baptist University",
+            "type": "related",
+            "id": "https://ror.org/04snvc712"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      "registryResolution": {
+        "provider": "ROR",
+        "queryUrl": "https://api.ror.org/v2/organizations?query=%22Beijing%20Normal%20University%22",
+        "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_beijing_normal_university\\query_sha256=045a78201741a1fb.json.gz",
+        "rawManifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_beijing_normal_university\\query_sha256=045a78201741a1fb.manifest.json",
+        "rawSha256": "d91671c04c6eb46e067be59adccff63025813b97c6a9ae9e49e961d68ba83548",
+        "captureStatus": "cached",
+        "resultCount": 2,
+        "selected": {
+          "rorId": "https://ror.org/022k4wk35",
+          "name": "Beijing Normal University",
+          "score": 1.0,
+          "confidence": "high",
+          "exactName": true,
+          "translatedTokenExact": true,
+          "sequenceSimilarity": 1.0,
+          "tokenJaccard": 1.0,
+          "countryMatch": true,
+          "candidateCountry": "China",
+          "registryDomains": [
+            "bnu.edu.cn"
+          ]
+        },
+        "candidates": [
+          {
+            "rorId": "https://ror.org/022k4wk35",
+            "name": "Beijing Normal University",
+            "score": 1.0,
+            "confidence": "high",
+            "exactName": true,
+            "translatedTokenExact": true,
+            "sequenceSimilarity": 1.0,
+            "tokenJaccard": 1.0,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "bnu.edu.cn"
+            ]
+          },
+          {
+            "rorId": "https://ror.org/04snvc712",
+            "name": "Beijing Normal-Hong Kong Baptist University",
+            "score": 0.3258,
+            "confidence": "review",
+            "exactName": false,
+            "translatedTokenExact": false,
+            "sequenceSimilarity": 0.7353,
+            "tokenJaccard": 0.4,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "uic.edu.cn"
+            ]
+          }
+        ],
+        "attempts": [
+          {
+            "queryUrl": "https://api.ror.org/v2/organizations?query=%22Beijing%20Normal%20University%22",
+            "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_beijing_normal_university\\query_sha256=045a78201741a1fb.json.gz",
+            "rawManifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_beijing_normal_university\\query_sha256=045a78201741a1fb.manifest.json",
+            "rawSha256": "d91671c04c6eb46e067be59adccff63025813b97c6a9ae9e49e961d68ba83548",
+            "captureStatus": "cached",
+            "resultCount": 2,
+            "selected": {
+              "rorId": "https://ror.org/022k4wk35",
+              "name": "Beijing Normal University",
+              "score": 1.0,
+              "confidence": "high",
+              "exactName": true,
+              "translatedTokenExact": true,
+              "sequenceSimilarity": 1.0,
+              "tokenJaccard": 1.0,
+              "countryMatch": true,
+              "candidateCountry": "China",
+              "registryDomains": [
+                "bnu.edu.cn"
+              ]
+            },
+            "candidates": [
+              {
+                "rorId": "https://ror.org/022k4wk35",
+                "name": "Beijing Normal University",
+                "score": 1.0,
+                "confidence": "high",
+                "exactName": true,
+                "translatedTokenExact": true,
+                "sequenceSimilarity": 1.0,
+                "tokenJaccard": 1.0,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "bnu.edu.cn"
+                ]
+              },
+              {
+                "rorId": "https://ror.org/04snvc712",
+                "name": "Beijing Normal-Hong Kong Baptist University",
+                "score": 0.3258,
+                "confidence": "review",
+                "exactName": false,
+                "translatedTokenExact": false,
+                "sequenceSimilarity": 0.7353,
+                "tokenJaccard": 0.4,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "uic.edu.cn"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "registryDomainHints": [
+        "bnu.edu.cn"
+      ],
+      "discoveryVerificationStatus": "review",
+      "discoveryCaptureStatus": "cached",
+      "captureStatus": "cached",
+      "verification": {
+        "verificationStatus": "verified",
+        "captureStatus": "cached",
+        "reasonCodes": [],
+        "reasons": [],
+        "evidence": {
+          "registryIdentity": {
+            "targetName": "Beijing Normal University",
+            "targetCountry": "china",
+            "rorCountry": "China",
+            "countryMatch": true,
+            "rorNames": [
+              "BNU",
+              "Beijing Normal University",
+              "Běijīng Shīfàn Dàxué",
+              "北京师范大学"
+            ],
+            "nameMatch": true,
+            "matchedName": "Beijing Normal University",
+            "matchSource": "target-name",
+            "rorId": "https://ror.org/022k4wk35"
+          },
+          "domainConsistency": {
+            "candidateUrl": "https://www.bnu.edu.cn",
+            "candidateHost": "bnu.edu.cn",
+            "rorDomains": [
+              "bnu.edu.cn"
+            ],
+            "domainMatch": true
+          },
+          "liveOfficialPage": {
+            "requestedUrl": "https://www.bnu.edu.cn/",
+            "finalUrl": "https://www.bnu.edu.cn/",
+            "status": 200,
+            "captureStatus": "cached",
+            "redirected": false,
+            "finalDomainMatch": true,
+            "raw": {
+              "schemaVersion": 1,
+              "kind": "homepage",
+              "requestedUrl": "https://www.bnu.edu.cn/",
+              "finalUrl": "https://www.bnu.edu.cn/",
+              "status": 200,
+              "headers": {
+                "Server": "nginx",
+                "Date": "Thu, 13 Aug 2026 14:56:59 GMT",
+                "Content-Type": "text/html",
+                "Content-Length": "41091",
+                "Last-Modified": "Thu, 13 Aug 2026 05:17:35 GMT",
+                "Connection": "close",
+                "ETag": "\"6a7d536f-a083\"",
+                "X-Frame-Options": "SAMEORIGIN",
+                "X-Content-Type-Options": "nosniff",
+                "X-XSS-Protection": "1; mode=block",
+                "Accept-Ranges": "bytes"
+              },
+              "bytes": 41091,
+              "sha256": "4d5ef1e440a13f6f0e307967919395f7f90689726f738b30344f61c7b012afb7",
+              "capturedAt": "2026-08-13T14:57:00.134060+00:00",
+              "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\official-sites\\u_beijing_normal_university\\homepage_sha256=4d5ef1e440a13f6f0e307967919395f7f90689726f738b30344f61c7b012afb7.body",
+              "manifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\official-sites\\u_beijing_normal_university\\homepage_sha256=4d5ef1e440a13f6f0e307967919395f7f90689726f738b30344f61c7b012afb7.manifest.json",
+              "captureStatus": "cached"
+            },
+            "title": "北京师范大学",
+            "h1": [],
+            "meta": [],
+            "jsonLdOrganizationNames": [],
+            "jsonLdErrors": [],
+            "identityCandidates": [
+              {
+                "source": "title",
+                "value": "北京师范大学",
+                "matchesAcceptedName": true,
+                "matchedName": "北京师范大学"
+              }
+            ],
+            "structuredIdentityMatches": true,
+            "structuredIdentityMatchedSources": [
+              "title"
+            ],
+            "titleMatches": true,
+            "titleMatchedName": "北京师范大学",
+            "bodyMatches": true,
+            "bodyMatchedName": "北京师范大学"
+          }
+        }
+      }
+    },
+    {
+      "queuePosition": 103,
+      "canonicalId": "u_beijing_university_of_chemical_technology",
+      "name": "Beijing University of Chemical Technology",
+      "country": "China",
+      "sourceUniversityIds": [
+        "u_beijing_university_of_chemical_technology"
+      ],
+      "rankingSources": [
+        "the",
+        "arwu",
+        "usnews"
+      ],
+      "rankingSourceCount": 3,
+      "rankingAppearances": [
+        {
+          "source": "the",
+          "rank": 401,
+          "year": 2025,
+          "universityId": "u_beijing_university_of_chemical_technology",
+          "name": "Beijing University of Chemical Technology"
+        },
+        {
+          "source": "arwu",
+          "rank": 201,
+          "year": 2024,
+          "universityId": "u_beijing_university_of_chemical_technology",
+          "name": "Beijing University of Chemical Technology"
+        },
+        {
+          "source": "usnews",
+          "rank": 359,
+          "year": 2025,
+          "universityId": "u_beijing_university_of_chemical_technology",
+          "name": "Beijing University of Chemical Technology"
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Beijing University of Chemical Technology\" China official graduate programs",
+          "purpose": "official-graduate-catalog",
+          "domainHint": null,
+          "domainHintIsVerification": false
+        },
+        {
+          "query": "\"Beijing University of Chemical Technology\" China official master programs",
+          "purpose": "official-master-catalog",
+          "domainHint": null,
+          "domainHintIsVerification": false
+        }
+      ],
+      "officialDomains": [],
+      "indexUrl": null,
+      "verificationStatus": "verified",
+      "shard": 12,
+      "aliasProposal": null,
+      "rorOrganization": {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "buct.edu.cn"
+        ],
+        "established": 1958,
+        "external_ids": [
+          {
+            "all": [
+              "501100007302",
+              "100020593"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.48166.3d"
+            ],
+            "preferred": "grid.48166.3d",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9931 8406"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q2496210"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00df5yc52",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.buct.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Beijing_University_of_Chemical_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "BUCT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Beijing University of Chemical Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Běijīng Huàgōng Dàxué"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "北京化工大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory of Organic-Inorganic Composite Materials",
+            "type": "child",
+            "id": "https://ror.org/04t3b2655"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      "registryResolution": {
+        "provider": "ROR",
+        "queryUrl": "https://api.ror.org/v2/organizations?query=%22Beijing%20University%20of%20Chemical%20Technology%22",
+        "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_beijing_university_of_chemical_technology\\query_sha256=30fb5b42f8d03280.json.gz",
+        "rawManifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_beijing_university_of_chemical_technology\\query_sha256=30fb5b42f8d03280.manifest.json",
+        "rawSha256": "fb0751fe8fc4a45a691405cae5bcbc76d32f73b9e5dfff507397cf74a583b3c7",
+        "captureStatus": "cached",
+        "resultCount": 1,
+        "selected": {
+          "rorId": "https://ror.org/00df5yc52",
+          "name": "Beijing University of Chemical Technology",
+          "score": 1.0,
+          "confidence": "high",
+          "exactName": true,
+          "translatedTokenExact": true,
+          "sequenceSimilarity": 1.0,
+          "tokenJaccard": 1.0,
+          "countryMatch": true,
+          "candidateCountry": "China",
+          "registryDomains": [
+            "buct.edu.cn"
+          ]
+        },
+        "candidates": [
+          {
+            "rorId": "https://ror.org/00df5yc52",
+            "name": "Beijing University of Chemical Technology",
+            "score": 1.0,
+            "confidence": "high",
+            "exactName": true,
+            "translatedTokenExact": true,
+            "sequenceSimilarity": 1.0,
+            "tokenJaccard": 1.0,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "buct.edu.cn"
+            ]
+          }
+        ],
+        "attempts": [
+          {
+            "queryUrl": "https://api.ror.org/v2/organizations?query=%22Beijing%20University%20of%20Chemical%20Technology%22",
+            "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_beijing_university_of_chemical_technology\\query_sha256=30fb5b42f8d03280.json.gz",
+            "rawManifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_beijing_university_of_chemical_technology\\query_sha256=30fb5b42f8d03280.manifest.json",
+            "rawSha256": "fb0751fe8fc4a45a691405cae5bcbc76d32f73b9e5dfff507397cf74a583b3c7",
+            "captureStatus": "cached",
+            "resultCount": 1,
+            "selected": {
+              "rorId": "https://ror.org/00df5yc52",
+              "name": "Beijing University of Chemical Technology",
+              "score": 1.0,
+              "confidence": "high",
+              "exactName": true,
+              "translatedTokenExact": true,
+              "sequenceSimilarity": 1.0,
+              "tokenJaccard": 1.0,
+              "countryMatch": true,
+              "candidateCountry": "China",
+              "registryDomains": [
+                "buct.edu.cn"
+              ]
+            },
+            "candidates": [
+              {
+                "rorId": "https://ror.org/00df5yc52",
+                "name": "Beijing University of Chemical Technology",
+                "score": 1.0,
+                "confidence": "high",
+                "exactName": true,
+                "translatedTokenExact": true,
+                "sequenceSimilarity": 1.0,
+                "tokenJaccard": 1.0,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "buct.edu.cn"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "registryDomainHints": [
+        "buct.edu.cn"
+      ],
+      "discoveryVerificationStatus": "review",
+      "discoveryCaptureStatus": "captured",
+      "captureStatus": "cached",
+      "verification": {
+        "verificationStatus": "verified",
+        "captureStatus": "cached",
+        "reasonCodes": [
+          "redirected_within_ror_domain"
+        ],
+        "reasons": [
+          "redirected_within_ror_domain"
+        ],
+        "evidence": {
+          "registryIdentity": {
+            "targetName": "Beijing University of Chemical Technology",
+            "targetCountry": "china",
+            "rorCountry": "China",
+            "countryMatch": true,
+            "rorNames": [
+              "BUCT",
+              "Beijing University of Chemical Technology",
+              "Běijīng Huàgōng Dàxué",
+              "北京化工大学"
+            ],
+            "nameMatch": true,
+            "matchedName": "Beijing University of Chemical Technology",
+            "matchSource": "target-name",
+            "rorId": "https://ror.org/00df5yc52"
+          },
+          "domainConsistency": {
+            "candidateUrl": "https://www.buct.edu.cn",
+            "candidateHost": "buct.edu.cn",
+            "rorDomains": [
+              "buct.edu.cn"
+            ],
+            "domainMatch": true
+          },
+          "liveOfficialPage": {
+            "requestedUrl": "https://www.buct.edu.cn/",
+            "finalUrl": "https://www.buct.edu.cn/main.htm",
+            "status": 200,
+            "captureStatus": "cached",
+            "redirected": true,
+            "finalDomainMatch": true,
+            "raw": {
+              "schemaVersion": 1,
+              "kind": "homepage",
+              "requestedUrl": "https://www.buct.edu.cn/",
+              "finalUrl": "https://www.buct.edu.cn/main.htm",
+              "status": 200,
+              "headers": {
+                "Accept-Ranges": "bytes",
+                "Content-Type": "text/html",
+                "Date": "Thu, 13 Aug 2026 14:59:03 GMT",
+                "Frame-Options": "SAMEORIGIN",
+                "Nel": "{\"failure_fraction\":1,\"include_subdomains\":false,\"max_age\":86400,\"report_to\":\"websdp-nel\",\"success_fraction\":0}",
+                "Report-To": "{\"endpoints\":[{\"url\":\"https://{*}.buct.edu.cn/__websdp/report/nel?s=9nJzLOuyFvP6kq87BNL1y-IVigRqMxFjDYvSZX6R40I\"}],\"group\":\"websdp-nel\",\"max_age\":86400}",
+                "Reporting-Endpoints": "websdp-nel=\"https://{*}.buct.edu.cn/__websdp/report/nel?s=9nJzLOuyFvP6kq87BNL1y-IVigRqMxFjDYvSZX6R40I\"",
+                "Server": "***",
+                "Set-Cookie": "_zte_sid_=bbd664da-85aa-c824-46e7-1c314fd18095; Path=/; HttpOnly; Secure",
+                "Vary": "Accept-Encoding",
+                "X-Content-Type-Options": "nosniff",
+                "X-Envoy-Upstream-Service-Time": "0",
+                "X-Frame-Options": "SAMEORIGIN",
+                "X-Xss-Protection": "1;mode=block",
+                "Connection": "close",
+                "Transfer-Encoding": "chunked"
+              },
+              "bytes": 66643,
+              "sha256": "a2dec63a086aa75bbf2a2b6fec09ce1cd72011328a0dc27dae04a5eca397c13a",
+              "capturedAt": "2026-08-13T14:58:39.246164+00:00",
+              "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\official-sites\\u_beijing_university_of_chemical_technology\\homepage_sha256=a2dec63a086aa75bbf2a2b6fec09ce1cd72011328a0dc27dae04a5eca397c13a.body",
+              "manifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\official-sites\\u_beijing_university_of_chemical_technology\\homepage_sha256=a2dec63a086aa75bbf2a2b6fec09ce1cd72011328a0dc27dae04a5eca397c13a.manifest.json",
+              "captureStatus": "cached"
+            },
+            "title": "北京化工大学",
+            "h1": [],
+            "meta": [],
+            "jsonLdOrganizationNames": [],
+            "jsonLdErrors": [],
+            "identityCandidates": [
+              {
+                "source": "title",
+                "value": "北京化工大学",
+                "matchesAcceptedName": true,
+                "matchedName": "北京化工大学"
+              }
+            ],
+            "structuredIdentityMatches": true,
+            "structuredIdentityMatchedSources": [
+              "title"
+            ],
+            "titleMatches": true,
+            "titleMatchedName": "北京化工大学",
+            "bodyMatches": true,
+            "bodyMatchedName": "BUCT"
+          }
+        }
+      }
+    },
+    {
+      "queuePosition": 134,
+      "canonicalId": "u_capital_medical_university",
+      "name": "Capital Medical University",
+      "country": "China",
+      "sourceUniversityIds": [
+        "u_capital_medical_university"
+      ],
+      "rankingSources": [
+        "arwu"
+      ],
+      "rankingSourceCount": 1,
+      "rankingAppearances": [
+        {
+          "source": "arwu",
+          "rank": 201,
+          "year": 2024,
+          "universityId": "u_capital_medical_university",
+          "name": "Capital Medical University"
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Capital Medical University\" China official graduate programs",
+          "purpose": "official-graduate-catalog",
+          "domainHint": null,
+          "domainHintIsVerification": false
+        },
+        {
+          "query": "\"Capital Medical University\" China official master programs",
+          "purpose": "official-master-catalog",
+          "domainHint": null,
+          "domainHintIsVerification": false
+        }
+      ],
+      "officialDomains": [],
+      "indexUrl": null,
+      "verificationStatus": "verified",
+      "shard": 10,
+      "aliasProposal": null,
+      "rorOrganization": {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-02-24",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "ccmu.edu.cn"
+        ],
+        "established": 1960,
+        "external_ids": [
+          {
+            "all": [
+              "501100002799"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.24696.3f"
+            ],
+            "preferred": "grid.24696.3f",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 0369 153X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5035687"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/013xs5b60",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.ccmu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Capital_University_of_Medical_Sciences"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CCMU"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CMU"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CUMS"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Capital Medical University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "首都医科大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "Beijing Anding Hospital",
+            "type": "related",
+            "id": "https://ror.org/021ky1s64"
+          },
+          {
+            "label": "Beijing Anzhen Hospital",
+            "type": "related",
+            "id": "https://ror.org/02h2j1586"
+          },
+          {
+            "label": "Beijing Chao-Yang Hospital, Capital Medical University",
+            "type": "related",
+            "id": "https://ror.org/01eff5662"
+          },
+          {
+            "label": "Beijing Chest Hospital",
+            "type": "related",
+            "id": "https://ror.org/01espdw89"
+          },
+          {
+            "label": "Beijing Children’s Hospital",
+            "type": "related",
+            "id": "https://ror.org/04skmn292"
+          },
+          {
+            "label": "Beijing Friendship Hospital",
+            "type": "related",
+            "id": "https://ror.org/053qy4437"
+          },
+          {
+            "label": "Beijing Obstetrics and Gynecology Hospital",
+            "type": "related",
+            "id": "https://ror.org/05787my06"
+          },
+          {
+            "label": "Beijing Sanbo Brain Hospital",
+            "type": "related",
+            "id": "https://ror.org/00jkncn63"
+          },
+          {
+            "label": "Beijing Shijitan Hospital",
+            "type": "related",
+            "id": "https://ror.org/0569k1630"
+          },
+          {
+            "label": "Beijing Tian Tan Hospital",
+            "type": "related",
+            "id": "https://ror.org/003regz62"
+          },
+          {
+            "label": "Beijing Tongren Hospital",
+            "type": "related",
+            "id": "https://ror.org/013e4n276"
+          },
+          {
+            "label": "Beijing Xuanwu Traditional Chinese Medicine Hospital",
+            "type": "related",
+            "id": "https://ror.org/02yjx5e75"
+          },
+          {
+            "label": "Beijing YouAn Hospital",
+            "type": "related",
+            "id": "https://ror.org/04etaja30"
+          },
+          {
+            "label": "China Rehabilitation Research Center",
+            "type": "related",
+            "id": "https://ror.org/02bpqmq41"
+          },
+          {
+            "label": "Xuan Wu Hospital of the Capital Medical University",
+            "type": "related",
+            "id": "https://ror.org/00k7r7f88"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      "registryResolution": {
+        "provider": "ROR",
+        "queryUrl": "https://api.ror.org/v2/organizations?query=%22Capital%20Medical%20University%22",
+        "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_capital_medical_university\\query_sha256=bc4f81c5cd3ac919.json.gz",
+        "rawManifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_capital_medical_university\\query_sha256=bc4f81c5cd3ac919.manifest.json",
+        "rawSha256": "3e4877363b52aed41575c218440a2fd1a4d7b6ff7dc8f7c2c75a9abf520f1ed8",
+        "captureStatus": "cached",
+        "resultCount": 5,
+        "selected": {
+          "rorId": "https://ror.org/013xs5b60",
+          "name": "Capital Medical University",
+          "score": 1.0,
+          "confidence": "high",
+          "exactName": true,
+          "translatedTokenExact": true,
+          "sequenceSimilarity": 1.0,
+          "tokenJaccard": 1.0,
+          "countryMatch": true,
+          "candidateCountry": "China",
+          "registryDomains": [
+            "ccmu.edu.cn"
+          ]
+        },
+        "candidates": [
+          {
+            "rorId": "https://ror.org/013xs5b60",
+            "name": "Capital Medical University",
+            "score": 1.0,
+            "confidence": "high",
+            "exactName": true,
+            "translatedTokenExact": true,
+            "sequenceSimilarity": 1.0,
+            "tokenJaccard": 1.0,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "ccmu.edu.cn"
+            ]
+          },
+          {
+            "rorId": "https://ror.org/00k7r7f88",
+            "name": "Xuan Wu Hospital of the Capital Medical University",
+            "score": 0.3145,
+            "confidence": "review",
+            "exactName": false,
+            "translatedTokenExact": false,
+            "sequenceSimilarity": 0.6842,
+            "tokenJaccard": 0.4,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "xwhosp.com.cn"
+            ]
+          },
+          {
+            "rorId": "https://ror.org/01eff5662",
+            "name": "Beijing Chao-Yang Hospital, Capital Medical University",
+            "score": 0.2981,
+            "confidence": "review",
+            "exactName": false,
+            "translatedTokenExact": false,
+            "sequenceSimilarity": 0.6582,
+            "tokenJaccard": 0.3333,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "bjcyh.com.cn"
+            ]
+          },
+          {
+            "rorId": "https://ror.org/00m0cqn82",
+            "name": "Beijing Institute for Brain Disorders",
+            "score": 0.2911,
+            "confidence": "review",
+            "exactName": false,
+            "translatedTokenExact": false,
+            "sequenceSimilarity": 0.5778,
+            "tokenJaccard": 0.4,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "bibd.org.cn"
+            ]
+          },
+          {
+            "rorId": "https://ror.org/01zyn4z03",
+            "name": "Beijing Luhe Hospital Affiliated to Capital Medical University",
+            "score": 0.2757,
+            "confidence": "review",
+            "exactName": false,
+            "translatedTokenExact": false,
+            "sequenceSimilarity": 0.5909,
+            "tokenJaccard": 0.2857,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "luhehospital.com"
+            ]
+          }
+        ],
+        "attempts": [
+          {
+            "queryUrl": "https://api.ror.org/v2/organizations?query=%22Capital%20Medical%20University%22",
+            "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_capital_medical_university\\query_sha256=bc4f81c5cd3ac919.json.gz",
+            "rawManifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_capital_medical_university\\query_sha256=bc4f81c5cd3ac919.manifest.json",
+            "rawSha256": "3e4877363b52aed41575c218440a2fd1a4d7b6ff7dc8f7c2c75a9abf520f1ed8",
+            "captureStatus": "cached",
+            "resultCount": 5,
+            "selected": {
+              "rorId": "https://ror.org/013xs5b60",
+              "name": "Capital Medical University",
+              "score": 1.0,
+              "confidence": "high",
+              "exactName": true,
+              "translatedTokenExact": true,
+              "sequenceSimilarity": 1.0,
+              "tokenJaccard": 1.0,
+              "countryMatch": true,
+              "candidateCountry": "China",
+              "registryDomains": [
+                "ccmu.edu.cn"
+              ]
+            },
+            "candidates": [
+              {
+                "rorId": "https://ror.org/013xs5b60",
+                "name": "Capital Medical University",
+                "score": 1.0,
+                "confidence": "high",
+                "exactName": true,
+                "translatedTokenExact": true,
+                "sequenceSimilarity": 1.0,
+                "tokenJaccard": 1.0,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "ccmu.edu.cn"
+                ]
+              },
+              {
+                "rorId": "https://ror.org/00k7r7f88",
+                "name": "Xuan Wu Hospital of the Capital Medical University",
+                "score": 0.3145,
+                "confidence": "review",
+                "exactName": false,
+                "translatedTokenExact": false,
+                "sequenceSimilarity": 0.6842,
+                "tokenJaccard": 0.4,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "xwhosp.com.cn"
+                ]
+              },
+              {
+                "rorId": "https://ror.org/01eff5662",
+                "name": "Beijing Chao-Yang Hospital, Capital Medical University",
+                "score": 0.2981,
+                "confidence": "review",
+                "exactName": false,
+                "translatedTokenExact": false,
+                "sequenceSimilarity": 0.6582,
+                "tokenJaccard": 0.3333,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "bjcyh.com.cn"
+                ]
+              },
+              {
+                "rorId": "https://ror.org/00m0cqn82",
+                "name": "Beijing Institute for Brain Disorders",
+                "score": 0.2911,
+                "confidence": "review",
+                "exactName": false,
+                "translatedTokenExact": false,
+                "sequenceSimilarity": 0.5778,
+                "tokenJaccard": 0.4,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "bibd.org.cn"
+                ]
+              },
+              {
+                "rorId": "https://ror.org/01zyn4z03",
+                "name": "Beijing Luhe Hospital Affiliated to Capital Medical University",
+                "score": 0.2757,
+                "confidence": "review",
+                "exactName": false,
+                "translatedTokenExact": false,
+                "sequenceSimilarity": 0.5909,
+                "tokenJaccard": 0.2857,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "luhehospital.com"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "registryDomainHints": [
+        "ccmu.edu.cn"
+      ],
+      "discoveryVerificationStatus": "review",
+      "discoveryCaptureStatus": "cached",
+      "captureStatus": "cached",
+      "verification": {
+        "verificationStatus": "verified",
+        "captureStatus": "cached",
+        "reasonCodes": [],
+        "reasons": [],
+        "evidence": {
+          "registryIdentity": {
+            "targetName": "Capital Medical University",
+            "targetCountry": "china",
+            "rorCountry": "China",
+            "countryMatch": true,
+            "rorNames": [
+              "CCMU",
+              "CMU",
+              "CUMS",
+              "Capital Medical University",
+              "首都医科大学"
+            ],
+            "nameMatch": true,
+            "matchedName": "Capital Medical University",
+            "matchSource": "target-name",
+            "rorId": "https://ror.org/013xs5b60"
+          },
+          "domainConsistency": {
+            "candidateUrl": "https://www.ccmu.edu.cn",
+            "candidateHost": "ccmu.edu.cn",
+            "rorDomains": [
+              "ccmu.edu.cn"
+            ],
+            "domainMatch": true
+          },
+          "liveOfficialPage": {
+            "requestedUrl": "https://www.ccmu.edu.cn/",
+            "finalUrl": "https://www.ccmu.edu.cn/",
+            "status": 200,
+            "captureStatus": "cached",
+            "redirected": false,
+            "finalDomainMatch": true,
+            "raw": {
+              "schemaVersion": 1,
+              "kind": "homepage",
+              "requestedUrl": "https://www.ccmu.edu.cn/",
+              "finalUrl": "https://www.ccmu.edu.cn/",
+              "status": 200,
+              "headers": {
+                "Server": "nginx/1.30.4",
+                "Date": "Thu, 13 Aug 2026 14:57:04 GMT",
+                "Content-Type": "text/html",
+                "Content-Length": "96023",
+                "Last-Modified": "Wed, 12 Aug 2026 20:28:04 GMT",
+                "Connection": "close",
+                "ETag": "\"6a7cd754-17717\"",
+                "Expires": "Thu, 13 Aug 2026 14:57:03 GMT",
+                "Cache-Control": "no-cache",
+                "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+                "X-XSS-Protection": "1; mode=block",
+                "X-Content-Type-Options": "nosniff",
+                "Content-Security-Policy": "script-src 'self' http://www.w3.org https://*.gpowersoft.com https://*.edu.cn 'unsafe-inline' 'unsafe-eval'; object-src 'none';",
+                "X-Permitted-Cross-Domain-Policies": "none",
+                "X-Download-Options": "noopen",
+                "Referrer-Policy": "origin-when-cross-origin",
+                "Set-Cookie": "Path=/; HttpOnly; Secure;SameSite=Strict",
+                "Accept-Ranges": "bytes"
+              },
+              "bytes": 96023,
+              "sha256": "525e33c17b0c07289c0e7671ad666ad171dfa86f2d4118465b3972c4e3e91bad",
+              "capturedAt": "2026-08-13T14:57:04.542798+00:00",
+              "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\official-sites\\u_capital_medical_university\\homepage_sha256=525e33c17b0c07289c0e7671ad666ad171dfa86f2d4118465b3972c4e3e91bad.body",
+              "manifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\official-sites\\u_capital_medical_university\\homepage_sha256=525e33c17b0c07289c0e7671ad666ad171dfa86f2d4118465b3972c4e3e91bad.manifest.json",
+              "captureStatus": "cached"
+            },
+            "title": "首都医科大学",
+            "h1": [],
+            "meta": [],
+            "jsonLdOrganizationNames": [],
+            "jsonLdErrors": [],
+            "identityCandidates": [
+              {
+                "source": "title",
+                "value": "首都医科大学",
+                "matchesAcceptedName": true,
+                "matchedName": "首都医科大学"
+              }
+            ],
+            "structuredIdentityMatches": true,
+            "structuredIdentityMatchedSources": [
+              "title"
+            ],
+            "titleMatches": true,
+            "titleMatchedName": "首都医科大学",
+            "bodyMatches": true,
+            "bodyMatchedName": "CCMU"
+          }
+        }
+      }
+    },
+    {
+      "queuePosition": 99,
+      "canonicalId": "u_central_south_university",
+      "name": "Central South University",
+      "country": "China",
+      "sourceUniversityIds": [
+        "u_central_south_university"
+      ],
+      "rankingSources": [
+        "qs",
+        "arwu",
+        "usnews"
+      ],
+      "rankingSourceCount": 3,
+      "rankingAppearances": [
+        {
+          "source": "qs",
+          "rank": 453,
+          "year": 2027,
+          "universityId": "u_central_south_university",
+          "name": "Central South University"
+        },
+        {
+          "source": "arwu",
+          "rank": 94,
+          "year": 2024,
+          "universityId": "u_central_south_university",
+          "name": "Central South University"
+        },
+        {
+          "source": "usnews",
+          "rank": 131,
+          "year": 2025,
+          "universityId": "u_central_south_university",
+          "name": "Central South University"
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"Central South University\" China official graduate programs",
+          "purpose": "official-graduate-catalog",
+          "domainHint": null,
+          "domainHintIsVerification": false
+        },
+        {
+          "query": "\"Central South University\" China official master programs",
+          "purpose": "official-master-catalog",
+          "domainHint": null,
+          "domainHintIsVerification": false
+        }
+      ],
+      "officialDomains": [],
+      "indexUrl": null,
+      "verificationStatus": "verified",
+      "shard": 5,
+      "aliasProposal": null,
+      "rorOrganization": {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2026-07-20",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "csu.edu.cn"
+        ],
+        "established": 2000,
+        "external_ids": [
+          {
+            "all": [
+              "501100002822",
+              "501100012476",
+              "501100012486",
+              "501100012588",
+              "501100010021",
+              "501100015643"
+            ],
+            "preferred": "501100002822",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.216417.7"
+            ],
+            "preferred": "grid.216417.7",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 0379 7164"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q5061828"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/00f1zfq44",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.csu.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Central_South_University"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HN",
+              "country_subdivision_name": "Hunan",
+              "lat": 28.19874,
+              "lng": 112.97087,
+              "name": "Changsha"
+            },
+            "geonames_id": 1815577
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CSU"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "Central South University"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中南大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory of High Performance Complex Manufacturing",
+            "type": "child",
+            "id": "https://ror.org/04xjtqb36"
+          },
+          {
+            "label": "State Key Laboratory of Powder Metallurgy",
+            "type": "child",
+            "id": "https://ror.org/04r12t513"
+          },
+          {
+            "label": "Haikou City People's Hospital",
+            "type": "related",
+            "id": "https://ror.org/00ha5jx35"
+          },
+          {
+            "label": "Second Xiangya Hospital of Central South University",
+            "type": "related",
+            "id": "https://ror.org/053v2gh09"
+          },
+          {
+            "label": "Xiangya Hospital Central South University",
+            "type": "related",
+            "id": "https://ror.org/05c1yfj14"
+          },
+          {
+            "label": "Zhuzhou Central Hospital",
+            "type": "related",
+            "id": "https://ror.org/03prq2784"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      "registryResolution": {
+        "provider": "ROR",
+        "queryUrl": "https://api.ror.org/v2/organizations?query=%22Central%20South%20University%22",
+        "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_central_south_university\\query_sha256=a20d68040db4d13d.json.gz",
+        "rawManifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_central_south_university\\query_sha256=a20d68040db4d13d.manifest.json",
+        "rawSha256": "615177434122963e9b99ad2b92c4b5d5583c91754960bea880ddd37e7321e41e",
+        "captureStatus": "cached",
+        "resultCount": 5,
+        "selected": {
+          "rorId": "https://ror.org/00f1zfq44",
+          "name": "Central South University",
+          "score": 1.0,
+          "confidence": "high",
+          "exactName": true,
+          "translatedTokenExact": true,
+          "sequenceSimilarity": 1.0,
+          "tokenJaccard": 1.0,
+          "countryMatch": true,
+          "candidateCountry": "China",
+          "registryDomains": [
+            "csu.edu.cn"
+          ]
+        },
+        "candidates": [
+          {
+            "rorId": "https://ror.org/00f1zfq44",
+            "name": "Central South University",
+            "score": 1.0,
+            "confidence": "high",
+            "exactName": true,
+            "translatedTokenExact": true,
+            "sequenceSimilarity": 1.0,
+            "tokenJaccard": 1.0,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "csu.edu.cn"
+            ]
+          },
+          {
+            "rorId": "https://ror.org/05c1yfj14",
+            "name": "Xiangya Hospital Central South University",
+            "score": 0.3425,
+            "confidence": "review",
+            "exactName": false,
+            "translatedTokenExact": false,
+            "sequenceSimilarity": 0.7385,
+            "tokenJaccard": 0.5,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "xiangya.com.cn"
+            ]
+          },
+          {
+            "rorId": "https://ror.org/02czw2k81",
+            "name": "Central South University of Forestry and Technology",
+            "score": 0.3208,
+            "confidence": "review",
+            "exactName": false,
+            "translatedTokenExact": false,
+            "sequenceSimilarity": 0.64,
+            "tokenJaccard": 0.5,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "csuft.edu.cn"
+            ]
+          },
+          {
+            "rorId": "https://ror.org/05akvb491",
+            "name": "Third Xiangya Hospital",
+            "score": 0.3067,
+            "confidence": "review",
+            "exactName": false,
+            "translatedTokenExact": false,
+            "sequenceSimilarity": 0.6486,
+            "tokenJaccard": 0.4,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "en.xy3yy.com"
+            ]
+          },
+          {
+            "rorId": "https://ror.org/053v2gh09",
+            "name": "Second Xiangya Hospital of Central South University",
+            "score": 0.3048,
+            "confidence": "review",
+            "exactName": false,
+            "translatedTokenExact": false,
+            "sequenceSimilarity": 0.64,
+            "tokenJaccard": 0.4,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "xyeyy.com"
+            ]
+          }
+        ],
+        "attempts": [
+          {
+            "queryUrl": "https://api.ror.org/v2/organizations?query=%22Central%20South%20University%22",
+            "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_central_south_university\\query_sha256=a20d68040db4d13d.json.gz",
+            "rawManifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_central_south_university\\query_sha256=a20d68040db4d13d.manifest.json",
+            "rawSha256": "615177434122963e9b99ad2b92c4b5d5583c91754960bea880ddd37e7321e41e",
+            "captureStatus": "cached",
+            "resultCount": 5,
+            "selected": {
+              "rorId": "https://ror.org/00f1zfq44",
+              "name": "Central South University",
+              "score": 1.0,
+              "confidence": "high",
+              "exactName": true,
+              "translatedTokenExact": true,
+              "sequenceSimilarity": 1.0,
+              "tokenJaccard": 1.0,
+              "countryMatch": true,
+              "candidateCountry": "China",
+              "registryDomains": [
+                "csu.edu.cn"
+              ]
+            },
+            "candidates": [
+              {
+                "rorId": "https://ror.org/00f1zfq44",
+                "name": "Central South University",
+                "score": 1.0,
+                "confidence": "high",
+                "exactName": true,
+                "translatedTokenExact": true,
+                "sequenceSimilarity": 1.0,
+                "tokenJaccard": 1.0,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "csu.edu.cn"
+                ]
+              },
+              {
+                "rorId": "https://ror.org/05c1yfj14",
+                "name": "Xiangya Hospital Central South University",
+                "score": 0.3425,
+                "confidence": "review",
+                "exactName": false,
+                "translatedTokenExact": false,
+                "sequenceSimilarity": 0.7385,
+                "tokenJaccard": 0.5,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "xiangya.com.cn"
+                ]
+              },
+              {
+                "rorId": "https://ror.org/02czw2k81",
+                "name": "Central South University of Forestry and Technology",
+                "score": 0.3208,
+                "confidence": "review",
+                "exactName": false,
+                "translatedTokenExact": false,
+                "sequenceSimilarity": 0.64,
+                "tokenJaccard": 0.5,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "csuft.edu.cn"
+                ]
+              },
+              {
+                "rorId": "https://ror.org/05akvb491",
+                "name": "Third Xiangya Hospital",
+                "score": 0.3067,
+                "confidence": "review",
+                "exactName": false,
+                "translatedTokenExact": false,
+                "sequenceSimilarity": 0.6486,
+                "tokenJaccard": 0.4,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "en.xy3yy.com"
+                ]
+              },
+              {
+                "rorId": "https://ror.org/053v2gh09",
+                "name": "Second Xiangya Hospital of Central South University",
+                "score": 0.3048,
+                "confidence": "review",
+                "exactName": false,
+                "translatedTokenExact": false,
+                "sequenceSimilarity": 0.64,
+                "tokenJaccard": 0.4,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "xyeyy.com"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "registryDomainHints": [
+        "csu.edu.cn"
+      ],
+      "discoveryVerificationStatus": "review",
+      "discoveryCaptureStatus": "captured",
+      "captureStatus": "cached",
+      "verification": {
+        "verificationStatus": "verified",
+        "captureStatus": "cached",
+        "reasonCodes": [],
+        "reasons": [],
+        "evidence": {
+          "registryIdentity": {
+            "targetName": "Central South University",
+            "targetCountry": "china",
+            "rorCountry": "China",
+            "countryMatch": true,
+            "rorNames": [
+              "CSU",
+              "Central South University",
+              "中南大学"
+            ],
+            "nameMatch": true,
+            "matchedName": "Central South University",
+            "matchSource": "target-name",
+            "rorId": "https://ror.org/00f1zfq44"
+          },
+          "domainConsistency": {
+            "candidateUrl": "https://www.csu.edu.cn",
+            "candidateHost": "csu.edu.cn",
+            "rorDomains": [
+              "csu.edu.cn"
+            ],
+            "domainMatch": true
+          },
+          "liveOfficialPage": {
+            "requestedUrl": "https://www.csu.edu.cn/",
+            "finalUrl": "https://www.csu.edu.cn/",
+            "status": 200,
+            "captureStatus": "cached",
+            "redirected": false,
+            "finalDomainMatch": true,
+            "raw": {
+              "schemaVersion": 1,
+              "kind": "homepage",
+              "requestedUrl": "https://www.csu.edu.cn/",
+              "finalUrl": "https://www.csu.edu.cn/",
+              "status": 200,
+              "headers": {
+                "Date": "Thu, 13 Aug 2026 14:58:04 GMT",
+                "Server": "*********",
+                "X-Frame-Options": "SAMEORIGIN",
+                "Last-Modified": "Thu, 13 Aug 2026 02:01:35 GMT",
+                "Accept-Ranges": "bytes",
+                "Content-Length": "139121",
+                "Cache-Control": "max-age=600",
+                "Expires": "Thu, 13 Aug 2026 15:08:04 GMT",
+                "Vary": "Accept-Encoding",
+                "ETag": "\"21f71-658e41570664e-gzip\"",
+                "Connection": "close",
+                "Content-Type": "text/html",
+                "Content-Language": "zh-CN"
+              },
+              "bytes": 139121,
+              "sha256": "dcf648797ee1bd1031dbfe5d80425d5d4d0850969bf36f4fbceb69c0f1abf8e6",
+              "capturedAt": "2026-08-13T14:58:31.965446+00:00",
+              "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\official-sites\\u_central_south_university\\homepage_sha256=dcf648797ee1bd1031dbfe5d80425d5d4d0850969bf36f4fbceb69c0f1abf8e6.body",
+              "manifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\official-sites\\u_central_south_university\\homepage_sha256=dcf648797ee1bd1031dbfe5d80425d5d4d0850969bf36f4fbceb69c0f1abf8e6.manifest.json",
+              "captureStatus": "cached"
+            },
+            "title": "中南大学",
+            "h1": [],
+            "meta": [],
+            "jsonLdOrganizationNames": [],
+            "jsonLdErrors": [],
+            "identityCandidates": [
+              {
+                "source": "title",
+                "value": "中南大学",
+                "matchesAcceptedName": true,
+                "matchedName": "中南大学"
+              }
+            ],
+            "structuredIdentityMatches": true,
+            "structuredIdentityMatchedSources": [
+              "title"
+            ],
+            "titleMatches": true,
+            "titleMatchedName": "中南大学",
+            "bodyMatches": true,
+            "bodyMatchedName": "CSU"
+          }
+        }
+      }
+    },
+    {
+      "queuePosition": 110,
+      "canonicalId": "u_china_university_of_geosciences",
+      "name": "China University of Geosciences",
+      "country": "China",
+      "sourceUniversityIds": [
+        "u_china_university_of_geosciences"
+      ],
+      "rankingSources": [
+        "arwu",
+        "usnews"
+      ],
+      "rankingSourceCount": 2,
+      "rankingAppearances": [
+        {
+          "source": "arwu",
+          "rank": 201,
+          "year": 2024,
+          "universityId": "u_china_university_of_geosciences",
+          "name": "China University of Geosciences"
+        },
+        {
+          "source": "usnews",
+          "rank": 204,
+          "year": 2025,
+          "universityId": "u_china_university_of_geosciences",
+          "name": "China University of Geosciences"
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"China University of Geosciences\" China official graduate programs",
+          "purpose": "official-graduate-catalog",
+          "domainHint": null,
+          "domainHintIsVerification": false
+        },
+        {
+          "query": "\"China University of Geosciences\" China official master programs",
+          "purpose": "official-master-catalog",
+          "domainHint": null,
+          "domainHintIsVerification": false
+        }
+      ],
+      "officialDomains": [],
+      "indexUrl": null,
+      "verificationStatus": "verified",
+      "shard": 13,
+      "aliasProposal": null,
+      "rorOrganization": {
+        "admin": {
+          "created": {
+            "date": "2019-02-17",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "cug.edu.cn"
+        ],
+        "established": 1952,
+        "external_ids": [
+          {
+            "all": [
+              "501100015314"
+            ],
+            "preferred": "501100015314",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.503241.1"
+            ],
+            "preferred": "grid.503241.1",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1760 9015"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q48880933"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04gcegc37",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.cug.edu.cn/"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/China_University_of_Geosciences_(Wuhan)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "HB",
+              "country_subdivision_name": "Hubei",
+              "lat": 30.58333,
+              "lng": 114.26667,
+              "name": "Wuhan"
+            },
+            "geonames_id": 1791247
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Beijing Institute of Geology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CUG"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "China University of Geosciences"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Hubei College of Geology"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "alias"
+            ],
+            "value": "Wuhan College of Geology"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中国地质大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory of Biogeology and Environmental Geology",
+            "type": "child",
+            "id": "https://ror.org/02q1jkh03"
+          },
+          {
+            "label": "State Key Laboratory of Geological Processes and Mineral Resources",
+            "type": "child",
+            "id": "https://ror.org/04sg95s75"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      "registryResolution": {
+        "provider": "ROR",
+        "queryUrl": "https://api.ror.org/v2/organizations?query=%22China%20University%20of%20Geosciences%22",
+        "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_china_university_of_geosciences\\query_sha256=4bf89024238698a0.json.gz",
+        "rawManifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_china_university_of_geosciences\\query_sha256=4bf89024238698a0.manifest.json",
+        "rawSha256": "0c4db46c0d1fa6e21f743b62e0bf2fb0329fe284c1eced148388a3fdce415786",
+        "captureStatus": "cached",
+        "resultCount": 4,
+        "selected": {
+          "rorId": "https://ror.org/04gcegc37",
+          "name": "China University of Geosciences",
+          "score": 1.0,
+          "confidence": "high",
+          "exactName": true,
+          "translatedTokenExact": true,
+          "sequenceSimilarity": 1.0,
+          "tokenJaccard": 1.0,
+          "countryMatch": true,
+          "candidateCountry": "China",
+          "registryDomains": [
+            "cug.edu.cn"
+          ]
+        },
+        "candidates": [
+          {
+            "rorId": "https://ror.org/04gcegc37",
+            "name": "China University of Geosciences",
+            "score": 1.0,
+            "confidence": "high",
+            "exactName": true,
+            "translatedTokenExact": true,
+            "sequenceSimilarity": 1.0,
+            "tokenJaccard": 1.0,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "cug.edu.cn"
+            ]
+          },
+          {
+            "rorId": "https://ror.org/04q6c7p66",
+            "name": "China University of Geosciences (Beijing)",
+            "score": 1.0,
+            "confidence": "high",
+            "exactName": true,
+            "translatedTokenExact": true,
+            "sequenceSimilarity": 1.0,
+            "tokenJaccard": 1.0,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "cugb.edu.cn"
+            ]
+          },
+          {
+            "rorId": "https://ror.org/03bps0m03",
+            "name": "Wuhan University of Engineering Science",
+            "score": 0.3751,
+            "confidence": "review",
+            "exactName": false,
+            "translatedTokenExact": false,
+            "sequenceSimilarity": 0.7654,
+            "tokenJaccard": 0.6667,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "wuhues.com"
+            ]
+          },
+          {
+            "rorId": "https://ror.org/00hv1r627",
+            "name": "Shenzhen Research Institute of China University of Geosciences",
+            "score": 0.3267,
+            "confidence": "review",
+            "exactName": false,
+            "translatedTokenExact": false,
+            "sequenceSimilarity": 0.6667,
+            "tokenJaccard": 0.5,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "cugsz.cn"
+            ]
+          }
+        ],
+        "attempts": [
+          {
+            "queryUrl": "https://api.ror.org/v2/organizations?query=%22China%20University%20of%20Geosciences%22",
+            "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_china_university_of_geosciences\\query_sha256=4bf89024238698a0.json.gz",
+            "rawManifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_china_university_of_geosciences\\query_sha256=4bf89024238698a0.manifest.json",
+            "rawSha256": "0c4db46c0d1fa6e21f743b62e0bf2fb0329fe284c1eced148388a3fdce415786",
+            "captureStatus": "cached",
+            "resultCount": 4,
+            "selected": {
+              "rorId": "https://ror.org/04gcegc37",
+              "name": "China University of Geosciences",
+              "score": 1.0,
+              "confidence": "high",
+              "exactName": true,
+              "translatedTokenExact": true,
+              "sequenceSimilarity": 1.0,
+              "tokenJaccard": 1.0,
+              "countryMatch": true,
+              "candidateCountry": "China",
+              "registryDomains": [
+                "cug.edu.cn"
+              ]
+            },
+            "candidates": [
+              {
+                "rorId": "https://ror.org/04gcegc37",
+                "name": "China University of Geosciences",
+                "score": 1.0,
+                "confidence": "high",
+                "exactName": true,
+                "translatedTokenExact": true,
+                "sequenceSimilarity": 1.0,
+                "tokenJaccard": 1.0,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "cug.edu.cn"
+                ]
+              },
+              {
+                "rorId": "https://ror.org/04q6c7p66",
+                "name": "China University of Geosciences (Beijing)",
+                "score": 1.0,
+                "confidence": "high",
+                "exactName": true,
+                "translatedTokenExact": true,
+                "sequenceSimilarity": 1.0,
+                "tokenJaccard": 1.0,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "cugb.edu.cn"
+                ]
+              },
+              {
+                "rorId": "https://ror.org/03bps0m03",
+                "name": "Wuhan University of Engineering Science",
+                "score": 0.3751,
+                "confidence": "review",
+                "exactName": false,
+                "translatedTokenExact": false,
+                "sequenceSimilarity": 0.7654,
+                "tokenJaccard": 0.6667,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "wuhues.com"
+                ]
+              },
+              {
+                "rorId": "https://ror.org/00hv1r627",
+                "name": "Shenzhen Research Institute of China University of Geosciences",
+                "score": 0.3267,
+                "confidence": "review",
+                "exactName": false,
+                "translatedTokenExact": false,
+                "sequenceSimilarity": 0.6667,
+                "tokenJaccard": 0.5,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "cugsz.cn"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "registryDomainHints": [
+        "cug.edu.cn"
+      ],
+      "discoveryVerificationStatus": "review",
+      "discoveryCaptureStatus": "cached",
+      "captureStatus": "cached",
+      "verification": {
+        "verificationStatus": "verified",
+        "captureStatus": "cached",
+        "reasonCodes": [],
+        "reasons": [],
+        "evidence": {
+          "registryIdentity": {
+            "targetName": "China University of Geosciences",
+            "targetCountry": "china",
+            "rorCountry": "China",
+            "countryMatch": true,
+            "rorNames": [
+              "Beijing Institute of Geology",
+              "CUG",
+              "China University of Geosciences",
+              "Hubei College of Geology",
+              "Wuhan College of Geology",
+              "中国地质大学"
+            ],
+            "nameMatch": true,
+            "matchedName": "China University of Geosciences",
+            "matchSource": "target-name",
+            "rorId": "https://ror.org/04gcegc37"
+          },
+          "domainConsistency": {
+            "candidateUrl": "https://www.cug.edu.cn/",
+            "candidateHost": "cug.edu.cn",
+            "rorDomains": [
+              "cug.edu.cn"
+            ],
+            "domainMatch": true
+          },
+          "liveOfficialPage": {
+            "requestedUrl": "https://www.cug.edu.cn/",
+            "finalUrl": "https://www.cug.edu.cn/",
+            "status": 200,
+            "captureStatus": "cached",
+            "redirected": false,
+            "finalDomainMatch": true,
+            "raw": {
+              "schemaVersion": 1,
+              "kind": "homepage",
+              "requestedUrl": "https://www.cug.edu.cn/",
+              "finalUrl": "https://www.cug.edu.cn/",
+              "status": 200,
+              "headers": {
+                "Date": "Thu, 13 Aug 2026 14:57:01 GMT",
+                "Server": "Server",
+                "X-Frame-Options": "SAMEORIGIN",
+                "X-XSS-Protection": "1; mode=block",
+                "X-Content-Type-Options": "nosniff",
+                "Referrer-Policy": "no-referrer-when-downgrade",
+                "X-Download-Options": "noopen",
+                "Permissions-Policy": "geolocation=(self), microphone=()",
+                "X-Permitted-Cross-Domain-Policies": "master-only",
+                "Strict-Transport-Security": "max-age=31536000; includeSubdomains; preload",
+                "Upgrade": "h2c,h2",
+                "Connection": "close",
+                "Last-Modified": "Thu, 13 Aug 2026 04:03:46 GMT",
+                "Accept-Ranges": "bytes",
+                "Content-Length": "120585",
+                "Vary": "User-Agent,Accept-Encoding",
+                "Cache-Control": "private, max-age=600",
+                "Expires": "Thu, 13 Aug 2026 15:07:01 GMT",
+                "ETag": "\"1d709-658e5ca5ff43f-gzip\"",
+                "Content-Type": "text/html",
+                "Content-Language": "zh-CN"
+              },
+              "bytes": 120585,
+              "sha256": "f93565432d58f1c4e7b82d8b9a7146b52aa99744576a49c14e149ed5a23bc743",
+              "capturedAt": "2026-08-13T14:57:02.329630+00:00",
+              "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\official-sites\\u_china_university_of_geosciences\\homepage_sha256=f93565432d58f1c4e7b82d8b9a7146b52aa99744576a49c14e149ed5a23bc743.body",
+              "manifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\official-sites\\u_china_university_of_geosciences\\homepage_sha256=f93565432d58f1c4e7b82d8b9a7146b52aa99744576a49c14e149ed5a23bc743.manifest.json",
+              "captureStatus": "cached"
+            },
+            "title": "欢迎访问中国地质大学！",
+            "h1": [
+              "10",
+              "27",
+              "25",
+              "17",
+              "28",
+              "25",
+              "18",
+              "02",
+              "27",
+              "31",
+              "18",
+              "10",
+              "07",
+              "09",
+              "30",
+              "03",
+              "03",
+              "03"
+            ],
+            "meta": [],
+            "jsonLdOrganizationNames": [],
+            "jsonLdErrors": [],
+            "identityCandidates": [
+              {
+                "source": "title",
+                "value": "欢迎访问中国地质大学！",
+                "matchesAcceptedName": true,
+                "matchedName": "中国地质大学"
+              },
+              {
+                "source": "h1",
+                "value": "10",
+                "matchesAcceptedName": false,
+                "matchedName": null
+              },
+              {
+                "source": "h1",
+                "value": "27",
+                "matchesAcceptedName": false,
+                "matchedName": null
+              },
+              {
+                "source": "h1",
+                "value": "25",
+                "matchesAcceptedName": false,
+                "matchedName": null
+              },
+              {
+                "source": "h1",
+                "value": "17",
+                "matchesAcceptedName": false,
+                "matchedName": null
+              },
+              {
+                "source": "h1",
+                "value": "28",
+                "matchesAcceptedName": false,
+                "matchedName": null
+              },
+              {
+                "source": "h1",
+                "value": "25",
+                "matchesAcceptedName": false,
+                "matchedName": null
+              },
+              {
+                "source": "h1",
+                "value": "18",
+                "matchesAcceptedName": false,
+                "matchedName": null
+              },
+              {
+                "source": "h1",
+                "value": "02",
+                "matchesAcceptedName": false,
+                "matchedName": null
+              },
+              {
+                "source": "h1",
+                "value": "27",
+                "matchesAcceptedName": false,
+                "matchedName": null
+              },
+              {
+                "source": "h1",
+                "value": "31",
+                "matchesAcceptedName": false,
+                "matchedName": null
+              },
+              {
+                "source": "h1",
+                "value": "18",
+                "matchesAcceptedName": false,
+                "matchedName": null
+              },
+              {
+                "source": "h1",
+                "value": "10",
+                "matchesAcceptedName": false,
+                "matchedName": null
+              },
+              {
+                "source": "h1",
+                "value": "07",
+                "matchesAcceptedName": false,
+                "matchedName": null
+              },
+              {
+                "source": "h1",
+                "value": "09",
+                "matchesAcceptedName": false,
+                "matchedName": null
+              },
+              {
+                "source": "h1",
+                "value": "30",
+                "matchesAcceptedName": false,
+                "matchedName": null
+              },
+              {
+                "source": "h1",
+                "value": "03",
+                "matchesAcceptedName": false,
+                "matchedName": null
+              },
+              {
+                "source": "h1",
+                "value": "03",
+                "matchesAcceptedName": false,
+                "matchedName": null
+              },
+              {
+                "source": "h1",
+                "value": "03",
+                "matchesAcceptedName": false,
+                "matchedName": null
+              }
+            ],
+            "structuredIdentityMatches": true,
+            "structuredIdentityMatchedSources": [
+              "title"
+            ],
+            "titleMatches": true,
+            "titleMatchedName": "中国地质大学",
+            "bodyMatches": true,
+            "bodyMatchedName": "中国地质大学"
+          }
+        }
+      }
+    },
+    {
+      "queuePosition": 139,
+      "canonicalId": "u_china_university_of_geosciences_beijing",
+      "name": "China University of Geosciences Beijing",
+      "country": "China",
+      "sourceUniversityIds": [
+        "u_china_university_of_geosciences_beijing"
+      ],
+      "rankingSources": [
+        "arwu"
+      ],
+      "rankingSourceCount": 1,
+      "rankingAppearances": [
+        {
+          "source": "arwu",
+          "rank": 301,
+          "year": 2024,
+          "universityId": "u_china_university_of_geosciences_beijing",
+          "name": "China University of Geosciences Beijing"
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"China University of Geosciences Beijing\" China official graduate programs",
+          "purpose": "official-graduate-catalog",
+          "domainHint": null,
+          "domainHintIsVerification": false
+        },
+        {
+          "query": "\"China University of Geosciences Beijing\" China official master programs",
+          "purpose": "official-master-catalog",
+          "domainHint": null,
+          "domainHintIsVerification": false
+        }
+      ],
+      "officialDomains": [],
+      "indexUrl": null,
+      "verificationStatus": "verified",
+      "shard": 4,
+      "aliasProposal": null,
+      "rorOrganization": {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [],
+        "established": 1952,
+        "external_ids": [
+          {
+            "all": [
+              "501100002366",
+              "501100004701"
+            ],
+            "preferred": "501100002366",
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.162107.3"
+            ],
+            "preferred": "grid.162107.3",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0001 2156 409X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q48880972"
+            ],
+            "preferred": "Q48880972",
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/04q6c7p66",
+        "links": [
+          {
+            "type": "website",
+            "value": "http://www.cugb.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/China_University_of_Geosciences_(Beijing)"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "BJ",
+              "country_subdivision_name": "Beijing",
+              "lat": 39.9075,
+              "lng": 116.39723,
+              "name": "Beijing"
+            },
+            "geonames_id": 1816670
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CUGB"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "China University of Geosciences (Beijing)"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Zhōngguó Dìzhì Dàxué"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中国地质大学 (北京)"
+          }
+        ],
+        "relationships": [],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      "registryResolution": {
+        "provider": "ROR",
+        "queryUrl": "https://api.ror.org/v2/organizations?query=%22China%20University%20of%20Geosciences%20Beijing%22",
+        "queryName": "China University of Geosciences Beijing",
+        "querySource": "target.name",
+        "sourceName": "China University of Geosciences Beijing",
+        "transformations": [],
+        "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_china_university_of_geosciences_beijing\\query_sha256=ce32ff1d275627d1.json.gz",
+        "rawManifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_china_university_of_geosciences_beijing\\query_sha256=ce32ff1d275627d1.manifest.json",
+        "rawSha256": "dbe972f3c140c5a4cff5f763403e2bdb9d8444baba13f51ee747d7230bfa12d5",
+        "captureStatus": "cached",
+        "resultCount": 1,
+        "selected": {
+          "rorId": "https://ror.org/04q6c7p66",
+          "name": "China University of Geosciences (Beijing)",
+          "score": 1.0,
+          "confidence": "high",
+          "exactName": true,
+          "translatedTokenExact": true,
+          "sequenceSimilarity": 1.0,
+          "tokenJaccard": 1.0,
+          "countryMatch": true,
+          "candidateCountry": "China",
+          "registryDomains": [
+            "cugb.edu.cn"
+          ]
+        },
+        "candidates": [
+          {
+            "rorId": "https://ror.org/04q6c7p66",
+            "name": "China University of Geosciences (Beijing)",
+            "score": 1.0,
+            "confidence": "high",
+            "exactName": true,
+            "translatedTokenExact": true,
+            "sequenceSimilarity": 1.0,
+            "tokenJaccard": 1.0,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "cugb.edu.cn"
+            ]
+          }
+        ],
+        "attempts": [
+          {
+            "queryName": "China University of Geosciences Beijing",
+            "querySource": "target.name",
+            "sourceName": "China University of Geosciences Beijing",
+            "transformations": [],
+            "queryUrl": "https://api.ror.org/v2/organizations?query=%22China%20University%20of%20Geosciences%20Beijing%22",
+            "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_china_university_of_geosciences_beijing\\query_sha256=ce32ff1d275627d1.json.gz",
+            "rawManifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_china_university_of_geosciences_beijing\\query_sha256=ce32ff1d275627d1.manifest.json",
+            "rawSha256": "dbe972f3c140c5a4cff5f763403e2bdb9d8444baba13f51ee747d7230bfa12d5",
+            "captureStatus": "cached",
+            "resultCount": 1,
+            "selected": {
+              "rorId": "https://ror.org/04q6c7p66",
+              "name": "China University of Geosciences (Beijing)",
+              "score": 1.0,
+              "confidence": "high",
+              "exactName": true,
+              "translatedTokenExact": true,
+              "sequenceSimilarity": 1.0,
+              "tokenJaccard": 1.0,
+              "countryMatch": true,
+              "candidateCountry": "China",
+              "registryDomains": [
+                "cugb.edu.cn"
+              ]
+            },
+            "candidates": [
+              {
+                "rorId": "https://ror.org/04q6c7p66",
+                "name": "China University of Geosciences (Beijing)",
+                "score": 1.0,
+                "confidence": "high",
+                "exactName": true,
+                "translatedTokenExact": true,
+                "sequenceSimilarity": 1.0,
+                "tokenJaccard": 1.0,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "cugb.edu.cn"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "registryDomainHints": [
+        "cugb.edu.cn"
+      ],
+      "discoveryVerificationStatus": "review",
+      "discoveryCaptureStatus": "cached",
+      "captureStatus": "cached",
+      "verification": {
+        "verificationStatus": "verified",
+        "captureStatus": "cached",
+        "reasonCodes": [
+          "redirected_within_ror_domain"
+        ],
+        "reasons": [
+          "redirected_within_ror_domain"
+        ],
+        "evidence": {
+          "registryIdentity": {
+            "targetName": "China University of Geosciences Beijing",
+            "targetCountry": "china",
+            "rorCountry": "China",
+            "countryMatch": true,
+            "rorNames": [
+              "CUGB",
+              "China University of Geosciences (Beijing)",
+              "Zhōngguó Dìzhì Dàxué",
+              "中国地质大学 (北京)"
+            ],
+            "nameMatch": true,
+            "matchedName": "China University of Geosciences (Beijing)",
+            "matchSource": "target-name",
+            "rorId": "https://ror.org/04q6c7p66"
+          },
+          "domainConsistency": {
+            "candidateUrl": "http://www.cugb.edu.cn",
+            "candidateHost": "cugb.edu.cn",
+            "rorDomains": [
+              "cugb.edu.cn"
+            ],
+            "domainMatch": true
+          },
+          "liveOfficialPage": {
+            "requestedUrl": "http://www.cugb.edu.cn/",
+            "finalUrl": "https://www.cugb.edu.cn/",
+            "status": 200,
+            "captureStatus": "cached",
+            "redirected": true,
+            "finalDomainMatch": true,
+            "raw": {
+              "schemaVersion": 1,
+              "kind": "homepage",
+              "requestedUrl": "http://www.cugb.edu.cn/",
+              "finalUrl": "https://www.cugb.edu.cn/",
+              "status": 200,
+              "headers": {
+                "Server": "none",
+                "Date": "Fri, 14 Aug 2026 00:18:43 GMT",
+                "Content-Type": "text/html;charset=UTF-8",
+                "Transfer-Encoding": "chunked",
+                "Connection": "close",
+                "Vary": "origin,access-control-request-method,access-control-request-headers,accept-encoding",
+                "Access-Control-Allow-Methods": "POST,GET,HEAD",
+                "Access-Control-Max-Age": "3600",
+                "Access-Control-Allow-Credentials": "false",
+                "Access-Control-Expose-Headers": "true",
+                "Referrer-Policy": "unsafe-url",
+                "X-Content-Type-Options": "nosniff",
+                "X-Download-Options": "noopen",
+                "X-XSS-Protection": "1; mode=block",
+                "X-Permitted-Cross-Domain-Policies": "master-only",
+                "x-frame-options": "ALLOWALL",
+                "Set-Cookie": "JIDENTITY=de22aca8-a9c6-471a-bf77-103c5c8b5f41; Max-Age=31536000; Expires=Sat, 14 Aug 2027 00:17:12 GMT; Domain=www.cugb.edu.cn; Path=/",
+                "Cache-Control": "no-cache, no-store, max-age=0, must-revalidate",
+                "Pragma": "no-cache",
+                "Expires": "0",
+                "Content-Language": "en-US"
+              },
+              "bytes": 59275,
+              "sha256": "60cabe13599303537f949a9de609583f600a664eb21e4684d6f832a60728f84b",
+              "capturedAt": "2026-08-14T00:18:44.003435+00:00",
+              "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\official-sites\\u_china_university_of_geosciences_beijing\\homepage_sha256=60cabe13599303537f949a9de609583f600a664eb21e4684d6f832a60728f84b.body",
+              "manifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\official-sites\\u_china_university_of_geosciences_beijing\\homepage_sha256=60cabe13599303537f949a9de609583f600a664eb21e4684d6f832a60728f84b.manifest.json",
+              "captureStatus": "cached"
+            },
+            "title": "首页-中国地质大学（北京）",
+            "h1": [],
+            "meta": [],
+            "jsonLdOrganizationNames": [],
+            "jsonLdErrors": [],
+            "identityCandidates": [
+              {
+                "source": "title",
+                "value": "首页-中国地质大学（北京）",
+                "matchesAcceptedName": true,
+                "matchedName": "中国地质大学 (北京)"
+              }
+            ],
+            "structuredIdentityMatches": true,
+            "structuredIdentityMatchedSources": [
+              "title"
+            ],
+            "titleMatches": true,
+            "titleMatchedName": "中国地质大学 (北京)",
+            "bodyMatches": true,
+            "bodyMatchedName": "CUGB"
+          }
+        }
+      }
+    },
+    {
+      "queuePosition": 150,
+      "canonicalId": "u_china_university_of_mining_and_technology",
+      "name": "China University of Mining and Technology",
+      "country": "China",
+      "sourceUniversityIds": [
+        "u_china_university_of_mining_and_technology"
+      ],
+      "rankingSources": [
+        "arwu"
+      ],
+      "rankingSourceCount": 1,
+      "rankingAppearances": [
+        {
+          "source": "arwu",
+          "rank": 401,
+          "year": 2024,
+          "universityId": "u_china_university_of_mining_and_technology",
+          "name": "China University of Mining and Technology"
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"China University of Mining and Technology\" China official graduate programs",
+          "purpose": "official-graduate-catalog",
+          "domainHint": null,
+          "domainHintIsVerification": false
+        },
+        {
+          "query": "\"China University of Mining and Technology\" China official master programs",
+          "purpose": "official-master-catalog",
+          "domainHint": null,
+          "domainHintIsVerification": false
+        }
+      ],
+      "officialDomains": [],
+      "indexUrl": null,
+      "verificationStatus": "verified",
+      "shard": 12,
+      "aliasProposal": null,
+      "rorOrganization": {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "cumt.edu.cn"
+        ],
+        "established": 1909,
+        "external_ids": [
+          {
+            "all": [
+              "501100005195"
+            ],
+            "preferred": null,
+            "type": "fundref"
+          },
+          {
+            "all": [
+              "grid.411510.0"
+            ],
+            "preferred": "grid.411510.0",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0000 9030 231X"
+            ],
+            "preferred": null,
+            "type": "isni"
+          },
+          {
+            "all": [
+              "Q1074084"
+            ],
+            "preferred": null,
+            "type": "wikidata"
+          }
+        ],
+        "id": "https://ror.org/01xt2dr21",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://www.cumt.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/China_University_of_Mining_and_Technology"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "JS",
+              "country_subdivision_name": "Jiangsu",
+              "lat": 34.20442,
+              "lng": 117.28386,
+              "name": "Xuzhou"
+            },
+            "geonames_id": 10630003
+          }
+        ],
+        "names": [
+          {
+            "lang": null,
+            "types": [
+              "acronym"
+            ],
+            "value": "CUMT"
+          },
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "China University of Mining and Technology"
+          },
+          {
+            "lang": null,
+            "types": [
+              "alias"
+            ],
+            "value": "Zhōngguó Kuàngyè Dàxué"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中国矿业大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "State Key Laboratory for Geomechanics and Deep Underground Engineering",
+            "type": "child",
+            "id": "https://ror.org/041818q22"
+          },
+          {
+            "label": "State Key Laboratory of Coal Resources and Safe Mining",
+            "type": "child",
+            "id": "https://ror.org/02ywpz459"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education",
+          "funder"
+        ]
+      },
+      "registryResolution": {
+        "provider": "ROR",
+        "queryUrl": "https://api.ror.org/v2/organizations?query=%22China%20University%20of%20Mining%20and%20Technology%22",
+        "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_china_university_of_mining_and_technology\\query_sha256=57395aa419c3063d.json.gz",
+        "rawManifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_china_university_of_mining_and_technology\\query_sha256=57395aa419c3063d.manifest.json",
+        "rawSha256": "d4abf0ff74784dfbe9f6442377b51cb20bd2a513ac1292fa6a785618d8e6d57e",
+        "captureStatus": "cached",
+        "resultCount": 2,
+        "selected": {
+          "rorId": "https://ror.org/01xt2dr21",
+          "name": "China University of Mining and Technology",
+          "score": 1.0,
+          "confidence": "high",
+          "exactName": true,
+          "translatedTokenExact": true,
+          "sequenceSimilarity": 1.0,
+          "tokenJaccard": 1.0,
+          "countryMatch": true,
+          "candidateCountry": "China",
+          "registryDomains": [
+            "cumt.edu.cn"
+          ]
+        },
+        "candidates": [
+          {
+            "rorId": "https://ror.org/01xt2dr21",
+            "name": "China University of Mining and Technology",
+            "score": 1.0,
+            "confidence": "high",
+            "exactName": true,
+            "translatedTokenExact": true,
+            "sequenceSimilarity": 1.0,
+            "tokenJaccard": 1.0,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "cumt.edu.cn"
+            ]
+          },
+          {
+            "rorId": "https://ror.org/003ncxf91",
+            "name": "China University of Mining and Technology - Beijing",
+            "score": 0.4204,
+            "confidence": "review",
+            "exactName": false,
+            "translatedTokenExact": false,
+            "sequenceSimilarity": 0.9111,
+            "tokenJaccard": 0.75,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "cumtb.edu.cn"
+            ]
+          }
+        ],
+        "attempts": [
+          {
+            "queryUrl": "https://api.ror.org/v2/organizations?query=%22China%20University%20of%20Mining%20and%20Technology%22",
+            "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_china_university_of_mining_and_technology\\query_sha256=57395aa419c3063d.json.gz",
+            "rawManifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_china_university_of_mining_and_technology\\query_sha256=57395aa419c3063d.manifest.json",
+            "rawSha256": "d4abf0ff74784dfbe9f6442377b51cb20bd2a513ac1292fa6a785618d8e6d57e",
+            "captureStatus": "cached",
+            "resultCount": 2,
+            "selected": {
+              "rorId": "https://ror.org/01xt2dr21",
+              "name": "China University of Mining and Technology",
+              "score": 1.0,
+              "confidence": "high",
+              "exactName": true,
+              "translatedTokenExact": true,
+              "sequenceSimilarity": 1.0,
+              "tokenJaccard": 1.0,
+              "countryMatch": true,
+              "candidateCountry": "China",
+              "registryDomains": [
+                "cumt.edu.cn"
+              ]
+            },
+            "candidates": [
+              {
+                "rorId": "https://ror.org/01xt2dr21",
+                "name": "China University of Mining and Technology",
+                "score": 1.0,
+                "confidence": "high",
+                "exactName": true,
+                "translatedTokenExact": true,
+                "sequenceSimilarity": 1.0,
+                "tokenJaccard": 1.0,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "cumt.edu.cn"
+                ]
+              },
+              {
+                "rorId": "https://ror.org/003ncxf91",
+                "name": "China University of Mining and Technology - Beijing",
+                "score": 0.4204,
+                "confidence": "review",
+                "exactName": false,
+                "translatedTokenExact": false,
+                "sequenceSimilarity": 0.9111,
+                "tokenJaccard": 0.75,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "cumtb.edu.cn"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "registryDomainHints": [
+        "cumt.edu.cn"
+      ],
+      "discoveryVerificationStatus": "review",
+      "discoveryCaptureStatus": "cached",
+      "captureStatus": "cached",
+      "verification": {
+        "verificationStatus": "verified",
+        "captureStatus": "cached",
+        "reasonCodes": [],
+        "reasons": [],
+        "evidence": {
+          "registryIdentity": {
+            "targetName": "China University of Mining and Technology",
+            "targetCountry": "china",
+            "rorCountry": "China",
+            "countryMatch": true,
+            "rorNames": [
+              "CUMT",
+              "China University of Mining and Technology",
+              "Zhōngguó Kuàngyè Dàxué",
+              "中国矿业大学"
+            ],
+            "nameMatch": true,
+            "matchedName": "China University of Mining and Technology",
+            "matchSource": "target-name",
+            "rorId": "https://ror.org/01xt2dr21"
+          },
+          "domainConsistency": {
+            "candidateUrl": "https://www.cumt.edu.cn",
+            "candidateHost": "cumt.edu.cn",
+            "rorDomains": [
+              "cumt.edu.cn"
+            ],
+            "domainMatch": true
+          },
+          "liveOfficialPage": {
+            "requestedUrl": "https://www.cumt.edu.cn/",
+            "finalUrl": "https://www.cumt.edu.cn/",
+            "status": 200,
+            "captureStatus": "cached",
+            "redirected": false,
+            "finalDomainMatch": true,
+            "raw": {
+              "schemaVersion": 1,
+              "kind": "homepage",
+              "requestedUrl": "https://www.cumt.edu.cn/",
+              "finalUrl": "https://www.cumt.edu.cn/",
+              "status": 200,
+              "headers": {
+                "Server": "VWebServer/6.0.0",
+                "Date": "Thu, 13 Aug 2026 14:57:06 GMT",
+                "Content-Type": "text/html",
+                "Content-Length": "158410",
+                "Connection": "close",
+                "X-Frame-Options": "SAMEORIGIN",
+                "X-XSS-Protection": "1; mode=block",
+                "X-Content-Type-Options": "nosniff",
+                "Referrer-Policy": "no-referrer-when-downgrade",
+                "X-Download-Options": "noopen",
+                "X-Permitted-Cross-Domain-Policies": "master-only",
+                "Permissions-Policy": "geolocation=(self), microphone=()",
+                "Content-Security-Policy": "default-src 'self' data: blob: *.conac.cn *.jiathis.com *.baidu.com *.bshare.cn *.edu.cn *.qq.com *.kaipuyun.cn 'unsafe-inline' 'unsafe-eval';",
+                "Strict-Transport-Security": "max-age=31536000; includeSubdomains; preload",
+                "Last-Modified": "Thu, 13 Aug 2026 12:17:04 GMT",
+                "Accept-Ranges": "bytes",
+                "Cache-Control": "no-cache, no-store, must-revalidate",
+                "Expires": "0",
+                "Vary": "Accept-Encoding",
+                "ETag": "\"26aca-658ecae98108a-gzip\"",
+                "Content-Language": "zh-CN",
+                "Pragma": "no-cache"
+              },
+              "bytes": 158410,
+              "sha256": "f75740dff8562a5f66cfd19a2aae737b54b1f6188ba7dd36f25f7195cb148bc5",
+              "capturedAt": "2026-08-13T14:57:06.984301+00:00",
+              "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\official-sites\\u_china_university_of_mining_and_technology\\homepage_sha256=f75740dff8562a5f66cfd19a2aae737b54b1f6188ba7dd36f25f7195cb148bc5.body",
+              "manifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\official-sites\\u_china_university_of_mining_and_technology\\homepage_sha256=f75740dff8562a5f66cfd19a2aae737b54b1f6188ba7dd36f25f7195cb148bc5.manifest.json",
+              "captureStatus": "cached"
+            },
+            "title": "中国矿业大学",
+            "h1": [],
+            "meta": [],
+            "jsonLdOrganizationNames": [],
+            "jsonLdErrors": [],
+            "identityCandidates": [
+              {
+                "source": "title",
+                "value": "中国矿业大学",
+                "matchesAcceptedName": true,
+                "matchedName": "中国矿业大学"
+              }
+            ],
+            "structuredIdentityMatches": true,
+            "structuredIdentityMatchedSources": [
+              "title"
+            ],
+            "titleMatches": true,
+            "titleMatchedName": "中国矿业大学",
+            "bodyMatches": true,
+            "bodyMatchedName": "CUMT"
+          }
+        }
+      }
+    },
+    {
+      "queuePosition": 140,
+      "canonicalId": "u_china_university_of_petroleum_east_china",
+      "name": "China University of Petroleum (East China)",
+      "country": "China",
+      "sourceUniversityIds": [
+        "u_china_university_of_petroleum_east_china"
+      ],
+      "rankingSources": [
+        "arwu"
+      ],
+      "rankingSourceCount": 1,
+      "rankingAppearances": [
+        {
+          "source": "arwu",
+          "rank": 301,
+          "year": 2024,
+          "universityId": "u_china_university_of_petroleum_east_china",
+          "name": "China University of Petroleum (East China)"
+        }
+      ],
+      "queries": [
+        {
+          "query": "\"China University of Petroleum (East China)\" China official graduate programs",
+          "purpose": "official-graduate-catalog",
+          "domainHint": null,
+          "domainHintIsVerification": false
+        },
+        {
+          "query": "\"China University of Petroleum (East China)\" China official master programs",
+          "purpose": "official-master-catalog",
+          "domainHint": null,
+          "domainHintIsVerification": false
+        }
+      ],
+      "officialDomains": [],
+      "indexUrl": null,
+      "verificationStatus": "verified",
+      "shard": 14,
+      "aliasProposal": null,
+      "rorOrganization": {
+        "admin": {
+          "created": {
+            "date": "2018-11-14",
+            "schema_version": "1.0"
+          },
+          "last_modified": {
+            "date": "2024-12-11",
+            "schema_version": "2.1"
+          }
+        },
+        "domains": [
+          "upc.edu.cn"
+        ],
+        "established": 1953,
+        "external_ids": [
+          {
+            "all": [
+              "grid.497420.c"
+            ],
+            "preferred": "grid.497420.c",
+            "type": "grid"
+          },
+          {
+            "all": [
+              "0000 0004 1798 1132"
+            ],
+            "preferred": null,
+            "type": "isni"
+          }
+        ],
+        "id": "https://ror.org/05gbn2817",
+        "links": [
+          {
+            "type": "website",
+            "value": "https://upc.edu.cn"
+          },
+          {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/China_University_of_Petroleum"
+          }
+        ],
+        "locations": [
+          {
+            "geonames_details": {
+              "continent_code": "AS",
+              "continent_name": "Asia",
+              "country_code": "CN",
+              "country_name": "China",
+              "country_subdivision_code": "SD",
+              "country_subdivision_name": "Shandong",
+              "lat": 36.06488,
+              "lng": 120.38042,
+              "name": "Qingdao"
+            },
+            "geonames_id": 1797929
+          }
+        ],
+        "names": [
+          {
+            "lang": "en",
+            "types": [
+              "ror_display",
+              "label"
+            ],
+            "value": "China University of Petroleum, East China"
+          },
+          {
+            "lang": "zh",
+            "types": [
+              "label"
+            ],
+            "value": "中国石油大学"
+          }
+        ],
+        "relationships": [
+          {
+            "label": "China University of Petroleum, Beijing",
+            "type": "related",
+            "id": "https://ror.org/041qf4r12"
+          }
+        ],
+        "status": "active",
+        "types": [
+          "education"
+        ]
+      },
+      "registryResolution": {
+        "provider": "ROR",
+        "queryUrl": "https://api.ror.org/v2/organizations?query=%22China%20University%20of%20Petroleum%20%28East%20China%29%22",
+        "queryName": "China University of Petroleum (East China)",
+        "querySource": "target.name",
+        "sourceName": "China University of Petroleum (East China)",
+        "transformations": [],
+        "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_china_university_of_petroleum_east_china\\query_sha256=9a02bc3d2b68f557.json.gz",
+        "rawManifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_china_university_of_petroleum_east_china\\query_sha256=9a02bc3d2b68f557.manifest.json",
+        "rawSha256": "0eef17ff19b6310847a59f8ced06d5c9b53b912558c07d946e4be4595fd16d3b",
+        "captureStatus": "cached",
+        "resultCount": 1,
+        "selected": {
+          "rorId": "https://ror.org/05gbn2817",
+          "name": "China University of Petroleum, East China",
+          "score": 1.0,
+          "confidence": "high",
+          "exactName": true,
+          "translatedTokenExact": true,
+          "sequenceSimilarity": 1.0,
+          "tokenJaccard": 1.0,
+          "countryMatch": true,
+          "candidateCountry": "China",
+          "registryDomains": [
+            "upc.edu.cn"
+          ]
+        },
+        "candidates": [
+          {
+            "rorId": "https://ror.org/05gbn2817",
+            "name": "China University of Petroleum, East China",
+            "score": 1.0,
+            "confidence": "high",
+            "exactName": true,
+            "translatedTokenExact": true,
+            "sequenceSimilarity": 1.0,
+            "tokenJaccard": 1.0,
+            "countryMatch": true,
+            "candidateCountry": "China",
+            "registryDomains": [
+              "upc.edu.cn"
+            ]
+          }
+        ],
+        "attempts": [
+          {
+            "queryName": "China University of Petroleum (East China)",
+            "querySource": "target.name",
+            "sourceName": "China University of Petroleum (East China)",
+            "transformations": [],
+            "queryUrl": "https://api.ror.org/v2/organizations?query=%22China%20University%20of%20Petroleum%20%28East%20China%29%22",
+            "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_china_university_of_petroleum_east_china\\query_sha256=9a02bc3d2b68f557.json.gz",
+            "rawManifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\ror\\u_china_university_of_petroleum_east_china\\query_sha256=9a02bc3d2b68f557.manifest.json",
+            "rawSha256": "0eef17ff19b6310847a59f8ced06d5c9b53b912558c07d946e4be4595fd16d3b",
+            "captureStatus": "cached",
+            "resultCount": 1,
+            "selected": {
+              "rorId": "https://ror.org/05gbn2817",
+              "name": "China University of Petroleum, East China",
+              "score": 1.0,
+              "confidence": "high",
+              "exactName": true,
+              "translatedTokenExact": true,
+              "sequenceSimilarity": 1.0,
+              "tokenJaccard": 1.0,
+              "countryMatch": true,
+              "candidateCountry": "China",
+              "registryDomains": [
+                "upc.edu.cn"
+              ]
+            },
+            "candidates": [
+              {
+                "rorId": "https://ror.org/05gbn2817",
+                "name": "China University of Petroleum, East China",
+                "score": 1.0,
+                "confidence": "high",
+                "exactName": true,
+                "translatedTokenExact": true,
+                "sequenceSimilarity": 1.0,
+                "tokenJaccard": 1.0,
+                "countryMatch": true,
+                "candidateCountry": "China",
+                "registryDomains": [
+                  "upc.edu.cn"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "registryDomainHints": [
+        "upc.edu.cn"
+      ],
+      "discoveryVerificationStatus": "review",
+      "discoveryCaptureStatus": "cached",
+      "captureStatus": "cached",
+      "verification": {
+        "verificationStatus": "verified",
+        "captureStatus": "cached",
+        "reasonCodes": [],
+        "reasons": [],
+        "evidence": {
+          "registryIdentity": {
+            "targetName": "China University of Petroleum (East China)",
+            "targetCountry": "china",
+            "rorCountry": "China",
+            "countryMatch": true,
+            "rorNames": [
+              "China University of Petroleum, East China",
+              "中国石油大学"
+            ],
+            "nameMatch": true,
+            "matchedName": "China University of Petroleum, East China",
+            "matchSource": "target-name",
+            "rorId": "https://ror.org/05gbn2817"
+          },
+          "domainConsistency": {
+            "candidateUrl": "https://upc.edu.cn",
+            "candidateHost": "upc.edu.cn",
+            "rorDomains": [
+              "upc.edu.cn"
+            ],
+            "domainMatch": true
+          },
+          "liveOfficialPage": {
+            "requestedUrl": "https://upc.edu.cn/",
+            "finalUrl": "https://upc.edu.cn/",
+            "status": 200,
+            "captureStatus": "cached",
+            "redirected": false,
+            "finalDomainMatch": true,
+            "raw": {
+              "schemaVersion": 1,
+              "kind": "homepage",
+              "requestedUrl": "https://upc.edu.cn/",
+              "finalUrl": "https://upc.edu.cn/",
+              "status": 200,
+              "headers": {
+                "Date": "Fri, 14 Aug 2026 00:18:49 GMT",
+                "Server": "**********",
+                "X-Frame-Options": "SAMEORIGIN",
+                "Upgrade": "h2c,h2",
+                "Connection": "Upgrade, close",
+                "Last-Modified": "Wed, 12 Aug 2026 11:11:15 GMT",
+                "Accept-Ranges": "bytes",
+                "Content-Length": "69904",
+                "Vary": "User-Agent,Accept-Encoding",
+                "Cache-Control": "private, max-age=600",
+                "Expires": "Fri, 14 Aug 2026 00:28:49 GMT",
+                "ETag": "\"11110-658d7a5527c94-gzip\"",
+                "Content-Type": "text/html",
+                "Content-Language": "zh-CN"
+              },
+              "bytes": 69904,
+              "sha256": "00468c5a9a8c617b6431a3cc9523c2eed438177c73900e0d1e1fe6d1972ab0e9",
+              "capturedAt": "2026-08-14T00:18:49.438627+00:00",
+              "rawFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\official-sites\\u_china_university_of_petroleum_east_china\\homepage_sha256=00468c5a9a8c617b6431a3cc9523c2eed438177c73900e0d1e1fe6d1972ab0e9.body",
+              "manifestFile": "D:\\code Analysis\\Rankings\\scraper\\raw\\official-discovery\\official-sites\\u_china_university_of_petroleum_east_china\\homepage_sha256=00468c5a9a8c617b6431a3cc9523c2eed438177c73900e0d1e1fe6d1972ab0e9.manifest.json",
+              "captureStatus": "cached"
+            },
+            "title": "中国石油大学",
+            "h1": [],
+            "meta": [],
+            "jsonLdOrganizationNames": [],
+            "jsonLdErrors": [],
+            "identityCandidates": [
+              {
+                "source": "title",
+                "value": "中国石油大学",
+                "matchesAcceptedName": true,
+                "matchedName": "中国石油大学"
+              }
+            ],
+            "structuredIdentityMatches": true,
+            "structuredIdentityMatchedSources": [
+              "title"
+            ],
+            "titleMatches": true,
+            "titleMatchedName": "中国石油大学",
+            "bodyMatches": true,
+            "bodyMatchedName": "中国石油大学"
+          }
+        }
+      }
+    }
+  ],
+  "rerun": {
+    "mode": "offline-cached-raw",
+    "sourceVerificationFiles": [
+      "scraper/playwright/top500_official_website_verification_v3.json",
+      "scraper/playwright/top500_official_website_verification_recovered15_v3.json"
+    ],
+    "supplementUsedForEligibilityOnly": true,
+    "sampleSelection": {
+      "method": "lexicographically-first eligible review items",
+      "eligibleCount": 98,
+      "sampleCount": 10,
+      "canonicalIds": [
+        "u_beihang_university",
+        "u_beijing_institute_of_technology",
+        "u_beijing_normal_university",
+        "u_beijing_university_of_chemical_technology",
+        "u_capital_medical_university",
+        "u_central_south_university",
+        "u_china_university_of_geosciences",
+        "u_china_university_of_geosciences_beijing",
+        "u_china_university_of_mining_and_technology",
+        "u_china_university_of_petroleum_east_china"
+      ]
+    },
+    "networkAttempt": false,
+    "oldStatuses": {
+      "u_beihang_university": "review",
+      "u_beijing_institute_of_technology": "review",
+      "u_beijing_normal_university": "review",
+      "u_beijing_university_of_chemical_technology": "review",
+      "u_capital_medical_university": "review",
+      "u_central_south_university": "review",
+      "u_china_university_of_geosciences": "review",
+      "u_china_university_of_geosciences_beijing": "review",
+      "u_china_university_of_mining_and_technology": "review",
+      "u_china_university_of_petroleum_east_china": "review"
+    },
+    "statusChanges": [
+      {
+        "canonicalId": "u_beihang_university",
+        "name": "Beihang University",
+        "before": "review",
+        "after": "verified"
+      },
+      {
+        "canonicalId": "u_beijing_institute_of_technology",
+        "name": "Beijing Institute of Technology",
+        "before": "review",
+        "after": "verified"
+      },
+      {
+        "canonicalId": "u_beijing_normal_university",
+        "name": "Beijing Normal University",
+        "before": "review",
+        "after": "verified"
+      },
+      {
+        "canonicalId": "u_beijing_university_of_chemical_technology",
+        "name": "Beijing University of Chemical Technology",
+        "before": "review",
+        "after": "verified"
+      },
+      {
+        "canonicalId": "u_capital_medical_university",
+        "name": "Capital Medical University",
+        "before": "review",
+        "after": "verified"
+      },
+      {
+        "canonicalId": "u_central_south_university",
+        "name": "Central South University",
+        "before": "review",
+        "after": "verified"
+      },
+      {
+        "canonicalId": "u_china_university_of_geosciences",
+        "name": "China University of Geosciences",
+        "before": "review",
+        "after": "verified"
+      },
+      {
+        "canonicalId": "u_china_university_of_geosciences_beijing",
+        "name": "China University of Geosciences Beijing",
+        "before": "review",
+        "after": "verified"
+      },
+      {
+        "canonicalId": "u_china_university_of_mining_and_technology",
+        "name": "China University of Mining and Technology",
+        "before": "review",
+        "after": "verified"
+      },
+      {
+        "canonicalId": "u_china_university_of_petroleum_east_china",
+        "name": "China University of Petroleum (East China)",
+        "before": "review",
+        "after": "verified"
+      }
+    ]
+  }
+}

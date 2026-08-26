@@ -1,0 +1,1262 @@
+[
+  {
+    "project_id": "u_ie_university_main_mba",
+    "university_id": "u_ie_university",
+    "campus_id": "main",
+    "normalized_program_code": "mba",
+    "name": "MBA",
+    "degree": "MBA",
+    "department": "IE Business School",
+    "official_url": "https://www.ie.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_02d56ff234c2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_02d56ff234c2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ie_university_main_management",
+    "university_id": "u_ie_university",
+    "campus_id": "main",
+    "normalized_program_code": "management",
+    "name": "Master in Management",
+    "degree": "MIM",
+    "department": "IE Business School",
+    "official_url": "https://www.ie.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_02d56ff234c2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_02d56ff234c2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ie_university_main_finance",
+    "university_id": "u_ie_university",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "Master in Finance",
+    "degree": "MFin",
+    "department": "IE Business School",
+    "official_url": "https://www.ie.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_02d56ff234c2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_02d56ff234c2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ie_university_main_marketing",
+    "university_id": "u_ie_university",
+    "campus_id": "main",
+    "normalized_program_code": "marketing",
+    "name": "Master in Marketing",
+    "degree": "MMkt",
+    "department": "IE Business School",
+    "official_url": "https://www.ie.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_02d56ff234c2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_02d56ff234c2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ie_university_main_business_analytics",
+    "university_id": "u_ie_university",
+    "campus_id": "main",
+    "normalized_program_code": "business_analytics",
+    "name": "Master in Business Analytics",
+    "degree": "MBusAn",
+    "department": "IE Business School",
+    "official_url": "https://www.ie.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_02d56ff234c2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_02d56ff234c2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ie_university_main_digital_marketing",
+    "university_id": "u_ie_university",
+    "campus_id": "main",
+    "normalized_program_code": "digital_marketing",
+    "name": "Master in Digital Marketing",
+    "degree": "MDM",
+    "department": "IE Business School",
+    "official_url": "https://www.ie.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_02d56ff234c2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_02d56ff234c2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ie_university_main_international_rel",
+    "university_id": "u_ie_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_rel",
+    "name": "Master in International Relations",
+    "degree": "MIR",
+    "department": "IE School of Global and Public Affairs",
+    "official_url": "https://www.ie.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_02d56ff234c2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_02d56ff234c2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ie_university_main_public_policy",
+    "university_id": "u_ie_university",
+    "campus_id": "main",
+    "normalized_program_code": "public_policy",
+    "name": "Master in Public Policy",
+    "degree": "MPP",
+    "department": "IE School of Global and Public Affairs",
+    "official_url": "https://www.ie.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_02d56ff234c2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_02d56ff234c2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ie_university_main_communication",
+    "university_id": "u_ie_university",
+    "campus_id": "main",
+    "normalized_program_code": "communication",
+    "name": "Master in Communication",
+    "degree": "MComm",
+    "department": "IE School of Human Sciences and Technology",
+    "official_url": "https://www.ie.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_02d56ff234c2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_02d56ff234c2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ie_university_main_digital_media",
+    "university_id": "u_ie_university",
+    "campus_id": "main",
+    "normalized_program_code": "digital_media",
+    "name": "Master in Digital Media",
+    "degree": "MDM",
+    "department": "IE School of Human Sciences and Technology",
+    "official_url": "https://www.ie.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_02d56ff234c2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_02d56ff234c2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ie_university_main_data_science",
+    "university_id": "u_ie_university",
+    "campus_id": "main",
+    "normalized_program_code": "data_science",
+    "name": "Master in Data Science",
+    "degree": "MDatSc",
+    "department": "IE School of Human Sciences and Technology",
+    "official_url": "https://www.ie.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_02d56ff234c2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_02d56ff234c2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ie_university_main_big_data",
+    "university_id": "u_ie_university",
+    "campus_id": "main",
+    "normalized_program_code": "big_data",
+    "name": "Master in Big Data and Business Analytics",
+    "degree": "MBDBA",
+    "department": "IE School of Human Sciences and Technology",
+    "official_url": "https://www.ie.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_02d56ff234c2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_02d56ff234c2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ie_university_main_cyber_security",
+    "university_id": "u_ie_university",
+    "campus_id": "main",
+    "normalized_program_code": "cyber_security",
+    "name": "Master in Cyber Security",
+    "degree": "MCybSec",
+    "department": "IE School of Human Sciences and Technology",
+    "official_url": "https://www.ie.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_02d56ff234c2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_02d56ff234c2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ie_university_main_architecture",
+    "university_id": "u_ie_university",
+    "campus_id": "main",
+    "normalized_program_code": "architecture",
+    "name": "Master in Architecture",
+    "degree": "MArch",
+    "department": "IE School of Architecture and Design",
+    "official_url": "https://www.ie.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_02d56ff234c2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_02d56ff234c2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ie_university_main_real_estate",
+    "university_id": "u_ie_university",
+    "campus_id": "main",
+    "normalized_program_code": "real_estate",
+    "name": "Master in Real Estate",
+    "degree": "MRE",
+    "department": "IE School of Architecture and Design",
+    "official_url": "https://www.ie.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_02d56ff234c2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_02d56ff234c2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ie_university_main_design",
+    "university_id": "u_ie_university",
+    "campus_id": "main",
+    "normalized_program_code": "design",
+    "name": "Master in Design",
+    "degree": "MDes",
+    "department": "IE School of Architecture and Design",
+    "official_url": "https://www.ie.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_02d56ff234c2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_02d56ff234c2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ie_university_main_law",
+    "university_id": "u_ie_university",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "LLM Law",
+    "degree": "LLM",
+    "department": "IE Law School",
+    "official_url": "https://www.ie.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_02d56ff234c2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_02d56ff234c2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ie_university_main_international_law",
+    "university_id": "u_ie_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_law",
+    "name": "LLM International Law",
+    "degree": "LLM",
+    "department": "IE Law School",
+    "official_url": "https://www.ie.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_02d56ff234c2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_02d56ff234c2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ie_university_main_tax",
+    "university_id": "u_ie_university",
+    "campus_id": "main",
+    "normalized_program_code": "tax",
+    "name": "LLM Tax",
+    "degree": "LLM",
+    "department": "IE Law School",
+    "official_url": "https://www.ie.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_02d56ff234c2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_02d56ff234c2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  },
+  {
+    "project_id": "u_ie_university_main_behavior",
+    "university_id": "u_ie_university",
+    "campus_id": "main",
+    "normalized_program_code": "behavior",
+    "name": "Master in Behavioral Science",
+    "degree": "MBS",
+    "department": "IE School of Human Sciences and Technology",
+    "official_url": "https://www.ie.edu/",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "unknown",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [],
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null,
+            "source_id": "src_02d56ff234c2",
+            "verification_status": "needs_review"
+          },
+          "source_id": "src_02d56ff234c2",
+          "verification_status": "needs_review"
+        },
+        "fees": [],
+        "source_id": "src_02d56ff234c2",
+        "verification_status": "needs_review"
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review"
+  }
+]

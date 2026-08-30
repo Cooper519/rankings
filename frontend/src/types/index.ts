@@ -27,8 +27,18 @@ export interface Requirements {
   gpa?: string | null
   ielts?: string | null
   toefl?: string | null
+  gre?: string | null
+  gmat?: string | null
   language?: string | null
   academic?: string | null
+}
+
+export interface ProgramFee {
+  type: "tuition" | "registration" | string
+  amount: string | null
+  currency: string | null
+  period: string | null
+  applicantGroup?: string
 }
 
 export interface Program {
@@ -40,6 +50,7 @@ export interface Program {
   deadlines: Deadline[]
   materials: string[]
   requirements: Requirements
+  fees?: ProgramFee[]
   sourceUrl: string
   verified: boolean
   updatedAt: string

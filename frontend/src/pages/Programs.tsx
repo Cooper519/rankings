@@ -16,7 +16,7 @@ const foldSearch = (value: string) => value
 
 function hasRequirement(p: Program): boolean {
   const r = p.requirements
-  return Boolean(r.gpa || r.ielts || r.toefl || r.language || r.academic)
+  return Boolean(r.gpa || r.ielts || r.toefl || r.gre || r.gmat || r.language || r.academic)
 }
 
 function subjectLabel(value?: string): string {
@@ -28,6 +28,8 @@ function requirementText(p: Program): string {
   const parts = []
   if (r.ielts) parts.push(`IELTS ${r.ielts}`)
   if (r.toefl) parts.push(`TOEFL ${r.toefl}`)
+  if (r.gre) parts.push(r.gre)
+  if (r.gmat) parts.push(r.gmat)
   if (r.gpa) parts.push(`GPA ${r.gpa}`)
   if (r.language) parts.push(r.language)
   if (r.academic) parts.push(r.academic)

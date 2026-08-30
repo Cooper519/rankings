@@ -37,7 +37,7 @@ interface CardItem {
 
 function hasRequirement(p: Program): boolean {
   const r = p.requirements
-  return Boolean(r.gpa || r.ielts || r.toefl || r.language || r.academic)
+  return Boolean(r.gpa || r.ielts || r.toefl || r.gre || r.gmat || r.language || r.academic)
 }
 
 export default function Me() {

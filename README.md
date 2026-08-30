@@ -460,6 +460,7 @@ frontend/dist/ 可以部署到静态 Server。临时用 Python 查看构建结�
 已实现：
 
 - TXT 到院校原始包的转换。
+- 原始包到前端 JSON 的导出流水线（tools/build_frontend_data.py）。
 - manifest、project、cycle、timeline、requirements、fee、source 的结构化校验。
 - 原始包 JSON Schema、数据契约文档和目录骨架。
 - 原始 TXT 副本和生成 notes 的保存。
@@ -468,10 +469,18 @@ frontend/dist/ 可以部署到静态 Server。临时用 Python 查看构建结�
 
 后续接入：
 
-- 从所有院校包构建规范化 SQLite。
-- 从 SQLite 导出统一的 generated JSON。
 - 五个榜单 adapter 的统一接口实现。
-- Pull Request CI 校验和 GitHub Pages 自动发布。
-- GitHub Pages 仓库子路径的自动化配置。
+- Pull Request CI 校验（schema + 导出一致性）。
+
+## 导出前端数据
+
+抓取或新增院校包后，重新生成前端 JSON：
+
+    python -m tools.build_frontend_data
+
+输入为 raw/universities/ 下的规范包与 frontend/public/data/ 中的榜单快照和人工校对记录；
+输出为 universities.json、programs.json、program_coverage.json、university_aliases.json
+以及 generated/build_report.json。该命令是幂等的，可直接重复运行；
+不要在抓取进程写包的同时执行。
 
 在这些构建步骤接入前，新增院校包仍可先按本 README 转换并提交，作为规范化数据源。

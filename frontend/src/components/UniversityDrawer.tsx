@@ -12,7 +12,20 @@ const SRC_LABEL: Record<RankingSource, string> = {
 }
 
 function hasRequirement(p: Program): boolean {
-  return Boolean(p.requirements.ielts || p.requirements.toefl || p.requirements.gpa || p.requirements.language || p.requirements.academic)
+  return Boolean(p.requirements.ielts || p.requirements.toefl || p.requirements.gpa || p.requirements.gre || p.requirements.gmat || p.requirements.language || p.requirements.academic)
+}
+
+function feeText(p: Program): string {
+  const fees = (p.fees || []).filter((f) => f.amount)
+  if (!fees.length) return ''
+  return fees
+    .map((f) => {
+      const amount = Number(f.amount).toLocaleString()
+      const period = ['per_year', 'year'].includes(f.period || '') ? '/年' : ['one_time', 'once'].includes(f.period || '') ? '/次' : f.period ? '/' + f.period : ''
+      const who = f.applicantGroup === 'Non-EU' ? '非EU ' : f.applicantGroup === 'EU' ? 'EU ' : ''
+      return who + (f.type === 'tuition' ? '学费' : f.type === 'registration' ? '注册费' : (f.type || '费用')) + ' ' + f.currency + ' ' + amount + period
+    })
+    .join(' · ')
 }
 
 export default function UniversityDrawer({
@@ -184,6 +197,8 @@ export default function UniversityDrawer({
                           <>
                             {p.requirements.ielts && <span>IELTS <b>{p.requirements.ielts}</b></span>}
                             {p.requirements.toefl && <span>TOEFL <b>{p.requirements.toefl}</b></span>}
+                            {p.requirements.gre && <span>{p.requirements.gre}</span>}
+                            {p.requirements.gmat && <span>{p.requirements.gmat}</span>}
                             {p.requirements.gpa && <span>GPA <b>{p.requirements.gpa}</b></span>}
                             {p.requirements.language && <span>语言 <b>{p.requirements.language}</b></span>}
                           </>
@@ -193,6 +208,8 @@ export default function UniversityDrawer({
                       </div>
 
                       {p.requirements.academic && <p className="req-note">{p.requirements.academic}</p>}
+
+                      {feeText(p) && <p className="req-note">{feeText(p)}</p>}
 
                       {p.sourceUrl && (
                         <a className="src-link" href={p.sourceUrl} target="_blank" rel="noreferrer" data-cursor>

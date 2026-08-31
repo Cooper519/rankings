@@ -1,1497 +1,227 @@
 [
   {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_tech_in_computer_science_and_engineering",
+    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_disciplines",
     "university_id": "u_indian_institute_of_technology_guwahati_iitg",
     "campus_id": "main",
-    "normalized_program_code": "m_tech_in_computer_science_and_engineering",
-    "name": "M.Tech in Computer Science and Engineering",
-    "degree": "M.Tech",
+    "normalized_program_code": "disciplines",
+    "name": "Disciplines",
+    "degree": null,
     "subject": null,
     "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_academic?aca=computer-science-and-engineering",
+    "official_url": "https://iitg.ac.in/acad/admission/master/disciplines.php",
     "admission_cycles": [
       {
         "cycle_id": "27fall",
         "academic_year": 2027,
         "entry_term": "fall",
         "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_tech_in_computer_science_and_engineering_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_c3364c40c9e5",
-            "verification_status": "needs_review"
-          }
-        ],
+        "timelines": [],
         "requirements": {
           "language": {
             "status": "unknown",
-            "tests": [],
-            "source_id": "src_c3364c40c9e5",
-            "verification_status": "needs_review"
+            "tests": []
           },
           "gre": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_c3364c40c9e5",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "gmat": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_c3364c40c9e5",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_c3364c40c9e5",
-            "verification_status": "needs_review"
+            "status": "required",
+            "description": null
           },
           "notes": "",
-          "source_id": "src_c3364c40c9e5",
+          "source_id": "src_ad76ecc0810f",
           "verification_status": "needs_review"
         },
         "fees": []
       }
     ],
     "status": "active",
-    "department": "Department of Computer Science and Engineering"
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
   },
   {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_tech_in_electronics_and_electrical_engineering",
+    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_eligibility",
     "university_id": "u_indian_institute_of_technology_guwahati_iitg",
     "campus_id": "main",
-    "normalized_program_code": "m_tech_in_electronics_and_electrical_engineering",
-    "name": "M.Tech in Electronics and Electrical Engineering",
-    "degree": "M.Tech",
+    "normalized_program_code": "eligibility",
+    "name": "Eligibility",
+    "degree": null,
     "subject": null,
     "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_academic?aca=electronics-and-electrical-engineering",
+    "official_url": "https://iitg.ac.in/acad/admission/master/eligibility.php",
     "admission_cycles": [
       {
         "cycle_id": "27fall",
         "academic_year": 2027,
         "entry_term": "fall",
         "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_tech_in_electronics_and_electrical_engineering_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_ca9d97857850",
-            "verification_status": "needs_review"
-          }
-        ],
+        "timelines": [],
         "requirements": {
           "language": {
             "status": "unknown",
-            "tests": [],
-            "source_id": "src_ca9d97857850",
-            "verification_status": "needs_review"
+            "tests": []
           },
           "gre": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_ca9d97857850",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "gmat": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_ca9d97857850",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_ca9d97857850",
-            "verification_status": "needs_review"
+            "status": "required",
+            "description": "Master of Technology To be admitted to an MTech Programme, a candidate must have a Bachelor's Degree or Master's Degree in the relevant discipline with a minimum CPI 6."
           },
           "notes": "",
-          "source_id": "src_ca9d97857850",
+          "source_id": "src_29cd2b141dbf",
           "verification_status": "needs_review"
         },
         "fees": []
       }
     ],
     "status": "active",
-    "department": "Department of Electronics and Electrical Engineering"
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
   },
   {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_tech_in_mechanical_engineering",
+    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_master_of_business_administration",
     "university_id": "u_indian_institute_of_technology_guwahati_iitg",
     "campus_id": "main",
-    "normalized_program_code": "m_tech_in_mechanical_engineering",
-    "name": "M.Tech in Mechanical Engineering",
-    "degree": "M.Tech",
+    "normalized_program_code": "master_of_business_administration",
+    "name": "Master of Business Administration",
+    "degree": "MasterofBusiness",
     "subject": null,
     "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_academic?aca=mechanical-engineering",
+    "official_url": "https://iitg.ac.in/acad/admission/master/mba.php",
     "admission_cycles": [
       {
         "cycle_id": "27fall",
         "academic_year": 2027,
         "entry_term": "fall",
         "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_tech_in_mechanical_engineering_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_bbeaf4c1c649",
-            "verification_status": "needs_review"
-          }
-        ],
+        "timelines": [],
         "requirements": {
           "language": {
             "status": "unknown",
-            "tests": [],
-            "source_id": "src_bbeaf4c1c649",
-            "verification_status": "needs_review"
+            "tests": []
           },
           "gre": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_bbeaf4c1c649",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "gmat": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_bbeaf4c1c649",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_bbeaf4c1c649",
-            "verification_status": "needs_review"
+            "status": "required",
+            "description": "At least 65% in high school, intermediate, and bachelor's degree with 5% relaxation for SC/ST/PwD candidates."
           },
           "notes": "",
-          "source_id": "src_bbeaf4c1c649",
+          "source_id": "src_270592d2cf88",
           "verification_status": "needs_review"
         },
         "fees": []
       }
     ],
     "status": "active",
-    "department": "Department of Mechanical Engineering"
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
   },
   {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_tech_in_civil_engineering",
+    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_mba_admission_2026",
     "university_id": "u_indian_institute_of_technology_guwahati_iitg",
     "campus_id": "main",
-    "normalized_program_code": "m_tech_in_civil_engineering",
-    "name": "M.Tech in Civil Engineering",
-    "degree": "M.Tech",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_academic?aca=civil-engineering",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_tech_in_civil_engineering_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_ca623343b4f4",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_ca623343b4f4",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_ca623343b4f4",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_ca623343b4f4",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_ca623343b4f4",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_ca623343b4f4",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Department of Civil Engineering"
-  },
-  {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_tech_in_chemical_engineering",
-    "university_id": "u_indian_institute_of_technology_guwahati_iitg",
-    "campus_id": "main",
-    "normalized_program_code": "m_tech_in_chemical_engineering",
-    "name": "M.Tech in Chemical Engineering",
-    "degree": "M.Tech",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_academic?aca=chemical-engineering",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_tech_in_chemical_engineering_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_14f2fda44a83",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_14f2fda44a83",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_14f2fda44a83",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_14f2fda44a83",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_14f2fda44a83",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_14f2fda44a83",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Department of Chemical Engineering"
-  },
-  {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_tech_in_biotechnology",
-    "university_id": "u_indian_institute_of_technology_guwahati_iitg",
-    "campus_id": "main",
-    "normalized_program_code": "m_tech_in_biotechnology",
-    "name": "M.Tech in Biotechnology",
-    "degree": "M.Tech",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_academic?aca=biosciences-and-bioengineering",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_tech_in_biotechnology_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_a48f60499740",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_a48f60499740",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_a48f60499740",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_a48f60499740",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_a48f60499740",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_a48f60499740",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Department of Biosciences and Bioengineering"
-  },
-  {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_tech_in_bioengineering",
-    "university_id": "u_indian_institute_of_technology_guwahati_iitg",
-    "campus_id": "main",
-    "normalized_program_code": "m_tech_in_bioengineering",
-    "name": "M.Tech in Bioengineering",
-    "degree": "M.Tech",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_academic?aca=biosciences-and-bioengineering",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_tech_in_bioengineering_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_a48f60499740",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_a48f60499740",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_a48f60499740",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_a48f60499740",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_a48f60499740",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_a48f60499740",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Department of Biosciences and Bioengineering"
-  },
-  {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_tech_in_rural_technology",
-    "university_id": "u_indian_institute_of_technology_guwahati_iitg",
-    "campus_id": "main",
-    "normalized_program_code": "m_tech_in_rural_technology",
-    "name": "M.Tech in Rural Technology",
-    "degree": "M.Tech",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_page_details.php?page=58/academic-programmes",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_tech_in_rural_technology_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_76abe5839077",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "School of Agro and Rural Technology"
-  },
-  {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_tech_in_data_science",
-    "university_id": "u_indian_institute_of_technology_guwahati_iitg",
-    "campus_id": "main",
-    "normalized_program_code": "m_tech_in_data_science",
-    "name": "M.Tech in Data Science",
-    "degree": "M.Tech",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_page_details.php?page=58/academic-programmes",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_tech_in_data_science_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_76abe5839077",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Mehta Family School of Data Science and AI"
-  },
-  {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_tech_in_robotics_and_artificial_intelligence",
-    "university_id": "u_indian_institute_of_technology_guwahati_iitg",
-    "campus_id": "main",
-    "normalized_program_code": "m_tech_in_robotics_and_artificial_intelligence",
-    "name": "M.Tech in Robotics and Artificial Intelligence",
-    "degree": "M.Tech",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_page_details.php?page=58/academic-programmes",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_tech_in_robotics_and_artificial_intelligence_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_76abe5839077",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Intelligent Cyber Physical Systems"
-  },
-  {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_tech_in_food_science_and_technology_joint_with_g",
-    "university_id": "u_indian_institute_of_technology_guwahati_iitg",
-    "campus_id": "main",
-    "normalized_program_code": "m_tech_in_food_science_and_technology_joint_with_g",
-    "name": "M.Tech in Food Science and Technology (Joint with Gifu University)",
-    "degree": "M.Tech",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_page_details.php?page=58/academic-programmes",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_tech_in_food_science_and_technology_joint_with_g_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_76abe5839077",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Department of Chemical Engineering"
-  },
-  {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_tech_in_biomedical_science_and_engineering",
-    "university_id": "u_indian_institute_of_technology_guwahati_iitg",
-    "campus_id": "main",
-    "normalized_program_code": "m_tech_in_biomedical_science_and_engineering",
-    "name": "M.Tech in Biomedical Science and Engineering",
-    "degree": "M.Tech",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_page_details.php?page=58/academic-programmes",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_tech_in_biomedical_science_and_engineering_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_76abe5839077",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Jyoti and Bhupat Mehta School of Health Sciences"
-  },
-  {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_des_in_design",
-    "university_id": "u_indian_institute_of_technology_guwahati_iitg",
-    "campus_id": "main",
-    "normalized_program_code": "m_des_in_design",
-    "name": "M.Des in Design",
-    "degree": "M.Des",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_academic?aca=design",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_des_in_design_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_3a8f8e0021ae",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_3a8f8e0021ae",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_3a8f8e0021ae",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_3a8f8e0021ae",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_3a8f8e0021ae",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_3a8f8e0021ae",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Department of Design"
-  },
-  {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_a_in_development_studies",
-    "university_id": "u_indian_institute_of_technology_guwahati_iitg",
-    "campus_id": "main",
-    "normalized_program_code": "m_a_in_development_studies",
-    "name": "M.A. in Development Studies",
-    "degree": "M.A.",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_academic?aca=humanities-and-social-sciences",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_a_in_development_studies_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_a73f558969c9",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_a73f558969c9",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_a73f558969c9",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_a73f558969c9",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_a73f558969c9",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_a73f558969c9",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Department of Humanities and Social Sciences"
-  },
-  {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_a_in_liberal_arts",
-    "university_id": "u_indian_institute_of_technology_guwahati_iitg",
-    "campus_id": "main",
-    "normalized_program_code": "m_a_in_liberal_arts",
-    "name": "M.A. in Liberal Arts",
-    "degree": "M.A.",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_academic?aca=humanities-and-social-sciences",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_a_in_liberal_arts_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_a73f558969c9",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_a73f558969c9",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_a73f558969c9",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_a73f558969c9",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_a73f558969c9",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_a73f558969c9",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Department of Humanities and Social Sciences"
-  },
-  {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_sc_in_physics",
-    "university_id": "u_indian_institute_of_technology_guwahati_iitg",
-    "campus_id": "main",
-    "normalized_program_code": "m_sc_in_physics",
-    "name": "M.Sc in Physics",
-    "degree": "M.Sc",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_academic?aca=physics",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_sc_in_physics_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_f5832ea05f94",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_f5832ea05f94",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_f5832ea05f94",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_f5832ea05f94",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_f5832ea05f94",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_f5832ea05f94",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Department of Physics"
-  },
-  {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_sc_in_chemistry",
-    "university_id": "u_indian_institute_of_technology_guwahati_iitg",
-    "campus_id": "main",
-    "normalized_program_code": "m_sc_in_chemistry",
-    "name": "M.Sc in Chemistry",
-    "degree": "M.Sc",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_academic?aca=chemistry",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_sc_in_chemistry_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_e50baf174904",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_e50baf174904",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_e50baf174904",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_e50baf174904",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_e50baf174904",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_e50baf174904",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Department of Chemistry"
-  },
-  {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_sc_in_mathematics_and_computing",
-    "university_id": "u_indian_institute_of_technology_guwahati_iitg",
-    "campus_id": "main",
-    "normalized_program_code": "m_sc_in_mathematics_and_computing",
-    "name": "M.Sc in Mathematics and Computing",
-    "degree": "M.Sc",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_academic?aca=mathematics",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_sc_in_mathematics_and_computing_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_8d7333ed459c",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_8d7333ed459c",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_8d7333ed459c",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_8d7333ed459c",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_8d7333ed459c",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_8d7333ed459c",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Department of Mathematics"
-  },
-  {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_sc_in_mathematics",
-    "university_id": "u_indian_institute_of_technology_guwahati_iitg",
-    "campus_id": "main",
-    "normalized_program_code": "m_sc_in_mathematics",
-    "name": "M.Sc in Mathematics",
-    "degree": "M.Sc",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_academic?aca=mathematics",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_sc_in_mathematics_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_8d7333ed459c",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_8d7333ed459c",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_8d7333ed459c",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_8d7333ed459c",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_8d7333ed459c",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_8d7333ed459c",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Department of Mathematics"
-  },
-  {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_s_r_in_energy_science_and_engineering",
-    "university_id": "u_indian_institute_of_technology_guwahati_iitg",
-    "campus_id": "main",
-    "normalized_program_code": "m_s_r_in_energy_science_and_engineering",
-    "name": "M.S.(R) in Energy Science and Engineering",
-    "degree": "M.S.",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_page_details.php?page=58/academic-programmes",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_s_r_in_energy_science_and_engineering_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_76abe5839077",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "School of Energy Science and Engineering"
-  },
-  {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_s_r_in_disaster_management_and_risk_reduction",
-    "university_id": "u_indian_institute_of_technology_guwahati_iitg",
-    "campus_id": "main",
-    "normalized_program_code": "m_s_r_in_disaster_management_and_risk_reduction",
-    "name": "M.S.(R) in Disaster Management and Risk Reduction",
-    "degree": "M.S.",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_page_details.php?page=58/academic-programmes",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_s_r_in_disaster_management_and_risk_reduction_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_76abe5839077",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Centre for Disaster Management and Research"
-  },
-  {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_m_s_r_in_polymer_science_and_technology",
-    "university_id": "u_indian_institute_of_technology_guwahati_iitg",
-    "campus_id": "main",
-    "normalized_program_code": "m_s_r_in_polymer_science_and_technology",
-    "name": "M.S.(R) in Polymer Science and Technology",
-    "degree": "M.S.",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_page_details.php?page=58/academic-programmes",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_m_s_r_in_polymer_science_and_technology_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_76abe5839077",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Centre for Sustainable Polymers"
-  },
-  {
-    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_mba",
-    "university_id": "u_indian_institute_of_technology_guwahati_iitg",
-    "campus_id": "main",
-    "normalized_program_code": "mba",
-    "name": "MBA",
+    "normalized_program_code": "mba_admission_2026",
+    "name": "MBA Admission 2026",
     "degree": "MBA",
     "subject": null,
     "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.iitg.ac.in/iitg_page_details.php?page=58/academic-programmes",
+    "official_url": "https://iitg.ac.in/acad/admission/pg_admission/mba.php",
     "admission_cycles": [
       {
         "cycle_id": "27fall",
         "academic_year": 2027,
         "entry_term": "fall",
         "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_mba_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
-          }
-        ],
+        "timelines": [],
         "requirements": {
           "language": {
             "status": "unknown",
-            "tests": [],
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
+            "tests": []
           },
           "gre": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "gmat": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_76abe5839077",
-            "verification_status": "needs_review"
+            "status": "required",
+            "description": null
           },
           "notes": "",
-          "source_id": "src_76abe5839077",
+          "source_id": "src_a774f95741a4",
           "verification_status": "needs_review"
         },
         "fees": []
       }
     ],
     "status": "active",
-    "department": "School of Business"
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_indian_institute_of_technology_guwahati_iitg_main_admission_to_pg_mtech_mdes_msr_ma_programmes_for_july_2026_session",
+    "university_id": "u_indian_institute_of_technology_guwahati_iitg",
+    "campus_id": "main",
+    "normalized_program_code": "admission_to_pg_mtech_mdes_msr_ma_programmes_for_july_2026_session",
+    "name": "Admission to PG (MTech/MDes/MSR/MA) Programmes for July 2026 Session",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.iitg.ac.in/iitg_news_details.php?p=4038/admission-to-pg-mtech-mdes-msr-ma-programmes-for-july-2026-session",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_bff15faf85e1",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
   }
 ]

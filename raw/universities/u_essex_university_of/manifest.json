@@ -4,8 +4,8 @@
   "university_id": "u_essex_university_of",
   "name": "Essex, University of",
   "country": "United Kingdom",
-  "website": "https://www.essexuniversityof.edu",
-  "updated_at": "2026-08-19T18:56:01.850393+00:00",
-  "notes": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping.",
-  "converter": "manual-webfetch-v1"
+  "website": "https://www.essex.ac.uk/",
+  "updated_at": "2026-08-30T07:30:36.518924+00:00",
+  "notes": "four-rankings scrape 27fall: pages=15 captured, programs=12 (3 with per-project facts), school_deadline=2026-10, fees=unknown, issues=none",
+  "converter": "four-rankings-webfetch-v2"
 }

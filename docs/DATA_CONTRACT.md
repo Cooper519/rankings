@@ -188,9 +188,10 @@ verified 只能由人工审核产生。多个来源冲突时保留全部证据�
 
 ## 11. SQLite 规范化模型
 
-主数据库计划使用以下表：
+主数据库当前使用以下表：
 
     universities
+    university_aliases
     campuses
     projects
     admission_cycles
@@ -198,11 +199,10 @@ verified 只能由人工审核产生。多个来源冲突时保留全部证据�
     requirements
     fees
     sources
-    source_evidence
-    field_source_links
-    ranking_editions
+    reviews
     ranking_entries
     data_packages
+    validation_issues
     schema_metadata
 
 约束：
@@ -213,6 +213,16 @@ verified 只能由人工审核产生。多个来源冲突时保留全部证据�
 - 原始包、数据库和生成文件都携带 schema_version。
 - Schema 变化必须提供 migration。
 - 同一份输入重复构建必须得到相同输出。
+
+构建器对可恢复的存量契约偏差采取“导入并记录问题”的策略：例如缺少 `timeline_id`
+时生成稳定 ID；重复 `project_id` 或 `source_id` 则隔离重复项，不能静默覆盖。所有问题进入
+`validation_issues` 表并导出为 `generated/validation_issues.json`。`--strict` 可用于存量问题
+清零后的强制门禁；默认构建保证已知问题可见，同时让其余可恢复数据继续发布。
+
+标准命令：
+
+    python -m tools.data_pipeline validate
+    python -m tools.data_pipeline all
 
 ## 12. 榜单 Adapter
 

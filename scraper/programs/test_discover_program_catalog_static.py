@@ -8,7 +8,7 @@ from scraper.programs.discover_program_catalog_static import (
     build_discovery_batch,
     discover_source,
     is_official_url,
-    main,
+    main as run_discovery,
     normalize_anchor_url,
     score_catalog_link,
 )
@@ -141,7 +141,7 @@ def test():
         output_file = root / "batch.json"
         coverage_file.write_text(json.dumps(coverage), encoding="utf-8")
         targets_file.write_text(json.dumps([target]), encoding="utf-8")
-        main([
+        run_discovery([
             "--coverage", str(coverage_file),
             "--targets", str(targets_file),
             "--raw-root", str(root),
@@ -156,6 +156,10 @@ def test():
         assert rejected["candidates"] == []
 
 
-if __name__ == "__main__":
+def main():
     test()
+
+
+if __name__ == "__main__":
+    main()
     print("discover_program_catalog_static tests passed")

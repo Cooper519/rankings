@@ -1,1 +1,633 @@
-[]
+[
+  {
+    "project_id": "u_essex_university_of_main_the_essex_mbamore_optionssettingsspeedcc_subtitles",
+    "university_id": "u_essex_university_of",
+    "campus_id": "main",
+    "normalized_program_code": "the_essex_mbamore_optionssettingsspeedcc_subtitles",
+    "name": "The Essex MBAMore optionsSettingsSpeedCC/subtitles",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.essex.ac.uk/departments/essex-business-school/the-essex-mba",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_cc2ba10a66cb",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_essex_university_of_main_applying_to_essex",
+    "university_id": "u_essex_university_of",
+    "campus_id": "main",
+    "normalized_program_code": "applying_to_essex",
+    "name": "Applying To Essex",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.essex.ac.uk/postgraduate/masters/applying-to-essex",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2026-10",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_2b27c9538933",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2026_10"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2027-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_2b27c9538933",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2027_01"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_2b27c9538933",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-09-30",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_2b27c9538933",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_09_30"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-07",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_2b27c9538933",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_07"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_2b27c9538933",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:month:2026-10"
+  },
+  {
+    "project_id": "u_essex_university_of_main_fees_and_funding",
+    "university_id": "u_essex_university_of",
+    "campus_id": "main",
+    "normalized_program_code": "fees_and_funding",
+    "name": "Fees And Funding",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.essex.ac.uk/postgraduate/masters/fees-and-funding",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_781c48eeafb6",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_essex_university_of_main_january_starts",
+    "university_id": "u_essex_university_of",
+    "campus_id": "main",
+    "normalized_program_code": "january_starts",
+    "name": "January Starts",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.essex.ac.uk/postgraduate/masters/january-starts",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_e78f3bbd1259",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_5000_gbp",
+            "type": "tuition",
+            "amount": "5000",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "ount worth £1,000 for international students Masters (PGT) EU Scholarship worth £5,000 for EU students Masters Excellence Scholarship 15% tuition fee discount for eli",
+            "source_id": "src_e78f3bbd1259",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:GBP5000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_essex_university_of_main_part_time",
+    "university_id": "u_essex_university_of",
+    "campus_id": "main",
+    "normalized_program_code": "part_time",
+    "name": "Part Time",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.essex.ac.uk/postgraduate/masters/part-time",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_50fb29203a44",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_essex_university_of_main_masters_with_professional_placements",
+    "university_id": "u_essex_university_of",
+    "campus_id": "main",
+    "normalized_program_code": "masters_with_professional_placements",
+    "name": "Masters With Professional Placements",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.essex.ac.uk/postgraduate/masters/masters-with-professional-placements",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_02e948b9baa6",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_essex_university_of_main_dual_awards",
+    "university_id": "u_essex_university_of",
+    "campus_id": "main",
+    "normalized_program_code": "dual_awards",
+    "name": "Dual Awards",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.essex.ac.uk/postgraduate/masters/dual-awards",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_c9bcdf64b6b9",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_1000_gbp",
+            "type": "tuition",
+            "amount": "1000",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "nstanz. If you choose to study at Essex in your second year, you will receive a £1,000 tuition fee discount if you're a politics student and a £3,000 tuition fee disc",
+            "source_id": "src_c9bcdf64b6b9",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_3000_gbp",
+            "type": "tuition",
+            "amount": "3000",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "u will receive a £1,000 tuition fee discount if you're a politics student and a £3,000 tuition fee discount if you're an economic student under this arrangement. If y",
+            "source_id": "src_c9bcdf64b6b9",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:GBP1000/unknown(international)"
+  },
+  {
+    "project_id": "u_essex_university_of_main_conversion_masters_courses",
+    "university_id": "u_essex_university_of",
+    "campus_id": "main",
+    "normalized_program_code": "conversion_masters_courses",
+    "name": "Conversion Masters Courses",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.essex.ac.uk/postgraduate/masters/conversion-masters-courses",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_fa9e25a0943e",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_essex_university_of_main_prospectus",
+    "university_id": "u_essex_university_of",
+    "campus_id": "main",
+    "normalized_program_code": "prospectus",
+    "name": "Prospectus",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.essex.ac.uk/postgraduate/prospectus",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_4a1ae01f5257",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_essex_university_of_main_why_study_a_postgraduate_qualification",
+    "university_id": "u_essex_university_of",
+    "campus_id": "main",
+    "normalized_program_code": "why_study_a_postgraduate_qualification",
+    "name": "Why Study A Postgraduate Qualification",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.essex.ac.uk/postgraduate/why-study-a-postgraduate-qualification",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b500dd5aa4fa",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_essex_university_of_main_masters_preparation_programme",
+    "university_id": "u_essex_university_of",
+    "campus_id": "main",
+    "normalized_program_code": "masters_preparation_programme",
+    "name": "Masters Preparation Programme",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.essex.ac.uk/short-courses/masters-preparation-programme",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_76a157706997",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_essex_university_of_main_studying_an_mba",
+    "university_id": "u_essex_university_of",
+    "campus_id": "main",
+    "normalized_program_code": "studying_an_mba",
+    "name": "Studying an MBA",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.essex.ac.uk/departments/essex-business-school/the-essex-mba",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_64fd1214214d",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  }
+]

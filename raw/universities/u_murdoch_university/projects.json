@@ -1,1 +1,992 @@
-[]
+[
+  {
+    "project_id": "u_murdoch_university_main_pathways_for_international_students",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "pathways_for_international_students",
+    "name": "Pathways For International Students",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/pathways-to-uni/enabling-pathways/pathways-for-international-students",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Letter of Offer is a combination of two or more offers, for example, a pathway course such as a Diploma or an English course, followed by a Bachelor, followed by a Masters course."
+          },
+          "notes": "",
+          "source_id": "src_f23fdf55ae5f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_murdoch_university_main_decide_what_to_study",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "decide_what_to_study",
+    "name": "Decide What To Study",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/international-students/study-abroad-and-exchange/decide-what-to-study",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5e1f9b646b51",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_murdoch_university_main_engineering_facilities_catalog_listing",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "engineering_facilities_catalog_listing",
+    "name": "Engineering Facilities (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/why-choose-murdoch/learning-facilities/engineering-facilities",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8962f6198ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_murdoch_university_main_vocational_education_and_training_catalog_listing",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "vocational_education_and_training_catalog_listing",
+    "name": "Vocational Education And Training (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/pathways-to-uni/vocational-education-and-training",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8962f6198ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_murdoch_university_main_higher_education_catalog_listing",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "higher_education_catalog_listing",
+    "name": "Higher Education (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/pathways-to-uni/higher-education",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8962f6198ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_murdoch_university_main_law_start_catalog_listing",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "law_start_catalog_listing",
+    "name": "Law Start (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/pathways-to-uni/enabling-pathways/law-start",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8962f6198ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_murdoch_university_main_pre_law_catalog_listing",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "pre_law_catalog_listing",
+    "name": "Pre Law (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/pathways-to-uni/enabling-pathways/pre-law",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8962f6198ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_murdoch_university_main_international_students_catalog_listing",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_students_catalog_listing",
+    "name": "International Students (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/international-students",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8962f6198ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_murdoch_university_main_our_social_program_catalog_listing",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "our_social_program_catalog_listing",
+    "name": "Our Social Program (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/international-students/study-abroad-and-exchange/our-social-program",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8962f6198ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_murdoch_university_main_overseas_student_health_cover_oshc_catalog_listing",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "overseas_student_health_cover_oshc_catalog_listing",
+    "name": "Overseas Student Health Cover (Oshc) (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/international-students/before-moving-to-perth/overseas-student-health-cover-(oshc)",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8962f6198ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_murdoch_university_main_international_student_groups_catalog_listing",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_student_groups_catalog_listing",
+    "name": "International Student Groups (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/international-students/studying-at-murdoch/international-student-groups",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8962f6198ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_murdoch_university_main_vocational_education_catalog_listing",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "vocational_education_catalog_listing",
+    "name": "Vocational Education (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/how-to-apply/entry-requirements/vocational-education",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8962f6198ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_murdoch_university_main_allied_health_catalog_listing",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "allied_health_catalog_listing",
+    "name": "Allied Health (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/courses/study-areas/allied-health",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8962f6198ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_murdoch_university_main_business_catalog_listing",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "business_catalog_listing",
+    "name": "Business (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/courses/study-areas/business",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8962f6198ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_murdoch_university_main_engineering_and_energy_catalog_listing",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "engineering_and_energy_catalog_listing",
+    "name": "Engineering And Energy (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/courses/study-areas/engineering-and-energy",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8962f6198ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_murdoch_university_main_environmental_and_conservation_sciences_catalog_listing",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "environmental_and_conservation_sciences_catalog_listing",
+    "name": "Environmental And Conservation Sciences (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/courses/study-areas/environmental-and-conservation-sciences",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8962f6198ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_murdoch_university_main_humanities_arts_and_social_sciences_catalog_listing",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "humanities_arts_and_social_sciences_catalog_listing",
+    "name": "Humanities Arts And Social Sciences (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/courses/study-areas/humanities-arts-and-social-sciences",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8962f6198ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_murdoch_university_main_nursing_catalog_listing",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "nursing_catalog_listing",
+    "name": "Nursing (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/courses/study-areas/nursing",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8962f6198ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_murdoch_university_main_physical_sciences_and_mathematics_catalog_listing",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "physical_sciences_and_mathematics_catalog_listing",
+    "name": "Physical Sciences And Mathematics (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/courses/study-areas/physical-sciences-and-mathematics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8962f6198ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_murdoch_university_main_psychology_catalog_listing",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "psychology_catalog_listing",
+    "name": "Psychology (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/courses/study-areas/psychology",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8962f6198ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_murdoch_university_main_international_student_safety_catalog_listing",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_student_safety_catalog_listing",
+    "name": "International Student Safety (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/international-students/studying-at-murdoch/support-services/international-student-safety",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8962f6198ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_murdoch_university_main_financial_aid_and_student_loans_catalog_listing",
+    "university_id": "u_murdoch_university",
+    "campus_id": "main",
+    "normalized_program_code": "financial_aid_and_student_loans_catalog_listing",
+    "name": "Financial Aid And Student Loans (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.murdoch.edu.au/study/international-students/studying-at-murdoch/fees-and-scholarships/financial-aid-and-student-loans",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8962f6198ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  }
+]

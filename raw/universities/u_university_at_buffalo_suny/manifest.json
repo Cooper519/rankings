@@ -4,8 +4,8 @@
   "university_id": "u_university_at_buffalo_suny",
   "name": "University at Buffalo SUNY",
   "country": "United States",
-  "website": "https://www.universityatbuffalosuny.edu",
-  "updated_at": "2026-08-19T18:56:01.850393+00:00",
-  "notes": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping.",
-  "converter": "manual-webfetch-v1"
+  "website": "https://www.buffalo.edu/",
+  "updated_at": "2026-08-30T06:50:40.583303+00:00",
+  "notes": "four-rankings scrape 27fall: pages=2 captured, programs=0 (0 with per-project facts), school_deadline=unknown, fees=unknown, issues=none",
+  "converter": "four-rankings-webfetch-v2"
 }

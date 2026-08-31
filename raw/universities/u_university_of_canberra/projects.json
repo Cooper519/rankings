@@ -1,1 +1,385 @@
-[]
+[
+  {
+    "project_id": "u_university_of_canberra_main_campus_master_plan",
+    "university_id": "u_university_of_canberra",
+    "campus_id": "main",
+    "normalized_program_code": "campus_master_plan",
+    "name": "Campus Master Plan",
+    "degree": "MasterP",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.canberra.edu.au/on-campus/campus-master-plan",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7919f2f7cb0d",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_canberra_main_master_of_teaching",
+    "university_id": "u_university_of_canberra",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_teaching",
+    "name": "Master of Teaching",
+    "degree": "MasterofTeaching",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.canberra.edu.au/future-students/study-at-uc/about-our-courses/master-of-teaching",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Entrants to graduate entry programs must have a discipline-specific bachelor’s degree or equivalent qualification relevant to the Australian Curriculum or other recognised areas of schooling provision."
+          },
+          "notes": "",
+          "source_id": "src_4974811ac701",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_canberra_main_university_of_canberra_campus_master_plan",
+    "university_id": "u_university_of_canberra",
+    "campus_id": "main",
+    "normalized_program_code": "university_of_canberra_campus_master_plan",
+    "name": "University of Canberra Campus Master Plan",
+    "degree": "MasterP",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.canberra.edu.au/media/campus-master-plan/3d-map",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_96cc666132a7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_canberra_main_digital_master_plan",
+    "university_id": "u_university_of_canberra",
+    "campus_id": "main",
+    "normalized_program_code": "digital_master_plan",
+    "name": "Digital Master Plan",
+    "degree": "MasterP",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.canberra.edu.au/about-uc/strategy/dmp",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8b25f18fab11",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_canberra_main_portfolio_entry",
+    "university_id": "u_university_of_canberra",
+    "campus_id": "main",
+    "normalized_program_code": "portfolio_entry",
+    "name": "Portfolio Entry",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.canberra.edu.au/future-students/get-into-uc/admissions-programs/portfolio-entry",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Built Environment Bachelor of the Built Environment (Architecture) UC Bruce campus requirements: Submit a portfolio containing up to five pieces of creative work."
+          },
+          "notes": "",
+          "source_id": "src_dcfad654278a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_canberra_main_schools_recommendation_scheme",
+    "university_id": "u_university_of_canberra",
+    "campus_id": "main",
+    "normalized_program_code": "schools_recommendation_scheme",
+    "name": "Schools Recommendation Scheme",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.canberra.edu.au/future-students/get-into-uc/admissions-programs/schools-recommendation-scheme",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-04-08",
+            "date_end": "2026-09-11",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_147a57853e91",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_range_2026_04_08"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-11-12",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_147a57853e91",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_11_12"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_147a57853e91",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:range:2026-04-08"
+  },
+  {
+    "project_id": "u_university_of_canberra_main_special_consideration",
+    "university_id": "u_university_of_canberra",
+    "campus_id": "main",
+    "normalized_program_code": "special_consideration",
+    "name": "Special Consideration",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.canberra.edu.au/future-students/get-into-uc/admissions-programs/special-consideration",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_19c6e51b0c26",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_canberra_main_vtsp",
+    "university_id": "u_university_of_canberra",
+    "campus_id": "main",
+    "normalized_program_code": "vtsp",
+    "name": "Vtsp",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.canberra.edu.au/future-students/get-into-uc/admissions-programs/vtsp",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Amanda McCue, Defence Partner Bachelor of Laws As an ex-Chief of Army, 15 years ago now, and a Professor at the University of Canberra, I want to say thank you for your service."
+          },
+          "notes": "",
+          "source_id": "src_e4d6b298ee0d",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  }
+]

@@ -4,8 +4,8 @@
   "university_id": "u_université_de_montpellier",
   "name": "Université de Montpellier",
   "country": "France",
-  "website": "https://www.universitédemontpellier.edu",
-  "updated_at": "2026-08-19T18:56:01.850393+00:00",
-  "notes": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping.",
-  "converter": "manual-webfetch-v1"
+  "website": "https://www.umontpellier.fr/en/",
+  "updated_at": "2026-08-30T09:05:06.192515+00:00",
+  "notes": "four-rankings scrape 27fall: pages=13 captured, programs=8 (0 with per-project facts), school_deadline=unknown, fees=unknown, issues=none",
+  "converter": "four-rankings-webfetch-v2"
 }

@@ -1,6 +1,7 @@
 import type {
   Feature2Coverage,
   CaptureReport,
+  DataManifest,
   Program,
   ProgramCoverage,
   RankingEntry,
@@ -37,6 +38,10 @@ export async function loadUniversityAliases(): Promise<UniversityAliases> {
 
 export async function loadProgramCoverage(): Promise<ProgramCoverage[]> {
   return loadJson<ProgramCoverage[]>('data/program_coverage.json')
+}
+
+export async function loadDataManifest(): Promise<DataManifest> {
+  return loadJson<DataManifest>('data/data-manifest.json')
 }
 
 export async function loadFeature2Coverage(): Promise<Feature2Coverage> {

@@ -1,1 +1,118 @@
-[]
+[
+  {
+    "project_id": "u_university_of_tartu_main_bachelors_and_masters_studies_estonian",
+    "university_id": "u_university_of_tartu",
+    "campus_id": "main",
+    "normalized_program_code": "bachelors_and_masters_studies_estonian",
+    "name": "Bachelors And Masters Studies Estonian",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://ut.ee/en/content/bachelors-and-masters-studies-estonian",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-06-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_6e68f4307c65",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_06_01"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-06-30",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_6e68f4307c65",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_06_30"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "For bachelor's programmes the previous required study level is higher secondary education or equivalent and for master's programmes it´s bachelor´s degree or equivalent."
+          },
+          "notes": "",
+          "source_id": "src_6e68f4307c65",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-06-01"
+  },
+  {
+    "project_id": "u_university_of_tartu_main_bachelors_and_masters_studies_university_tartu",
+    "university_id": "u_university_of_tartu",
+    "campus_id": "main",
+    "normalized_program_code": "bachelors_and_masters_studies_university_tartu",
+    "name": "Bachelors And Masters Studies University Tartu",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://ut.ee/en/content/bachelors-and-masters-studies-university-tartu",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "form Bachelor's and master's studies at the University of Tartu Please find below general information regarding admission to English-taught bachelor's and master's programmes at the University of Tartu (UT)."
+          },
+          "notes": "",
+          "source_id": "src_34bc50c577d6",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "official page captured; facts pending review"
+  }
+]

@@ -657,3 +657,29 @@ table.ledger td {
     transform: none;
   }
 }
+
+/* Hero search */
+.hero-search {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 38px;
+  max-width: 560px;
+}
+.hero-search-input {
+  flex: 1;
+  height: 46px;
+  padding: 0 16px 0 42px;
+  font-size: 14px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+}
+.hero-search-input:focus {
+  border-color: var(--ink);
+  outline: none;
+}
+.hero-search .mbtn {
+  height: 46px;
+  white-space: nowrap;
+}

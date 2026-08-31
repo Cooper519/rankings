@@ -1,4 +1,5 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
+import { useSearchParams } from 'react-router-dom'
 import { Search, ShieldCheck, CalendarClock, FileCheck2 } from 'lucide-react'
 import { useData } from '../hooks/useData'
 import type { Program } from '../types'
@@ -39,7 +40,13 @@ function requirementText(p: Program): string {
 export default function Programs() {
   const { uniquePrograms: programs, unis, canonicalById, ready } = useData()
   const { open } = useDrawer()
-  const [q, setQ] = useState('')
+  const [params, setParams] = useSearchParams()
+  const [q, setQ] = useState(params.get('q') || '')
+  useEffect(() => {
+    const url = params.get('q') || ''
+    if (url !== q) setQ(url)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [params])
   const [subject, setSubject] = useState('')
   const [onlyDeadline, setOnlyDeadline] = useState(false)
   const [onlyRequirement, setOnlyRequirement] = useState(false)
@@ -109,7 +116,13 @@ export default function Programs() {
               className="field"
               placeholder="搜索项目 / 学校 / IELTS / TOEFL"
               value={q}
-              onChange={(e) => setQ(e.target.value)}
+              onChange={(e) => {
+                setQ(e.target.value)
+                const next = new URLSearchParams(params)
+                if (e.target.value) next.set('q', e.target.value)
+                else next.delete('q')
+                setParams(next, { replace: true })
+              }}
               style={{ paddingLeft: 34, minWidth: 280 }}
             />
           </div>

@@ -1,1 +1,838 @@
-[]
+[
+  {
+    "project_id": "u_singapore_management_university_main_master_it_business",
+    "university_id": "u_singapore_management_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_it_business",
+    "name": "Master IT Business",
+    "degree": "MasterI",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://scis.smu.edu.sg/master-it-business",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "tba",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7824e4f99857",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_tba_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7824e4f99857",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_56680_usd",
+            "type": "tuition",
+            "amount": "56680",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "load brochure Apply Now 1 1 12 to 24 months duration (August & January intake) S$56,680 Tuition fee (Inclusive of GST) APPLICATION PERIOD 1 September to 31 May (for Au",
+            "source_id": "src_7824e4f99857",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:tba; fee:USD56680/unknown(international)"
+  },
+  {
+    "project_id": "u_singapore_management_university_main_master_of_it_in_business",
+    "university_id": "u_singapore_management_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_it_in_business",
+    "name": "Master Of IT In Business",
+    "degree": "MasterO",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://masters.smu.edu.sg/programme/master-of-it-in-business",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "tba",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a0cbcf28f7a5",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_tba_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_a0cbcf28f7a5",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_56680_usd",
+            "type": "tuition",
+            "amount": "56680",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "load brochure Apply Now 1 1 12 to 24 months duration (August & January intake) S$56,680 Tuition fee (Inclusive of GST) APPLICATION PERIOD 1 September to 31 May (for Au",
+            "source_id": "src_a0cbcf28f7a5",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:tba; fee:USD56680/unknown(international)"
+  },
+  {
+    "project_id": "u_singapore_management_university_main_master_of_science_in_computing",
+    "university_id": "u_singapore_management_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_science_in_computing",
+    "name": "Master of Science in Computing",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://scis.smu.edu.sg/mscomputing",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "tba",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7824e4f99857",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_tba_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "tba",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9856528a9814",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_tba_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_07201a1e6d7e",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_56680_usd",
+            "type": "tuition",
+            "amount": "56680",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "load brochure Apply Now 1 1 12 to 24 months duration (August & January intake) S$56,680 Tuition fee (Inclusive of GST) APPLICATION PERIOD 1 September to 31 May (for Au",
+            "source_id": "src_7824e4f99857",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:tba; fee:USD56680/unknown(international)"
+  },
+  {
+    "project_id": "u_singapore_management_university_main_master_of_philosophy_in_information_systems",
+    "university_id": "u_singapore_management_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_philosophy_in_information_systems",
+    "name": "Master of Philosophy in Information Systems",
+    "degree": "MasterofPhilosophy",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://scis.smu.edu.sg/mphil-is",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "tba",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7824e4f99857",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_tba_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "tba",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9856528a9814",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_tba_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_ed3edffdfc67",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_56680_usd",
+            "type": "tuition",
+            "amount": "56680",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "load brochure Apply Now 1 1 12 to 24 months duration (August & January intake) S$56,680 Tuition fee (Inclusive of GST) APPLICATION PERIOD 1 September to 31 May (for Au",
+            "source_id": "src_7824e4f99857",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:tba; fee:USD56680/unknown(international)"
+  },
+  {
+    "project_id": "u_singapore_management_university_main_cross_enrolment_of_scis_phd_courses_for_mitb_students",
+    "university_id": "u_singapore_management_university",
+    "campus_id": "main",
+    "normalized_program_code": "cross_enrolment_of_scis_phd_courses_for_mitb_students",
+    "name": "Cross Enrolment Of Scis Phd Courses For Mitb Students",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://masters.smu.edu.sg/programme/master_of_it_in_business/cross-enrolment-of-scis-phd-courses-for-mitb-students",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "tba",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7824e4f99857",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_tba_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "tba",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9856528a9814",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_tba_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_710f3c173e1d",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_56680_usd",
+            "type": "tuition",
+            "amount": "56680",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "load brochure Apply Now 1 1 12 to 24 months duration (August & January intake) S$56,680 Tuition fee (Inclusive of GST) APPLICATION PERIOD 1 September to 31 May (for Au",
+            "source_id": "src_7824e4f99857",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:tba; fee:USD56680/unknown(international)"
+  },
+  {
+    "project_id": "u_singapore_management_university_main_smuat",
+    "university_id": "u_singapore_management_university",
+    "campus_id": "main",
+    "normalized_program_code": "smuat",
+    "name": "Smuat",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://masters.smu.edu.sg/programme/master-of-it-in-business/SMUAT",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "tba",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7824e4f99857",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_tba_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "tba",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9856528a9814",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_tba_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_2da7fbec66db",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_56680_usd",
+            "type": "tuition",
+            "amount": "56680",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "load brochure Apply Now 1 1 12 to 24 months duration (August & January intake) S$56,680 Tuition fee (Inclusive of GST) APPLICATION PERIOD 1 September to 31 May (for Au",
+            "source_id": "src_7824e4f99857",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:tba; fee:USD56680/unknown(international)"
+  },
+  {
+    "project_id": "u_singapore_management_university_main_fees",
+    "university_id": "u_singapore_management_university",
+    "campus_id": "main",
+    "normalized_program_code": "fees",
+    "name": "Fees",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://scis.smu.edu.sg/master-it-business/admission-main/fees",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "tba",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b6df900a6663",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_tba_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b6df900a6663",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_56680_usd",
+            "type": "tuition",
+            "amount": "56680",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "load brochure Apply Now 1 1 12 to 24 months duration (August & January intake) S$56,680 Tuition fee (Inclusive of GST) APPLICATION PERIOD 1 September to 31 May (for Au",
+            "source_id": "src_b6df900a6663",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:tba; fee:USD56680/unknown(international)"
+  },
+  {
+    "project_id": "u_singapore_management_university_main_scholarship",
+    "university_id": "u_singapore_management_university",
+    "campus_id": "main",
+    "normalized_program_code": "scholarship",
+    "name": "Scholarship",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://scis.smu.edu.sg/master-it-business/scholarship",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "tba",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e1bd134e4aaf",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_tba_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_e1bd134e4aaf",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_56680_usd",
+            "type": "tuition",
+            "amount": "56680",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "load brochure Apply Now 1 1 12 to 24 months duration (August & January intake) S$56,680 Tuition fee (Inclusive of GST) APPLICATION PERIOD 1 September to 31 May (for Au",
+            "source_id": "src_e1bd134e4aaf",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:tba; fee:USD56680/unknown(international)"
+  },
+  {
+    "project_id": "u_singapore_management_university_main_bridging_cybersecurity_and_business_strategy_catalog_listing",
+    "university_id": "u_singapore_management_university",
+    "campus_id": "main",
+    "normalized_program_code": "bridging_cybersecurity_and_business_strategy_catalog_listing",
+    "name": "Bridging Cybersecurity And Business Strategy (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://scis.smu.edu.sg/programme/master_of_it_in_business/community-stories/bridging_cybersecurity_and_business_strategy",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "tba",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7824e4f99857",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_tba_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "tba",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9856528a9814",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_tba_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7824e4f99857",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_56680_usd",
+            "type": "tuition",
+            "amount": "56680",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "load brochure Apply Now 1 1 12 to 24 months duration (August & January intake) S$56,680 Tuition fee (Inclusive of GST) APPLICATION PERIOD 1 September to 31 May (for Au",
+            "source_id": "src_7824e4f99857",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:tba; fee:USD56680/unknown(international)"
+  },
+  {
+    "project_id": "u_singapore_management_university_main_designing_ai_systems_around_human_needs_catalog_listing",
+    "university_id": "u_singapore_management_university",
+    "campus_id": "main",
+    "normalized_program_code": "designing_ai_systems_around_human_needs_catalog_listing",
+    "name": "Designing AI Systems Around Human Needs (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://scis.smu.edu.sg/programme/master_of_it_in_business/community-stories/designing_ai_systems_around_human_needs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "tba",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7824e4f99857",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_tba_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "tba",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9856528a9814",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_tba_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7824e4f99857",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_56680_usd",
+            "type": "tuition",
+            "amount": "56680",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "load brochure Apply Now 1 1 12 to 24 months duration (August & January intake) S$56,680 Tuition fee (Inclusive of GST) APPLICATION PERIOD 1 September to 31 May (for Au",
+            "source_id": "src_7824e4f99857",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:tba; fee:USD56680/unknown(international)"
+  },
+  {
+    "project_id": "u_singapore_management_university_main_financial_aid_catalog_listing",
+    "university_id": "u_singapore_management_university",
+    "campus_id": "main",
+    "normalized_program_code": "financial_aid_catalog_listing",
+    "name": "Financial Aid (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://masters.smu.edu.sg/financial-aid",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "tba",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7824e4f99857",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_tba_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "tba",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9856528a9814",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_tba_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7824e4f99857",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_56680_usd",
+            "type": "tuition",
+            "amount": "56680",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "load brochure Apply Now 1 1 12 to 24 months duration (August & January intake) S$56,680 Tuition fee (Inclusive of GST) APPLICATION PERIOD 1 September to 31 May (for Au",
+            "source_id": "src_7824e4f99857",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:tba; fee:USD56680/unknown(international)"
+  }
+]

@@ -1,11 +1,82 @@
 [
   {
-    "source_id": "src_648eab91db25",
-    "url": "https://www.juliusmaximiliansuniversitätwürzburg.edu",
+    "source_id": "src_8dfbb5c84077",
+    "url": "https://www.uni-wuerzburg.de/en/",
     "source_type": "official_web",
-    "retrieved_at": "2026-08-19T18:56:01.850393+00:00",
-    "verification_status": "blocked",
-    "title": "Julius-Maximilians-Universität Würzburg Official Website",
-    "evidence_text": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping."
+    "retrieved_at": "2026-08-30T07:13:30.740534+00:00",
+    "verification_status": "extracted",
+    "title": "University of Würzburg -",
+    "content_hash": "sha256:9cfe8194840f9cc5a19516ecebe1b7369c4bb7ec605a7abdb557a68987dc5751",
+    "evidence_text": "University of Würzburg - MenuUNIVERSITYSTUDYING AT JMURESEARCHTeachingINSTITUTIONSInternationalUNIVERSITYNewsThe UniversityFacultiesSustainabilityTransferCompanies and PatronsHow to Find UsContactNewsPress ReleaseseinBLICK MagazinePress ReviewJMU PodcastEventsJobs at JMUThe UniversityUniversity Boar"
+  },
+  {
+    "source_id": "src_dae97042aadf",
+    "url": "https://www.uni-wuerzburg.de/en/university-employees/",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:13:38.020846+00:00",
+    "verification_status": "extracted",
+    "title": "University Employees - University Employees",
+    "content_hash": "sha256:e1c3e158032180d00007252106c3a508e0aea0f9145ff04cee5c4887322a4e40",
+    "evidence_text": "University Employees - University Employees MenuUNIVERSITYSTUDYING AT JMURESEARCHTeachingINSTITUTIONSInternationalUNIVERSITYNewsThe UniversityFacultiesSustainabilityTransferCompanies and PatronsHow to Find UsContactNewsPress ReleaseseinBLICK MagazinePress ReviewJMU PodcastEventsJobs at JMUThe Univer"
+  },
+  {
+    "source_id": "src_ffdaff7e1b31",
+    "url": "https://www.rz.uni-wuerzburg.de/en/",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:13:51.029690+00:00",
+    "verification_status": "extracted",
+    "title": "Information Technology Centre - Information Technology Centre",
+    "content_hash": "sha256:910a5fe2957b8b0972182b3a06f101b9ddc5181a19c2a922cd0f74b362af9a5c",
+    "evidence_text": "Information Technology Centre - Information Technology Centre MenuAt a glanceServicesAbout UsTop 10LinksIT-SupportServicesArbeitsplätzeDigital research - IT services for researchProcurementIT lawIT securityJMU accountCommunication ServicesTraining CoursesDigital teachingMultimediaInput and OutputSer"
+  },
+  {
+    "source_id": "src_b16c48ae3936",
+    "url": "https://www.uni-wuerzburg.de/en/international/studying-abroad/application-forms-downloads/",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:13:58.292657+00:00",
+    "verification_status": "extracted",
+    "title": "Application, Forms & Downloads - International",
+    "content_hash": "sha256:bd502822e47822c98fdbc87426c6623b2480df6fcf905ed134f6c73e4d708877",
+    "evidence_text": "Application, Forms & Downloads - International MenuUkraineStudying in WürzburgStudying AbroadInternational EveningInternational RelationsInformation for Teaching and Administrative StaffFunding programs for the internationalization of partnershipsUkraineUkrainischRussischStudying in WürzburgJoin usE"
+  },
+  {
+    "source_id": "src_a21085da4003",
+    "url": "https://www.rz.uni-wuerzburg.de/en/services/it-security/vpn/vpn-with-mfa-test-operation",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:14:22.847678+00:00",
+    "verification_status": "extracted",
+    "title": "VPN with MFA (test operation) - Information Technology Centre",
+    "content_hash": "sha256:c2403fa88a8e599ef0a9263acfe56bba9094a3b7b6442e42319886397de51f21",
+    "evidence_text": "VPN with MFA (test operation) - Information Technology Centre MenuAt a glanceServicesAbout UsTop 10LinksIT-SupportServicesArbeitsplätzeDigital research - IT services for researchProcurementIT lawIT securityJMU accountCommunication ServicesTraining CoursesDigital teachingMultimediaInput and OutputSer"
+  },
+  {
+    "source_id": "src_ff1123f0a06c",
+    "url": "https://www.rz.uni-wuerzburg.de/en/services/training-courses/ccna",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:14:40.158796+00:00",
+    "verification_status": "extracted",
+    "title": "CCNA - Information Technology Centre",
+    "content_hash": "sha256:cb295ce1906ec5c94afce9016ab950eaae02762e6e4ba45168712ad18305a5fd",
+    "evidence_text": "CCNA - Information Technology Centre MenuAt a glanceServicesAbout UsTop 10LinksIT-SupportServicesArbeitsplätzeDigital research - IT services for researchProcurementIT lawIT securityJMU accountCommunication ServicesTraining CoursesDigital teachingMultimediaInput and OutputServer OperationWeb services"
+  },
+  {
+    "source_id": "src_cc082b4f81dc",
+    "url": "https://www.rz.uni-wuerzburg.de/en/services/jmu-account/mfa/microsoft-authenticator-app",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:14:48.506496+00:00",
+    "verification_status": "extracted",
+    "title": "Microsoft Authenticator App - Information Technology Centre",
+    "content_hash": "sha256:1ac8c7d867fc5cbb1818d17bf0d8e4073fa23b12d2a2f1738227ce52aecd74ba",
+    "evidence_text": "Microsoft Authenticator App - Information Technology Centre MenuAt a glanceServicesAbout UsTop 10LinksIT-SupportServicesArbeitsplätzeDigital research - IT services for researchProcurementIT lawIT securityJMU accountCommunication ServicesTraining CoursesDigital teachingMultimediaInput and OutputServe"
+  },
+  {
+    "source_id": "src_58b6062205a3",
+    "url": "https://www.rz.uni-wuerzburg.de/en/services/jmu-account/mfa",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:14:56.040864+00:00",
+    "verification_status": "extracted",
+    "title": "Multi-factor authentication - Information Technology Centre",
+    "content_hash": "sha256:5ceb0e2ed631c5dc5b64b550efc05da184a01d0c0692ffef78a3cf2c44eb93eb",
+    "evidence_text": "Multi-factor authentication - Information Technology Centre MenuAt a glanceServicesAbout UsTop 10LinksIT-SupportServicesArbeitsplätzeDigital research - IT services for researchProcurementIT lawIT securityJMU accountCommunication ServicesTraining CoursesDigital teachingMultimediaInput and OutputServe"
   }
 ]

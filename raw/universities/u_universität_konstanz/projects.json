@@ -1,1 +1,632 @@
-[]
+[
+  {
+    "project_id": "u_universität_konstanz_main_teaching_degree_bachelor_of_education_and_master_of_education",
+    "university_id": "u_universität_konstanz",
+    "campus_id": "main",
+    "normalized_program_code": "teaching_degree_bachelor_of_education_and_master_of_education",
+    "name": "Teaching degree (Bachelor of Education and Master of Education)",
+    "degree": "MasterofEducation",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-konstanz.de/en/study/before-you-study/study-programmes/teaching-degree-bachelor-of-education-and-master-of-education",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "all Yes No Part-time all Yes No Admission restriction Standard period of study in semesters Start of study Application deadline B Biology | Bachelor of Education (Teaching degree) Yes 6 Winter semester 07."
+          },
+          "notes": "",
+          "source_id": "src_4199409f3418",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universität_konstanz_main_msc_computer_and_information_science",
+    "university_id": "u_universität_konstanz",
+    "campus_id": "main",
+    "normalized_program_code": "msc_computer_and_information_science",
+    "name": "MSC Computer And Information Science",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.informatik.uni-konstanz.de/studium/master-of-science/msc-computer-and-information-science",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Research Research Professors Research projects Laboratories Lecturers and junior research groups Publications Doctoral research Study Study Bachelor of Science Master of Science Part-time study Lehramt Orientierungsstudium Go."
+          },
+          "notes": "",
+          "source_id": "src_68e64e3c8b80",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universität_konstanz_main_msc_computer_science_for_industry_and_business",
+    "university_id": "u_universität_konstanz",
+    "campus_id": "main",
+    "normalized_program_code": "msc_computer_science_for_industry_and_business",
+    "name": "MSC Computer Science For Industry And Business",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.informatik.uni-konstanz.de/studium/master-of-science/msc-computer-science-for-industry-and-business",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "hung Forschung Professuren und Forschungsgruppen Forschungsprojekte Labore Dozentinnen und Dozenten Publikationen Promotion Studium Studium Bachelor Master Studieren in Teilzeit Lehramt Orientierungsstudium Go."
+          },
+          "notes": "",
+          "source_id": "src_a3175c83f8d2",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universität_konstanz_main_masters_degree",
+    "university_id": "u_universität_konstanz",
+    "campus_id": "main",
+    "normalized_program_code": "masters_degree",
+    "name": "Masters Degree",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-konstanz.de/en/study/before-you-study/study-programmes/masters-degree",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_d56047236527",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universität_konstanz_main_master_of_science",
+    "university_id": "u_universität_konstanz",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_science",
+    "name": "Master of Science",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.informatik.uni-konstanz.de/en/study/master-of-science",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_354e69df7181",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universität_konstanz_main_bachelor_major_and_law_studies_first_examination_in_law",
+    "university_id": "u_universität_konstanz",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_major_and_law_studies_first_examination_in_law",
+    "name": "Bachelor Major And Law Studies First Examination In Law",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-konstanz.de/en/study/before-you-study/study-programmes/bachelor-major-and-law-studies-first-examination-in-law",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "sity of Konstanz charge tuition fees? Bachelor major and law studies (first examination in law and Bachelor of Laws) Here you will find all Bachelor major and law studies (first examination in law and Bachelor of Laws) at the University of Konstanz."
+          },
+          "notes": "",
+          "source_id": "src_7dc5dbfd924b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universität_konstanz_main_bachelors_degree_and_first_state_examination_in_law",
+    "university_id": "u_universität_konstanz",
+    "campus_id": "main",
+    "normalized_program_code": "bachelors_degree_and_first_state_examination_in_law",
+    "name": "Bachelors Degree And First State Examination In Law",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-konstanz.de/en/study/before-you-study/application-and-enrolment/bachelors-degree-and-first-state-examination-in-law",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_85e63af3c5cb",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universität_konstanz_main_teacher_education_secondary_levels_i_and_ii",
+    "university_id": "u_universität_konstanz",
+    "campus_id": "main",
+    "normalized_program_code": "teacher_education_secondary_levels_i_and_ii",
+    "name": "Teacher Education Secondary Levels I And Ii",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-konstanz.de/en/study/before-you-study/application-and-enrolment/other-application-procedures/teacher-education-secondary-levels-i-and-ii",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_a41901d96cab",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universität_konstanz_main_study_internationally_in_konstanz",
+    "university_id": "u_universität_konstanz",
+    "campus_id": "main",
+    "normalized_program_code": "study_internationally_in_konstanz",
+    "name": "Study Internationally In Konstanz",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-konstanz.de/en/study/your-university-your-future/study-internationally-in-konstanz",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_59ffa306683b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universität_konstanz_main_no_higher_education_entrance_qualification",
+    "university_id": "u_universität_konstanz",
+    "campus_id": "main",
+    "normalized_program_code": "no_higher_education_entrance_qualification",
+    "name": "No Higher Education Entrance Qualification",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-konstanz.de/en/study/before-you-study/application-and-enrolment/bachelors-degree-and-first-state-examination-in-law/higher-education-entrance-qualification-earned-outside-the-eu/no-higher-education-entrance-qualification",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "n I do if I have not been admitted? This page provides you with information about applying for first degree programmes - those leading to a bachelor’s degree or the first state examination in law."
+          },
+          "notes": "",
+          "source_id": "src_272bbee978b1",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universität_konstanz_main_information_on_data_protection_catalog_listing",
+    "university_id": "u_universität_konstanz",
+    "campus_id": "main",
+    "normalized_program_code": "information_on_data_protection_catalog_listing",
+    "name": "Information On Data Protection (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-konstanz.de/en/university/general-information/information-on-data-protection",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_fee290d7c84e",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_universität_konstanz_main_translate_to_englisch_computer_science_academy_catalog_listing",
+    "university_id": "u_universität_konstanz",
+    "campus_id": "main",
+    "normalized_program_code": "translate_to_englisch_computer_science_academy_catalog_listing",
+    "name": "Translate To Englisch Computer Science Academy (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.informatik.uni-konstanz.de/en/study/translate-to-englisch-computer-science-academy",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_fee290d7c84e",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_universität_konstanz_main_discover_computer_science_in_konstanz_catalog_listing",
+    "university_id": "u_universität_konstanz",
+    "campus_id": "main",
+    "normalized_program_code": "discover_computer_science_in_konstanz_catalog_listing",
+    "name": "Discover Computer Science In Konstanz (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.informatik.uni-konstanz.de/en/study/discover-computer-science-in-konstanz",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_fee290d7c84e",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_universität_konstanz_main_bsc_computer_science_catalog_listing",
+    "university_id": "u_universität_konstanz",
+    "campus_id": "main",
+    "normalized_program_code": "bsc_computer_science_catalog_listing",
+    "name": "Bsc Computer Science (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.informatik.uni-konstanz.de/en/study/bachelor-of-science/bsc-computer-science",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_fee290d7c84e",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  }
+]

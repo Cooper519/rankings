@@ -1,318 +1,160 @@
 {
-  "scraped_at": "2026-08-23T14:41:09.672818Z",
-  "sources": [
+  "captured_at": "2026-08-28T07:15:01.893861+00:00",
+  "status": "extracted",
+  "pages": [
     {
-      "url": "https://www.uc3m.es/postgraduate/study-in-english",
-      "title": "UC3M Study in English",
-      "evidence_text": "Lists all English-taught master programs."
+      "url": "https://www.uc3m.es/Home",
+      "http_status": 200,
+      "title": "Home | UC3M",
+      "class": "navigation",
+      "content_hash": "sha256:7f7efda2e4cf15ca6151387dec4816206dd6d16dff83ba93d9a761ff50ba378c",
+      "retrieved_at": "2026-08-28T07:13:44.748788+00:00",
+      "text_snippet": "Home | UC3M Cookie usage policy The website of the University Carlos III of Madrid use its own cookies and third-party cookies to improve our services by analyzing their browsing habits. By continuing navigation, we understand that it accepts our cookie policy. \"Usage rules\" [Close] ES E_administration Faculty/Staff Intranet Aula Global Search: Buscar en: uc3m.es People ABOUT UC3M Studies Admission Research Life on campus MORE... Back to menu SEARCH MENU CLOSE Universidad Carlos III de Madrid Tw"
     },
     {
-      "url": "https://www.uc3m.es/postgraduate/school-of-engineering",
-      "title": "Graduate School of Engineering",
-      "evidence_text": "Lists all engineering master programs."
+      "url": "https://www.uc3m.es/postgraduate/home",
+      "http_status": 200,
+      "title": "Masters | UC3M",
+      "class": "directory",
+      "content_hash": "sha256:e15b67fafbf908023109a9c35e7fc3565ff1235a53c1f4f9e02d347299606bda",
+      "retrieved_at": "2026-08-28T07:13:48.678369+00:00",
+      "text_snippet": "Masters | UC3M Cookie usage policy The website of the University Carlos III of Madrid use its own cookies and third-party cookies to improve our services by analyzing their browsing habits. By continuing navigation, we understand that it accepts our cookie policy. \"Usage rules\" [Close] Masters ES RRSS Contacto Aula Global Search: Buscar en: uc3m.es People ProgramsAdmission Enrollment Enrollment scholarships Scholarships Study in EnglishGeneral Information School of Graduate StudiesGeneral Inform"
     },
     {
-      "url": "https://www.uc3m.es/postgraduate/school-business",
-      "title": "Graduate School of Business",
-      "evidence_text": "Lists all business master programs."
+      "url": "https://www.uc3m.es/bachelor-degree/admission/application/amission-consultation",
+      "http_status": 200,
+      "title": "Check your admission and admission letters | UC3M",
+      "class": "official_admission",
+      "content_hash": "sha256:7f3988ac24ce3bd0dc9e9d7b649a8d52648d0aa82c9ff5538f5d7dc24cd7068c",
+      "retrieved_at": "2026-08-28T07:13:51.422218+00:00",
+      "text_snippet": "Check your admission and admission letters | UC3M Cookie usage policy The website of the University Carlos III of Madrid use its own cookies and third-party cookies to improve our services by analyzing their browsing habits. By continuing navigation, we understand that it accepts our cookie policy. \"Usage rules\" [Close] Bachelor's Degrees ES Search: Buscar en: uc3m.es People Bachelor's DegreesAdmission ApplicationWeighting factorsCut off gradesInternational studentsGrants for new studentsEnrollm"
     },
     {
-      "url": "https://www.uc3m.es/postgraduate/school-economics-politicalscience",
-      "title": "Graduate School of Economics",
-      "evidence_text": "Lists all economics and political science programs."
+      "url": "https://www.uc3m.es/admission",
+      "http_status": 200,
+      "title": "Admission | UC3M",
+      "class": "official_admission",
+      "content_hash": "sha256:f6971045885f66676e9f6dff203973a5e1bb48776ccc1c1a1cdd6f8e57865756",
+      "retrieved_at": "2026-08-28T07:13:53.791411+00:00",
+      "text_snippet": "Admission | UC3M Cookie usage policy The website of the University Carlos III of Madrid use its own cookies and third-party cookies to improve our services by analyzing their browsing habits. By continuing navigation, we understand that it accepts our cookie policy. \"Usage rules\" [Close] ES E_administration Faculty/Staff Intranet Aula Global Search: Buscar en: uc3m.es People ABOUT UC3M Studies Admission Research Life on campus MORE... Back to menu SEARCH MENU CLOSE Admission HomeAdmission Boost "
+    },
+    {
+      "url": "https://colegiosmayores.fund.uc3m.es/en/residencia-antonio-machado-eng/",
+      "http_status": 200,
+      "title": "Residencia Antonio Machado - Universidad Carlos III de Madrid",
+      "class": "navigation",
+      "content_hash": "sha256:984511a12bacebb55a990c1fba133f23381135f74d5aed4e0a2fdb0c92be5149",
+      "retrieved_at": "2026-08-28T07:14:00.553336+00:00",
+      "text_snippet": "Residencia Antonio Machado - Universidad Carlos III de Madrid Skip to content Colegios Mayores UC3M Intranet Booking Menú Cerrar Why choose a UC3M residence Our Residences Gregorio Peces Barba (Getafe) Fernando de los Ríos (Getafe) Fernando Abril Martorell (Leganés) Antonio Machado (Colmenarejo) FAQ Contact Cerrar Why choose a UC3M residence Our Residences Gregorio Peces Barba (Getafe) Fernando de los Ríos (Getafe) Fernando Abril Martorell (Leganés) Antonio Machado (Colmenarejo) FAQ Contact Appl"
+    },
+    {
+      "url": "https://colegiosmayores.fund.uc3m.es/en/",
+      "http_status": 200,
+      "title": "Colegios Mayores Universidad Carlos III de Madrid",
+      "class": "navigation",
+      "content_hash": "sha256:0465b98de5d123ae88677970e37796147cee2e9315a99af24128d017813f5b4f",
+      "retrieved_at": "2026-08-28T07:14:03.359246+00:00",
+      "text_snippet": "Colegios Mayores Universidad Carlos III de Madrid Skip to content Colegios Mayores UC3M Intranet Booking Menú Cerrar Why choose a UC3M residence Our Residences Gregorio Peces Barba (Getafe) Fernando de los Ríos (Getafe) Fernando Abril Martorell (Leganés) Antonio Machado (Colmenarejo) FAQ Contact Cerrar Why choose a UC3M residence Our Residences Gregorio Peces Barba (Getafe) Fernando de los Ríos (Getafe) Fernando Abril Martorell (Leganés) Antonio Machado (Colmenarejo) FAQ Contact Residence Halls "
+    },
+    {
+      "url": "https://www.uc3m.es/postgraduate/social-networks",
+      "http_status": 200,
+      "title": "Graduate Studies Social Networks | UC3M",
+      "class": "concrete_program",
+      "content_hash": "sha256:7a72572bccb6dad625a902bf287fb0d1554289c72ea57dd71fb0d67f013b0aad",
+      "retrieved_at": "2026-08-28T07:14:07.636254+00:00",
+      "text_snippet": "Graduate Studies Social Networks | UC3M Cookie usage policy The website of the University Carlos III of Madrid use its own cookies and third-party cookies to improve our services by analyzing their browsing habits. By continuing navigation, we understand that it accepts our cookie policy. \"Usage rules\" [Close] Masters ES RRSS Contacto Aula Global Search: Buscar en: uc3m.es People ProgramsAdmission Enrollment Enrollment scholarships Scholarships Study in EnglishGeneral Information School of Gradu"
     },
     {
       "url": "https://www.uc3m.es/postgraduate/school-law",
-      "title": "Graduate School of Law",
-      "evidence_text": "Lists all law master programs."
+      "http_status": 200,
+      "title": "Graduate School of Law | UC3M",
+      "class": "concrete_program",
+      "content_hash": "sha256:50ea6dda1b8ba2923631a27758fd20b934604b39b2d88709b51e627ad3614c86",
+      "retrieved_at": "2026-08-28T07:14:10.043796+00:00",
+      "text_snippet": "Graduate School of Law | UC3M Cookie usage policy The website of the University Carlos III of Madrid use its own cookies and third-party cookies to improve our services by analyzing their browsing habits. By continuing navigation, we understand that it accepts our cookie policy. \"Usage rules\" [Close] Masters ES RRSS Contacto Aula Global Search: Buscar en: uc3m.es People ProgramsAdmission Enrollment Enrollment scholarships Scholarships Study in EnglishGeneral Information School of Graduate Studie"
+    },
+    {
+      "url": "https://www.uc3m.es/postgraduate/school-business",
+      "http_status": 200,
+      "title": "Graduate School of Business | UC3M",
+      "class": "concrete_program",
+      "content_hash": "sha256:92b7baff4074f105b3c3a361a7bdd47efc0b0cfb107437f4363f4f1983d3f2e5",
+      "retrieved_at": "2026-08-28T07:14:12.603063+00:00",
+      "text_snippet": "Graduate School of Business | UC3M Cookie usage policy The website of the University Carlos III of Madrid use its own cookies and third-party cookies to improve our services by analyzing their browsing habits. By continuing navigation, we understand that it accepts our cookie policy. \"Usage rules\" [Close] Masters ES RRSS Contacto Aula Global Search: Buscar en: uc3m.es People ProgramsAdmission Enrollment Enrollment scholarships Scholarships Study in EnglishGeneral Information School of Graduate S"
+    },
+    {
+      "url": "https://www.uc3m.es/postgraduate/school-economics-politicalscience",
+      "http_status": 200,
+      "title": "Graduate School of Economics and Political Science | UC3M",
+      "class": "concrete_program",
+      "content_hash": "sha256:9a12e10e236bb863fb84f17895585f40aa9a1538c1fc1b1db58fb3790170d1aa",
+      "retrieved_at": "2026-08-28T07:14:15.549627+00:00",
+      "text_snippet": "Graduate School of Economics and Political Science | UC3M Cookie usage policy The website of the University Carlos III of Madrid use its own cookies and third-party cookies to improve our services by analyzing their browsing habits. By continuing navigation, we understand that it accepts our cookie policy. \"Usage rules\" [Close] Masters ES RRSS Contacto Aula Global Search: Buscar en: uc3m.es People ProgramsAdmission Enrollment Enrollment scholarships Scholarships Study in EnglishGeneral Informati"
     },
     {
       "url": "https://www.uc3m.es/postgraduate/school-humanities-communication",
-      "title": "Graduate School of Humanities",
-      "evidence_text": "Lists all humanities and communication programs."
+      "http_status": 200,
+      "title": "Graduate School of Humanities and Communication | UC3M",
+      "class": "concrete_program",
+      "content_hash": "sha256:d0d5fae28ff5b1d0f99077be000c09f8f0bf1e21b769e5afcb61d6a93282f2bb",
+      "retrieved_at": "2026-08-28T07:14:17.961852+00:00",
+      "text_snippet": "Graduate School of Humanities and Communication | UC3M Cookie usage policy The website of the University Carlos III of Madrid use its own cookies and third-party cookies to improve our services by analyzing their browsing habits. By continuing navigation, we understand that it accepts our cookie policy. \"Usage rules\" [Close] Masters ES RRSS Contacto Aula Global Search: Buscar en: uc3m.es People ProgramsAdmission Enrollment Enrollment scholarships Scholarships Study in EnglishGeneral Information "
     },
     {
-      "url": "https://www.uc3m.es/master/big-data-analytics",
-      "title": "Master in Big Data Analytics",
-      "evidence_text": "C1 English required. EU: 80 EUR/ECTS, Non-EU: 120 EUR/ECTS."
+      "url": "https://www.uc3m.es/postgraduate/school-of-engineering",
+      "http_status": 200,
+      "title": "Graduate School of Engineering and Basic Sciences | UC3M",
+      "class": "concrete_program",
+      "content_hash": "sha256:e291c8309b80628574a45b8586118f0b24a43171f6190b28a51157dd5dd19d97",
+      "retrieved_at": "2026-08-28T07:14:22.279773+00:00",
+      "text_snippet": "Graduate School of Engineering and Basic Sciences | UC3M Cookie usage policy The website of the University Carlos III of Madrid use its own cookies and third-party cookies to improve our services by analyzing their browsing habits. By continuing navigation, we understand that it accepts our cookie policy. \"Usage rules\" [Close] Masters ES RRSS Contacto Aula Global Search: Buscar en: uc3m.es People ProgramsAdmission Enrollment Enrollment scholarships Scholarships Study in EnglishGeneral Informatio"
+    },
+    {
+      "url": "https://www.uc3m.es/postgraduate/enrollment",
+      "http_status": 200,
+      "title": "Enrollment | UC3M",
+      "class": "concrete_program",
+      "content_hash": "sha256:a8548985bbf041ec1022f29b167a023ac9e50f3d8191d55557e9f9cb1a7ea4f4",
+      "retrieved_at": "2026-08-28T07:14:29.249100+00:00",
+      "text_snippet": "Enrollment | UC3M Cookie usage policy The website of the University Carlos III of Madrid use its own cookies and third-party cookies to improve our services by analyzing their browsing habits. By continuing navigation, we understand that it accepts our cookie policy. \"Usage rules\" [Close] Masters ES RRSS Contacto Aula Global Search: Buscar en: uc3m.es People ProgramsAdmission Enrollment Enrollment scholarships Scholarships Study in EnglishGeneral Information School of Graduate StudiesGeneral Inf"
+    },
+    {
+      "url": "https://www.uc3m.es/postgraduate/aid",
+      "http_status": 200,
+      "title": "Scholarships to study a University Master's | UC3M",
+      "class": "concrete_program",
+      "content_hash": "sha256:9b0c1e841812414ea2331ee5dbf077570c8e025bce7f30cdb77bdd477f2d970f",
+      "retrieved_at": "2026-08-28T07:14:34.512777+00:00",
+      "text_snippet": "Scholarships to study a University Master's | UC3M Cookie usage policy The website of the University Carlos III of Madrid use its own cookies and third-party cookies to improve our services by analyzing their browsing habits. By continuing navigation, we understand that it accepts our cookie policy. \"Usage rules\" [Close] Masters ES RRSS Contacto Aula Global Search: Buscar en: uc3m.es People ProgramsAdmission Enrollment Enrollment scholarships Scholarships Study in EnglishGeneral Information Scho"
+    },
+    {
+      "url": "https://www.uc3m.es/postgraduate/study-in-english",
+      "http_status": 200,
+      "title": "English taught and bilingual master programs | UC3M",
+      "class": "concrete_program",
+      "content_hash": "sha256:dea3b59e81b19487f847b60aec7eaf5f8ac6f3ef4c248cda1aae748522fb6b54",
+      "retrieved_at": "2026-08-28T07:14:37.660002+00:00",
+      "text_snippet": "English taught and bilingual master programs | UC3M Cookie usage policy The website of the University Carlos III of Madrid use its own cookies and third-party cookies to improve our services by analyzing their browsing habits. By continuing navigation, we understand that it accepts our cookie policy. \"Usage rules\" [Close] Masters ES RRSS Contacto Aula Global Search: Buscar en: uc3m.es People ProgramsAdmission Enrollment Enrollment scholarships Scholarships Study in EnglishGeneral Information Sch"
+    },
+    {
+      "url": "https://www.uc3m.es/postgraduate/school-of-graduate-studies",
+      "http_status": 200,
+      "title": "School of Graduate Studies | UC3M",
+      "class": "concrete_program",
+      "content_hash": "sha256:ac904c06c0ad07fb312fa57859639ffec5bba5eeef9bed7f40678f7e95156f57",
+      "retrieved_at": "2026-08-28T07:14:40.220639+00:00",
+      "text_snippet": "School of Graduate Studies | UC3M Cookie usage policy The website of the University Carlos III of Madrid use its own cookies and third-party cookies to improve our services by analyzing their browsing habits. By continuing navigation, we understand that it accepts our cookie policy. \"Usage rules\" [Close] Masters ES RRSS Contacto Aula Global Search: Buscar en: uc3m.es People ProgramsAdmission Enrollment Enrollment scholarships Scholarships Study in EnglishGeneral Information School of Graduate St"
+    },
+    {
+      "url": "https://www.uc3m.es/postgraduate/general-information",
+      "http_status": 200,
+      "title": "General Information | UC3M",
+      "class": "concrete_program",
+      "content_hash": "sha256:d93e6007bf4eda5b2085cd0e5c0b84e9cf5aa5faea602d2f8b4279e38e51c6f2",
+      "retrieved_at": "2026-08-28T07:14:42.770319+00:00",
+      "text_snippet": "General Information | UC3M Cookie usage policy The website of the University Carlos III of Madrid use its own cookies and third-party cookies to improve our services by analyzing their browsing habits. By continuing navigation, we understand that it accepts our cookie policy. \"Usage rules\" [Close] Masters ES RRSS Contacto Aula Global Search: Buscar en: uc3m.es People ProgramsAdmission Enrollment Enrollment scholarships Scholarships Study in EnglishGeneral Information School of Graduate StudiesGe"
     }
   ],
-  "programs": [
-    {
-      "name": "Master in International Advocacy",
-      "degree": "Master",
-      "department": "Graduate School of Law",
-      "official_url": "https://www.uc3m.es/master/international-advocacy"
-    },
-    {
-      "name": "Master in Business Administration - MBA",
-      "degree": "Master",
-      "department": "Graduate School of Business",
-      "official_url": "https://www.uc3m.es/master/mba"
-    },
-    {
-      "name": "Master in Finance",
-      "degree": "Master",
-      "department": "Graduate School of Business",
-      "official_url": "https://www.uc3m.es/master/finance"
-    },
-    {
-      "name": "Master in Human Resources Management",
-      "degree": "Master",
-      "department": "Graduate School of Business",
-      "official_url": "https://www.uc3m.es/master/human-resources"
-    },
-    {
-      "name": "Master in Management",
-      "degree": "Master",
-      "department": "Graduate School of Business",
-      "official_url": "https://www.uc3m.es/master/management"
-    },
-    {
-      "name": "MSc in Marketing",
-      "degree": "Master",
-      "department": "Graduate School of Business",
-      "official_url": "https://www.uc3m.es/master/marketing"
-    },
-    {
-      "name": "Master in Business and Finance (MRes)",
-      "degree": "Master",
-      "department": "Graduate School of Business",
-      "official_url": "https://www.uc3m.es/master/business-finance"
-    },
-    {
-      "name": "Master in Computational Social Science",
-      "degree": "Master",
-      "department": "Graduate School of Economics and Political Science",
-      "official_url": "https://www.uc3m.es/master/computational-social-science"
-    },
-    {
-      "name": "Master in Economic Development and Growth (MEDEG)",
-      "degree": "Master",
-      "department": "Graduate School of Economics and Political Science",
-      "official_url": "https://www.uc3m.es/master/medeg"
-    },
-    {
-      "name": "Master in Economics",
-      "degree": "Master",
-      "department": "Graduate School of Economics and Political Science",
-      "official_url": "https://www.uc3m.es/master/economics"
-    },
-    {
-      "name": "Master in Economics of Competition, Regulation and Markets",
-      "degree": "Master",
-      "department": "Graduate School of Economics and Political Science",
-      "official_url": "https://www.uc3m.es/master/crema"
-    },
-    {
-      "name": "Master in European Economic Governance",
-      "degree": "Master",
-      "department": "Graduate School of Economics and Political Science",
-      "official_url": "https://www.uc3m.es/master/european-economic-governance"
-    },
-    {
-      "name": "Master in Geopolitics and Strategic Studies",
-      "degree": "Master",
-      "department": "Graduate School of Economics and Political Science",
-      "official_url": "https://www.uc3m.es/master/geopolitics"
-    },
-    {
-      "name": "Master in Economic Analysis",
-      "degree": "Master",
-      "department": "Graduate School of Economics and Political Science",
-      "official_url": "https://www.uc3m.es/master/economic-analysis"
-    },
-    {
-      "name": "Master in Social Sciences",
-      "degree": "Master",
-      "department": "Graduate School of Economics and Political Science",
-      "official_url": "https://www.uc3m.es/master/social-sciences"
-    },
-    {
-      "name": "Master in Aeronautical Engineering",
-      "degree": "Master",
-      "department": "Graduate School of Engineering",
-      "official_url": "https://www.uc3m.es/master/aeronautical-engineering"
-    },
-    {
-      "name": "Master in Aerospace Science and Technology",
-      "degree": "Master",
-      "department": "Graduate School of Engineering",
-      "official_url": "https://www.uc3m.es/master/aerospace-science-technology"
-    },
-    {
-      "name": "Master in Big Data Analytics",
-      "degree": "Master",
-      "department": "Graduate School of Engineering",
-      "official_url": "https://www.uc3m.es/master/big-data-analytics"
-    },
-    {
-      "name": "Master in Computational and Applied Mathematics",
-      "degree": "Master",
-      "department": "Graduate School of Engineering",
-      "official_url": "https://www.uc3m.es/master/matematica-aplicada"
-    },
-    {
-      "name": "Master in Connected Industry 4.0",
-      "degree": "Master",
-      "department": "Graduate School of Engineering",
-      "official_url": "https://www.uc3m.es/master/connected-industry-4.0"
-    },
-    {
-      "name": "Master in Machine Learning for Health",
-      "degree": "Master",
-      "department": "Graduate School of Engineering",
-      "official_url": "https://www.uc3m.es/master/information-health-engineering"
-    },
-    {
-      "name": "Master in Quantum Technologies and Engineering",
-      "degree": "Master",
-      "department": "Graduate School of Engineering",
-      "official_url": "https://www.uc3m.es/master/quantum-technologies-engineering"
-    },
-    {
-      "name": "Master in Space Engineering",
-      "degree": "Master",
-      "department": "Graduate School of Engineering",
-      "official_url": "https://www.uc3m.es/master/space-engineering"
-    },
-    {
-      "name": "Master in Statistics for Data Science",
-      "degree": "Master",
-      "department": "Graduate School of Engineering",
-      "official_url": "https://www.uc3m.es/master/statistics-data-science"
-    },
-    {
-      "name": "Master in Telecommunications Engineering",
-      "degree": "Master",
-      "department": "Graduate School of Engineering",
-      "official_url": "https://www.uc3m.es/master/telecommunication-engineering"
-    },
-    {
-      "name": "Master in Transportation Electrification",
-      "degree": "Master",
-      "department": "Graduate School of Engineering",
-      "official_url": "https://www.uc3m.es/master/transportation-electrification"
-    },
-    {
-      "name": "European Master in Nuclear Fusion and Engineering Physics (Fusion EP)",
-      "degree": "Master",
-      "department": "Graduate School of Engineering",
-      "official_url": "https://www.uc3m.es/master/master-nuclear-fusion"
-    },
-    {
-      "name": "Master in Applied Artificial Intelligence",
-      "degree": "Master",
-      "department": "Graduate School of Engineering",
-      "official_url": "https://www.uc3m.es/master/applied-artificial-intelligence"
-    },
-    {
-      "name": "Master in Cybersecurity",
-      "degree": "Master",
-      "department": "Graduate School of Engineering",
-      "official_url": "https://www.uc3m.es/master/cybersecurity"
-    },
-    {
-      "name": "Master in Computer Science and Technology",
-      "degree": "Master",
-      "department": "Graduate School of Engineering",
-      "official_url": "https://www.uc3m.es/master/computer-science-technology"
-    },
-    {
-      "name": "Master in Informatics Engineering",
-      "degree": "Master",
-      "department": "Graduate School of Engineering",
-      "official_url": "https://www.uc3m.es/master/informatics-engineering"
-    },
-    {
-      "name": "Master in Industrial Engineering",
-      "degree": "Master",
-      "department": "Graduate School of Engineering",
-      "official_url": "https://www.uc3m.es/master/industrial-engineering"
-    },
-    {
-      "name": "Master in Robotics and Automation",
-      "degree": "Master",
-      "department": "Graduate School of Engineering",
-      "official_url": "https://www.uc3m.es/master/robotics"
-    },
-    {
-      "name": "Master in Renewable Energy in Electrical Systems",
-      "degree": "Master",
-      "department": "Graduate School of Engineering",
-      "official_url": "https://www.uc3m.es/master/renewable-energy"
-    },
-    {
-      "name": "Master in Materials Science and Engineering",
-      "degree": "Master",
-      "department": "Graduate School of Engineering",
-      "official_url": "https://www.uc3m.es/master/materials-science-engineering"
-    },
-    {
-      "name": "Master in Actuarial and Financial Science",
-      "degree": "Master",
-      "department": "Graduate School of Business",
-      "official_url": "https://www.uc3m.es/master/actuarial-science"
-    },
-    {
-      "name": "Master in Entrepreneurship and Business Venturing",
-      "degree": "Master",
-      "department": "Graduate School of Business",
-      "official_url": "https://www.uc3m.es/master/entrepreneurs"
-    },
-    {
-      "name": "Master in Political and Electoral Analysis",
-      "degree": "Master",
-      "department": "Graduate School of Economics and Political Science",
-      "official_url": "https://www.uc3m.es/master/political-analysis"
-    },
-    {
-      "name": "Master in Sustainable Development and Global Governance",
-      "degree": "Master",
-      "department": "Graduate School of Economics and Political Science",
-      "official_url": "https://www.uc3m.es/master/sustainable-development"
-    },
-    {
-      "name": "Master in Advanced Human Rights Studies",
-      "degree": "Master",
-      "department": "Graduate School of Law",
-      "official_url": "https://www.uc3m.es/master/human-rights"
-    },
-    {
-      "name": "Master in European Union Law",
-      "degree": "Master",
-      "department": "Graduate School of Law",
-      "official_url": "https://www.uc3m.es/master/european-union-law"
-    },
-    {
-      "name": "Master in Intellectual Property",
-      "degree": "Master",
-      "department": "Graduate School of Law",
-      "official_url": "https://www.uc3m.es/master/intellectual-property"
-    },
-    {
-      "name": "Master in Taxation",
-      "degree": "Master",
-      "department": "Graduate School of Law",
-      "official_url": "https://www.uc3m.es/master/taxation"
-    },
-    {
-      "name": "Master in User Experience Design and Digital Analytics",
-      "degree": "Master",
-      "department": "Graduate School of Humanities",
-      "official_url": "https://www.uc3m.es/master/user-experience-design-digital-analytics"
-    },
-    {
-      "name": "Master in Tourism Management of Cultural and Natural Resources",
-      "degree": "Master",
-      "department": "Graduate School of Humanities",
-      "official_url": "https://www.uc3m.es/master/tourism-management"
-    },
-    {
-      "name": "Master in Film and Television",
-      "degree": "Master",
-      "department": "Graduate School of Humanities",
-      "official_url": "https://www.uc3m.es/master/film-television"
-    }
-  ]
+  "issues": []
 }

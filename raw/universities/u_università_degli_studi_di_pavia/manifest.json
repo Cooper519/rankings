@@ -4,8 +4,8 @@
   "university_id": "u_università_degli_studi_di_pavia",
   "name": "Università degli Studi di Pavia",
   "country": "Italy",
-  "website": "https://www.universitàdeglistudidipavia.edu",
-  "updated_at": "2026-08-19T18:56:01.850393+00:00",
-  "notes": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping.",
-  "converter": "manual-webfetch-v1"
+  "website": "https://www.unipv.eu/",
+  "updated_at": "2026-08-30T06:20:36.460427+00:00",
+  "notes": "blocked: homepage unreachable (https://www.unipv.eu/)",
+  "converter": "four-rankings-webfetch-v2"
 }

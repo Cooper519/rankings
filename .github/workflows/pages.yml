@@ -33,6 +33,17 @@ jobs:
           cache: npm
           cache-dependency-path: frontend/package-lock.json
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build canonical data pipeline
+        run: python -m tools.data_pipeline all
+
+      - name: Run Python regression tests
+        run: python run_all_tests.py
+
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 

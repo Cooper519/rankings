@@ -1,1 +1,452 @@
-[]
+[
+  {
+    "project_id": "u_university_of_bordeaux_main_but_licence_master",
+    "university_id": "u_university_of_bordeaux",
+    "campus_id": "main",
+    "normalized_program_code": "but_licence_master",
+    "name": "But Licence Master",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.u-bordeaux.fr/formation/candidatures-et-inscriptions/sinscrire-luniversite/but-licence-master",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_fbb01df52c1c",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bordeaux_main_donnees_de_candidature_et_insertion_professionnelle",
+    "university_id": "u_university_of_bordeaux",
+    "campus_id": "main",
+    "normalized_program_code": "donnees_de_candidature_et_insertion_professionnelle",
+    "name": "Donnees De Candidature Et Insertion Professionnelle",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.u-bordeaux.fr/formation/candidatures-et-inscriptions/candidater-luniversite/master-1/donnees-de-candidature-et-insertion-professionnelle",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_c2431d434ce9",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bordeaux_main_formations_internationales",
+    "university_id": "u_university_of_bordeaux",
+    "campus_id": "main",
+    "normalized_program_code": "formations_internationales",
+    "name": "Formations Internationales",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.u-bordeaux.fr/formation/choisir-une-formation/formations-internationales",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7efa4bd0453a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bordeaux_main_double_diplomes",
+    "university_id": "u_university_of_bordeaux",
+    "campus_id": "main",
+    "normalized_program_code": "double_diplomes",
+    "name": "Double Diplomes",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.u-bordeaux.fr/formation/choisir-une-formation/formations-internationales/double-diplomes",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "e politique Licence - Droit, parcours franco-allemand Le parcours international - Licence franco-allemande en droit / Deutsch-französischer Bachelor of Laws (LL."
+          },
+          "notes": "",
+          "source_id": "src_cba9fc5189ce",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bordeaux_main_autres_formations_internationales",
+    "university_id": "u_university_of_bordeaux",
+    "campus_id": "main",
+    "normalized_program_code": "autres_formations_internationales",
+    "name": "Autres Formations Internationales",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.u-bordeaux.fr/formation/choisir-une-formation/formations-internationales/autres-formations-internationales",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "es et technologies BUT - Electrical Engineering and Industrial Computing BUT - Applied science - international track Biology, international Bachelor degree programme Niveau de diplôme : Licence Quelques cours en anglais."
+          },
+          "notes": "",
+          "source_id": "src_6b1e8bf6b638",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bordeaux_main_financements",
+    "university_id": "u_university_of_bordeaux",
+    "campus_id": "main",
+    "normalized_program_code": "financements",
+    "name": "Financements",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.u-bordeaux.fr/formation/formation-professionnelle/financements",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_6eae10ec05cf",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bordeaux_main_choisir_une_formation",
+    "university_id": "u_university_of_bordeaux",
+    "campus_id": "main",
+    "normalized_program_code": "choisir_une_formation",
+    "name": "Choisir Une Formation",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.u-bordeaux.fr/formation/choisir-une-formation",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_c1076f01a539",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bordeaux_main_les_etudes_luniversite",
+    "university_id": "u_university_of_bordeaux",
+    "campus_id": "main",
+    "normalized_program_code": "les_etudes_luniversite",
+    "name": "Les Etudes Luniversite",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.u-bordeaux.fr/formation/choisir-une-formation/les-etudes-luniversite",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Le bachelor universitaire de technologie (BUT) Le BUT est un nouveau diplôme préparé en 3 ans qui remplace le DUT."
+          },
+          "notes": "",
+          "source_id": "src_a6a1b177058d",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bordeaux_main_alternance",
+    "university_id": "u_university_of_bordeaux",
+    "campus_id": "main",
+    "normalized_program_code": "alternance",
+    "name": "Alternance",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.u-bordeaux.fr/formation/choisir-une-formation/alternance",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_ed090251329a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bordeaux_main_apprentissage",
+    "university_id": "u_university_of_bordeaux",
+    "campus_id": "main",
+    "normalized_program_code": "apprentissage",
+    "name": "Apprentissage",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.u-bordeaux.fr/formation/choisir-une-formation/alternance/apprentissage",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_2305edd70689",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  }
+]

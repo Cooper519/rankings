@@ -152,6 +152,34 @@ export interface ProgramCoverage {
   updatedAt: string
 }
 
+export interface DataManifest {
+  schemaVersion: number
+  dataTimestamp: string
+  corpusHash: string
+  sourceOfTruth: string
+  counts: {
+    universities: number
+    data_packages: number
+    projects: number
+    admission_cycles: number
+    timelines: number
+    requirements: number
+    fees: number
+    sources: number
+    reviews: number
+    ranking_entries: number
+    validation_issues: number
+  }
+  quality: {
+    issuesBySeverity: Partial<Record<'error' | 'warning', number>>
+    unknownTimelines: number
+    unknownTimelinePercent: number
+    programsWithDeadline: number
+    programsWithRequirement: number
+    programsVerified: number
+  }
+}
+
 export type Feature2CoverageStatus = 'covered' | 'missing'
 
 export interface Feature2CoverageSelection {

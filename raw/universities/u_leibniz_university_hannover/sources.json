@@ -1,11 +1,42 @@
 [
   {
-    "source_id": "src_9d26ef5bc0a2",
-    "url": "https://www.leibnizuniversityhannover.edu",
+    "source_id": "src_dcc61ce18da2",
+    "url": "https://www.uni-hannover.de/en/",
     "source_type": "official_web",
-    "retrieved_at": "2026-08-19T18:56:01.850393+00:00",
-    "verification_status": "blocked",
-    "title": "Leibniz University Hannover Official Website",
-    "evidence_text": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping."
+    "retrieved_at": "2026-08-30T08:57:44.207891+00:00",
+    "verification_status": "extracted",
+    "title": "Homepage – Leibniz University Hannover",
+    "content_hash": "sha256:8c5f2c82fa8f6beb57b459663e6c2bcfc5450be295e8629bb891daa874b2dc69",
+    "evidence_text": "Homepage – Leibniz University Hannover Faculties Close Faculty of Architecture and Landscape Sciences Faculty of Civil Engineering and Geodetic Science Faculty of Electrical Engineering and Computer Science Faculty of Mechanical Engineering Faculty of Architecture and Landscape Sciences Faculty of C"
+  },
+  {
+    "source_id": "src_c5b34fadb37a",
+    "url": "https://www.uni-hannover.de/en/legal-information",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T08:57:47.385282+00:00",
+    "verification_status": "extracted",
+    "title": "Legal Information – Leibniz University Hannover",
+    "content_hash": "sha256:8b63c1297d071f2cd9a284e9bb80fb1dbb9b53782ed9d86c578938181ab25ec1",
+    "evidence_text": "Legal Information – Leibniz University Hannover Faculties Close Faculty of Architecture and Landscape Sciences Faculty of Civil Engineering and Geodetic Science Faculty of Electrical Engineering and Computer Science Faculty of Mechanical Engineering Faculty of Architecture and Landscape Sciences Fac"
+  },
+  {
+    "source_id": "src_1bbb605972dd",
+    "url": "https://www.uni-hannover.de/en/studium/vor-dem-studium/bewerbung-zulassung",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T08:57:50.391196+00:00",
+    "verification_status": "extracted",
+    "title": "Application and Admission – Leibniz University Hannover",
+    "content_hash": "sha256:5c49ec2ba6022097ede74d636069c3f82bcd691f4bf1944eba1eda415722bbdb",
+    "evidence_text": "Application and Admission – Leibniz University Hannover Faculties Close Faculty of Architecture and Landscape Sciences Faculty of Civil Engineering and Geodetic Science Faculty of Electrical Engineering and Computer Science Faculty of Mechanical Engineering Faculty of Architecture and Landscape Scie"
+  },
+  {
+    "source_id": "src_4a434c3b9e36",
+    "url": "https://www.uni-hannover.de/en/forschung/exzellenzstrategie",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T08:57:53.339284+00:00",
+    "verification_status": "extracted",
+    "title": "Excellence Strategy – Leibniz University Hannover",
+    "content_hash": "sha256:99fe7d34ab09105d6070da7c73b695c4cd45e4963f35c90d3e46f880534f75b3",
+    "evidence_text": "Excellence Strategy – Leibniz University Hannover Faculties Close Faculty of Architecture and Landscape Sciences Faculty of Civil Engineering and Geodetic Science Faculty of Electrical Engineering and Computer Science Faculty of Mechanical Engineering Faculty of Architecture and Landscape Sciences F"
   }
 ]

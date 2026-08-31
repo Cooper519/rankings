@@ -1,11 +1,152 @@
 [
   {
-    "source_id": "src_13825016226b",
-    "url": "https://www.universitätkonstanz.edu",
+    "source_id": "src_8abec872d5bd",
+    "url": "https://www.uni-konstanz.de/en/",
     "source_type": "official_web",
-    "retrieved_at": "2026-08-19T18:56:01.850393+00:00",
-    "verification_status": "blocked",
-    "title": "Universität Konstanz Official Website",
-    "evidence_text": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping."
+    "retrieved_at": "2026-08-30T07:03:54.629889+00:00",
+    "verification_status": "extracted",
+    "title": "University of Konstanz",
+    "content_hash": "sha256:718017ee1089e49606bc65ababd9af414e897d7633b9f6850653b421f937a60c",
+    "evidence_text": "University of Konstanz Hauptnavigation Seiteninhalt Hilfe & Kontakt University University About the University of Konstanz News and media Administration and organisation Faculties and departments International Transfer Sustainable development Research Research Research profile German Excellence Stra"
+  },
+  {
+    "source_id": "src_fee290d7c84e",
+    "url": "https://www.uni-konstanz.de/en/study/before-you-study/application-and-enrolment/",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:03:58.889468+00:00",
+    "verification_status": "extracted",
+    "title": "Application and Enrolment | Before you study | Study | University of Konstanz",
+    "content_hash": "sha256:53b6cf435867d086137b793714ed9d50af122ebae6c53df15d02e24ed24fbfe2",
+    "evidence_text": "Application and Enrolment | Before you study | Study | University of Konstanz Hauptnavigation Seiten-Navigation Seiteninhalt Hilfe & Kontakt University University About the University of Konstanz News and media Administration and organisation Faculties and departments International Transfer Sustaina"
+  },
+  {
+    "source_id": "src_40d63eb9dc2f",
+    "url": "https://www.uni-konstanz.de/en/study/your-university-your-future/plan-your-studies/applicationandenrolment/",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:04:07.161912+00:00",
+    "verification_status": "extracted",
+    "title": "Application and enrolment – What you need to know | Plan your studies | Your university. Your future. | Study | University of Konstanz",
+    "content_hash": "sha256:41b6eb8f1c797c718375eab4ef3d48a4ede9712810898f4b75b36c15b07c22e2",
+    "evidence_text": "Application and enrolment – What you need to know | Plan your studies | Your university. Your future. | Study | University of Konstanz Hauptnavigation Seiten-Navigation Seiteninhalt Hilfe & Kontakt University University About the University of Konstanz News and media Administration and organisation "
+  },
+  {
+    "source_id": "src_367aab51cb75",
+    "url": "https://www.informatik.uni-konstanz.de/en/",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:04:28.909625+00:00",
+    "verification_status": "extracted",
+    "title": "Department of Computer and Information Science",
+    "content_hash": "sha256:8456c7265bd7c0c76a4d3ea317571ef6fdd1e65934ce64c12ed63e88436dafc5",
+    "evidence_text": "Department of Computer and Information Science Hauptnavigation Seiteninhalt Hilfe & Kontakt Menu University University Research Study Teaching campus.kn en Deutsch My University Log in with your university's account to access password-protected areas. Username Password Lost credentials? Sign in Togg"
+  },
+  {
+    "source_id": "src_467e2a452771",
+    "url": "https://www.uni-konstanz.de/en/university/general-information/information-on-data-protection/",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:04:36.310667+00:00",
+    "verification_status": "extracted",
+    "title": "Information on data protection | General information | University | University of Konstanz",
+    "content_hash": "sha256:81d0702f13f5b790f6c6a218d0b84900998cf6aa2a35ad102d606a5fffb24fb1",
+    "evidence_text": "Information on data protection | General information | University | University of Konstanz Hauptnavigation Seiten-Navigation Seiteninhalt Hilfe & Kontakt University University About the University of Konstanz News and media Administration and organisation Faculties and departments International Tran"
+  },
+  {
+    "source_id": "src_4199409f3418",
+    "url": "https://www.uni-konstanz.de/en/study/before-you-study/study-programmes/teaching-degree-bachelor-of-education-and-master-of-education",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:04:48.245781+00:00",
+    "verification_status": "extracted",
+    "title": "Teaching degree (Bachelor of Education and Master of Education) | Study Programmes | Before you study | Study | University of Konstanz",
+    "content_hash": "sha256:556e7e6a4777d6eeae942d15b401e44d354e62e7f5012a602bae6fb2fd797c5f",
+    "evidence_text": "Teaching degree (Bachelor of Education and Master of Education) | Study Programmes | Before you study | Study | University of Konstanz Hauptnavigation Seiten-Navigation Seiteninhalt Hilfe & Kontakt University University About the University of Konstanz News and media Administration and organisation "
+  },
+  {
+    "source_id": "src_68e64e3c8b80",
+    "url": "https://www.informatik.uni-konstanz.de/studium/master-of-science/msc-computer-and-information-science",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:04:56.604588+00:00",
+    "verification_status": "extracted",
+    "title": "M.Sc. Computer and Information Science",
+    "content_hash": "sha256:897f8dffbff27c445a979775361c36048215d0e50f0c9cf4dbc294b9e8273869",
+    "evidence_text": "M.Sc. Computer and Information Science Hauptnavigation Seiten-Navigation Seiteninhalt Hilfe & Kontakt Menu University University Research Study Teaching campus.kn en My University Log in with your university's account to access password-protected areas. Username Password Lost credentials? Sign in To"
+  },
+  {
+    "source_id": "src_a3175c83f8d2",
+    "url": "https://www.informatik.uni-konstanz.de/studium/master-of-science/msc-computer-science-for-industry-and-business",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:05:05.159540+00:00",
+    "verification_status": "extracted",
+    "title": "M.Sc. Computer Science for Industry and Business | Master | Studium | Fachbereich Informatik und Informationswissenschaft",
+    "content_hash": "sha256:f1d24910ae86b87b7e20b222914097779b3b0e797d8ef63374099608b6ecdf91",
+    "evidence_text": "M.Sc. Computer Science for Industry and Business | Master | Studium | Fachbereich Informatik und Informationswissenschaft Hauptnavigation Seiten-Navigation Seiteninhalt Hilfe & Kontakt Menü Universität Universität Forschen Studieren Lehren campus.kn de Meine Universität Loading... Suchoverlay Öffnen"
+  },
+  {
+    "source_id": "src_d56047236527",
+    "url": "https://www.uni-konstanz.de/en/study/before-you-study/study-programmes/masters-degree",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:05:17.279408+00:00",
+    "verification_status": "extracted",
+    "title": "Master’s degree | Study Programmes | Before you study | Study | University of Konstanz",
+    "content_hash": "sha256:c173cbec3d7f8cee19dca988219baa5015b35a35a8c0ef1865e5598728471d05",
+    "evidence_text": "Master’s degree | Study Programmes | Before you study | Study | University of Konstanz Hauptnavigation Seiten-Navigation Seiteninhalt Hilfe & Kontakt University University About the University of Konstanz News and media Administration and organisation Faculties and departments International Transfer"
+  },
+  {
+    "source_id": "src_354e69df7181",
+    "url": "https://www.informatik.uni-konstanz.de/en/study/master-of-science",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:05:32.310372+00:00",
+    "verification_status": "extracted",
+    "title": "Master of Science | Study | Department of Computer and Information Science",
+    "content_hash": "sha256:d4d3817e18bb9292cbc17e8459e8eb943bac59b1563d26cab44ef5313ff0d691",
+    "evidence_text": "Master of Science | Study | Department of Computer and Information Science Hauptnavigation Seiten-Navigation Seiteninhalt Hilfe & Kontakt Menu University University Research Study Teaching campus.kn en Deutsch My University Log in with your university's account to access password-protected areas. Us"
+  },
+  {
+    "source_id": "src_7dc5dbfd924b",
+    "url": "https://www.uni-konstanz.de/en/study/before-you-study/study-programmes/bachelor-major-and-law-studies-first-examination-in-law",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:05:48.366876+00:00",
+    "verification_status": "extracted",
+    "title": "Bachelor major and law studies (first examination in law and bachelor of laws) | Study Programmes | Before you study | Study | University of Konstanz",
+    "content_hash": "sha256:d1ff19b39d9d7343922c90dbc1aacec515d47b3aacec27e3b8da10b6310af45a",
+    "evidence_text": "Bachelor major and law studies (first examination in law and bachelor of laws) | Study Programmes | Before you study | Study | University of Konstanz Hauptnavigation Seiten-Navigation Seiteninhalt Hilfe & Kontakt University University About the University of Konstanz News and media Administration an"
+  },
+  {
+    "source_id": "src_85e63af3c5cb",
+    "url": "https://www.uni-konstanz.de/en/study/before-you-study/application-and-enrolment/bachelors-degree-and-first-state-examination-in-law",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:06:04.965299+00:00",
+    "verification_status": "extracted",
+    "title": "Bachelor’s degree and first state examination in law | Application and Enrolment | Before you study | Study | University of Konstanz",
+    "content_hash": "sha256:1a5557fff5adb85c205d68388617ad8ce935443eabd7ddb17f5711cdc16b84e5",
+    "evidence_text": "Bachelor’s degree and first state examination in law | Application and Enrolment | Before you study | Study | University of Konstanz Hauptnavigation Seiten-Navigation Seiteninhalt Hilfe & Kontakt University University About the University of Konstanz News and media Administration and organisation Fa"
+  },
+  {
+    "source_id": "src_a41901d96cab",
+    "url": "https://www.uni-konstanz.de/en/study/before-you-study/application-and-enrolment/other-application-procedures/teacher-education-secondary-levels-i-and-ii",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:06:10.699793+00:00",
+    "verification_status": "extracted",
+    "title": "Teacher education, secondary levels I and II | Other application procedures | Application and Enrolment | Before you study | Study | University of Konstanz",
+    "content_hash": "sha256:4136b4d8bd72a9fa20d3572c69242f4a8b44a33119a57012c2cc0732f5c8c0cd",
+    "evidence_text": "Teacher education, secondary levels I and II | Other application procedures | Application and Enrolment | Before you study | Study | University of Konstanz Hauptnavigation Seiten-Navigation Seiteninhalt Hilfe & Kontakt University University About the University of Konstanz News and media Administrat"
+  },
+  {
+    "source_id": "src_59ffa306683b",
+    "url": "https://www.uni-konstanz.de/en/study/your-university-your-future/study-internationally-in-konstanz",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:06:30.254580+00:00",
+    "verification_status": "extracted",
+    "title": "Study internationally in Konstanz | Your university. Your future. | Study | University of Konstanz",
+    "content_hash": "sha256:3eb63727039e496297d4f66a63269ac9c84ebd5a2617e6823c18c556867759ff",
+    "evidence_text": "Study internationally in Konstanz | Your university. Your future. | Study | University of Konstanz Hauptnavigation Seiten-Navigation Seiteninhalt Hilfe & Kontakt University University About the University of Konstanz News and media Administration and organisation Faculties and departments Internatio"
+  },
+  {
+    "source_id": "src_272bbee978b1",
+    "url": "https://www.uni-konstanz.de/en/study/before-you-study/application-and-enrolment/bachelors-degree-and-first-state-examination-in-law/higher-education-entrance-qualification-earned-outside-the-eu/no-higher-education-entrance-qualification",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:06:36.048758+00:00",
+    "verification_status": "extracted",
+    "title": "No higher education entrance qualification | Citizens of an Non- EU or Non- EEA country | Bachelor’s degree and first state examination in law | Application and Enrolment | Before you study | Study | ",
+    "content_hash": "sha256:6047c0154d73e17959c8200eff3d2c8d15fc0fbe72d2997c3ab6805ecba2369a",
+    "evidence_text": "No higher education entrance qualification | Citizens of an Non- EU or Non- EEA country | Bachelor’s degree and first state examination in law | Application and Enrolment | Before you study | Study | University of Konstanz Hauptnavigation Seiten-Navigation Seiteninhalt Hilfe & Kontakt University Uni"
   }
 ]

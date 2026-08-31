@@ -1,1 +1,1757 @@
-[]
+[
+  {
+    "project_id": "u_lebanese_american_university_main_online_mba_in_business_analytics",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "online_mba_in_business_analytics",
+    "name": "Online MBA in Business Analytics",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://online.lau.edu.lb/programs/mba-masters-business-analytics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "required",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": ")Wallis and FutunaWestern SaharaYemenZambiaZimbabweI confirm I have a bachelor’s degree and speak English."
+          },
+          "notes": "",
+          "source_id": "src_b45f32741580",
+          "verification_status": "extracted"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_18216_usd",
+            "type": "tuition",
+            "amount": "18216",
+            "currency": "USD",
+            "period": "total",
+            "applicant_group": "international",
+            "condition": "ess Tuition and Funding A Valuable Business Analytics Education $552 per credit $18,216 total estimated tuition* Employer reimbursement acceptedEarning an MBA is an in",
+            "source_id": "src_b45f32741580",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "from official page; fee:USD18216/total(international)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_lebanese_american_university_adnan_kassar_school_of_business_master_of_science_i",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "lebanese_american_university_adnan_kassar_school_of_business_master_of_science_i",
+    "name": "Lebanese American University Adnan Kassar School of Business Master of Science in Finance and Accounting",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://sb.lau.edu.lb/academics/programs/ms-in-finance-accounting/master-of-science-in-finance-and-accounting.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "not_required",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_3c2832fc4fea",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_online_mba_in_global_business_administration",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "online_mba_in_global_business_administration",
+    "name": "Online MBA in Global Business Administration",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://online.lau.edu.lb/programs/mba-masters-business-administration",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "required",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": ")Wallis and FutunaWestern SaharaYemenZambiaZimbabweI confirm I have a bachelor’s degree and speak English."
+          },
+          "notes": "",
+          "source_id": "src_6505e397bb1d",
+          "verification_status": "extracted"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_18216_usd",
+            "type": "tuition",
+            "amount": "18216",
+            "currency": "USD",
+            "period": "total",
+            "applicant_group": "international",
+            "condition": "nd Funding Invest in Your Future With an Affordable Degree $552 per credit hour $18,216 total tuition* Employer reimbursement acceptedEarning an MBA is an investment i",
+            "source_id": "src_6505e397bb1d",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "from official page; fee:USD18216/total(international)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_online_mba_in_healthcare_management",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "online_mba_in_healthcare_management",
+    "name": "Online MBA in Healthcare Management",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://online.lau.edu.lb/programs/mba-masters-healthcare-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "required",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": ")Wallis and FutunaWestern SaharaYemenZambiaZimbabweI confirm I have a bachelor’s degree and speak English."
+          },
+          "notes": "",
+          "source_id": "src_d4e09168e2c7",
+          "verification_status": "extracted"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_18216_usd",
+            "type": "tuition",
+            "amount": "18216",
+            "currency": "USD",
+            "period": "total",
+            "applicant_group": "international",
+            "condition": "ness Administration in Healthcare Management Online Degree $552 per credit hour $18,216 total tuition* Transfer credits acceptedEarning an MBA is an investment in your",
+            "source_id": "src_d4e09168e2c7",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "from official page; fee:USD18216/total(international)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_lebanese_american_university_adnan_kassar_school_of_business_master_of_science_i_4",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "lebanese_american_university_adnan_kassar_school_of_business_master_of_science_i_4",
+    "name": "Lebanese American University Adnan Kassar School of Business Master of Science in Data Analytics",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://sb.lau.edu.lb/academics/programs/ms-data-analytics/master-of-science-in-data-analytics.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "In addition to meeting these standards, applicants must fulfill the following criteria:Educational Background:Applicants must hold a bachelor’s of science degree from an accredited institution in a related field."
+          },
+          "notes": "",
+          "source_id": "src_d07542e1c361",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_online_ms_in_computer_science",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "online_ms_in_computer_science",
+    "name": "Online MS in Computer Science",
+    "degree": "MS",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://online.lau.edu.lb/programs/ms-masters-computer-science",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "required",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": ")Wallis and FutunaWestern SaharaYemenZambiaZimbabweI confirm I have a bachelor’s degree and speak English."
+          },
+          "notes": "",
+          "source_id": "src_4acc146ddac7",
+          "verification_status": "extracted"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_16560_usd",
+            "type": "tuition",
+            "amount": "16560",
+            "currency": "USD",
+            "period": "total",
+            "applicant_group": "international",
+            "condition": "nd Funding Invest in Your Future With an Affordable Degree $552 per credit hour $16,560 total tuition* Scholarships and employer reimbursement acceptedEarning an MS in",
+            "source_id": "src_4acc146ddac7",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "from official page; fee:USD16560/total(international)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_online_ms_in_international_construction_management",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "online_ms_in_international_construction_management",
+    "name": "Online MS in International Construction Management",
+    "degree": "MS",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://online.lau.edu.lb/programs/ms-masters-international-construction-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": ")Wallis and FutunaWestern SaharaYemenZambiaZimbabweI confirm I have a bachelor’s degree and speak English."
+          },
+          "notes": "",
+          "source_id": "src_27209f12c6f0",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_16560_usd",
+            "type": "tuition",
+            "amount": "16560",
+            "currency": "USD",
+            "period": "total",
+            "applicant_group": "international",
+            "condition": "he Application Process Tuition and Funding Tuition Details $552 per credit hour $16,560 total tuition* Employer reimbursement acceptedThe Master of Science in Internat",
+            "source_id": "src_27209f12c6f0",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "from official page; fee:USD16560/total(international)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_lebanese_american_university_adnan_kassar_school_of_business_executive_mba",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "lebanese_american_university_adnan_kassar_school_of_business_executive_mba",
+    "name": "Lebanese American University Adnan Kassar School of Business Executive MBA",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://sb.lau.edu.lb/academics/programs/emba",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_55680e2a065e",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_lebanese_american_university_adnan_kassar_school_of_business_master_of_business_",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "lebanese_american_university_adnan_kassar_school_of_business_master_of_business_",
+    "name": "Lebanese American University Adnan Kassar School of Business Master of Business Administration (MBA)",
+    "degree": "MasterofBusiness",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://sb.lau.edu.lb/academics/programs/graduate/mba",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Applicants are expected to:Hold a bachelor’s degree in business or an equivalent discipline from a recognized university."
+          },
+          "notes": "",
+          "source_id": "src_4fef014d48a2",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_online_ms_in_applied_artificial_intelligence",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "online_ms_in_applied_artificial_intelligence",
+    "name": "Online MS in Applied Artificial Intelligence",
+    "degree": "MS",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://online.lau.edu.lb/programs/ms-masters-applied-artificial-intelligence",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": ")Wallis and FutunaWestern SaharaYemenZambiaZimbabweI confirm I have a bachelor’s degree and speak English."
+          },
+          "notes": "",
+          "source_id": "src_4d92d4e3ad7e",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_16560_usd",
+            "type": "tuition",
+            "amount": "16560",
+            "currency": "USD",
+            "period": "total",
+            "applicant_group": "international",
+            "condition": "ding Invest in a Quality Artificial Intelligence Education $552 per credit hour $16,560 total estimated tuition*Education is the key to career success. Invest in your",
+            "source_id": "src_4d92d4e3ad7e",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "from official page; fee:USD16560/total(international)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_lebanese_american_university_adnan_kassar_school_of_business_master_of_arts_ma_i",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "lebanese_american_university_adnan_kassar_school_of_business_master_of_arts_ma_i",
+    "name": "Lebanese American University Adnan Kassar School of Business Master of Arts (MA) in Applied Economics",
+    "degree": "MasterofArts",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://sb.lau.edu.lb/academics/programs/graduate/ma-applied-economics/index.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "In addition to the following:Applicants with a Bachelor’s degree in Economics or in other majors with a minor in Economics: No remedial courses are required."
+          },
+          "notes": "",
+          "source_id": "src_1552e0f6dbcc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_lebanese_american_university_school_of_arts_and_sciences_ma_in_education",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "lebanese_american_university_school_of_arts_and_sciences_ma_in_education",
+    "name": "Lebanese American University School of Arts and Sciences MA in Education",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://soas.lau.edu.lb/academics/programs/ma-education.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_2c3ff48f5581",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_international_students_catalog_listing",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_students_catalog_listing",
+    "name": "International Students (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lau.edu.lb/study/international-students",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_executive_master_of_business_administration",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "executive_master_of_business_administration",
+    "name": "Executive Master of Business Administration",
+    "degree": "MasterofBusiness",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://sb.lau.edu.lb/academics/programs/emba",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_llm_in_business_law",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "llm_in_business_law",
+    "name": "LLM in Business Law",
+    "degree": "LLM",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "http://sb.lau.edu.lb/academics/programs/graduate/llm",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_mba_master_of_business_administration",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "mba_master_of_business_administration",
+    "name": "MBA (Master of Business Administration)",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://sb.lau.edu.lb/academics/programs/graduate/mba",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_ms_in_finance_and_accounting",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "ms_in_finance_and_accounting",
+    "name": "MS in Finance and Accounting",
+    "degree": "MS",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://sb.lau.edu.lb/academics/programs/ms-in-finance-accounting/master-of-science-in-finance-and-accounting.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_ms_in_data_analytics",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "ms_in_data_analytics",
+    "name": "MS in Data Analytics",
+    "degree": "MS",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://sb.lau.edu.lb/academics/programs/ms-data-analytics/master-of-science-in-data-analytics.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_ms_in_human_resources_management",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "ms_in_human_resources_management",
+    "name": "MS in Human Resources Management",
+    "degree": "MS",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://sb.lau.edu.lb/academics/programs/graduate/mshr",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_master_of_studies_in_law",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_studies_in_law",
+    "name": "Master of Studies in Law",
+    "degree": "MasterofStudies",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "http://sb.lau.edu.lb/academics/programs/msl",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_ma_in_islamic_art",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "ma_in_islamic_art",
+    "name": "MA in Islamic Art",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://sard.lau.edu.lb/academics/degrees-minors/ma-islamic-art",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_ma_in_comparative_literature",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "ma_in_comparative_literature",
+    "name": "MA in Comparative Literature",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://soas.lau.edu.lb/academics/programs/ma-comparative-literature.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_ma_in_interdisciplinary_gender_studies",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "ma_in_interdisciplinary_gender_studies",
+    "name": "MA in Interdisciplinary Gender Studies",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://soas.lau.edu.lb/academics/programs/ma-interdisciplinary-gender-studies.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_ma_in_international_affairs",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "ma_in_international_affairs",
+    "name": "MA in International Affairs",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://soas.lau.edu.lb/academics/programs/ma-international-affairs.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_ma_in_migration_studies",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "ma_in_migration_studies",
+    "name": "MA in Migration Studies",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://soas.lau.edu.lb/academics/programs/ma-migrationstudies.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_ma_in_multimedia_journalism",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "ma_in_multimedia_journalism",
+    "name": "MA in Multimedia Journalism",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://soas.lau.edu.lb/academics/programs/ma-multimedia-journalism.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_ms_in_applied_artificial_intelligence_online",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "ms_in_applied_artificial_intelligence_online",
+    "name": "MS in Applied Artificial Intelligence (online)",
+    "degree": "MS",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://online.lau.edu.lb/programs/ms-masters-applied-artificial-intelligence",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_ms_in_biological_sciences",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "ms_in_biological_sciences",
+    "name": "MS in Biological Sciences",
+    "degree": "MS",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://soas.lau.edu.lb/academics/programs/ms-biological-sciences.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_ms_in_cybersecurity",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "ms_in_cybersecurity",
+    "name": "MS in Cybersecurity",
+    "degree": "MS",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://online.lau.edu.lb/programs/ms-cyber-security",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_ms_in_data_science",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "ms_in_data_science",
+    "name": "MS in Data Science",
+    "degree": "MS",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://soas.lau.edu.lb/academics/programs/ms-data-science.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_ms_in_nutrition",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "ms_in_nutrition",
+    "name": "MS in Nutrition",
+    "degree": "MS",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://soas.lau.edu.lb/academics/programs/ms-nutrition.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_ms_in_civil_and_environmental_engineering",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "ms_in_civil_and_environmental_engineering",
+    "name": "MS in Civil and Environmental Engineering",
+    "degree": "MS",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://soe.lau.edu.lb/departments/civil/degree-programs/ms-civil.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_ms_in_computer_engineering",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "ms_in_computer_engineering",
+    "name": "MS in Computer Engineering",
+    "degree": "MS",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://soe.lau.edu.lb/departments/electrical-computer/degree-programs/ms-computer.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_ms_in_engineering_management",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "ms_in_engineering_management",
+    "name": "MS in Engineering Management",
+    "degree": "MS",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://online.lau.edu.lb/programs/ms-engineering-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_ms_in_industrial_engineering_and_engineering_management",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "ms_in_industrial_engineering_and_engineering_management",
+    "name": "MS in Industrial Engineering and Engineering Management",
+    "degree": "MS",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://soe.lau.edu.lb/departments/industrial-mechanical/degree-programs/ms-industrial.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_ms_in_mechanical_engineering",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "ms_in_mechanical_engineering",
+    "name": "MS in Mechanical Engineering",
+    "degree": "MS",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://soe.lau.edu.lb/departments/industrial-mechanical/degree-programs/ms-mechanical.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_lebanese_american_university_main_ms_in_pharmaceutical_development_and_management",
+    "university_id": "u_lebanese_american_university",
+    "campus_id": "main",
+    "normalized_program_code": "ms_in_pharmaceutical_development_and_management",
+    "name": "MS in Pharmaceutical Development and Management",
+    "degree": "MS",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://pharmacy.lau.edu.lb/education/graduate/ms-pharma.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b856bdf3800b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  }
+]

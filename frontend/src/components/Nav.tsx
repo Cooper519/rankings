@@ -5,8 +5,9 @@ const LINKS = [
   { to: '/', label: '首页', idx: '01', end: true },
   { to: '/ranking', label: '榜单', idx: '02', end: false },
   { to: '/programs', label: '项目', idx: '03', end: false },
-  { to: '/me', label: '看板', idx: '04', end: false },
-  { to: '/data-status', label: '数据状态', idx: '05', end: false },
+  { to: '/compare', label: '对比', idx: '04', end: false },
+  { to: '/me', label: '看板', idx: '05', end: false },
+  { to: '/data-status', label: '数据状态', idx: '06', end: false },
 ]
 
 function Clock() {

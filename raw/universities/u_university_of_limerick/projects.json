@@ -1,1 +1,2174 @@
-[]
+[
+  {
+    "project_id": "u_university_of_limerick_main_international_students",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "international_students",
+    "name": "International Students",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/international-students",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_301cb8c1efa4",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_arts_humanities_social_sciences",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "arts_humanities_social_sciences",
+    "name": "Arts Humanities Social Sciences",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/taught-programmes/arts-humanities-social-sciences",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_f467a3d67b86",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_education_and_health_sciences",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "education_and_health_sciences",
+    "name": "Education And Health Sciences",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/taught-programmes/education-and-health-sciences",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_06f86a400e32",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_kemmy_business_school",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "kemmy_business_school",
+    "name": "Kemmy Business School",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/taught-programmes/kemmy-business-school",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b44138068cbd",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_science_engineering",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "science_engineering",
+    "name": "Science Engineering",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/taught-programmes/science-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_9bafebf91d6e",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_kemmy_business_school_taught_courses",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "kemmy_business_school_taught_courses",
+    "name": "Kemmy Business School Taught Courses",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/taught-programmes/kemmy-business-school-taught-courses",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_f3fb59310ae1",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_advanced_healthcare_practice_msc",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "advanced_healthcare_practice_msc",
+    "name": "Advanced Healthcare Practice MSC",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/advanced-healthcare-practice-msc",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_008ff72c0600",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_advanced_practice_nursing_msc",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "advanced_practice_nursing_msc",
+    "name": "Advanced Practice Nursing MSC",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/advanced-practice-nursing-msc",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b6031306e7de",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_6000_eur",
+            "type": "tuition",
+            "amount": "6000",
+            "currency": "EUR",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "(ANP) and a Registered Nurse Prescriber (RNP). Key information EU fees per year €6,000 Non-EU fees per year €6,000 NFQ Level NFQ Level 9 Major Duration Two years Atte",
+            "source_id": "src_b6031306e7de",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:EUR6000/year(non_eu)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_advanced_practice_nursing_postgraduate_certificate_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "advanced_practice_nursing_postgraduate_certificate_catalog_listing",
+    "name": "Advanced Practice Nursing Postgraduate Certificate (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/advanced-practice-nursing-postgraduate-certificate",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_advanced_practice_nursing_postgraduate_diploma_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "advanced_practice_nursing_postgraduate_diploma_catalog_listing",
+    "name": "Advanced Practice Nursing Postgraduate Diploma (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/advanced-practice-nursing-postgraduate-diploma",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_aeronautical_engineering_msc_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "aeronautical_engineering_msc_catalog_listing",
+    "name": "Aeronautical Engineering MSC (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/aeronautical-engineering-msc",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_applied_economics_and_energy_analysis_professional_diploma_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "applied_economics_and_energy_analysis_professional_diploma_catalog_listing",
+    "name": "Applied Economics And Energy Analysis Professional Diploma (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/applied-economics-and-energy-analysis-professional-diploma",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_applied_linguistics_international_ma_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "applied_linguistics_international_ma_catalog_listing",
+    "name": "Applied Linguistics International MA (catalog listing)",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/applied-linguistics-international-ma",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_applied_physics_msc_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "applied_physics_msc_catalog_listing",
+    "name": "Applied Physics MSC (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/applied-physics-msc",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_applied_social_data_analytics_msc_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "applied_social_data_analytics_msc_catalog_listing",
+    "name": "Applied Social Data Analytics MSC (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/applied-social-data-analytics-msc",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_artificial_intelligence_for_computer_vision_professional_diploma_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "artificial_intelligence_for_computer_vision_professional_diploma_catalog_listing",
+    "name": "Artificial Intelligence For Computer Vision Professional Diploma (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/artificial-intelligence-for-computer-vision-professional-diploma",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_aviation_leasing_and_finance_professional_diploma_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "aviation_leasing_and_finance_professional_diploma_catalog_listing",
+    "name": "Aviation Leasing And Finance Professional Diploma (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/aviation-leasing-and-finance-professional-diploma",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_business_administration_executive_mba_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "business_administration_executive_mba_catalog_listing",
+    "name": "Business Administration Executive MBA (catalog listing)",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/business-administration-executive-mba",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_business_analytics_msc_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "business_analytics_msc_catalog_listing",
+    "name": "Business Analytics MSC (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/business-analytics-msc",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_chemical_and_biochemical_engineering_msc_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "chemical_and_biochemical_engineering_msc_catalog_listing",
+    "name": "Chemical And Biochemical Engineering MSC (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/chemical-and-biochemical-engineering-msc",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_chemical_engineering_graduate_diploma_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "chemical_engineering_graduate_diploma_catalog_listing",
+    "name": "Chemical Engineering Graduate Diploma (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/chemical-engineering-graduate-diploma",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_civil_engineering_msc_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "civil_engineering_msc_catalog_listing",
+    "name": "Civil Engineering MSC (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/civil-engineering-msc",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_clinical_and_community_psychology_msc_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "clinical_and_community_psychology_msc_catalog_listing",
+    "name": "Clinical And Community Psychology MSC (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/clinical-and-community-psychology-msc",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_clinical_psychology_doctorate_programme_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "clinical_psychology_doctorate_programme_catalog_listing",
+    "name": "Clinical Psychology Doctorate Programme (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/clinical-psychology-doctorate-programme",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_computer_vision_and_artificial_intelligence_meng_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "computer_vision_and_artificial_intelligence_meng_catalog_listing",
+    "name": "Computer Vision And Artificial Intelligence MENG (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/computer-vision-and-artificial-intelligence-meng",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_data_analytics_professional_diploma_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "data_analytics_professional_diploma_catalog_listing",
+    "name": "Data Analytics Professional Diploma (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/data-analytics-professional-diploma",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_data_science_and_statistical_learning_msc_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "data_science_and_statistical_learning_msc_catalog_listing",
+    "name": "Data Science And Statistical Learning MSC (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/data-science-and-statistical-learning-msc",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_design_for_health_and_wellbeing_msc_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "design_for_health_and_wellbeing_msc_catalog_listing",
+    "name": "Design For Health And Wellbeing MSC (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/design-for-health-and-wellbeing-msc",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_designing_healthcare_products_and_services_professional_diploma_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "designing_healthcare_products_and_services_professional_diploma_catalog_listing",
+    "name": "Designing Healthcare Products And Services Professional Diploma (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/designing-healthcare-products-and-services-professional-diploma",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_digitalisation_of_business_and_industry_processes_professional_diploma_catalog_l",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "digitalisation_of_business_and_industry_processes_professional_diploma_catalog_l",
+    "name": "Digitalisation Of Business And Industry Processes Professional Diploma (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/digitalisation-of-business-and-industry-processes-professional-diploma",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_doctor_of_business_administration_executive_dba_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "doctor_of_business_administration_executive_dba_catalog_listing",
+    "name": "Doctor Of Business Administration Executive Dba (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/doctor-of-business-administration-executive-dba",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_economics_and_policy_analysis_msc_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "economics_and_policy_analysis_msc_catalog_listing",
+    "name": "Economics And Policy Analysis MSC (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/economics-and-policy-analysis-msc",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_economics_and_public_policy_postgraduate_diploma_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "economics_and_public_policy_postgraduate_diploma_catalog_listing",
+    "name": "Economics And Public Policy Postgraduate Diploma (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/economics-and-public-policy-postgraduate-diploma",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_education_med_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "education_med_catalog_listing",
+    "name": "Education Med (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/education-med",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_education_school_leadership_med_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "education_school_leadership_med_catalog_listing",
+    "name": "Education School Leadership Med (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/education-school-leadership-med",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_educational_leadership_international_med_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "educational_leadership_international_med_catalog_listing",
+    "name": "Educational Leadership International Med (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/educational-leadership-international-med",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_energy_science_and_engineering_msc_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "energy_science_and_engineering_msc_catalog_listing",
+    "name": "Energy Science And Engineering MSC (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/energy-science-and-engineering-msc",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_energy_science_and_engineering_postgraduate_diploma_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "energy_science_and_engineering_postgraduate_diploma_catalog_listing",
+    "name": "Energy Science And Engineering Postgraduate Diploma (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/energy-science-and-engineering-postgraduate-diploma",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_engineering_practice_msc_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "engineering_practice_msc_catalog_listing",
+    "name": "Engineering Practice MSC (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/engineering-practice-msc",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_environmental_science_higher_diploma_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "environmental_science_higher_diploma_catalog_listing",
+    "name": "Environmental Science Higher Diploma (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/environmental-science-higher-diploma",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_equipment_systems_engineering_professional_diploma_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "equipment_systems_engineering_professional_diploma_catalog_listing",
+    "name": "Equipment Systems Engineering Professional Diploma (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/equipment-systems-engineering-professional-diploma",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_finance_msc_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "finance_msc_catalog_listing",
+    "name": "Finance MSC (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/finance-msc",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_financial_analytics_professional_diploma_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "financial_analytics_professional_diploma_catalog_listing",
+    "name": "Financial Analytics Professional Diploma (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/financial-analytics-professional-diploma",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_health_and_safety_professional_diploma_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "health_and_safety_professional_diploma_catalog_listing",
+    "name": "Health And Safety Professional Diploma (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/health-and-safety-professional-diploma",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_health_informatics_msc_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "health_informatics_msc_catalog_listing",
+    "name": "Health Informatics MSC (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/health-informatics-msc",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_health_professions_education_msc_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "health_professions_education_msc_catalog_listing",
+    "name": "Health Professions Education MSC (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/health-professions-education-msc",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_healthcare_practice_professional_doctorate_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "healthcare_practice_professional_doctorate_catalog_listing",
+    "name": "Healthcare Practice Professional Doctorate (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/healthcare-practice-professional-doctorate",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_limerick_main_healthcare_product_and_service_development_professional_diploma_catalog_listing",
+    "university_id": "u_university_of_limerick",
+    "campus_id": "main",
+    "normalized_program_code": "healthcare_product_and_service_development_professional_diploma_catalog_listing",
+    "name": "Healthcare Product And Service Development Professional Diploma (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ul.ie/study/postgraduate/healthcare-product-and-service-development-professional-diploma",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_1729dcea5e29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  }
+]

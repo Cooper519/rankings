@@ -22,7 +22,12 @@
     "region": { "type": "string", "minLength": 1 },
     "updated_at": { "type": "string", "format": "date" },
     "notes": { "type": "string" },
-    "converter": { "const": "tools.txt_to_package" },
+    "converter": {
+      "enum": [
+        "tools.txt_to_package",
+        "scraper.programs.export_contract_packages"
+      ]
+    },
     "input_file": { "type": "string", "minLength": 1 }
   },
   "$defs": {

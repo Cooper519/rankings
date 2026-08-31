@@ -4,8 +4,8 @@
   "university_id": "u_national_university_of_sciences_technology_nust_islamabad",
   "name": "National University of Sciences & Technology (NUST) Islamabad",
   "country": "Pakistan",
-  "website": "https://www.nationaluniversityofsciencestechnologynustislamabad.edu",
-  "updated_at": "2026-08-19T18:56:01.850393+00:00",
-  "notes": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping.",
-  "converter": "manual-webfetch-v1"
+  "website": "https://nust.edu.pk/",
+  "updated_at": "2026-08-28T10:47:24.423293+00:00",
+  "notes": "four-rankings scrape 27fall: pages=19 captured, programs=48 (0 with per-project facts), school_deadline=unknown, fees=unknown, issues=none",
+  "converter": "four-rankings-webfetch-v2"
 }

@@ -4,8 +4,8 @@
   "university_id": "u_universität_stuttgart",
   "name": "Universität Stuttgart",
   "country": "Germany",
-  "website": "https://www.universitätstuttgart.edu",
-  "updated_at": "2026-08-19T18:56:01.850393+00:00",
-  "notes": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping.",
-  "converter": "manual-webfetch-v1"
+  "website": "https://www.uni-stuttgart.de/en/",
+  "updated_at": "2026-08-28T08:30:56.010227+00:00",
+  "notes": "four-rankings scrape 27fall: pages=18 captured, programs=18 (18 with per-project facts), school_deadline=rolling, fees=unknown, issues=none",
+  "converter": "four-rankings-webfetch-v2"
 }

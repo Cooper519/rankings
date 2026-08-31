@@ -6,6 +6,8 @@ import Home from './pages/Home'
 import Ranking from './pages/Ranking'
 import Programs from './pages/Programs'
 import Me from './pages/Me'
+import University from './pages/University'
+import Compare from './pages/Compare'
 import DataStatus from './pages/DataStatus'
 import { DrawerProvider } from './store/drawer'
 
@@ -28,6 +30,8 @@ export default function App() {
             <Route path="/" element={<Home />} />
             <Route path="/ranking" element={<Ranking />} />
             <Route path="/programs" element={<Programs />} />
+            <Route path="/university/:id" element={<University />} />
+            <Route path="/compare" element={<Compare />} />
             <Route path="/me" element={<Me />} />
             <Route path="/data-status" element={<DataStatus />} />
             <Route path="*" element={<Home />} />

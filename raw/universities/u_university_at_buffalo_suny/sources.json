@@ -1,11 +1,22 @@
 [
   {
-    "source_id": "src_1c62a69ca8e2",
-    "url": "https://www.universityatbuffalosuny.edu",
+    "source_id": "src_996601a16846",
+    "url": "https://www.buffalo.edu/",
     "source_type": "official_web",
-    "retrieved_at": "2026-08-19T18:56:01.850393+00:00",
-    "verification_status": "blocked",
-    "title": "University at Buffalo SUNY Official Website",
-    "evidence_text": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping."
+    "retrieved_at": "2026-08-30T06:50:01.838976+00:00",
+    "verification_status": "extracted",
+    "title": "Welcome to the University at Buffalo - University at Buffalo",
+    "content_hash": "sha256:b319b65410362fcca483f451d853c950649c12b2ef51deb425556015d4602174",
+    "evidence_text": "Welcome to the University at Buffalo - University at Buffalo Skip to Content Your Privacy is Important To Us.Buffalo.edu uses cookies to help build a better website experience for our visitors. Learn more in our Privacy Policy.Okay University at Buffalo (UB)The State Universityof New YorkUniversity "
+  },
+  {
+    "source_id": "src_e85b6bd3d556",
+    "url": "https://www.buffalo.edu/home/ub_admissions.html",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T06:50:04.224430+00:00",
+    "verification_status": "extracted",
+    "title": "Admissions - University at Buffalo",
+    "content_hash": "sha256:20ec7edc4df1a2253a7452851eb1de69d93ebf82d99ee607c180c7360d60c30e",
+    "evidence_text": "Admissions - University at Buffalo Skip to Content University at Buffalo (UB)The State Universityof New YorkUniversity at Buffalo (UB) Toggle Navigation Menu 8/10/26 UB at a Glance 7/27/26 Academics 5/14/26 Research 3/27/25 Life at UB 10/28/25 Admissions 8/10/26 UB at a Glance 7/27/26 Academics 5/14"
   }
 ]

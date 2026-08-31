@@ -1,1 +1,317 @@
-[]
+[
+  {
+    "project_id": "u_université_de_strasbourg_main_master_mas",
+    "university_id": "u_université_de_strasbourg",
+    "campus_id": "main",
+    "normalized_program_code": "master_mas",
+    "name": "Master Mas",
+    "degree": "MasterM",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://formations.unistra.fr/fr/formations/master-MAS.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_e7a3714dcced",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_université_de_strasbourg_main_sorienter",
+    "university_id": "u_université_de_strasbourg",
+    "campus_id": "main",
+    "normalized_program_code": "sorienter",
+    "name": "Sorienter",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unistra.fr/fr/formation/sorienter",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Retrouvez des portraits inspirants d'étudiants en 1re année de licence et en 1re année de Bachelor universitaire de technologie (BUT) sur le site de l'Onisep."
+          },
+          "notes": "",
+          "source_id": "src_6535d7397ae7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_université_de_strasbourg_main_comprendre_la_formation_universitaire",
+    "university_id": "u_université_de_strasbourg",
+    "campus_id": "main",
+    "normalized_program_code": "comprendre_la_formation_universitaire",
+    "name": "Comprendre La Formation Universitaire",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unistra.fr/fr/formation/sinformer/comprendre-la-formation-universitaire",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_320d7d321e9b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_université_de_strasbourg_main_apprendre_les_langues",
+    "university_id": "u_université_de_strasbourg",
+    "campus_id": "main",
+    "normalized_program_code": "apprendre_les_langues",
+    "name": "Apprendre Les Langues",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unistra.fr/fr/formation/sinformer/apprendre-les-langues",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7c7e56ff1049",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_université_de_strasbourg_main_oresipe",
+    "university_id": "u_université_de_strasbourg",
+    "campus_id": "main",
+    "normalized_program_code": "oresipe",
+    "name": "Oresipe",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://oresipe.unistra.fr/fr/formation/se-professionnaliser/oresipe",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7c509abcec66",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_université_de_strasbourg_main_les_admissions_luniversite_strasbourg",
+    "university_id": "u_université_de_strasbourg",
+    "campus_id": "main",
+    "normalized_program_code": "les_admissions_luniversite_strasbourg",
+    "name": "Les Admissions Luniversite Strasbourg",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unistra.fr/fr/formation/admission/les-admissions-luniversite-strasbourg",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_79dfaeb628a0",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_université_de_strasbourg_main_financer_ses_etudes_catalog_listing",
+    "university_id": "u_université_de_strasbourg",
+    "campus_id": "main",
+    "normalized_program_code": "financer_ses_etudes_catalog_listing",
+    "name": "Financer Ses Etudes (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unistra.fr/formation/financer-ses-etudes",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_15d47cb8e463",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  }
+]

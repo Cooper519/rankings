@@ -1764,69 +1764,6 @@
     "verification_status": "needs_review"
   },
   {
-    "project_id": "u_curtin_university_main_data_science",
-    "university_id": "u_curtin_university",
-    "campus_id": "main",
-    "normalized_program_code": "data_science",
-    "name": "Master of Data Science",
-    "degree": "MDatSc",
-    "department": "School of Electrical Engineering, Computing and Mathematical Sciences",
-    "official_url": "https://www.curtin.edu.au/",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": null,
-            "round": null,
-            "source_id": "src_a1568d85dfe7",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "required",
-            "tests": [],
-            "source_id": "src_a1568d85dfe7",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_a1568d85dfe7",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_a1568d85dfe7",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_a1568d85dfe7",
-            "verification_status": "needs_review"
-          },
-          "source_id": "src_a1568d85dfe7",
-          "verification_status": "needs_review"
-        },
-        "fees": [],
-        "source_id": "src_a1568d85dfe7",
-        "verification_status": "needs_review"
-      }
-    ],
-    "status": "active",
-    "verification_status": "needs_review"
-  },
-  {
     "project_id": "u_curtin_university_main_creative_arts",
     "university_id": "u_curtin_university",
     "campus_id": "main",

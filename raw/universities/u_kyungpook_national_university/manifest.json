@@ -5,7 +5,7 @@
   "name": "Kyungpook National University",
   "country": "South Korea",
   "website": "https://computer.knu.ac.kr/eng/index.php",
-  "updated_at": "2026-08-19T18:56:01.850393+00:00",
-  "notes": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping.",
-  "converter": "manual-webfetch-v1"
+  "updated_at": "2026-08-30T09:29:01.933155+00:00",
+  "notes": "four-rankings scrape 27fall: pages=18 captured, programs=0 (0 with per-project facts), school_deadline=rolling, fees=unknown, issues=none",
+  "converter": "four-rankings-webfetch-v2"
 }

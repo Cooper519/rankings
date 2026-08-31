@@ -13,7 +13,7 @@ ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT))
 
 test_files = []
-for base in [ROOT / "scraper", ROOT / "scraper" / "programs", ROOT / "scraper" / "rankings"]:
+for base in [ROOT / "tools", ROOT / "scraper", ROOT / "scraper" / "programs", ROOT / "scraper" / "rankings"]:
     test_files.extend(sorted(base.glob("test_*.py")))
 
 passed, failed = [], []

@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "project_id": "u_université_de_liège_main_recherche",
+    "university_id": "u_université_de_liège",
+    "campus_id": "main",
+    "normalized_program_code": "recherche",
+    "name": "Recherche",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.programmes.uliege.be/en/study/recherche.html?source=formation&fo_niveau=MASTER",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_f54116c7570c",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  }
+]

@@ -1,1 +1,140 @@
-[]
+[
+  {
+    "project_id": "u_university_of_pisa_main_bachelor_and_single_cycle_master_degree",
+    "university_id": "u_university_of_pisa",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_and_single_cycle_master_degree",
+    "name": "Bachelor And Single Cycle Master Degree",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unipi.it/en/education/courses/bachelor-and-single-cycle-master-degree",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "gree Courses Education Courses Bachelor’s Degree and Single-Cycle Master’s Degree Courses With the secondary school diploma you can enter a Bachelor’s or a Single-Cycle Master’s Degree Course."
+          },
+          "notes": "",
+          "source_id": "src_a5237c34e061",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_pisa_main_postgraduate_degree",
+    "university_id": "u_university_of_pisa",
+    "campus_id": "main",
+    "normalized_program_code": "postgraduate_degree",
+    "name": "Postgraduate Degree",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unipi.it/en/education/courses/postgraduate-degree",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_91874d2f8608",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_pisa_main_masters_degree_courses_second_level",
+    "university_id": "u_university_of_pisa",
+    "campus_id": "main",
+    "normalized_program_code": "masters_degree_courses_second_level",
+    "name": "Masters Degree Courses Second Level",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unipi.it/en/education/registration/enrolment-and-registration/masters-degree-courses-second-level",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_e77fbd19a317",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  }
+]

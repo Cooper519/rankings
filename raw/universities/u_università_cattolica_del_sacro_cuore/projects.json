@@ -1,1 +1,407 @@
-[]
+[
+  {
+    "project_id": "u_università_cattolica_del_sacro_cuore_main_specialising_master_programmes",
+    "university_id": "u_università_cattolica_del_sacro_cuore",
+    "campus_id": "main",
+    "normalized_program_code": "specialising_master_programmes",
+    "name": "Specialising Master Programmes",
+    "degree": "MasterP",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unicatt.it/en/programmes/master-non-tradotto.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_934c998a6548",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_università_cattolica_del_sacro_cuore_main_postgraduate_diploma_programmes",
+    "university_id": "u_università_cattolica_del_sacro_cuore",
+    "campus_id": "main",
+    "normalized_program_code": "postgraduate_diploma_programmes",
+    "name": "Postgraduate Diploma Programmes",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unicatt.it/en/programmes/postgraduate-diploma-programmes.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b68e01c08ce1",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_università_cattolica_del_sacro_cuore_main_candidati_con_titolo_estero",
+    "university_id": "u_università_cattolica_del_sacro_cuore",
+    "campus_id": "main",
+    "normalized_program_code": "candidati_con_titolo_estero",
+    "name": "Candidati Con Titolo Estero",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unicatt.it/en/admission/registration/inizia-un-master/candidati-con-titolo-estero.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_003b857d1cf1",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_università_cattolica_del_sacro_cuore_main_master_universitari",
+    "university_id": "u_università_cattolica_del_sacro_cuore",
+    "campus_id": "main",
+    "normalized_program_code": "master_universitari",
+    "name": "Master Universitari",
+    "degree": "MasterU",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unicatt.it/corsi/master-universitari.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_864f234b054e",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_università_cattolica_del_sacro_cuore_main_prospective_students",
+    "university_id": "u_università_cattolica_del_sacro_cuore",
+    "campus_id": "main",
+    "normalized_program_code": "prospective_students",
+    "name": "Prospective Students",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unicatt.it/en/programmes/prospective-students.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_2eec0183c325",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_università_cattolica_del_sacro_cuore_main_graduate_degree_programmes",
+    "university_id": "u_università_cattolica_del_sacro_cuore",
+    "campus_id": "main",
+    "normalized_program_code": "graduate_degree_programmes",
+    "name": "Graduate Degree Programmes",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unicatt.it/en/programmes/graduate-degree-programmes.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_a83bc1aa314f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_università_cattolica_del_sacro_cuore_main_our_campuses",
+    "university_id": "u_università_cattolica_del_sacro_cuore",
+    "campus_id": "main",
+    "normalized_program_code": "our_campuses",
+    "name": "Our Campuses",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unicatt.it/en/programmes/our-campuses.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_43e59d8846fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_università_cattolica_del_sacro_cuore_main_iscrizione_a_laurea_magistrale",
+    "university_id": "u_università_cattolica_del_sacro_cuore",
+    "campus_id": "main",
+    "normalized_program_code": "iscrizione_a_laurea_magistrale",
+    "name": "Iscrizione A Laurea Magistrale",
+    "degree": "LaureaMagistrale",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unicatt.it/ammissione/iscrizione/iscrizione-a-laurea-magistrale.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_473f7bd304aa",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_università_cattolica_del_sacro_cuore_main_area_sanitaria",
+    "university_id": "u_università_cattolica_del_sacro_cuore",
+    "campus_id": "main",
+    "normalized_program_code": "area_sanitaria",
+    "name": "Area Sanitaria",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unicatt.it/en/programmes/postgraduate-diploma-programmes/area-sanitaria.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b987266b2dda",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  }
+]

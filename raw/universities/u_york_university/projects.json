@@ -1,1 +1,2270 @@
-[]
+[
+  {
+    "project_id": "u_york_university_main_mba_in_tech_leadership",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "mba_in_tech_leadership",
+    "name": "MBA In Tech Leadership",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/mba-in-tech-leadership",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_e16a466b0644",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_biotechnology_management",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "biotechnology_management",
+    "name": "Biotechnology Management",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/biotechnology-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-03-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_34a2e8ca4789",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_03_15"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_34a2e8ca4789",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-03-15"
+  },
+  {
+    "project_id": "u_york_university_main_business_administration",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "business_administration",
+    "name": "Business Administration",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/business-administration",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_e043db1b396b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_business_analytics",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "business_analytics",
+    "name": "Business Analytics",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/business-analytics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_ee3081689fea",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_civil_engineering",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "civil_engineering",
+    "name": "Civil Engineering",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/civil-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_2b7db8dfafb6",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-06-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_2b7db8dfafb6",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_06_15"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_2b7db8dfafb6",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_design",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "design",
+    "name": "Design",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/design",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_4dd9ef8565e5",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_disaster_and_emergency_management",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "disaster_and_emergency_management",
+    "name": "Disaster And Emergency Management",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/disaster-and-emergency-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_c3b1ad2ca14d",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_c3b1ad2ca14d",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_01"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_c3b1ad2ca14d",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_economics",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "economics",
+    "name": "Economics",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/economics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_34d128b70189",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_34d128b70189",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_34d128b70189",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-02-15"
+  },
+  {
+    "project_id": "u_york_university_main_education_language_culture_and_teaching",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "education_language_culture_and_teaching",
+    "name": "Education Language Culture And Teaching",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/education-language-culture-and-teaching",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2027-01-15",
+            "date_end": "2027-02-15",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9b1c8db7b59a",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_range_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9b1c8db7b59a",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_01"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_9b1c8db7b59a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:range:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_electrical_engineering_and_computer_science",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "electrical_engineering_and_computer_science",
+    "name": "Electrical Engineering And Computer Science",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/electrical-engineering-and-computer-science",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f9f58f6fa268",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_01"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "optional",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_f9f58f6fa268",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-12-01"
+  },
+  {
+    "project_id": "u_york_university_main_environmental_studies",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "environmental_studies",
+    "name": "Environmental Studies",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/environmental-studies",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a051282037a5",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a051282037a5",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_a051282037a5",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-02-15"
+  },
+  {
+    "project_id": "u_york_university_main_finance",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "finance",
+    "name": "Finance",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/finance",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_936676dba98d",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_financial_accountability",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "financial_accountability",
+    "name": "Financial Accountability",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/financial-accountability",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-07-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_63695252a1a8",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_07_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-10-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_63695252a1a8",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_10_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-03-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_63695252a1a8",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_03_15"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_63695252a1a8",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-07-15"
+  },
+  {
+    "project_id": "u_york_university_main_global_health",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "global_health",
+    "name": "Global Health",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/global-health",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f8f222cd41da",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_01"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_f8f222cd41da",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-12-01"
+  },
+  {
+    "project_id": "u_york_university_main_human_resources_management",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "human_resources_management",
+    "name": "Human Resources Management",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/human-resources-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_244cb808f9a3",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_15"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_244cb808f9a3",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-02-15"
+  },
+  {
+    "project_id": "u_york_university_main_humanities",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "humanities",
+    "name": "Humanities",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/humanities",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_79aca6488bee",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_79aca6488bee",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_kinesiology_and_health_science",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "kinesiology_and_health_science",
+    "name": "Kinesiology And Health Science",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/kinesiology-and-health-science",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_09c34448d044",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-11-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_09c34448d044",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_11_15"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_09c34448d044",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_anthropology_social_catalog_listing",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "anthropology_social_catalog_listing",
+    "name": "Anthropology Social (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/anthropology-social",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_01ecedfff44f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_chemistry_catalog_listing",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry_catalog_listing",
+    "name": "Chemistry (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/chemistry",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_01ecedfff44f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_health_catalog_listing",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "health_catalog_listing",
+    "name": "Health (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/health",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_01ecedfff44f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_law_catalog_listing",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "law_catalog_listing",
+    "name": "Law (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/law",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_01ecedfff44f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_law_professional_development_catalog_listing",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "law_professional_development_catalog_listing",
+    "name": "Law Professional Development (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/law-professional-development",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_01ecedfff44f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_management_catalog_listing",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "management_catalog_listing",
+    "name": "Management (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_01ecedfff44f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_management_practice_catalog_listing",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "management_practice_catalog_listing",
+    "name": "Management Practice (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/management-practice",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_01ecedfff44f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_marketing_catalog_listing",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "marketing_catalog_listing",
+    "name": "Marketing (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/marketing",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_01ecedfff44f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_mathematics_and_statistics_catalog_listing",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics_and_statistics_catalog_listing",
+    "name": "Mathematics And Statistics (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/mathematics-and-statistics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_01ecedfff44f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_mechanical_engineering_catalog_listing",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "mechanical_engineering_catalog_listing",
+    "name": "Mechanical Engineering (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/mechanical-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_01ecedfff44f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_nursing_catalog_listing",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "nursing_catalog_listing",
+    "name": "Nursing (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/nursing",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_01ecedfff44f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_physics_and_astronomy_catalog_listing",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "physics_and_astronomy_catalog_listing",
+    "name": "Physics And Astronomy (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/physics-and-astronomy",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_01ecedfff44f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_psychology_catalog_listing",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "psychology_catalog_listing",
+    "name": "Psychology (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/psychology",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_01ecedfff44f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_public_and_international_affairs_catalog_listing",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "public_and_international_affairs_catalog_listing",
+    "name": "Public And International Affairs (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/public-and-international-affairs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_01ecedfff44f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_social_and_political_thought_catalog_listing",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "social_and_political_thought_catalog_listing",
+    "name": "Social And Political Thought (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/social-and-political-thought",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_01ecedfff44f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_social_work_catalog_listing",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "social_work_catalog_listing",
+    "name": "Social Work (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/graduate/programs/social-work",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_01ecedfff44f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_york_university_main_international_scholarships_catalog_listing",
+    "university_id": "u_york_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_scholarships_catalog_listing",
+    "name": "International Scholarships (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://futurestudents.yorku.ca/financing-your-degree/international-scholarships",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-05",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_9f393162a1be",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_05"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_01ecedfff44f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  }
+]

@@ -1,11 +1,22 @@
 [
   {
-    "source_id": "src_9f94c1696f89",
-    "url": "https://www.centralqueenslanduniversitycquniversityaustralia.edu",
+    "source_id": "src_2769183385e4",
+    "url": "https://www.cqu.edu.au/",
     "source_type": "official_web",
-    "retrieved_at": "2026-08-19T18:56:01.850393+00:00",
-    "verification_status": "blocked",
-    "title": "Central Queensland University (CQUniversity Australia) Official Website",
-    "evidence_text": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping."
+    "retrieved_at": "2026-08-30T07:22:53.215541+00:00",
+    "verification_status": "extracted",
+    "title": "CQUniversity",
+    "content_hash": "sha256:c02c6b95118e7ff45ca8ace23ce1fde76e8d420e1f169ce6ddae8fbb85c0199d",
+    "evidence_text": "CQUniversity Skip to content MyCQULibraryEventsNewsStudy Study at CQUStudy Options Explore Open Days What to StudyFind a courseUndergraduate DegreesPostgraduate DegreesTAFE Certificates and DiplomasResearch Higher DegreesPathway CoursesShort Courses and Micro-credentialsInformation AboutHow to Apply"
+  },
+  {
+    "source_id": "src_527858e3ee2a",
+    "url": "https://www.cqu.edu.au/study/postgraduate",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T07:23:01.837085+00:00",
+    "verification_status": "extracted",
+    "title": "Study a Postgraduate Course - CQUniversity9389440.fls.doubleclick.net",
+    "content_hash": "sha256:64f298eae991b6ae2afe091466d3191ae2e95e1b53745c1d037caeb6dfb3511b",
+    "evidence_text": "Study a Postgraduate Course - CQUniversity Skip to content MyCQULibraryEventsNewsStudy Study at CQUStudy Options Explore Open Days What to StudyFind a courseUndergraduate DegreesPostgraduate DegreesTAFE Certificates and DiplomasResearch Higher DegreesPathway CoursesShort Courses and Micro-credential"
   }
 ]

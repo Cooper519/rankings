@@ -1,1 +1,1924 @@
-[]
+[
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_masters_at_a_glance",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "masters_at_a_glance",
+    "name": "Masters At A Glance",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/education/master/masters-at-a-glance",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_deb51f04a416",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_application_to_master_programmes",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "application_to_master_programmes",
+    "name": "Application to Master Programmes",
+    "degree": "MasterP",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/education/master/application-master",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_993fdba57520",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_organising_your_studies",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "organising_your_studies",
+    "name": "Organising Your Studies",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/education/master/organising-your-studies",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "e media Home Study at USI Master Organising your studies Organising your studies This page contains helpful information for organising your Bachelor or Master studies, including all required administrative procedures and how to go about your first days on campus."
+          },
+          "notes": "",
+          "source_id": "src_5351a7d84a5e",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_5000_chf",
+            "type": "tuition",
+            "amount": "5000",
+            "currency": "CHF",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "or students enrolling from the 2027/28 academic year onwards, a semester fee of CHF 5,000 will apply to Bachelor (undergraduate) and Master (graduate) programmes at Univ",
+            "source_id": "src_5351a7d84a5e",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_2000_chf",
+            "type": "tuition",
+            "amount": "2000",
+            "currency": "CHF",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "mes at Università della Svizzera italiana (USI). The semester fee is reduced to CHF 2,000 in the following cases: students of Swiss nationality; students of foreign nati",
+            "source_id": "src_5351a7d84a5e",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:CHF5000/unknown(international)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_open_days_study_advisory",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "open_days_study_advisory",
+    "name": "Open Days Study Advisory",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/education/master/open-days-study-advisory",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Open days and study advisory - Bachelor's and Master's degrees | USI."
+          },
+          "notes": "",
+          "source_id": "src_96bb66f3d910",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_history_and_theory_of_art_and_architecture",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_history_and_theory_of_art_and_architecture",
+    "name": "Master in History and Theory of Art and Architecture",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/education/master/history-and-theory-of-art-and-architecture",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_58ff252be3a0",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_oncology_translational_immunology_and_aging",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_oncology_translational_immunology_and_aging",
+    "name": "Master in Oncology, Translational Immunology and Aging",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/education/master/oncology",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_f4fe2a2eff37",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_public_management_and_policy_pmp",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_public_management_and_policy_pmp",
+    "name": "Master in Public Management and Policy (PMP)",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/education/master/public-management-and-policy",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_12722b7f54d8",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_of_arts_in_interreligious_dialogue_science_philosophy_and_theology_of_rel",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_arts_in_interreligious_dialogue_science_philosophy_and_theology_of_rel",
+    "name": "Master of Arts in Interreligious Dialogue: Science, Philosophy and Theology of Religions",
+    "degree": "MasterofArts",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/education/master/interreligious-dialogue",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_932e88017431",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_of_medicine",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_medicine",
+    "name": "Master of Medicine",
+    "degree": "MasterofMedicine",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.biomed.usi.ch/en/study/study-medicine/master-of-medicine",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Contact At a glance History Mission USI Why our Faculty Bachelor Master Doctoral studies Continuing education Innovation & Entrepreneurship Bachelor of Medicine Master of Medicine Master in Cognitive Psychology in Health Communication Master in Health MD."
+          },
+          "notes": "",
+          "source_id": "src_5a305fe6bab1",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_scienza_filosofia_e_teologia_delle_religioni",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_scienza_filosofia_e_teologia_delle_religioni",
+    "name": "Master in Scienza, filosofia e teologia delle religioni",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/formazione/master/scienza-filosofia-teologia",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b96f1e2a744b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_ammissione",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "ammissione",
+    "name": "Ammissione",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/it/formazione/master/ammissione",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "85"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "tuzione superiore riconosciuta almeno il 50% dei crediti devono essere svolti presso l’Università che ha rilasciato il titolo Il diploma di Bachelor è da conseguire prima dell’inizio del Master."
+          },
+          "notes": "",
+          "source_id": "src_6dbfb2376976",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 85"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_iscrizione_magistrali",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "iscrizione_magistrali",
+    "name": "Iscrizione Magistrali",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/it/formazione/master/iscrizione-magistrali",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b0eed7a4c413",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_organizzare_gli_studi_bachelor_e_master",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "organizzare_gli_studi_bachelor_e_master",
+    "name": "Organizzare Gli Studi Bachelor E Master",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/it/formazione/master/organizzare-gli-studi-bachelor-e-master",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "USI Master Organizzare gli studi Organizzare gli studi Questa pagina raccoglie una serie di informazioni utili per organizzare gli studi di Bachelor o di Master, svolgere le pratiche amministrative necessarie e muovere i primi passi all'USI."
+          },
+          "notes": "",
+          "source_id": "src_b0163d1db6c4",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_history_and_theory_of_art_and_architecture_catalog_listing",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "history_and_theory_of_art_and_architecture_catalog_listing",
+    "name": "History And Theory Of Art And Architecture (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/education/master/history-and-theory-of-art-and-architecture",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_health_major_in_digital_public_health",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_health_major_in_digital_public_health",
+    "name": "Master in Health, Major in Digital Public Health",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/43251",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_health_major_in_health_communication",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_health_major_in_health_communication",
+    "name": "Master in Health, Major in Health Communication",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/350",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_public_management_and_policy_catalog_listing",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "public_management_and_policy_catalog_listing",
+    "name": "Public Management And Policy (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/education/master/public-management-and-policy",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_health_major_in_health_economics_and_management",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_health_major_in_health_economics_and_management",
+    "name": "Master in Health, Major in Health Economics and Management",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/46372",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_architecture",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_architecture",
+    "name": "Master in Architecture",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/338",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_storia_e_teoria_dell_arte_e_dell_architettura",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_storia_e_teoria_dell_arte_e_dell_architettura",
+    "name": "Master in Storia e teoria dell’arte e dell’architettura",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/16123",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_cognitive_psychology_in_health_communication",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_cognitive_psychology_in_health_communication",
+    "name": "Master in Cognitive Psychology in Health Communication",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/351",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_corporate_communication",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_corporate_communication",
+    "name": "Master in Corporate Communication*",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/349",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_digital_fashion_communication",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_digital_fashion_communication",
+    "name": "Master in Digital Fashion Communication",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/8996",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_european_studies_in_investor_relations_and_financial_communication",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_european_studies_in_investor_relations_and_financial_communication",
+    "name": "Master in European Studies in Investor Relations and Financial Communication",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/342",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_international_tourism",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_international_tourism",
+    "name": "Master in International Tourism",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/343",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_lingua_letteratura_e_civilt_italiana",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_lingua_letteratura_e_civilt_italiana",
+    "name": "Master in Lingua, letteratura e civiltà italiana",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/339",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_marketing_and_transformative_economy",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_marketing_and_transformative_economy",
+    "name": "Master in Marketing and Transformative Economy",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/348",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_media_management",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_media_management",
+    "name": "Master in Media Management",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/352",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_economia_e_politiche_internazionali",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_economia_e_politiche_internazionali",
+    "name": "Master in Economia e politiche internazionali",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/344",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_economics",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_economics",
+    "name": "Master in Economics",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/12174",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_finance",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_finance",
+    "name": "Master in Finance",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/340",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_management",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_management",
+    "name": "Master in Management",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/347",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_artificial_intelligence",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_artificial_intelligence",
+    "name": "Master in Artificial Intelligence",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/354",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_data_science",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_data_science",
+    "name": "Master in Data Science",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/355",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_informatics",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_informatics",
+    "name": "Master in Informatics",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/353",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_financial_technology_and_computing",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_financial_technology_and_computing",
+    "name": "Master in Financial Technology and Computing",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/358",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_software_engineering_with_ai",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_software_engineering_with_ai",
+    "name": "Master in Software Engineering with AI",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/8014",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_philosophy",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_philosophy",
+    "name": "Master in Philosophy",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/7710",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_interreligious_dialogue_science_philosophy_and_theology_of_religions",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_interreligious_dialogue_science_philosophy_and_theology_of_religions",
+    "name": "Master in Interreligious Dialogue: Science, Philosophy and Theology of Religions",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/33416",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_in_diritto_canonico_ed_ecclesiastico_comparato",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_diritto_canonico_ed_ecclesiastico_comparato",
+    "name": "Master in Diritto canonico ed ecclesiastico comparato",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/31037",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_of_theology",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_theology",
+    "name": "Master of Theology",
+    "degree": "MasterofTheology",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/en/originalnode/31036",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_usi_università_della_svizzera_italiana_main_master_vergleichendes_kanonisches_recht",
+    "university_id": "u_usi_università_della_svizzera_italiana",
+    "campus_id": "main",
+    "normalized_program_code": "master_vergleichendes_kanonisches_recht",
+    "name": "Master Vergleichendes Kanonisches Recht",
+    "degree": "MasterV",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.usi.ch/it/originalnode/43286",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ster's programmes Study Advisory Service 31 July 2026 Applications are still open for all students from Switzerland and the EU/EFTA for our Bachelor’s (three-year) and Master’s programmes for the 2026/27 academic year."
+          },
+          "notes": "",
+          "source_id": "src_2c05c7898d63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  }
+]

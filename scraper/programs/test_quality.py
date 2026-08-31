@@ -140,12 +140,15 @@ TRUE_PROGRAMMES = [
 
 
 def test_event_date_is_not_a_deadline():
-    """Keep the extraction regression fixture close to the quality checks."""
-    from pathlib import Path
-
-    extract = (Path(__file__).resolve().parents[1] / "playwright" / "eval_extract.js").read_text(encoding="utf-8")
-    assert "EVENT_LABEL" in extract
-    assert "open" in extract
+    """Event and calendar pages must stay out after the legacy JS extractor is removed."""
+    assert non_program_reason(
+        "Important Dates and Deadlines",
+        "https://example.edu/admissions/important-dates",
+    )
+    assert non_program_reason_strict(
+        "Important Dates and Deadlines",
+        "https://example.edu/admissions/important-dates",
+    )
 
 
 def test_generic_title_recovery():

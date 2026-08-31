@@ -1,1 +1,624 @@
-[]
+[
+  {
+    "project_id": "u_university_of_east_anglia_uea_main_postgraduate_finances_explained",
+    "university_id": "u_university_of_east_anglia_uea",
+    "campus_id": "main",
+    "normalized_program_code": "postgraduate_finances_explained",
+    "name": "Postgraduate Finances Explained",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uea.ac.uk/study/fees-and-funding/funding-options/uk-student-funding/postgraduates/postgraduate-finances-explained",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_f88dd18270b4",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_1171_gbp",
+            "type": "tuition",
+            "amount": "1171",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "have enough money to support yourself. UKVI require proof of funds of at least £1,171 per month, in addition to tuition fees, for you to cover living expenses outsid",
+            "source_id": "src_f88dd18270b4",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:GBP1171/unknown(international)"
+  },
+  {
+    "project_id": "u_university_of_east_anglia_uea_main_masters_with_placement",
+    "university_id": "u_university_of_east_anglia_uea",
+    "campus_id": "main",
+    "normalized_program_code": "masters_with_placement",
+    "name": "Masters With Placement",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uea.ac.uk/study/postgraduate/masters-with-placement",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2026-09",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a669153630fb",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2026_09"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-07-20",
+            "date_end": "2026-07-31",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a669153630fb",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_range_2026_07_20"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-10",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_a669153630fb",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_10"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_a669153630fb",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_3500_gbp",
+            "type": "tuition",
+            "amount": "3500",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "lsewhere - You'll join a thriving student community.FeesStandard tuition fees + £3,500 for the placement year Your next stepsReady to create lifelong connections and",
+            "source_id": "src_a669153630fb",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_1000_gbp",
+            "type": "tuition",
+            "amount": "1000",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "June 2026, will receive a £500 tuition fee reduction.Full Payment Award – up to £1,000Students paying tuition fees in full (minus any awarded UEA scholarships) by 17",
+            "source_id": "src_a669153630fb",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:month:2026-09; fee:GBP3500/unknown(international)"
+  },
+  {
+    "project_id": "u_university_of_east_anglia_uea_main_employability",
+    "university_id": "u_university_of_east_anglia_uea",
+    "campus_id": "main",
+    "normalized_program_code": "employability",
+    "name": "Employability",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uea.ac.uk/study/postgraduate/employability",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_ed884cc52e32",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_east_anglia_uea_main_why_study_a_masters_in_the_uk",
+    "university_id": "u_university_of_east_anglia_uea",
+    "campus_id": "main",
+    "normalized_program_code": "why_study_a_masters_in_the_uk",
+    "name": "Why Study A Masters In The Uk",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uea.ac.uk/study/postgraduate/why-study-a-masters-in-the-uk",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7e51d53c8415",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_east_anglia_uea_main_progressing_to_postgraduate_study",
+    "university_id": "u_university_of_east_anglia_uea",
+    "campus_id": "main",
+    "normalized_program_code": "progressing_to_postgraduate_study",
+    "name": "Progressing To Postgraduate Study",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uea.ac.uk/study/postgraduate/progressing-to-postgraduate-study",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_99ca0e935f3b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_east_anglia_uea_main_masters_placement_year_faqs",
+    "university_id": "u_university_of_east_anglia_uea",
+    "campus_id": "main",
+    "normalized_program_code": "masters_placement_year_faqs",
+    "name": "Masters Placement Year Faqs",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uea.ac.uk/study/postgraduate/masters-with-placement/masters-placement-year-faqs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_0851844053de",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_1000_gbp",
+            "type": "tuition",
+            "amount": "1000",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "June 2026, will receive a £500 tuition fee reduction.Full Payment Award – up to £1,000Students paying tuition fees in full (minus any awarded UEA scholarships) by 17",
+            "source_id": "src_0851844053de",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:GBP1000/unknown(international)"
+  },
+  {
+    "project_id": "u_university_of_east_anglia_uea_main_taught",
+    "university_id": "u_university_of_east_anglia_uea",
+    "campus_id": "main",
+    "normalized_program_code": "taught",
+    "name": "Taught",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uea.ac.uk/apply/postgraduate/taught",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_3c6cdc1f2552",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_east_anglia_uea_main_postgraduate_january_courses",
+    "university_id": "u_university_of_east_anglia_uea",
+    "campus_id": "main",
+    "normalized_program_code": "postgraduate_january_courses",
+    "name": "Postgraduate January Courses",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uea.ac.uk/study/postgraduate-january-courses",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-11-30",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_086b211ea19f",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_11_30"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-14",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_086b211ea19f",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_14"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-11",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_086b211ea19f",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_11"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_086b211ea19f",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_1000_gbp",
+            "type": "tuition",
+            "amount": "1000",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "DecemberDocuments ready Deadline: Monday 14 December 2026Early Payment Discount£1,000 tuition fee reduction when fees are paid in full by Friday 11 December 2026.£50",
+            "source_id": "src_086b211ea19f",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-11-30; fee:GBP1000/unknown(international)"
+  },
+  {
+    "project_id": "u_university_of_east_anglia_uea_main_international_students_catalog_listing",
+    "university_id": "u_university_of_east_anglia_uea",
+    "campus_id": "main",
+    "normalized_program_code": "international_students_catalog_listing",
+    "name": "International Students (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uea.ac.uk/study/international-students",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_c289291348d4",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_east_anglia_uea_main_data_protection_catalog_listing",
+    "university_id": "u_university_of_east_anglia_uea",
+    "campus_id": "main",
+    "normalized_program_code": "data_protection_catalog_listing",
+    "name": "Data Protection (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uea.ac.uk/about/university-information/statutory-legal-policies/data-protection",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_c289291348d4",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_east_anglia_uea_main_international_early_payment_awards_september_start_catalog_listing",
+    "university_id": "u_university_of_east_anglia_uea",
+    "campus_id": "main",
+    "normalized_program_code": "international_early_payment_awards_september_start_catalog_listing",
+    "name": "International Early Payment Awards September Start (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uea.ac.uk/study/fees-and-funding/scholarships/international-early-payment-awards-september-start",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_c289291348d4",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  }
+]

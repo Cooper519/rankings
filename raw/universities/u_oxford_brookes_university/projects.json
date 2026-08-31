@@ -1,1 +1,435 @@
-[]
+[
+  {
+    "project_id": "u_oxford_brookes_university_main_your_offer",
+    "university_id": "u_oxford_brookes_university",
+    "campus_id": "main",
+    "normalized_program_code": "your_offer",
+    "name": "Your Offer",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.brookes.ac.uk/study/courses/postgraduate/masters/your-offer",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_e04033d99361",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_oxford_brookes_university_main_teaching_and_learning",
+    "university_id": "u_oxford_brookes_university",
+    "campus_id": "main",
+    "normalized_program_code": "teaching_and_learning",
+    "name": "Teaching And Learning",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.brookes.ac.uk/study/courses/postgraduate/masters/teaching-and-learning",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8765557813ec",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_oxford_brookes_university_main_your_oxford_brookes_mba_offer",
+    "university_id": "u_oxford_brookes_university",
+    "campus_id": "main",
+    "normalized_program_code": "your_oxford_brookes_mba_offer",
+    "name": "Your Oxford Brookes MBA offer",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.brookes.ac.uk/study/courses/postgraduate/masters/your-oxford-brookes-global-mba-offer",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2026-09",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_78856e1ccd0b",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2026_09"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "range",
+            "date": "2026-02-13",
+            "date_end": "2026-09-01",
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_78856e1ccd0b",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_range_2026_02_13"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_78856e1ccd0b",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:month:2026-09; lang:IELTS 6.5"
+  },
+  {
+    "project_id": "u_oxford_brookes_university_main_postgraduate_applications",
+    "university_id": "u_oxford_brookes_university",
+    "campus_id": "main",
+    "normalized_program_code": "postgraduate_applications",
+    "name": "Postgraduate Applications",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.brookes.ac.uk/study/how-to-apply/applying-directly/postgraduate-applications",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_aa1351932162",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_oxford_brookes_university_main_fees",
+    "university_id": "u_oxford_brookes_university",
+    "campus_id": "main",
+    "normalized_program_code": "fees",
+    "name": "Fees",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.brookes.ac.uk/study/fees",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_4f122d421068",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_9535_gbp",
+            "type": "tuition",
+            "amount": "9535",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "ford Brookes will be increasing undergraduate tuition fees for UK students from £9,535 to £9,790 for the 2026/27 academic year. See more details Whether you’re a curr",
+            "source_id": "src_4f122d421068",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_9790_gbp",
+            "type": "tuition",
+            "amount": "9790",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "es will be increasing undergraduate tuition fees for UK students from £9,535 to £9,790 for the 2026/27 academic year. See more details Whether you’re a current studen",
+            "source_id": "src_4f122d421068",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_5338_gbp",
+            "type": "tuition",
+            "amount": "5338",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "receipt of a UK Government Postgraduate loan.Our postgraduate research fees are £5,338 a year for full-time study in 2026/27. For international students, they are bet",
+            "source_id": "src_4f122d421068",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_18300_gbp",
+            "type": "tuition",
+            "amount": "18300",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "ar for full-time study in 2026/27. For international students, they are between £18,300 and £20,100 depending on the programme of study..To confirm the exact fees for",
+            "source_id": "src_4f122d421068",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:GBP9535/unknown(international)"
+  },
+  {
+    "project_id": "u_oxford_brookes_university_main_funding",
+    "university_id": "u_oxford_brookes_university",
+    "campus_id": "main",
+    "normalized_program_code": "funding",
+    "name": "Funding",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.brookes.ac.uk/study/funding",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_906ad37da9c2",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_oxford_brookes_university_main_international_students_catalog_listing",
+    "university_id": "u_oxford_brookes_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_students_catalog_listing",
+    "name": "International Students (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.brookes.ac.uk/study/international-students",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_e2373112ef36",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_oxford_brookes_university_main_international_applications_catalog_listing",
+    "university_id": "u_oxford_brookes_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_applications_catalog_listing",
+    "name": "International Applications (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.brookes.ac.uk/study/how-to-apply/international-applications",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_e2373112ef36",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  }
+]

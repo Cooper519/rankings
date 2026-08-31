@@ -1,39 +1,22 @@
 import { AnimatePresence, motion } from 'framer-motion'
-import { ArrowUpRight, Check, X, ExternalLink, GraduationCap, FileText } from 'lucide-react'
+import { Link } from 'react-router-dom'
+import { ArrowUpRight, X, ExternalLink, FileText } from 'lucide-react'
 import type { Program, RankingSource } from '../types'
 import { RANKING_SOURCES } from '../types'
 import { useData } from '../hooks/useData'
-import { toggleMaterial, useUser } from '../store/likes'
 import LikeButton from './LikeButton'
-import CountdownPill from './Countdown'
+import ProgramCard, { hasRequirement } from './ProgramCard'
 
 const SRC_LABEL: Record<RankingSource, string> = {
   qs: 'QS', the: 'THE', arwu: 'ARWU', usnews: 'USNews', csrankings: 'CS',
 }
 
-function hasRequirement(p: Program): boolean {
-  return Boolean(p.requirements.ielts || p.requirements.toefl || p.requirements.gpa || p.requirements.gre || p.requirements.gmat || p.requirements.language || p.requirements.academic)
-}
-
-function feeText(p: Program): string {
-  const fees = (p.fees || []).filter((f) => f.amount)
-  if (!fees.length) return ''
-  return fees
-    .map((f) => {
-      const amount = Number(f.amount).toLocaleString()
-      const period = ['per_year', 'year'].includes(f.period || '') ? '/年' : ['one_time', 'once'].includes(f.period || '') ? '/次' : f.period ? '/' + f.period : ''
-      const who = f.applicantGroup === 'Non-EU' ? '非EU ' : f.applicantGroup === 'EU' ? 'EU ' : ''
-      return who + (f.type === 'tuition' ? '学费' : f.type === 'registration' ? '注册费' : (f.type || '费用')) + ' ' + f.currency + ' ' + amount + period
-    })
-    .join(' · ')
-}
 
 export default function UniversityDrawer({
   universityId, onClose,
 }: { universityId: string | null; onClose: () => void }) {
   const data = useData()
   const { unis, index, programsByUni, coverageByUni, feature2CoverageByUni, canonicalById } = data
-  const user = useUser()
   const uni = universityId ? (unis[canonicalById[universityId]] || unis[universityId]) : null
   const entry = universityId ? (index.byId[canonicalById[universityId]] || index.byId[universityId]) : undefined
   const rawProgs: Program[] = (universityId && programsByUni[universityId]) || []
@@ -69,6 +52,9 @@ export default function UniversityDrawer({
                   <X size={14} /> 关闭
                 </button>
                 <LikeButton universityId={uni.id} />
+                <Link to={`/university/${canonicalById[universityId!] || universityId}`} className="mbtn" style={{ padding: '6px 14px', fontSize: 11 }} data-cursor>
+                  完整院校页 <ArrowUpRight size={12} />
+                </Link>
               </div>
               <h3>{uni.name.en}</h3>
               <div className="d-meta">
@@ -150,75 +136,7 @@ export default function UniversityDrawer({
                   )}
                 </div>
               ) : (
-                progs.map((p) => {
-                  const checked = user.checklist[p.id] || []
-                  return (
-                    <div className="prog" key={p.id}>
-                      <div className="prog-top">
-                        <span className="prog-name">{p.program}</span>
-                        <span className={`badge ${p.verified ? 'ok' : 'wait'}`}>
-                          {p.verified ? '已校对' : '待校对'}
-                        </span>
-                      </div>
-                      <div className="prog-sub">
-                        <GraduationCap size={12} style={{ verticalAlign: '-2px', marginRight: 4 }} />
-                        {p.subject}{p.dept ? ` · ${p.dept}` : ''}
-                      </div>
-
-                      {p.deadlines.length > 0 && (
-                        <div style={{ marginTop: 10 }}>
-                          {p.deadlines.map((d, i) => (
-                            <CountdownPill key={i} date={d.date} round={d.round} applicantGroup={d.applicantGroup} />
-                          ))}
-                        </div>
-                      )}
-
-                      {p.materials.length > 0 && (
-                        <div className="mats">
-                          {p.materials.map((m) => {
-                            const on = checked.includes(m)
-                            return (
-                              <span
-                                key={m}
-                                className={`mat${on ? ' checked' : ''}`}
-                                data-cursor
-                                onClick={() => toggleMaterial(p.id, m)}
-                              >
-                                <Check size={11} className="chk" style={{ display: on ? 'inline' : 'none', verticalAlign: '-1px' }} />
-                                {m}
-                              </span>
-                            )
-                          })}
-                        </div>
-                      )}
-
-                      <div className={`req-line${hasRequirement(p) ? '' : ' muted-req'}`}>
-                        {hasRequirement(p) ? (
-                          <>
-                            {p.requirements.ielts && <span>IELTS <b>{p.requirements.ielts}</b></span>}
-                            {p.requirements.toefl && <span>TOEFL <b>{p.requirements.toefl}</b></span>}
-                            {p.requirements.gre && <span>{p.requirements.gre}</span>}
-                            {p.requirements.gmat && <span>{p.requirements.gmat}</span>}
-                            {p.requirements.gpa && <span>GPA <b>{p.requirements.gpa}</b></span>}
-                            {p.requirements.language && <span>语言 <b>{p.requirements.language}</b></span>}
-                          </>
-                        ) : (
-                          <span>暂无已抽取硬性要求，请以官方源为准</span>
-                        )}
-                      </div>
-
-                      {p.requirements.academic && <p className="req-note">{p.requirements.academic}</p>}
-
-                      {feeText(p) && <p className="req-note">{feeText(p)}</p>}
-
-                      {p.sourceUrl && (
-                        <a className="src-link" href={p.sourceUrl} target="_blank" rel="noreferrer" data-cursor>
-                          <ExternalLink size={12} /> 官方源{p.verified ? '' : '（待核对）'}
-                        </a>
-                      )}
-                    </div>
-                  )
-                })
+                progs.map((p) => <ProgramCard key={p.id} p={p} />)
               )}
               <div className="drawer-scroll-hint">
                 <FileText size={11} style={{ verticalAlign: '-1px', marginRight: 6 }} />

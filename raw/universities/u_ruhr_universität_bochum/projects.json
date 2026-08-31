@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "project_id": "u_ruhr_universität_bochum_main_masters_degree_rub",
+    "university_id": "u_ruhr_universität_bochum",
+    "campus_id": "main",
+    "normalized_program_code": "masters_degree_rub",
+    "name": "Masters Degree Rub",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://studium.ruhr-uni-bochum.de/en/masters-degree-rub",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_a6a24f48038d",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_ruhr_universität_bochum_main_umschreibung_studiengang_wechseln",
+    "university_id": "u_ruhr_universität_bochum",
+    "campus_id": "main",
+    "normalized_program_code": "umschreibung_studiengang_wechseln",
+    "name": "Umschreibung Studiengang Wechseln",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://studium.ruhr-uni-bochum.de/de/umschreibung-studiengang-wechseln",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Fachsemester eines zulassungsfreien Bachelor- oder Magister-Studienganges erfolgen über das RUB-Bewerbungsportal."
+          },
+          "notes": "",
+          "source_id": "src_4b1e410b2acf",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  }
+]

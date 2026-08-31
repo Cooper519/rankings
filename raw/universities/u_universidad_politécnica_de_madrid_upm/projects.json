@@ -1,1 +1,479 @@
-[]
+[
+  {
+    "project_id": "u_universidad_politécnica_de_madrid_upm_main_ownpostgraduatecourses",
+    "university_id": "u_universidad_politécnica_de_madrid_upm",
+    "campus_id": "main",
+    "normalized_program_code": "ownpostgraduatecourses",
+    "name": "Ownpostgraduatecourses",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.upm.es/internacional/Students/StudiesDegrees/OwnPostgraduateCourses",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_aee7eeaf4857",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universidad_politécnica_de_madrid_upm_main_master_programs",
+    "university_id": "u_universidad_politécnica_de_madrid_upm",
+    "campus_id": "main",
+    "normalized_program_code": "master_programs",
+    "name": "Master+Programs",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.upm.es/internacional/Students/StudiesDegrees/UniversityMasters/Master+programs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_172c4e974923",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universidad_politécnica_de_madrid_upm_main_universitymasters",
+    "university_id": "u_universidad_politécnica_de_madrid_upm",
+    "campus_id": "main",
+    "normalized_program_code": "universitymasters",
+    "name": "Universitymasters",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.upm.es/internacional/Students/StudiesDegrees/UniversityMasters/?fmt=detail&id=CON07434",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_4b90b464399f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universidad_politécnica_de_madrid_upm_main_calendar",
+    "university_id": "u_universidad_politécnica_de_madrid_upm",
+    "campus_id": "main",
+    "normalized_program_code": "calendar",
+    "name": "Calendar",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "http://www.upm.es/internacional/Students/StudiesDegrees/UniversityMasters/Calendar",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-09-30",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_557dd73cac71",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_09_30"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_557dd73cac71",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-09-30"
+  },
+  {
+    "project_id": "u_universidad_politécnica_de_madrid_upm_main_faq",
+    "university_id": "u_universidad_politécnica_de_madrid_upm",
+    "campus_id": "main",
+    "normalized_program_code": "faq",
+    "name": "Faq",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.upm.es/internacional/Students/StudiesDegrees/UniversityMasters/FAQ",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-09-30",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4fc5f641aa10",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_09_30"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "If you have completed your Bachelor's degree: Accredited degree certificate issued by Spanish university or proof of having applied for diploma."
+          },
+          "notes": "",
+          "source_id": "src_4fc5f641aa10",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-09-30"
+  },
+  {
+    "project_id": "u_universidad_politécnica_de_madrid_upm_main_eheauniversities",
+    "university_id": "u_universidad_politécnica_de_madrid_upm",
+    "campus_id": "main",
+    "normalized_program_code": "eheauniversities",
+    "name": "Eheauniversities",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.upm.es/internacional/Students/StudiesDegrees/UniversityMasters/Admission/EHEAuniversities",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_f3a312500f29",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universidad_politécnica_de_madrid_upm_main_noneheauniversities",
+    "university_id": "u_universidad_politécnica_de_madrid_upm",
+    "campus_id": "main",
+    "normalized_program_code": "noneheauniversities",
+    "name": "Noneheauniversities",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.upm.es/internacional/Students/StudiesDegrees/UniversityMasters/Admission/NonEHEAuniversities",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_e5cceed11949",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universidad_politécnica_de_madrid_upm_main_enrollment",
+    "university_id": "u_universidad_politécnica_de_madrid_upm",
+    "campus_id": "main",
+    "normalized_program_code": "enrollment",
+    "name": "Enrollment",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.upm.es/internacional/Students/StudiesDegrees/UniversityMasters/Enrollment",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_4f90b468f848",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universidad_politécnica_de_madrid_upm_main_spanishuniversities",
+    "university_id": "u_universidad_politécnica_de_madrid_upm",
+    "campus_id": "main",
+    "normalized_program_code": "spanishuniversities",
+    "name": "Spanishuniversities",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.upm.es/internacional/Students/StudiesDegrees/UniversityMasters/Admission/SpanishUniversities?prefmt=articulo&fmt=detail&id=CON06485",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_01ae16981f2d",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universidad_politécnica_de_madrid_upm_main_internationalprogram_catalog_listing",
+    "university_id": "u_universidad_politécnica_de_madrid_upm",
+    "campus_id": "main",
+    "normalized_program_code": "internationalprogram_catalog_listing",
+    "name": "Internationalprogram (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.upm.es/internacional/Students/ExchangeMobilityPrograms/InternationalProgram",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_abe7069e33f1",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  }
+]

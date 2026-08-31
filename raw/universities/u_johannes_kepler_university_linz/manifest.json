@@ -4,8 +4,8 @@
   "university_id": "u_johannes_kepler_university_linz",
   "name": "Johannes Kepler University Linz",
   "country": "Austria",
-  "website": "https://www.johanneskepleruniversitylinz.edu",
-  "updated_at": "2026-08-19T18:56:01.850393+00:00",
-  "notes": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping.",
-  "converter": "manual-webfetch-v1"
+  "website": "https://www.jku.at/en/",
+  "updated_at": "2026-08-30T08:34:07.666805+00:00",
+  "notes": "four-rankings scrape 27fall: pages=1 captured, programs=0 (0 with per-project facts), school_deadline=unknown, fees=unknown, issues=none",
+  "converter": "four-rankings-webfetch-v2"
 }

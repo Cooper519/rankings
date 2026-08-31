@@ -4,8 +4,8 @@
   "university_id": "u_julius_maximilians_universität_würzburg",
   "name": "Julius-Maximilians-Universität Würzburg",
   "country": "Germany",
-  "website": "https://www.juliusmaximiliansuniversitätwürzburg.edu",
-  "updated_at": "2026-08-19T18:56:01.850393+00:00",
-  "notes": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping.",
-  "converter": "manual-webfetch-v1"
+  "website": "https://www.uni-wuerzburg.de/en/",
+  "updated_at": "2026-08-30T07:16:50.508869+00:00",
+  "notes": "four-rankings scrape 27fall: pages=8 captured, programs=4 (4 with per-project facts), school_deadline=2026-12-15, fees=unknown, issues=none",
+  "converter": "four-rankings-webfetch-v2"
 }

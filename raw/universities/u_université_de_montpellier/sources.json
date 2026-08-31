@@ -1,11 +1,132 @@
 [
   {
-    "source_id": "src_839ac5ed66e6",
-    "url": "https://www.universitédemontpellier.edu",
+    "source_id": "src_99b00f0af4db",
+    "url": "https://www.umontpellier.fr/en/",
     "source_type": "official_web",
-    "retrieved_at": "2026-08-19T18:56:01.850393+00:00",
-    "verification_status": "blocked",
-    "title": "Université de Montpellier Official Website",
-    "evidence_text": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping."
+    "retrieved_at": "2026-08-30T09:02:13.863282+00:00",
+    "verification_status": "extracted",
+    "title": "University of Montpellier",
+    "content_hash": "sha256:af830c3c7fc635fa6a5548663852d327e9054b71cb41b07e784e356f3f733ca5",
+    "evidence_text": "University of Montpellier Skip to content Go to the menu Menu Main MenuUniversityTrainingResearchInnovationCampusInternationalFrench SearchContrastA+Enlarge textA-Shrink the textQuick Access Quick AccessQuick Access Close×ENTWebsitesDigital SiteFaculties, Schools, and InstitutesResearch CentersLibra"
+  },
+  {
+    "source_id": "src_f010817a683d",
+    "url": "https://www.umontpellier.fr/en/articles/le-campus-triolet-poursuit-sa-transformation-avec-le-futur-batiment-6/",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T09:02:24.650216+00:00",
+    "verification_status": "extracted",
+    "title": "The Triolet Campus Continues Its Transformation with the Future Building 6 – University of Montpellier",
+    "content_hash": "sha256:af674b0001904bc2f699b16110b7d42641738d6514588b0d03851956e3c95eb9",
+    "evidence_text": "The Triolet Campus Continues Its Transformation with the Future Building 6 – University of Montpellier Skip to content Go to the menu Menu Main MenuUniversityTrainingResearchInnovationCampusInternationalFrench SearchContrastA+Enlarge textA-Shrink the textQuick Access Quick AccessQuick Access Close×E"
+  },
+  {
+    "source_id": "src_c7838174f49a",
+    "url": "https://www.umontpellier.fr/en/formation/admission-et-inscription/",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T09:02:35.443076+00:00",
+    "verification_status": "extracted",
+    "title": "Application, Admission & Enrollment – University of Montpellier",
+    "content_hash": "sha256:5b8fd601844e355e78cd5c5d699ae7298d5b3f256e84fda4ae71f44e50e19383",
+    "evidence_text": "Application, Admission & Enrollment – University of Montpellier Cookies management panel Close Cookies management panel By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning. Privacy policy Preference for all serv"
+  },
+  {
+    "source_id": "src_1d7eed6390f4",
+    "url": "https://www.umontpellier.fr/en/formation/information-orientation-insertion/",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T09:02:43.319950+00:00",
+    "verification_status": "extracted",
+    "title": "Information, Career Guidance, and Employment Placement – University of Montpellier",
+    "content_hash": "sha256:1fee28907c7afb37419dd46c092ad5c57c538c496d3d6cc18adbfb7502ee1ab7",
+    "evidence_text": "Information, Career Guidance, and Employment Placement – University of Montpellier Cookies management panel Close Cookies management panel By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning. Privacy policy Pref"
+  },
+  {
+    "source_id": "src_2afd25cf9832",
+    "url": "https://www.umontpellier.fr/en/formation/",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T09:02:52.522470+00:00",
+    "verification_status": "extracted",
+    "title": "Education – University of Montpellier",
+    "content_hash": "sha256:233625a25083ba46679a2c322b29db195c6eee97421aa9b13047a712c343e209",
+    "evidence_text": "Education – University of Montpellier Cookies management panel Close Cookies management panel By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning. Privacy policy Preference for all services Allow all cookies Den"
+  },
+  {
+    "source_id": "src_993d0138a9bc",
+    "url": "https://www.umontpellier.fr/en/formation/admission-et-inscription",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T09:02:57.864917+00:00",
+    "verification_status": "extracted",
+    "title": "Application, Admission & Enrollment – University of Montpellier",
+    "content_hash": "sha256:5b8fd601844e355e78cd5c5d699ae7298d5b3f256e84fda4ae71f44e50e19383",
+    "evidence_text": "Application, Admission & Enrollment – University of Montpellier Cookies management panel Close Cookies management panel By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning. Privacy policy Preference for all serv"
+  },
+  {
+    "source_id": "src_db049c332cf6",
+    "url": "https://www.umontpellier.fr/en/formation/regime-special-detudes",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T09:03:10.168187+00:00",
+    "verification_status": "extracted",
+    "title": "Succeeding in Your Studies – University of Montpellier",
+    "content_hash": "sha256:e57635febfe11d8df3a971f5dfba09762fc87001421a8e7df451d92a3bc81304",
+    "evidence_text": "Succeeding in Your Studies – University of Montpellier Cookies management panel Close Cookies management panel By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning. Privacy policy Preference for all services Allo"
+  },
+  {
+    "source_id": "src_774d80320470",
+    "url": "https://www.umontpellier.fr/en/formation/ecole-graduee-graduate-school",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T09:03:22.393660+00:00",
+    "verification_status": "extracted",
+    "title": "Graduate School – University of Montpellier",
+    "content_hash": "sha256:c4f98491a106c5417b03b07077cdf3a56a07b4e13ff2bb48497c4c413dfe6d7c",
+    "evidence_text": "Graduate School – University of Montpellier Cookies management panel Close Cookies management panel By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning. Privacy policy Preference for all services Allow all cooki"
+  },
+  {
+    "source_id": "src_589ea64224e5",
+    "url": "https://www.umontpellier.fr/en/formation/regime-special-detudes/formation-continue",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T09:04:25.587663+00:00",
+    "verification_status": "extracted",
+    "title": "Continuing Education – University of Montpellier",
+    "content_hash": "sha256:82ed5097586ba08af7fcb839fc1e88555c29d5d6f0594bc5363cce9822593ccc",
+    "evidence_text": "Continuing Education – University of Montpellier Cookies management panel Close Cookies management panel By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning. Privacy policy Preference for all services Allow all "
+  },
+  {
+    "source_id": "src_b4d5b5f86f97",
+    "url": "https://www.umontpellier.fr/en/formation/regime-special-detudes/apprentissage",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T09:04:33.256218+00:00",
+    "verification_status": "extracted",
+    "title": "Apprenticeship – University of Montpellier",
+    "content_hash": "sha256:fe4b05bede71acd8ee9a01f0a91df58f2a2dd9a2b6a3ab4c7ad3d25cd3e790d9",
+    "evidence_text": "Apprenticeship – University of Montpellier Cookies management panel Close Cookies management panel By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning. Privacy policy Preference for all services Allow all cookie"
+  },
+  {
+    "source_id": "src_ab184c621c91",
+    "url": "https://facmedecine.umontpellier.fr/etudes-et-formations/pass/futurs-etudiants",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T09:04:45.312951+00:00",
+    "verification_status": "extracted",
+    "title": "PASS - LAS - Futurs étudiants - Faculté de Médecine Montpellier - NîmesreCAPTCHA",
+    "content_hash": "sha256:4da22543ebb9306381a84b2ac07ba060325a5afd0f688f2af3c466583fb12b43",
+    "evidence_text": "PASS - LAS - Futurs étudiants - Faculté de Médecine Montpellier - Nîmes Lien vers FacebookLien vers LinkedInLien vers InstagramLien vers YoutubeEtudiants Professionnels de santé Entreprises Enseignants Personnels Lycéens la Faculté Mot de la Doyenne Organisation Sites d’études Moyens Pédagogiques Mo"
+  },
+  {
+    "source_id": "src_2ef57cbd2c6e",
+    "url": "https://iut-beziers.edu.umontpellier.fr/formations/scolarite/candidatures",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T09:04:55.758276+00:00",
+    "verification_status": "extracted",
+    "title": "Candidatures – IUT Béziers",
+    "content_hash": "sha256:1395a4842a5b94a4b209b3306b540d3a8f67521fad0fcbd485bba3cfcc1f3be5",
+    "evidence_text": "Candidatures – IUT Béziers Panneau de gestion des cookies Fermer Panneau de gestion des cookies En autorisant ces services tiers, vous acceptez le dépôt et la lecture de cookies et l'utilisation de technologies de suivi nécessaires à leur bon fonctionnement. Préférences pour tous les services Tout a"
+  },
+  {
+    "source_id": "src_f819a8daa062",
+    "url": "https://www.umontpellier.fr/en/categorie/formation/admissions-et-inscriptions",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T09:05:05.888992+00:00",
+    "verification_status": "extracted",
+    "title": "Search results for “ ” – University of Montpellier",
+    "content_hash": "sha256:c79cc8fe41af0cb6c46ddd7152a03bb07b62f1f2157e6efe4ca38020ed5ef909",
+    "evidence_text": "Search results for “ ” – University of Montpellier Cookies management panel Close Cookies management panel By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning. Privacy policy Preference for all services Allow al"
   }
 ]

@@ -1,1 +1,2350 @@
-[]
+[
+  {
+    "project_id": "u_james_cook_university_main_master_of_education",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_education",
+    "name": "Master of Education",
+    "degree": "MasterofEducation",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-education",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_6f7b2adaf8ed",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_4736_usd",
+            "type": "tuition",
+            "amount": "4736",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "Student Services & Amenities Fee is a required payment from most students. From $4,736+ $26,014^ +estimated annual Commonwealth Supported Fee for a full-time study lo",
+            "source_id": "src_6f7b2adaf8ed",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_26014_usd",
+            "type": "tuition",
+            "amount": "26014",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "Services & Amenities Fee is a required payment from most students. From $4,736+ $26,014^ +estimated annual Commonwealth Supported Fee for a full-time study load, based",
+            "source_id": "src_6f7b2adaf8ed",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD4736/year(international)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_master_of_engineering_professional",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_engineering_professional",
+    "name": "Master of Engineering (Professional)",
+    "degree": "MasterofEngineering",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-engineering-professional",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "of knowledge Completion of a Bachelor of Engineering at AQF Level 7 (or equivalent) in any discipline; or Completion of three years of the Bachelor of Engineering at Xi’an University of Technology (XUT) approved under the JCU-XUT Articulation Schedule only."
+          },
+          "notes": "",
+          "source_id": "src_4c9701965c13",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_36491_usd",
+            "type": "tuition",
+            "amount": "36491",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "The Student Services & Amenities Fee is a required payment from most students. $36,491^ ^estimated annual tuition fee for a full-time study load, based on 24 credit p",
+            "source_id": "src_4c9701965c13",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD36491/year(international)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_master_of_information_technology",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_information_technology",
+    "name": "Master of Information Technology",
+    "degree": "MasterofInformation",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-information-technology-master-of-business-administration",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Whereas assumed knowledge indicates a minimum level of knowledge AQF level 7 bachelor degree in Information Technology Course Code The course code is JCU's unique identifier for this course."
+          },
+          "notes": "",
+          "source_id": "src_af7745e5fef6",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_33133_usd",
+            "type": "tuition",
+            "amount": "33133",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "The Student Services & Amenities Fee is a required payment from most students. $33,133^ ^estimated annual tuition fee for a full-time study load, based on 24 credit p",
+            "source_id": "src_af7745e5fef6",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD33133/year(international)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_master_of_lifestyle_medicine",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_lifestyle_medicine",
+    "name": "Master of Lifestyle Medicine",
+    "degree": "MasterofLifestyle",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-lifestyle-medicine",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Whereas assumed knowledge indicates a minimum level of knowledge Completion of at least an AQF level 7 bachelor degree in a health or related discipline from this or another university."
+          },
+          "notes": "",
+          "source_id": "src_1715b722a857",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_9536_usd",
+            "type": "tuition",
+            "amount": "9536",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "Student Services & Amenities Fee is a required payment from most students. From $9,536+ $30,446^ +estimated annual Commonwealth Supported Fee for a full-time study lo",
+            "source_id": "src_1715b722a857",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_30446_usd",
+            "type": "tuition",
+            "amount": "30446",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "Services & Amenities Fee is a required payment from most students. From $9,536+ $30,446^ +estimated annual Commonwealth Supported Fee for a full-time study load, based",
+            "source_id": "src_1715b722a857",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD9536/year(international)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_master_of_professional_accounting",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_professional_accounting",
+    "name": "Master of Professional Accounting",
+    "degree": "MasterofProfessional",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-professional-accounting-master-of-business-administration",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Entry requirements: Completion of an AQF level 7 bachelor degree in a non-accounting discipline, from this or another university; or other qualifications, or practical experience."
+          },
+          "notes": "",
+          "source_id": "src_c5516777e163",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_33133_usd",
+            "type": "tuition",
+            "amount": "33133",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "The Student Services & Amenities Fee is a required payment from most students. $33,133^ ^estimated annual tuition fee for a full-time study load, based on 24 credit p",
+            "source_id": "src_c5516777e163",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD33133/year(international)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_master_of_public_health_and_tropical_medicine",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_public_health_and_tropical_medicine",
+    "name": "Master of Public Health and Tropical Medicine",
+    "degree": "MasterofPublic",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-public-health-and-tropical-medicine",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Whereas assumed knowledge indicates a minimum level of knowledge AQF level 7 bachelor degree in a relevant discipline; or equivalent Course Code The course code is JCU's unique identifier for this course."
+          },
+          "notes": "",
+          "source_id": "src_d5c6de069ad7",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_11100_usd",
+            "type": "tuition",
+            "amount": "11100",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "Student Services & Amenities Fee is a required payment from most students. From $11,100+ $31,920^ +estimated annual Commonwealth Supported Fee for a full-time study lo",
+            "source_id": "src_d5c6de069ad7",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_31920_usd",
+            "type": "tuition",
+            "amount": "31920",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "ervices & Amenities Fee is a required payment from most students. From $11,100+ $31,920^ +estimated annual Commonwealth Supported Fee for a full-time study load, based",
+            "source_id": "src_d5c6de069ad7",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD11100/year(international)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_master_of_public_health_master_of_business_administration",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_public_health_master_of_business_administration",
+    "name": "Master of Public Health-Master of Business Administration",
+    "degree": "MasterofPublic",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-public-health-master-of-business-administration",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Whereas assumed knowledge indicates a minimum level of knowledge AQF level 7 bachelor degree in a Health Sciences discipline; or equivalent Course Code The course code is JCU's unique identifier for this course."
+          },
+          "notes": "",
+          "source_id": "src_4fb7a953e9f4",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_31790_usd",
+            "type": "tuition",
+            "amount": "31790",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "The Student Services & Amenities Fee is a required payment from most students. $31,790^ ^estimated annual tuition fee for a full-time study load, based on 24 credit p",
+            "source_id": "src_4fb7a953e9f4",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD31790/year(international)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_master_of_public_health",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_public_health",
+    "name": "Master of Public Health",
+    "degree": "MasterofPublic",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-public-health",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Whereas assumed knowledge indicates a minimum level of knowledge AQF level 7 bachelor degree in a relevant health discipline; or equivalent Course Code The course code is JCU's unique identifier for this course."
+          },
+          "notes": "",
+          "source_id": "src_16b6495f1c77",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_10430_usd",
+            "type": "tuition",
+            "amount": "10430",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "Student Services & Amenities Fee is a required payment from most students. From $10,430+ $30,446^ +estimated annual Commonwealth Supported Fee for a full-time study lo",
+            "source_id": "src_16b6495f1c77",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_30446_usd",
+            "type": "tuition",
+            "amount": "30446",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "ervices & Amenities Fee is a required payment from most students. From $10,430+ $30,446^ +estimated annual Commonwealth Supported Fee for a full-time study load, based",
+            "source_id": "src_16b6495f1c77",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD10430/year(international)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_master_of_social_work_professional_qualifying",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_social_work_professional_qualifying",
+    "name": "Master of Social Work (Professional Qualifying)",
+    "degree": "MasterofSocial",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-social-work-professional-qualifying",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_232a4871d52f",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_9162_04_usd",
+            "type": "tuition",
+            "amount": "9162.04",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "Student Services & Amenities Fee is a required payment from most students. From $9,162.04+ $27,984^ +estimated annual Commonwealth Supported Fee for a full-time study lo",
+            "source_id": "src_232a4871d52f",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_27984_usd",
+            "type": "tuition",
+            "amount": "27984",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "vices & Amenities Fee is a required payment from most students. From $9,162.04+ $27,984^ +estimated annual Commonwealth Supported Fee for a full-time study load, based",
+            "source_id": "src_232a4871d52f",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD9162.04/year(international)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_master_of_business_administration",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_business_administration",
+    "name": "Master of Business Administration",
+    "degree": "MasterofBusiness",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-business-administration",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_af33b102f68e",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_33133_usd",
+            "type": "tuition",
+            "amount": "33133",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "The Student Services & Amenities Fee is a required payment from most students. $33,133^^estimated annual tuition fee for a full-time study load Plus Student Services",
+            "source_id": "src_af33b102f68e",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD33133/year(international)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_master_of_data_science_professional",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_data_science_professional",
+    "name": "Master of Data Science (Professional)",
+    "degree": "MasterofData",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-data-science-professional",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_2f3b89c5928f",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_36491_usd",
+            "type": "tuition",
+            "amount": "36491",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "The Student Services & Amenities Fee is a required payment from most students. $36,491^ ^estimated annual tuition fee for a full-time study load, based on 24 credit p",
+            "source_id": "src_2f3b89c5928f",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD36491/year(international)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_master_of_international_tourism_and_hospitality_management",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_international_tourism_and_hospitality_management",
+    "name": "Master of International Tourism and Hospitality Management",
+    "degree": "MasterofInternational",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-international-tourism-and-hospitality-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Whereas assumed knowledge indicates a minimum level of knowledge AQF level 7 bachelor degree in any discipline; or equivalent Course Code The course code is JCU's unique identifier for this course."
+          },
+          "notes": "",
+          "source_id": "src_dce6b4ef62d2",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_33133_usd",
+            "type": "tuition",
+            "amount": "33133",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "The Student Services & Amenities Fee is a required payment from most students. $33,133^ ^estimated annual tuition fee for a full-time study load, based on 24 credit p",
+            "source_id": "src_dce6b4ef62d2",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD33133/year(international)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_master_of_nursing_online",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_nursing_online",
+    "name": "Master of Nursing Online",
+    "degree": "MasterofNursing",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://online.jcu.edu.au/online-courses/master-nursing",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "st Name Last Name Are you a registered nurse? Are you a registered nurse?YesNo Do you have a bachelor’s degree or equivalent? Do you have a bachelor’s degree or equivalent?YesNo This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply."
+          },
+          "notes": "",
+          "source_id": "src_d8a7581aabcc",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_3128_usd",
+            "type": "tuition",
+            "amount": "3128",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "s your nursing career and achieve your goals. DURATION 24 months Part-time FEES $3,128 per subject FEE-HELP is available STUDY PERIODS Jan, Mar, May, Jul, Sept, Oct (",
+            "source_id": "src_d8a7581aabcc",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_3052_usd",
+            "type": "tuition",
+            "amount": "3052",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "How much does the Master of Nursing cost? JCU Online's Master of Nursing costs $3,052 per subject and $36,624 for all 12 subjects. FEE-HELP is available for eligible",
+            "source_id": "src_d8a7581aabcc",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_36624_usd",
+            "type": "tuition",
+            "amount": "36624",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "er of Nursing cost? JCU Online's Master of Nursing costs $3,052 per subject and $36,624 for all 12 subjects. FEE-HELP is available for eligible students. I want to be",
+            "source_id": "src_d8a7581aabcc",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD3128/unknown(international)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_campus_master_plans",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "campus_master_plans",
+    "name": "Campus Master Plans",
+    "degree": "MasterP",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/estate-directorate/campus-planning",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_bachelor_of_business_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_business_catalog_listing",
+    "name": "Bachelor Of Business (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/bachelor-of-business",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_bachelor_of_business_bachelor_of_laws_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_business_bachelor_of_laws_catalog_listing",
+    "name": "Bachelor Of Business Bachelor Of Laws (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/bachelor-of-business-bachelor-of-laws",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_bachelor_of_education_secondary_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_education_secondary_catalog_listing",
+    "name": "Bachelor Of Education Secondary (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/bachelor-of-education-secondary",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_bachelor_of_nursing_science_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_nursing_science_catalog_listing",
+    "name": "Bachelor Of Nursing Science (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/bachelor-of-nursing-science",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_master_of_professional_engineering",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_professional_engineering",
+    "name": "Master of Professional Engineering",
+    "degree": "MasterofProfessional",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-engineering-professional",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_graduate_certificate_of_public_health_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "graduate_certificate_of_public_health_catalog_listing",
+    "name": "Graduate Certificate Of Public Health (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/graduate-certificate-of-public-health",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_mba_in_information_technology",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "mba_in_information_technology",
+    "name": "MBA in Information Technology",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-information-technology-master-of-business-administration",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_mba_in_accounting",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "mba_in_accounting",
+    "name": "MBA in Accounting",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-professional-accounting-master-of-business-administration",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_bachelor_of_psychological_science_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_psychological_science_catalog_listing",
+    "name": "Bachelor Of Psychological Science (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/bachelor-of-psychological-science",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_bachelor_of_social_work_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_social_work_catalog_listing",
+    "name": "Bachelor Of Social Work (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/bachelor-of-social-work",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_bachelor_of_engineering_honours_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_engineering_honours_catalog_listing",
+    "name": "Bachelor Of Engineering Honours (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/bachelor-of-engineering-honours",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_bachelor_of_engineering_honours_bachelor_of_science_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_engineering_honours_bachelor_of_science_catalog_listing",
+    "name": "Bachelor Of Engineering Honours Bachelor Of Science (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/bachelor-of-engineering-honours-bachelor-of-science",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_bachelor_of_medicine_bachelor_of_surgery_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_medicine_bachelor_of_surgery_catalog_listing",
+    "name": "Bachelor Of Medicine Bachelor Of Surgery (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/bachelor-of-medicine-bachelor-of-surgery",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_mba_in_public_health",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "mba_in_public_health",
+    "name": "MBA in Public Health",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-public-health-master-of-business-administration",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_master_of_science",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_science",
+    "name": "Master of Science",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-science",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_master_of_teaching_and_learning_secondary",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_teaching_and_learning_secondary",
+    "name": "Master of Teaching and Learning (Secondary)",
+    "degree": "MasterofTeaching",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-teaching-and-learning-secondary",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_master_of_marine_biology",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_marine_biology",
+    "name": "Master of Marine Biology",
+    "degree": "MasterofMarine",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-marine-biology",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_master_of_global_development",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_global_development",
+    "name": "Master of Global Development",
+    "degree": "MasterofGlobal",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-global-development",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_master_of_international_tourism_hospitality_management",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_international_tourism_hospitality_management",
+    "name": "Master of International Tourism & Hospitality Management",
+    "degree": "MasterofInternational",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-international-tourism-and-hospitality-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_bachelor_of_business_and_environmental_science_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_business_and_environmental_science_catalog_listing",
+    "name": "Bachelor Of Business And Environmental Science (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/bachelor-of-business-and-environmental-science",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_master_of_guidance_and_counselling",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_guidance_and_counselling",
+    "name": "Master of Guidance and Counselling",
+    "degree": "MasterofGuidance",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/master-of-guidance-and-counselling",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_bachelor_of_engineering_honours_bachelor_of_information_technology_catalog_listi",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_engineering_honours_bachelor_of_information_technology_catalog_listi",
+    "name": "Bachelor Of Engineering Honours Bachelor Of Information Technology (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/bachelor-of-engineering-honours-bachelor-of-information-technology",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_online_master_of_nursing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "online_master_of_nursing",
+    "name": "Online Master of Nursing",
+    "degree": "MasterofNursing",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://online.jcu.edu.au/online-courses/master-nursing",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_graduate_diploma_nursing_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "graduate_diploma_nursing_catalog_listing",
+    "name": "Graduate Diploma Nursing (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://online.jcu.edu.au/online-courses/graduate-diploma-nursing",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_graduate_certificate_nursing_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "graduate_certificate_nursing_catalog_listing",
+    "name": "Graduate Certificate Nursing (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://online.jcu.edu.au/online-courses/graduate-certificate-nursing",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_graduate_diploma_psychology_online_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "graduate_diploma_psychology_online_catalog_listing",
+    "name": "Graduate Diploma Psychology Online (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://online.jcu.edu.au/online-courses/graduate-diploma-psychology-online",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_graduate_certificate_psychology_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "graduate_certificate_psychology_catalog_listing",
+    "name": "Graduate Certificate Psychology (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://online.jcu.edu.au/online-courses/graduate-certificate-psychology",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_arts_and_social_sciences_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "arts_and_social_sciences_catalog_listing",
+    "name": "Arts And Social Sciences (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/postgrad/linkassets/arts-and-social-sciences",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_business_commerce_and_finance_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "business_commerce_and_finance_catalog_listing",
+    "name": "Business, Commerce And Finance (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/postgrad/linkassets/business,-commerce-and-finance",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_engineering_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "engineering_catalog_listing",
+    "name": "Engineering (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/postgrad/linkassets/engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_medicine_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "medicine_catalog_listing",
+    "name": "Medicine (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/postgrad/linkassets/medicine",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_nursing_and_midwifery_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "nursing_and_midwifery_catalog_listing",
+    "name": "Nursing And Midwifery (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/postgrad/linkassets/nursing-and-midwifery",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_james_cook_university_main_teaching_and_education_catalog_listing",
+    "university_id": "u_james_cook_university",
+    "campus_id": "main",
+    "normalized_program_code": "teaching_and_education_catalog_listing",
+    "name": "Teaching And Education (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.jcu.edu.au/courses/postgrad/linkassets/teaching-and-education",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "4m2 facility Real Stories A career built on impact JCU Bachelor of Education graduate Dave Ackers is helping shape the future of over 2000 students every day."
+          },
+          "notes": "",
+          "source_id": "src_a0d1fa04e3fc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  }
+]

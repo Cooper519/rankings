@@ -1,1 +1,182 @@
-[]
+[
+  {
+    "project_id": "u_pontificia_universidad_javeriana_main_maestria_economia",
+    "university_id": "u_pontificia_universidad_javeriana",
+    "campus_id": "main",
+    "normalized_program_code": "maestria_economia",
+    "name": "Maestria Economia",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.javeriana.edu.co/maestria-economia",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_bd9886c98a6c",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_pontificia_universidad_javeriana_main_maestria_derecho_economico_catalog_listing",
+    "university_id": "u_pontificia_universidad_javeriana",
+    "campus_id": "main",
+    "normalized_program_code": "maestria_derecho_economico_catalog_listing",
+    "name": "Maestria Derecho Economico (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.javeriana.edu.co/maestria-derecho-economico",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_deb218b5da53",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_pontificia_universidad_javeriana_main_maestria_en_derecho_laboral_y_seguridad_social_catalog_listing",
+    "university_id": "u_pontificia_universidad_javeriana",
+    "campus_id": "main",
+    "normalized_program_code": "maestria_en_derecho_laboral_y_seguridad_social_catalog_listing",
+    "name": "Maestria En Derecho Laboral Y Seguridad Social (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.javeriana.edu.co/maestria-en-derecho-laboral-y-seguridad-social",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_deb218b5da53",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_pontificia_universidad_javeriana_main_maestria_politica_social_catalog_listing",
+    "university_id": "u_pontificia_universidad_javeriana",
+    "campus_id": "main",
+    "normalized_program_code": "maestria_politica_social_catalog_listing",
+    "name": "Maestria Politica Social (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.javeriana.edu.co/maestria-politica-social",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_deb218b5da53",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  }
+]

@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "project_id": "u_linköping_university_main_aeronautical_engineering_master_s_programme_120_credits",
+    "university_id": "u_linköping_university",
+    "campus_id": "main",
+    "normalized_program_code": "aeronautical_engineering_master_s_programme_120_credits",
+    "name": "Aeronautical Engineering, Master's Programme, 120 credits",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://liu.se/en/education/program/6maer",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_739f2d14dea6",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  }
+]

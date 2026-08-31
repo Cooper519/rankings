@@ -762,7 +762,7 @@
     "normalized_program_code": "social_work",
     "name": "Master of Social Work",
     "degree": "MSW",
-    "department": "Faculty of Health",
+    "department": null,
     "official_url": "https://www.qut.edu.au/",
     "admission_cycles": [
       {
@@ -816,7 +816,8 @@
       }
     ],
     "status": "active",
-    "verification_status": "needs_review"
+    "verification_status": "needs_review",
+    "notes": "Department needs review; duplicate crawl candidates disagreed: Faculty of Creative Industries, Education and Social Justice; Faculty of Health."
   },
   {
     "project_id": "u_queensland_university_of_technology_main_psychology",
@@ -951,69 +952,6 @@
     "normalized_program_code": "teaching",
     "name": "Master of Teaching",
     "degree": "MT",
-    "department": "Faculty of Creative Industries, Education and Social Justice",
-    "official_url": "https://www.qut.edu.au/",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": null,
-            "round": null,
-            "source_id": "src_897a7a5f9201",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "required",
-            "tests": [],
-            "source_id": "src_897a7a5f9201",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_897a7a5f9201",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_897a7a5f9201",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_897a7a5f9201",
-            "verification_status": "needs_review"
-          },
-          "source_id": "src_897a7a5f9201",
-          "verification_status": "needs_review"
-        },
-        "fees": [],
-        "source_id": "src_897a7a5f9201",
-        "verification_status": "needs_review"
-      }
-    ],
-    "status": "active",
-    "verification_status": "needs_review"
-  },
-  {
-    "project_id": "u_queensland_university_of_technology_main_social_work",
-    "university_id": "u_queensland_university_of_technology",
-    "campus_id": "main",
-    "normalized_program_code": "social_work",
-    "name": "Master of Social Work",
-    "degree": "MSW",
     "department": "Faculty of Creative Industries, Education and Social Justice",
     "official_url": "https://www.qut.edu.au/",
     "admission_cycles": [

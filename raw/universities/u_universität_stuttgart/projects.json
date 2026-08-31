@@ -1,1 +1,1138 @@
-[]
+[
+  {
+    "project_id": "u_universität_stuttgart_main_doppelmaster",
+    "university_id": "u_universität_stuttgart",
+    "campus_id": "main",
+    "normalized_program_code": "doppelmaster",
+    "name": "Doppelmaster",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-stuttgart.de/studium/bewerbung/international-degree/doppelmaster",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_58128f5f9180",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_34f2d1adca27",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "isum & Aufenthaltserlaubnis Deutsch lernen Studienvorbereitende Kurse Intensiv- und Extensivkurse TestDaF Alle Lehramt-Studiengänge Lehramt Bachelor (B."
+          },
+          "notes": "",
+          "source_id": "src_f28d15c589c5",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_universität_stuttgart_main_study_programs",
+    "university_id": "u_universität_stuttgart",
+    "campus_id": "main",
+    "normalized_program_code": "study_programs",
+    "name": "Study Programs",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-stuttgart.de/en/study/study-programs/?abschluss=wmaster",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_c91846a6722d",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "te *** Study All study programs © List of all study programs Degree programs a to z The University of Stuttgart offers around 160 different Bachelor's and Master's study programs."
+          },
+          "notes": "",
+          "source_id": "src_c91846a6722d",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_universität_stuttgart_main_lehramt_master_m_ed",
+    "university_id": "u_universität_stuttgart",
+    "campus_id": "main",
+    "normalized_program_code": "lehramt_master_m_ed",
+    "name": "Lehramt Master (M.Ed.)",
+    "degree": "MEd",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-stuttgart.de/studium/lehramt/med",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_58128f5f9180",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_34f2d1adca27",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "isum & Aufenthaltserlaubnis Deutsch lernen Studienvorbereitende Kurse Intensiv- und Extensivkurse TestDaF Alle Lehramt-Studiengänge Lehramt Bachelor (B."
+          },
+          "notes": "",
+          "source_id": "src_bfa0d152e775",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_universität_stuttgart_main_double_masters",
+    "university_id": "u_universität_stuttgart",
+    "campus_id": "main",
+    "normalized_program_code": "double_masters",
+    "name": "Double Masters",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-stuttgart.de/en/study/application/international-degree/double-masters",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_82239ecb767f",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "baccalauréat, Gao Kao, high school diploma) Certificate of your Bachelor’s degree Transcript of records of your Bachelor’s and Master’s studies (both in one pdf file)."
+          },
+          "notes": "",
+          "source_id": "src_82239ecb767f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_universität_stuttgart_main_master_programs",
+    "university_id": "u_universität_stuttgart",
+    "campus_id": "main",
+    "normalized_program_code": "master_programs",
+    "name": "Master Programs",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-stuttgart.de/en/study/master-programs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5487591a67ca",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5487591a67ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_universität_stuttgart_main_application_admission_enrollment",
+    "university_id": "u_universität_stuttgart",
+    "campus_id": "main",
+    "normalized_program_code": "application_admission_enrollment",
+    "name": "Application Admission Enrollment",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-stuttgart.de/en/study/application/application-admission-enrollment",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3cfcdfa011b1",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ment Application, Admission, Enrollment © Application, Admission, Enrollment Points of contact for application, admission and enrollment on Bachelor's and Master's study programs (BZE)."
+          },
+          "notes": "",
+          "source_id": "src_3cfcdfa011b1",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_universität_stuttgart_main_enrollment",
+    "university_id": "u_universität_stuttgart",
+    "campus_id": "main",
+    "normalized_program_code": "enrollment",
+    "name": "Enrollment",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-stuttgart.de/en/study/application/enrollment",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ad1249a20aa5",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ts can be uploaded directly to C@MPUS: A recent passport photo (approximately 45 x 35 mm) for your student ID card If you are enrolled on a Bachelor's study program (1st semester): Proof that you have completed the study orientation program."
+          },
+          "notes": "",
+          "source_id": "src_ad1249a20aa5",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_universität_stuttgart_main_admission_information",
+    "university_id": "u_universität_stuttgart",
+    "campus_id": "main",
+    "normalized_program_code": "admission_information",
+    "name": "Admission Information",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-stuttgart.de/en/study/application/master/admission-information",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bfcbc143277a",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Bachelor’s students can apply for conditional admission if they have a certain number of credit points (ECTS)."
+          },
+          "notes": "",
+          "source_id": "src_bfcbc143277a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_universität_stuttgart_main_admissions_commitee",
+    "university_id": "u_universität_stuttgart",
+    "campus_id": "main",
+    "normalized_program_code": "admissions_commitee",
+    "name": "Admissions Commitee",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-stuttgart.de/en/study/application/master/admissions-commitee",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f4936c673a83",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_f4936c673a83",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_universität_stuttgart_main_enrollment_procedure",
+    "university_id": "u_universität_stuttgart",
+    "campus_id": "main",
+    "normalized_program_code": "enrollment_procedure",
+    "name": "Enrollment Procedure",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-stuttgart.de/en/study/application/online/instructions/enrollment-procedure",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0553dcc524ea",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Application, Admission, Enrollment Further information Your points of contact for application, admission and enrollment on Bachelor's and Master's study programs."
+          },
+          "notes": "",
+          "source_id": "src_0553dcc524ea",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_universität_stuttgart_main_bachelor_master_transition",
+    "university_id": "u_universität_stuttgart",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_master_transition",
+    "name": "Bachelor Master Transition",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-stuttgart.de/en/study/application/online/instructions/bachelor-master-transition",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_58128f5f9180",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_34f2d1adca27",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_2aa64c815e02",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_universität_stuttgart_main_verfahren",
+    "university_id": "u_universität_stuttgart",
+    "campus_id": "main",
+    "normalized_program_code": "verfahren",
+    "name": "Verfahren",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-stuttgart.de/studium/bewerbung/master/verfahren",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_58128f5f9180",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_34f2d1adca27",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "isum & Aufenthaltserlaubnis Deutsch lernen Studienvorbereitende Kurse Intensiv- und Extensivkurse TestDaF Alle Lehramt-Studiengänge Lehramt Bachelor (B."
+          },
+          "notes": "",
+          "source_id": "src_63868f0d8a46",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_universität_stuttgart_main_continuing_education_catalog_listing",
+    "university_id": "u_universität_stuttgart",
+    "campus_id": "main",
+    "normalized_program_code": "continuing_education_catalog_listing",
+    "name": "Continuing Education (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-stuttgart.de/en/study/continuing-education",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_58128f5f9180",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_34f2d1adca27",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Your Bachelor's degree certificate (with overall grade), if you have already completed the Bachelor’s and received the final certificate."
+          },
+          "notes": "",
+          "source_id": "src_58128f5f9180",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_universität_stuttgart_main_international_degree_catalog_listing",
+    "university_id": "u_universität_stuttgart",
+    "campus_id": "main",
+    "normalized_program_code": "international_degree_catalog_listing",
+    "name": "International Degree (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-stuttgart.de/en/study/application/international-degree",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_58128f5f9180",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_34f2d1adca27",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Your Bachelor's degree certificate (with overall grade), if you have already completed the Bachelor’s and received the final certificate."
+          },
+          "notes": "",
+          "source_id": "src_58128f5f9180",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_universität_stuttgart_main_international_freemover_catalog_listing",
+    "university_id": "u_universität_stuttgart",
+    "campus_id": "main",
+    "normalized_program_code": "international_freemover_catalog_listing",
+    "name": "International Freemover (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-stuttgart.de/en/study/application/international-freemover",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_58128f5f9180",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_34f2d1adca27",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Your Bachelor's degree certificate (with overall grade), if you have already completed the Bachelor’s and received the final certificate."
+          },
+          "notes": "",
+          "source_id": "src_58128f5f9180",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_universität_stuttgart_main_international_non_degree_catalog_listing",
+    "university_id": "u_universität_stuttgart",
+    "campus_id": "main",
+    "normalized_program_code": "international_non_degree_catalog_listing",
+    "name": "International Non Degree (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-stuttgart.de/en/study/application/international-non-degree",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_58128f5f9180",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_34f2d1adca27",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Your Bachelor's degree certificate (with overall grade), if you have already completed the Bachelor’s and received the final certificate."
+          },
+          "notes": "",
+          "source_id": "src_58128f5f9180",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_universität_stuttgart_main_finances_catalog_listing",
+    "university_id": "u_universität_stuttgart",
+    "campus_id": "main",
+    "normalized_program_code": "finances_catalog_listing",
+    "name": "Finances (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-stuttgart.de/en/study/new-in-stuttgart/finances",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_58128f5f9180",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_34f2d1adca27",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Your Bachelor's degree certificate (with overall grade), if you have already completed the Bachelor’s and received the final certificate."
+          },
+          "notes": "",
+          "source_id": "src_58128f5f9180",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_universität_stuttgart_main_teaching_qualification_m_ed_de",
+    "university_id": "u_universität_stuttgart",
+    "campus_id": "main",
+    "normalized_program_code": "teaching_qualification_m_ed_de",
+    "name": "Teaching qualification (M.Ed.) [de]",
+    "degree": "MEd",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-stuttgart.de/studium/lehramt/med",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_58128f5f9180",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_34f2d1adca27",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Your Bachelor's degree certificate (with overall grade), if you have already completed the Bachelor’s and received the final certificate."
+          },
+          "notes": "",
+          "source_id": "src_58128f5f9180",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  }
+]

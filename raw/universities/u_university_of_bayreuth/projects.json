@@ -1,1 +1,2480 @@
-[]
+[
+  {
+    "project_id": "u_university_of_bayreuth_main_computer_science_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "computer_science_master_of_science_m_sc",
+    "name": "Computer Science, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/computer-science",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_applied_computer_science_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "applied_computer_science_master_of_science_m_sc",
+    "name": "Applied Computer Science, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/applied-computer-science",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": ") Bachelor A master's degree gives you more flexibility."
+          },
+          "notes": "",
+          "source_id": "src_b52c49f28d28",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_automotive_components_engineering_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "automotive_components_engineering_master_of_science_m_sc",
+    "name": "Automotive Components Engineering, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/automotive-components-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": ") Bachelor A master's degree gives you more flexibility."
+          },
+          "notes": "",
+          "source_id": "src_76465bf3b765",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_biochemistry_molecular_biology_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "biochemistry_molecular_biology_master_of_science_m_sc",
+    "name": "Biochemistry & Molecular Biology, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/biochemistry-and-molecular-biology",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": ") Bachelor A master's degree gives you more flexibility."
+          },
+          "notes": "",
+          "source_id": "src_47d251bac457",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_biotechnology_process_engineering_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "biotechnology_process_engineering_master_of_science_m_sc",
+    "name": "Biotechnology & Process Engineering, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/biotechnology-and-process-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": ") Bachelor A master's degree gives you more flexibility."
+          },
+          "notes": "",
+          "source_id": "src_d5ded1da4453",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_business_administration_engineering_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "business_administration_engineering_master_of_science_m_sc",
+    "name": "Business Administration & Engineering, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/business-administration-and-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": ") Bachelor A master's degree gives you more flexibility."
+          },
+          "notes": "",
+          "source_id": "src_34984a38f50c",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_business_administration_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "business_administration_master_of_science_m_sc",
+    "name": "Business Administration, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/business-administration",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": ") Bachelor A master's degree gives you more flexibility."
+          },
+          "notes": "",
+          "source_id": "src_3b4abf77e47d",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_computational_mathematics_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "computational_mathematics_master_of_science_m_sc",
+    "name": "Computational Mathematics, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/computational-mathematics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The master's programme \"Computational Mathematics\" continues the bachelor's programme of the same name and so allows a master's degree to be attained after a total of 5 years."
+          },
+          "notes": "",
+          "source_id": "src_e3a10a6fb04d",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_computer_game_studies_master_of_arts_m_a_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "computer_game_studies_master_of_arts_m_a_master_of_science_m_sc",
+    "name": "Computer Game Studies, Master of Arts (M.A.)/ Master of Science (M.Sc.)",
+    "degree": "MasterofArts",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/computer-game-studies",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": ") Bachelor A master's degree gives you more flexibility."
+          },
+          "notes": "",
+          "source_id": "src_26d6024caf6e",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_computer_science_in_german_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "computer_science_in_german_master_of_science_m_sc",
+    "name": "Computer Science (in German), Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/computer-science-german",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": ") Bachelor A master's degree gives you more flexibility."
+          },
+          "notes": "",
+          "source_id": "src_174bd7fe9b5f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_economathematics_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "economathematics_master_of_science_m_sc",
+    "name": "Economathematics, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/economathematics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": ") Bachelor A master's degree gives you more flexibility."
+          },
+          "notes": "",
+          "source_id": "src_44429b352cc9",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_economics_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "economics_master_of_science_m_sc",
+    "name": "Economics, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/economics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Much more than in the bachelor's programme, independent scientific work is what is required for master's students."
+          },
+          "notes": "",
+          "source_id": "src_59b7c8c0272c",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_electrical_engineering_information_system_technology_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "electrical_engineering_information_system_technology_master_of_science_m_sc",
+    "name": "Electrical Engineering & Information System Technology, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/electrical-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The technical level is high, but easily achievable if you come from a Bachelor's degree (electrical engineering, mechatronics) in Bayreuth."
+          },
+          "notes": "",
+          "source_id": "src_51cec6eb8b44",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_environmental_resource_technology_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "environmental_resource_technology_master_of_science_m_sc",
+    "name": "Environmental & Resource Technology, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/environmental-resource-tech",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": ") Bachelor A master's degree gives you more flexibility."
+          },
+          "notes": "",
+          "source_id": "src_de9131856458",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_vorlage_lebenslauf_international_catalog_listing",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "vorlage_lebenslauf_international_catalog_listing",
+    "name": "Vorlage Lebenslauf International (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.international-office.uni-bayreuth.de/pool/dokumente/Studiengangsseiten/Vorlage_Lebenslauf_International.docx",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_master_of_business_administration_mba",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_business_administration_mba",
+    "name": "Master of Business Administration (MBA)",
+    "degree": "MasterofBusiness",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.amtliche-bekanntmachungen.uni-bayreuth.de/de/studienordnungen/mba/index.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_african_studies_critical_perspectives_on_society_politics_culture_m_a",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "african_studies_critical_perspectives_on_society_politics_culture_m_a",
+    "name": "African Studies: Critical Perspectives on Society, Politics, Culture (M.A.)",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/african-studies",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_african_studies_language_arts_philosophy_master_of_arts_m_a",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "african_studies_language_arts_philosophy_master_of_arts_m_a",
+    "name": "African Studies: Language, Arts, Philosophy, Master of Arts (M.A.)",
+    "degree": "MasterofArts",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/african-studies-language-arts-philosophy",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_applied_theatre_theatre_as_social_work_master_of_arts_m_a",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "applied_theatre_theatre_as_social_work_master_of_arts_m_a",
+    "name": "Applied Theatre: Theatre as Social Work, Master of Arts (M.A.)",
+    "degree": "MasterofArts",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/applied-theatre",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_battery_materials_and_technology_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "battery_materials_and_technology_master_of_science_m_sc",
+    "name": "Battery Materials and Technology, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/battery-materials-technology",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_battery_technology_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "battery_technology_master_of_science_m_sc",
+    "name": "Battery Technology, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/battery-technology",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_biodiversity_ecology_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "biodiversity_ecology_master_of_science_m_sc",
+    "name": "Biodiversity & Ecology, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/biodiversity-and-ecology",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_biofabrication_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "biofabrication_master_of_science_m_sc",
+    "name": "Biofabrication, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/biofabrication",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_business_law_master_of_laws_ll_m",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "business_law_master_of_laws_ll_m",
+    "name": "Business Law, Master of Laws (LL.M.)",
+    "degree": "MasterofLaws",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/business-law-ll-m-04172344fd037ee4",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_development_studies_master_of_arts_m_a",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "development_studies_master_of_arts_m_a",
+    "name": "Development Studies, Master of Arts (M.A.)",
+    "degree": "MasterofArts",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/development-studies",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_digitalization_entrepreneurship_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "digitalization_entrepreneurship_master_of_science_m_sc",
+    "name": "Digitalization & Entrepreneurship, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/digitalization-entrepreneurship",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_digitalization_sustainability_in_materials_science_engineering_master_of_science",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "digitalization_sustainability_in_materials_science_engineering_master_of_science",
+    "name": "Digitalization & Sustainability in Materials Science & Engineering, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/dsmse",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_ecological_forecasting_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "ecological_forecasting_master_of_science_m_sc",
+    "name": "Ecological Forecasting, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/ecological-forecasting",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_energy_science_technology_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "energy_science_technology_master_of_science_m_sc",
+    "name": "Energy Science & Technology, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/energy-science-and-technology",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_environment_climate_change_and_health_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "environment_climate_change_and_health_master_of_science_m_sc",
+    "name": "Environment, Climate Change and Health, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/ecch",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_environmental_chemistry_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "environmental_chemistry_master_of_science_m_sc",
+    "name": "Environmental Chemistry, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/environmental-chemistry",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_experimental_geosciences_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "experimental_geosciences_master_of_science_m_sc",
+    "name": "Experimental Geosciences, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/experimental-geosciences",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_finance_and_information_management_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "finance_and_information_management_master_of_science_m_sc",
+    "name": "Finance and Information Management, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/finance-information-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_food_health_sciences_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "food_health_sciences_master_of_science_m_sc",
+    "name": "Food & Health Sciences, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/food-and-health-sciences",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_food_quality_and_safety_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "food_quality_and_safety_master_of_science_m_sc",
+    "name": "Food Quality and Safety, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/food-quality-and-safety",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_food_system_sciences_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "food_system_sciences_master_of_science_m_sc",
+    "name": "Food System Sciences, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/food-system-sciences",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_geo_ecology_environmental_sciences_catalog_listing",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "geo_ecology_environmental_sciences_catalog_listing",
+    "name": "Geo Ecology Environmental Sciences (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/geo-ecology-environmental-sciences",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_geography_of_environmental_transformation_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "geography_of_environmental_transformation_master_of_science_m_sc",
+    "name": "Geography of Environmental Transformation, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/geography-of-environmental-transformation",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_global_change_ecology_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "global_change_ecology_master_of_science_m_sc",
+    "name": "Global Change Ecology, Master of Science (M.Sc.)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/global-change-ecology",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_global_food_nutrition_and_health_master_of_science_m_sc",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "global_food_nutrition_and_health_master_of_science_m_sc",
+    "name": "Global Food, Nutrition and Health, Master of Science (M.Sc.) ​",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/global-food-nutrition-and-health",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_global_history_master_of_arts_m_a",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "global_history_master_of_arts_m_a",
+    "name": "Global History, Master of Arts (M.A.)",
+    "degree": "MasterofArts",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/global-history",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_history_economics_master_of_arts_m_a",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "history_economics_master_of_arts_m_a",
+    "name": "History & Economics, Master of Arts (M.A.)",
+    "degree": "MasterofArts",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/history-and-economics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_history_in_science_and_practice_master_of_arts_m_a",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "history_in_science_and_practice_master_of_arts_m_a",
+    "name": "History in Science and Practice, Master of Arts (M.A.)",
+    "degree": "MasterofArts",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/history-in-science-and-practice",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_intercultural_anglophone_studies_master_of_arts_m_a",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "intercultural_anglophone_studies_master_of_arts_m_a",
+    "name": "Intercultural Anglophone Studies, Master of Arts (M.A.)",
+    "degree": "MasterofArts",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/intercultural-anglophone-studies",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_intercultural_german_studies_master_of_arts_m_a",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "intercultural_german_studies_master_of_arts_m_a",
+    "name": "Intercultural German Studies, Master of Arts (M.A.)",
+    "degree": "MasterofArts",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/intercultural-german-studies",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_international_economics_governance_master_of_arts_m_a",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "international_economics_governance_master_of_arts_m_a",
+    "name": "International Economics & Governance, Master of Arts (M.A.)",
+    "degree": "MasterofArts",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/international-economics-and-governance",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_literature_media_master_of_arts_m_a",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "literature_media_master_of_arts_m_a",
+    "name": "Literature & Media, Master of Arts (M.A.)",
+    "degree": "MasterofArts",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/literature-and-media",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  },
+  {
+    "project_id": "u_university_of_bayreuth_main_literature_in_cultural_context_master_of_arts_m_a",
+    "university_id": "u_university_of_bayreuth",
+    "campus_id": "main",
+    "normalized_program_code": "literature_in_cultural_context_master_of_arts_m_a",
+    "name": "Literature in Cultural Context, Master of Arts (M.A.)",
+    "degree": "MasterofArts",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-bayreuth.de/en/master/literature-in-culture-context",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              },
+              {
+                "name": "TOEFL iBT",
+                "min_score": "88"
+              }
+            ]
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The certificates can be pursued by students formally enrolled in the following Bachelor or Master programmes: Angewandte Informatik (B."
+          },
+          "notes": "",
+          "source_id": "src_e7e582e759af",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; lang:IELTS 6.5/TOEFL iBT 88"
+  }
+]

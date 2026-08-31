@@ -1,5 +1,6 @@
-import { Link } from 'react-router-dom'
-import { ArrowDown, ArrowUpRight, Database } from 'lucide-react'
+import { useState } from 'react'
+import { Link, useNavigate } from 'react-router-dom'
+import { ArrowDown, ArrowUpRight, Database, Search } from 'lucide-react'
 import { aggregateRank, normalizeName, useData } from '../hooks/useData'
 import type { RankingSource } from '../types'
 import Reveal from '../components/Reveal'
@@ -21,6 +22,12 @@ const SRC_YEAR: Record<RankingSource, number> = {
 }
 
 export default function Home() {
+  const navigate = useNavigate()
+  const [q, setQ] = useState('')
+  const goSearch = () => {
+    const query = q.trim()
+    if (query) navigate(`/ranking?src=qs&q=${encodeURIComponent(query)}`)
+  }
   const { rankings, europeIds, index, unis, ready, captureReport, uniquePrograms, feature2Summary } = useData()
   const { open } = useDrawer()
 
@@ -70,7 +77,20 @@ export default function Home() {
           </Reveal>
 
           <Reveal delay={0.18}>
-            <div style={{ display: 'flex', gap: 14, marginTop: 38, flexWrap: 'wrap', alignItems: 'center' }}>
+            <div className="hero-search">
+              <Search size={15} style={{ position: 'absolute', left: 16, color: 'var(--ink-4)', pointerEvents: 'none' }} />
+              <input
+                className="field hero-search-input"
+                placeholder="搜索院校，例如 Aalto / 慕尼黑工业大学 / Computer Science"
+                value={q}
+                onChange={(e) => setQ(e.target.value)}
+                onKeyDown={(e) => { if (e.key === 'Enter') goSearch() }}
+              />
+              <button className="mbtn solid" data-cursor onClick={goSearch}>
+                搜索 <ArrowUpRight size={14} />
+              </button>
+            </div>
+            <div style={{ display: 'flex', gap: 14, marginTop: 18, flexWrap: 'wrap', alignItems: 'center' }}>
               <Magnetic>
                 <Link to="/ranking?src=qs" className="mbtn solid" data-cursor>
                   查看榜单 <ArrowUpRight size={15} />

@@ -1,1 +1,380 @@
-[]
+[
+  {
+    "project_id": "u_université_de_montpellier_main_admission_et_inscription",
+    "university_id": "u_université_de_montpellier",
+    "campus_id": "main",
+    "normalized_program_code": "admission_et_inscription",
+    "name": "Admission Et Inscription",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.umontpellier.fr/en/formation/admission-et-inscription",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_993d0138a9bc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_université_de_montpellier_main_regime_special_detudes",
+    "university_id": "u_université_de_montpellier",
+    "campus_id": "main",
+    "normalized_program_code": "regime_special_detudes",
+    "name": "Regime Special Detudes",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.umontpellier.fr/en/formation/regime-special-detudes",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Students seeking this status must demonstrate:enrollment in at least the third year of higher education (third year of a bachelor’s degree, third year of a BUT, engineering program, master’s degree, etc."
+          },
+          "notes": "",
+          "source_id": "src_db049c332cf6",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_université_de_montpellier_main_ecole_graduee_graduate_school",
+    "university_id": "u_université_de_montpellier",
+    "campus_id": "main",
+    "normalized_program_code": "ecole_graduee_graduate_school",
+    "name": "Ecole Graduee Graduate School",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.umontpellier.fr/en/formation/ecole-graduee-graduate-school",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_774d80320470",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_université_de_montpellier_main_formation_continue",
+    "university_id": "u_université_de_montpellier",
+    "campus_id": "main",
+    "normalized_program_code": "formation_continue",
+    "name": "Formation Continue",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.umontpellier.fr/en/formation/regime-special-detudes/formation-continue",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_589ea64224e5",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_université_de_montpellier_main_apprentissage",
+    "university_id": "u_université_de_montpellier",
+    "campus_id": "main",
+    "normalized_program_code": "apprentissage",
+    "name": "Apprentissage",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.umontpellier.fr/en/formation/regime-special-detudes/apprentissage",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Highly valued by both students and employers, apprenticeships are now a proven path to earning a higher education degree—from a bachelor’s degree through a master’s degree—while gaining significant professional experience."
+          },
+          "notes": "",
+          "source_id": "src_b4d5b5f86f97",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_université_de_montpellier_main_futurs_etudiants",
+    "university_id": "u_université_de_montpellier",
+    "campus_id": "main",
+    "normalized_program_code": "futurs_etudiants",
+    "name": "Futurs Etudiants",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://facmedecine.umontpellier.fr/etudes-et-formations/pass/futurs-etudiants",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_ab184c621c91",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_université_de_montpellier_main_candidatures",
+    "university_id": "u_université_de_montpellier",
+    "campus_id": "main",
+    "normalized_program_code": "candidatures",
+    "name": "Candidatures",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://iut-beziers.edu.umontpellier.fr/formations/scolarite/candidatures",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_2ef57cbd2c6e",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_université_de_montpellier_main_admissions_et_inscriptions",
+    "university_id": "u_université_de_montpellier",
+    "campus_id": "main",
+    "normalized_program_code": "admissions_et_inscriptions",
+    "name": "Admissions Et Inscriptions",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.umontpellier.fr/en/categorie/formation/admissions-et-inscriptions",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_f819a8daa062",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "official page captured; facts pending review"
+  }
+]

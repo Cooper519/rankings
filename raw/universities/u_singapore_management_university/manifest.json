@@ -5,7 +5,7 @@
   "name": "Singapore Management University",
   "country": "Singapore",
   "website": "https://scis.smu.edu.sg",
-  "updated_at": "2026-08-19T18:56:01.850393+00:00",
-  "notes": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping.",
-  "converter": "manual-webfetch-v1"
+  "updated_at": "2026-08-30T06:44:46.363779+00:00",
+  "notes": "four-rankings scrape 27fall: pages=14 captured, programs=11 (11 with per-project facts), school_deadline=tba, fees=yes, issues=none",
+  "converter": "four-rankings-webfetch-v2"
 }

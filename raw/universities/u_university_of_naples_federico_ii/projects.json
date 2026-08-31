@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "project_id": "u_university_of_naples_federico_ii_main_schema_tipo_proposta_regolamento_master_in_formato_editabile",
+    "university_id": "u_university_of_naples_federico_ii",
+    "campus_id": "main",
+    "normalized_program_code": "schema_tipo_proposta_regolamento_master_in_formato_editabile",
+    "name": "Schema tipo proposta regolamento master in formato editabile",
+    "degree": "masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.old.unina.it/documents/11958/56909403/USR_Master_schema_tipo_2024-10-07.docx",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_06a5b1cc9b87",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  }
+]

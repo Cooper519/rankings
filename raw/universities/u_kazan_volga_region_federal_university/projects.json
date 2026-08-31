@@ -1,1 +1,242 @@
-[]
+[
+  {
+    "project_id": "u_kazan_volga_region_federal_university_main_contract_and_tuition_payment",
+    "university_id": "u_kazan_volga_region_federal_university",
+    "campus_id": "main",
+    "normalized_program_code": "contract_and_tuition_payment",
+    "name": "Contract And Tuition Payment",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://eng.kpfu.ru/master/contract-and-tuition-payment",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_c6a031a7b0ce",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_kazan_volga_region_federal_university_main_entrance_exams",
+    "university_id": "u_kazan_volga_region_federal_university",
+    "campus_id": "main",
+    "normalized_program_code": "entrance_exams",
+    "name": "Entrance Exams",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://eng.kpfu.ru/master/entrance-exams",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8fb68a14e362",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_kazan_volga_region_federal_university_main_start_of_studies",
+    "university_id": "u_kazan_volga_region_federal_university",
+    "campus_id": "main",
+    "normalized_program_code": "start_of_studies",
+    "name": "Start Of Studies",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://eng.kpfu.ru/master/start-of-studies",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_6b551a60841b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_kazan_volga_region_federal_university_main_programs_and_tuition_fees",
+    "university_id": "u_kazan_volga_region_federal_university",
+    "campus_id": "main",
+    "normalized_program_code": "programs_and_tuition_fees",
+    "name": "Programs And Tuition Fees",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://eng.kpfu.ru/english-taught-programs/programs-and-tuition-fees",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_084484e00cde",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_kazan_volga_region_federal_university_main_applying",
+    "university_id": "u_kazan_volga_region_federal_university",
+    "campus_id": "main",
+    "normalized_program_code": "applying",
+    "name": "Applying",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://eng.kpfu.ru/english-taught-programs/applying",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_2a2e266ca6e1",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "official page captured; facts pending review"
+  }
+]

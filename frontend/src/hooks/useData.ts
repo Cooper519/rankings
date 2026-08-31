@@ -4,6 +4,7 @@ import type {
   Feature2CoverageSchool,
   Feature2CoverageSummary,
   CaptureReport,
+  DataManifest,
   Program,
   ProgramCoverage,
   RankingEntry,
@@ -17,6 +18,7 @@ import {
   buildUniversityIndex,
   loadFeature2Coverage,
   loadCaptureReport,
+  loadDataManifest,
   loadPrograms,
   loadProgramCoverage,
   loadRanking,
@@ -51,6 +53,8 @@ export interface DataSource {
   captureReport: CaptureReport
   /** compact, evidence-backed school and official programme URLs */
   schoolUrls: SchoolUrlIndex
+  /** canonical SQLite build identity and current quality summary */
+  dataManifest: DataManifest
   /** URL records propagated from canonical IDs to ranking-specific IDs */
   schoolUrlByUni: Record<string, SchoolUrlRecord>
   /** ranking-specific university id -> canonical university id */
@@ -119,6 +123,22 @@ const EMPTY_SCHOOL_URLS: SchoolUrlIndex = {
   schools: [],
 }
 
+const EMPTY_DATA_MANIFEST: DataManifest = {
+  schemaVersion: 0,
+  dataTimestamp: '',
+  corpusHash: '',
+  sourceOfTruth: '',
+  counts: {
+    universities: 0, data_packages: 0, projects: 0, admission_cycles: 0,
+    timelines: 0, requirements: 0, fees: 0, sources: 0, reviews: 0,
+    ranking_entries: 0, validation_issues: 0,
+  },
+  quality: {
+    issuesBySeverity: {}, unknownTimelines: 0, unknownTimelinePercent: 0,
+    programsWithDeadline: 0, programsWithRequirement: 0, programsVerified: 0,
+  },
+}
+
 function coverageNameKey(name: string): string {
   return normalizeName(name)
     .replace(/ae/g, 'a')
@@ -137,7 +157,7 @@ export function useData(): DataSource {
     if (cache) return
     if (!inflight) {
       inflight = (async () => {
-        const [unis, programs, aliases, coverage, feature2Coverage, captureReport, schoolUrls, ...rankingsArr] = await Promise.all([
+        const [unis, programs, aliases, coverage, feature2Coverage, captureReport, schoolUrls, dataManifest, ...rankingsArr] = await Promise.all([
           loadUniversities(),
           loadPrograms(),
           loadUniversityAliases(),
@@ -145,6 +165,7 @@ export function useData(): DataSource {
           loadFeature2Coverage(),
           loadCaptureReport(),
           loadSchoolUrls(),
+          loadDataManifest(),
           ...RANKING_SOURCES.map((s) => loadRanking(s)),
         ])
         const rankings = Object.fromEntries(
@@ -235,7 +256,7 @@ export function useData(): DataSource {
         const ds: DataSource = {
           unis, rankings, programs, uniquePrograms, index, rankedIds, programsByUni, coverageByUni,
           feature2Coverage, feature2CoverageByUni, feature2Summary: feature2Coverage.summary, captureReport,
-          schoolUrls, schoolUrlByUni, canonicalById, europeIds, ready: true,
+          schoolUrls, schoolUrlByUni, dataManifest, canonicalById, europeIds, ready: true,
         }
         cache = ds
         return ds
@@ -255,6 +276,7 @@ export function useData(): DataSource {
       feature2Summary: EMPTY_FEATURE2_COVERAGE.summary,
       captureReport: EMPTY_CAPTURE_REPORT,
       schoolUrls: EMPTY_SCHOOL_URLS, schoolUrlByUni: {},
+      dataManifest: EMPTY_DATA_MANIFEST,
       canonicalById: {}, europeIds: [], ready: false,
     }
   )

@@ -1,1 +1,2257 @@
-[]
+[
+  {
+    "project_id": "u_university_of_saskatchewan_main_substance_use_health_and_wellbeing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "substance_use_health_and_wellbeing",
+    "name": "Substance Use Health And Wellbeing",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/substance-use-health-and-wellbeing.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-06-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_63a314e7c6dc",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_06_01"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_63a314e7c6dc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-06-01"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_agricultural_economics",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "agricultural_economics",
+    "name": "Agricultural Economics",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/agricultural-economics.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "optional",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_792be9d99d76",
+          "verification_status": "extracted"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_23000_usd",
+            "type": "tuition",
+            "amount": "23000",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": ") in addition to these levels. Minimum funding levels: Master’s (thesis-based): $23,000/year for 2 years Doctoral: $28,000/year for 4 years* *This department-specific",
+            "source_id": "src_792be9d99d76",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_28000_usd",
+            "type": "tuition",
+            "amount": "28000",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "mum funding levels: Master’s (thesis-based): $23,000/year for 2 years Doctoral: $28,000/year for 4 years* *This department-specific minimum is higher than the college-",
+            "source_id": "src_792be9d99d76",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_2164_00_usd",
+            "type": "tuition",
+            "amount": "2164.00",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "am. Program Canadian students International students Master of Science per term $2,164.00 CAD $4,869.00 CAD Student fees In addition to tuition above, students also pay",
+            "source_id": "src_792be9d99d76",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_4869_00_usd",
+            "type": "tuition",
+            "amount": "4869.00",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "nadian students International students Master of Science per term $2,164.00 CAD $4,869.00 CAD Student fees In addition to tuition above, students also pay fees for progr",
+            "source_id": "src_792be9d99d76",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD23000/year(international)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_applied_economics",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "applied_economics",
+    "name": "Applied Economics",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/applied-economics.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "optional",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "optional",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b6900729bcc3",
+          "verification_status": "extracted"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_1879_00_usd",
+            "type": "tuition",
+            "amount": "1879.00",
+            "currency": "USD",
+            "period": "total",
+            "applicant_group": "international",
+            "condition": "$1,879.00 CAD January 1 - April 30, 2027 $1,879.00 CAD May 1 - August 31, 2027 $1,879.00 CAD Total per academic year $5,637.00 CAD Student feesIn addition to tuition ab",
+            "source_id": "src_b6900729bcc3",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_5637_00_usd",
+            "type": "tuition",
+            "amount": "5637.00",
+            "currency": "USD",
+            "period": "total",
+            "applicant_group": "international",
+            "condition": "027 $1,879.00 CAD May 1 - August 31, 2027 $1,879.00 CAD Total per academic year $5,637.00 CAD Student feesIn addition to tuition above, students also pay fees for progra",
+            "source_id": "src_b6900729bcc3",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD1879.00/total(international)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_biochemistry_microbiology_immunology",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "biochemistry_microbiology_immunology",
+    "name": "Biochemistry Microbiology Immunology",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/biochemistry-microbiology-immunology.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.5"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_4c783b655c9b",
+          "verification_status": "extracted"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_4279_00_usd",
+            "type": "tuition",
+            "amount": "4279.00",
+            "currency": "USD",
+            "period": "total",
+            "applicant_group": "international",
+            "condition": "pril 30, 2027 $1,902.00 CAD $4,279.00 CAD May 1 - August 31, 2027 $1,902.00 CAD $4,279.00 CAD Total per academic year $5,706.00 CAD $12,837.00 CAD Student fees In additi",
+            "source_id": "src_4c783b655c9b",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_5706_00_usd",
+            "type": "tuition",
+            "amount": "5706.00",
+            "currency": "USD",
+            "period": "total",
+            "applicant_group": "international",
+            "condition": "CAD May 1 - August 31, 2027 $1,902.00 CAD $4,279.00 CAD Total per academic year $5,706.00 CAD $12,837.00 CAD Student fees In addition to tuition above, students also pay",
+            "source_id": "src_4c783b655c9b",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_12837_00_usd",
+            "type": "tuition",
+            "amount": "12837.00",
+            "currency": "USD",
+            "period": "total",
+            "applicant_group": "international",
+            "condition": "gust 31, 2027 $1,902.00 CAD $4,279.00 CAD Total per academic year $5,706.00 CAD $12,837.00 CAD Student fees In addition to tuition above, students also pay fees for progr",
+            "source_id": "src_4c783b655c9b",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_1879_00_usd",
+            "type": "tuition",
+            "amount": "1879.00",
+            "currency": "USD",
+            "period": "total",
+            "applicant_group": "international",
+            "condition": "$1,879.00 CAD January 1 - April 30, 2027 $1,879.00 CAD May 1 - August 31, 2027 $1,879.00 CAD Total per academic year $5,637.00 CAD Student fees In addition to tuition a",
+            "source_id": "src_4c783b655c9b",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; lang:IELTS 6.5; fee:USD4279.00/total(international)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_biological_engineering",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "biological_engineering",
+    "name": "Biological Engineering",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/biological-engineering.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_37681bcb4ff5",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_18000_usd",
+            "type": "tuition",
+            "amount": "18000",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "ng assistantships). Some typical funding levels are: Stipends and scholarships: $18,000-$20,000/year (M.Sc.) $22,000-$25,000/year (Ph.D.) Teaching assistantships (empl",
+            "source_id": "src_37681bcb4ff5",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_20000_usd",
+            "type": "tuition",
+            "amount": "20000",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "tantships). Some typical funding levels are: Stipends and scholarships: $18,000-$20,000/year (M.Sc.) $22,000-$25,000/year (Ph.D.) Teaching assistantships (employment g",
+            "source_id": "src_37681bcb4ff5",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_22000_usd",
+            "type": "tuition",
+            "amount": "22000",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "cal funding levels are: Stipends and scholarships: $18,000-$20,000/year (M.Sc.) $22,000-$25,000/year (Ph.D.) Teaching assistantships (employment governed by the PSAC a",
+            "source_id": "src_37681bcb4ff5",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_25000_usd",
+            "type": "tuition",
+            "amount": "25000",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "ing levels are: Stipends and scholarships: $18,000-$20,000/year (M.Sc.) $22,000-$25,000/year (Ph.D.) Teaching assistantships (employment governed by the PSAC agreement",
+            "source_id": "src_37681bcb4ff5",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD18000/year(international)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_biomedical_engineering",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "biomedical_engineering",
+    "name": "Biomedical Engineering",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/biomedical-engineering.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8eb43e86f5be",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_14000_usd",
+            "type": "tuition",
+            "amount": "14000",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "ng assistantships). Some typical funding levels are: Stipends and scholarships: $14,000-$18,000/year (M.Sc.) $18,000-$22,000/year (Ph.D.) College of Engineering awards",
+            "source_id": "src_8eb43e86f5be",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_18000_usd",
+            "type": "tuition",
+            "amount": "18000",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "tantships). Some typical funding levels are: Stipends and scholarships: $14,000-$18,000/year (M.Sc.) $18,000-$22,000/year (Ph.D.) College of Engineering awards: Averag",
+            "source_id": "src_8eb43e86f5be",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_22000_usd",
+            "type": "tuition",
+            "amount": "22000",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "ing levels are: Stipends and scholarships: $14,000-$18,000/year (M.Sc.) $18,000-$22,000/year (Ph.D.) College of Engineering awards: Average of $3,500/student/year (10%",
+            "source_id": "src_8eb43e86f5be",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_3500_usd",
+            "type": "tuition",
+            "amount": "3500",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "(M.Sc.) $18,000-$22,000/year (Ph.D.) College of Engineering awards: Average of $3,500/student/year (10% of students receive awards) Graduate students at USask can re",
+            "source_id": "src_8eb43e86f5be",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD14000/year(international)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_business_administration",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "business_administration",
+    "name": "Business Administration",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/business-administration.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "required",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_c619c8213023",
+          "verification_status": "extracted"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_1634_60_usd",
+            "type": "tuition",
+            "amount": "1634.60",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "national students Master of Business Administration per credit unit $726.50 CAD $1,634.60 CAD Additional tuition for Optional Internship Part I, Part II, and Part III (M",
+            "source_id": "src_c619c8213023",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD1634.60/unknown(international)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_chemical_engineering",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "chemical_engineering",
+    "name": "Chemical Engineering",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/chemical-engineering.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_d0fa070d8170",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_18000_usd",
+            "type": "tuition",
+            "amount": "18000",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "ng assistantships). Some typical funding levels are: Stipends and scholarships: $18,000-$22,000/year (M.Sc.) $22,000-$25,000/year (Ph.D.) Teaching assistantships (empl",
+            "source_id": "src_d0fa070d8170",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_22000_usd",
+            "type": "tuition",
+            "amount": "22000",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "tantships). Some typical funding levels are: Stipends and scholarships: $18,000-$22,000/year (M.Sc.) $22,000-$25,000/year (Ph.D.) Teaching assistantships (employment g",
+            "source_id": "src_d0fa070d8170",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_25000_usd",
+            "type": "tuition",
+            "amount": "25000",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "ing levels are: Stipends and scholarships: $18,000-$22,000/year (M.Sc.) $22,000-$25,000/year (Ph.D.) Teaching assistantships (employment governed by the PSAC agreement",
+            "source_id": "src_d0fa070d8170",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_2500_usd",
+            "type": "tuition",
+            "amount": "2500",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "Teaching assistantships (employment governed by the PSAC agreement): Average of $2,500/student/year (50% of students receive teaching assistantships) College of Engin",
+            "source_id": "src_d0fa070d8170",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD18000/year(international)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_chemical_risk_assessment",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "chemical_risk_assessment",
+    "name": "Chemical Risk Assessment",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/chemical-risk-assessment.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2026-09",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_dac13ffb49b5",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2026_09"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-06-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_dac13ffb49b5",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_06_15"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_dac13ffb49b5",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_1031_60_usd",
+            "type": "tuition",
+            "amount": "1031.60",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "ational students Master of Chemical Risk Assessment per credit unit $458.50 CAD $1,031.60 CAD Student fees In addition to tuition above, students who are taking traditio",
+            "source_id": "src_dac13ffb49b5",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "from official page; deadline:month:2026-09; fee:USD1031.60/unknown(international)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_chemistry",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry",
+    "name": "Chemistry",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/chemistry.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_61a4ac10df8c",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_4279_00_usd",
+            "type": "tuition",
+            "amount": "4279.00",
+            "currency": "USD",
+            "period": "total",
+            "applicant_group": "international",
+            "condition": "pril 30, 2027 $1,902.00 CAD $4,279.00 CAD May 1 - August 31, 2027 $1,902.00 CAD $4,279.00 CAD Total per academic year $5,706.00 CAD $12,837.00 CAD Student fees In additi",
+            "source_id": "src_61a4ac10df8c",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_5706_00_usd",
+            "type": "tuition",
+            "amount": "5706.00",
+            "currency": "USD",
+            "period": "total",
+            "applicant_group": "international",
+            "condition": "CAD May 1 - August 31, 2027 $1,902.00 CAD $4,279.00 CAD Total per academic year $5,706.00 CAD $12,837.00 CAD Student fees In addition to tuition above, students also pay",
+            "source_id": "src_61a4ac10df8c",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_12837_00_usd",
+            "type": "tuition",
+            "amount": "12837.00",
+            "currency": "USD",
+            "period": "total",
+            "applicant_group": "international",
+            "condition": "gust 31, 2027 $1,902.00 CAD $4,279.00 CAD Total per academic year $5,706.00 CAD $12,837.00 CAD Student fees In addition to tuition above, students also pay fees for progr",
+            "source_id": "src_61a4ac10df8c",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_1879_00_usd",
+            "type": "tuition",
+            "amount": "1879.00",
+            "currency": "USD",
+            "period": "total",
+            "applicant_group": "international",
+            "condition": "$1,879.00 CAD January 1 - April 30, 2027 $1,879.00 CAD May 1 - August 31, 2027 $1,879.00 CAD Total per academic year $5,637.00 CAD Student fees In addition to tuition a",
+            "source_id": "src_61a4ac10df8c",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD4279.00/total(international)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_civil_engineering",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "civil_engineering",
+    "name": "Civil Engineering",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/civil-engineering.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_29b80c7ada38",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_14000_usd",
+            "type": "tuition",
+            "amount": "14000",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "ng assistantships). Some typical funding levels are: Stipends and scholarships: $14,000-$18,000/year (M.Sc.) $18,000-$22,000/year (Ph.D.) Teaching assistantships (empl",
+            "source_id": "src_29b80c7ada38",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_18000_usd",
+            "type": "tuition",
+            "amount": "18000",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "tantships). Some typical funding levels are: Stipends and scholarships: $14,000-$18,000/year (M.Sc.) $18,000-$22,000/year (Ph.D.) Teaching assistantships (employment g",
+            "source_id": "src_29b80c7ada38",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_22000_usd",
+            "type": "tuition",
+            "amount": "22000",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "ing levels are: Stipends and scholarships: $14,000-$18,000/year (M.Sc.) $18,000-$22,000/year (Ph.D.) Teaching assistantships (employment governed by the PSAC agreement",
+            "source_id": "src_29b80c7ada38",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_2500_usd",
+            "type": "tuition",
+            "amount": "2500",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "Teaching assistantships (employment governed by the PSAC agreement): Average of $2,500/student/year (50% of students receive teaching assistantships) College of Engin",
+            "source_id": "src_29b80c7ada38",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD14000/year(international)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_community_population_health_sciences",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "community_population_health_sciences",
+    "name": "Community Population Health Sciences",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/community-population-health-sciences.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_3e007ef6d302",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_28000_usd",
+            "type": "tuition",
+            "amount": "28000",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "students, but several conditions apply. The minimum stipend for PhD students is $ 28,000 /year for 4 years and the minimum stipend for MSc students is $24,000/ year for",
+            "source_id": "src_3e007ef6d302",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_24000_usd",
+            "type": "tuition",
+            "amount": "24000",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "dents is $ 28,000 /year for 4 years and the minimum stipend for MSc students is $24,000/ year for 2 years. Students are expected to have their thesis areas align with",
+            "source_id": "src_3e007ef6d302",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_4279_00_usd",
+            "type": "tuition",
+            "amount": "4279.00",
+            "currency": "USD",
+            "period": "total",
+            "applicant_group": "international",
+            "condition": "pril 30, 2027 $1,902.00 CAD $4,279.00 CAD May 1 - August 31, 2027 $1,902.00 CAD $4,279.00 CAD Total per academic year $5,706.00 CAD $12,837.00 CAD Student fees In additi",
+            "source_id": "src_3e007ef6d302",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_5706_00_usd",
+            "type": "tuition",
+            "amount": "5706.00",
+            "currency": "USD",
+            "period": "total",
+            "applicant_group": "international",
+            "condition": "CAD May 1 - August 31, 2027 $1,902.00 CAD $4,279.00 CAD Total per academic year $5,706.00 CAD $12,837.00 CAD Student fees In addition to tuition above, students also pay",
+            "source_id": "src_3e007ef6d302",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:USD28000/year(international)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_computer_science",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "computer_science",
+    "name": "Computer Science",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/computer-science.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "7.0"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_cf270b851528",
+          "verification_status": "extracted"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_18000_usd",
+            "type": "tuition",
+            "amount": "18000",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "a rate that covers the tuition/year at the time of admission plus an additional $18,000/year. Specifically, in the first 12 months of the program, they will receive en",
+            "source_id": "src_cf270b851528",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_12000_usd",
+            "type": "tuition",
+            "amount": "12000",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "will receive enough to cover 8 months of tuition at the time of admission plus $12,000. Even though International Master's tuition rates are higher than domestic tuit",
+            "source_id": "src_cf270b851528",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_20000_usd",
+            "type": "tuition",
+            "amount": "20000",
+            "currency": "USD",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "t a rate that covers the cost of tuition per year at the time of admission plus $20,000/year. Some sources of funding require that the student have a GPA of at least 8",
+            "source_id": "src_cf270b851528",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_4279_00_usd",
+            "type": "tuition",
+            "amount": "4279.00",
+            "currency": "USD",
+            "period": "total",
+            "applicant_group": "international",
+            "condition": "pril 30, 2027 $1,902.00 CAD $4,279.00 CAD May 1 - August 31, 2027 $1,902.00 CAD $4,279.00 CAD Total per academic year $5,706.00 CAD $12,837.00 CAD Student fees In additi",
+            "source_id": "src_cf270b851528",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; lang:IELTS 7.0; fee:USD18000/year(international)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_economics_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "economics_catalog_listing",
+    "name": "Economics (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/economics.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_education_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "education_catalog_listing",
+    "name": "Education (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/education.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_educational_administration_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "educational_administration_catalog_listing",
+    "name": "Educational Administration (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/educational-administration.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_educational_foundations_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "educational_foundations_catalog_listing",
+    "name": "Educational Foundations (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/educational-foundations.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_educational_leadership_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "educational_leadership_catalog_listing",
+    "name": "Educational Leadership (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/educational-leadership.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_educational_technology_design_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "educational_technology_design_catalog_listing",
+    "name": "Educational Technology Design (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/educational-technology-design.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_electrical_computer_engineering_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "electrical_computer_engineering_catalog_listing",
+    "name": "Electrical Computer Engineering (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/electrical-computer-engineering.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_environmental_planning_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "environmental_planning_catalog_listing",
+    "name": "Environmental Planning (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/environmental-planning.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_environment_sustainability_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "environment_sustainability_catalog_listing",
+    "name": "Environment Sustainability (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/environment-sustainability.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_financial_management_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "financial_management_catalog_listing",
+    "name": "Financial Management (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/financial-management.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_gender_sexualities_and_social_justice_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "gender_sexualities_and_social_justice_catalog_listing",
+    "name": "Gender Sexualities And Social Justice (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/gender-sexualities-and-social-justice.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_health_sciences_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "health_sciences_catalog_listing",
+    "name": "Health Sciences (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/health-sciences.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_law_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "law_catalog_listing",
+    "name": "Law (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/law.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_mathematics_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics_catalog_listing",
+    "name": "Mathematics (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/mathematics.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_mechanical_engineering_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "mechanical_engineering_catalog_listing",
+    "name": "Mechanical Engineering (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/mechanical-engineering.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_nursing_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "nursing_catalog_listing",
+    "name": "Nursing (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/nursing.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_physical_therapy_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "physical_therapy_catalog_listing",
+    "name": "Physical Therapy (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/physical-therapy.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_physician_assistant_studies_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "physician_assistant_studies_catalog_listing",
+    "name": "Physician Assistant Studies (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/physician-assistant-studies.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_physics_engineering_physics_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "physics_engineering_physics_catalog_listing",
+    "name": "Physics Engineering Physics (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/physics-engineering-physics.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_precision_oral_systemic_health_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "precision_oral_systemic_health_catalog_listing",
+    "name": "Precision Oral Systemic Health (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/precision-oral-systemic-health.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_psychology_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "psychology_catalog_listing",
+    "name": "Psychology (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/psychology.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_public_health_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "public_health_catalog_listing",
+    "name": "Public Health (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/public-health.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_public_policy_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "public_policy_catalog_listing",
+    "name": "Public Policy (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/public-policy.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_public_policy_research_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "public_policy_research_catalog_listing",
+    "name": "Public Policy Research (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/public-policy-research.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_social_economy_cooperatives_and_the_non_profit_sector_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "social_economy_cooperatives_and_the_non_profit_sector_catalog_listing",
+    "name": "Social Economy Cooperatives And The Non Profit Sector (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/social-economy-cooperatives-and-the-non-profit-sector.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_university_of_saskatchewan_main_sustainable_water_management_catalog_listing",
+    "university_id": "u_university_of_saskatchewan",
+    "campus_id": "main",
+    "normalized_program_code": "sustainable_water_management_catalog_listing",
+    "name": "Sustainable Water Management (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.usask.ca/programs/sustainable-water-management.php",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5bd53bd0496a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  }
+]

@@ -1,1 +1,318 @@
-[]
+[
+  {
+    "project_id": "u_virginia_polytechnic_institute_and_state_university_main_accelerated_masters_programs",
+    "university_id": "u_virginia_polytechnic_institute_and_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "accelerated_masters_programs",
+    "name": "Accelerated Masters Programs",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://graduateschool.vt.edu/admissions/accelerated_masters_programs.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_c0110a823f6c",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-25",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d498de271953",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_04_25"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-26",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d498de271953",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_04_26"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_0e247f5db08b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_virginia_polytechnic_institute_and_state_university_main_program_contacts",
+    "university_id": "u_virginia_polytechnic_institute_and_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "program_contacts",
+    "name": "Program Contacts",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://graduateschool.vt.edu/academics/programs/program-contacts.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_c0110a823f6c",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-25",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d498de271953",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_04_25"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-26",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d498de271953",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_04_26"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_ceeaf560baa0",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_virginia_polytechnic_institute_and_state_university_main_master_of_engineering",
+    "university_id": "u_virginia_polytechnic_institute_and_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_engineering",
+    "name": "Master of Engineering",
+    "degree": "MasterofEngineering",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://iac.vt.edu/masters-degrees/meng-cs.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_c0110a823f6c",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-25",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d498de271953",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_04_25"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-26",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d498de271953",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_04_26"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_c0110a823f6c",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  },
+  {
+    "project_id": "u_virginia_polytechnic_institute_and_state_university_main_meng",
+    "university_id": "u_virginia_polytechnic_institute_and_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "meng",
+    "name": "MEng",
+    "degree": "MEng",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://iac.vt.edu/masters-degrees/meng-cs.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-01-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_c0110a823f6c",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_01_15"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-25",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d498de271953",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_04_25"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-26",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d498de271953",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2027_04_26"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_c0110a823f6c",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-01-15"
+  }
+]

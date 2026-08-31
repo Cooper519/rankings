@@ -2,10 +2,10 @@
   "schema_version": 1,
   "package_version": 1,
   "university_id": "u_boğaziçi_university",
-  "name": "Bogazici University",
+  "name": "Boğaziçi University",
   "country": "Turkey",
   "website": "https://bogazici.edu.tr",
-  "updated_at": "2026-08-23T14:42:44.551843Z",
-  "notes": "Scraped from official graduate programs listing. 41 programs found across 8 institutes.",
-  "converter": "web-scrape-v1"
+  "updated_at": "2026-08-28T10:36:06.256238+00:00",
+  "notes": "four-rankings scrape 27fall: pages=7 captured, programs=0 (0 with per-project facts), school_deadline=unknown, fees=unknown, issues=none",
+  "converter": "four-rankings-webfetch-v2"
 }

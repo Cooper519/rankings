@@ -1,1 +1,322 @@
-[]
+[
+  {
+    "project_id": "u_prince_mohammad_bin_fahd_university_main_master_in_future_studies_graduate_degree_programs_academics_pmu_prince_mohammad_",
+    "university_id": "u_prince_mohammad_bin_fahd_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_future_studies_graduate_degree_programs_academics_pmu_prince_mohammad_",
+    "name": "Master in Future Studies :: Graduate Degree Programs :: Academics :: PMU, Prince Mohammad Bin Fahd University",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://pmu.edu.sa/Academics/master_in_future_studies_about",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_dbe617e38749",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_prince_mohammad_bin_fahd_university_main_about_mba_program",
+    "university_id": "u_prince_mohammad_bin_fahd_university",
+    "campus_id": "main",
+    "normalized_program_code": "about_mba_program",
+    "name": "About MBA Program",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.pmu.edu.sa/Academics/About_MBA_GDP.aspx",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_0eabc04753eb",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_prince_mohammad_bin_fahd_university_main_why_an_mba_from_pmu_mba_academics_pmu_prince_mohammad_bin_fahd_university",
+    "university_id": "u_prince_mohammad_bin_fahd_university",
+    "campus_id": "main",
+    "normalized_program_code": "why_an_mba_from_pmu_mba_academics_pmu_prince_mohammad_bin_fahd_university",
+    "name": "Why an MBA from PMU :: MBA :: Academics :: PMU, Prince Mohammad Bin Fahd University",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.pmu.edu.sa/Academics/Why_MBA_GDP.aspx",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_f9f200b64f99",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_prince_mohammad_bin_fahd_university_main_mba_admissions_requirements",
+    "university_id": "u_prince_mohammad_bin_fahd_university",
+    "campus_id": "main",
+    "normalized_program_code": "mba_admissions_requirements",
+    "name": "MBA Admissions Requirements",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.pmu.edu.sa/Admission/Admissions_Requirements_MBA_GDP.aspx",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "83"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Admission Criteria Educational Background: A Bachelor’s Degree from a recognized university A minimum GPA of 2."
+          },
+          "notes": "",
+          "source_id": "src_23a1e20fb60a",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; lang:TOEFL iBT 83"
+  },
+  {
+    "project_id": "u_prince_mohammad_bin_fahd_university_main_about_msc_future_studies",
+    "university_id": "u_prince_mohammad_bin_fahd_university",
+    "campus_id": "main",
+    "normalized_program_code": "about_msc_future_studies",
+    "name": "About MSc Future Studies",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://pmu.edu.sa/Academics/master_in_future_studies_about",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_02ebc56a7f5c",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_prince_mohammad_bin_fahd_university_main_admissions_to_the_mba_program",
+    "university_id": "u_prince_mohammad_bin_fahd_university",
+    "campus_id": "main",
+    "normalized_program_code": "admissions_to_the_mba_program",
+    "name": "Admissions to the MBA Program",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.pmu.edu.sa/Admission/Admissions_Requirements_MBA_GDP.aspx",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_02ebc56a7f5c",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_prince_mohammad_bin_fahd_university_main_why_mba",
+    "university_id": "u_prince_mohammad_bin_fahd_university",
+    "campus_id": "main",
+    "normalized_program_code": "why_mba",
+    "name": "Why MBA",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.pmu.edu.sa/Academics/Why_MBA_GDP.aspx",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_02ebc56a7f5c",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  }
+]

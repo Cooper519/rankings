@@ -4,8 +4,8 @@
   "university_id": "u_amirkabir_university_of_technology",
   "name": "Amirkabir University of Technology",
   "country": "Iran",
-  "website": "http://aut.ac.ir/www/aut/main/?l=3",
-  "updated_at": "2026-08-19T18:56:01.850393+00:00",
-  "notes": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping.",
-  "converter": "manual-webfetch-v1"
+  "website": "http://aut.ac.ir/",
+  "updated_at": "2026-08-30T09:36:32.467889+00:00",
+  "notes": "four-rankings scrape 27fall: pages=1 captured, programs=0 (0 with per-project facts), school_deadline=unknown, fees=unknown, issues=['homepage_http_404', 'homepage_path_404_fallback_to_root']",
+  "converter": "four-rankings-webfetch-v2"
 }

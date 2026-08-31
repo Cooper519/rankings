@@ -1,1 +1,862 @@
-[]
+[
+  {
+    "project_id": "u_soas_university_of_london_main_camhra_masters_scholarships",
+    "university_id": "u_soas_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "camhra_masters_scholarships",
+    "name": "Camhra Masters Scholarships",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.soas.ac.uk/study/student-life/finance/scholarships/camhra-masters-scholarships",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Applicants:For the scholarship for MA Medical Anthropology and Mental Health must hold a minimum 2:1 bachelor’s degree in a social science or humanities subject; OR in health sciences including medicine, psychology, nursing, social work."
+          },
+          "notes": "",
+          "source_id": "src_8561422b9ece",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_soas_university_of_london_main_postgraduate_certificate_asian_art_online_scholarship",
+    "university_id": "u_soas_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "postgraduate_certificate_asian_art_online_scholarship",
+    "name": "Postgraduate Certificate Asian Art Online Scholarship",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.soas.ac.uk/study/student-life/finance/scholarships/postgraduate-certificate-asian-art-online-scholarship",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-06-30",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_53bf2a10caad",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_06_30"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_53bf2a10caad",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-06-30"
+  },
+  {
+    "project_id": "u_soas_university_of_london_main_csjr_postgraduate_student_bursary",
+    "university_id": "u_soas_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "csjr_postgraduate_student_bursary",
+    "name": "Csjr Postgraduate Student Bursary",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.soas.ac.uk/study/student-life/finance/scholarships/csjr-postgraduate-student-bursary",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-28",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_145700412ba5",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_28"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_145700412ba5",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-08-28"
+  },
+  {
+    "project_id": "u_soas_university_of_london_main_soas_masters_scholarships",
+    "university_id": "u_soas_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "soas_masters_scholarships",
+    "name": "Soas Masters Scholarships",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.soas.ac.uk/study/student-life/finance/scholarships/soas-masters-scholarships",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-06-30",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65890efa97c9",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_06_30"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_65890efa97c9",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_7000_gbp",
+            "type": "tuition",
+            "amount": "7000",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "ements.There are up to 30 scholarships available for 2026/27. Each award covers £7,000 towards tuition fees. The scholarship is for 1 year only and will be applied in",
+            "source_id": "src_65890efa97c9",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_3500_gbp",
+            "type": "tuition",
+            "amount": "3500",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "2-year courses, the award will be split across both academic years and provide £3,500 towards tuition fees in both 2026/27 and 2027/28.Eligible programmesAny full-ti",
+            "source_id": "src_65890efa97c9",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-06-30; fee:GBP7000/unknown(international)"
+  },
+  {
+    "project_id": "u_soas_university_of_london_main_masters_loan",
+    "university_id": "u_soas_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "masters_loan",
+    "name": "Masters Loan",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.soas.ac.uk/study/fees-and-funding/postgraduate-funding/masters-loan",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_4e0b8bb3e1f1",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_13206_gbp",
+            "type": "tuition",
+            "amount": "13206",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "ample, if you’re studying a two-year masters and taking out the maximum loan of £13,206 you’ll receive £6,603 in year 1 and year 2. Paying your tuition fees If you’re",
+            "source_id": "src_4e0b8bb3e1f1",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_6603_gbp",
+            "type": "tuition",
+            "amount": "6603",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "ng a two-year masters and taking out the maximum loan of £13,206 you’ll receive £6,603 in year 1 and year 2. Paying your tuition fees If you’re studying an on-campus",
+            "source_id": "src_4e0b8bb3e1f1",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_1500_gbp",
+            "type": "tuition",
+            "amount": "1500",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "nts that align with your loan payments dates (if your annual fees are more than £1,500). Find out about the deadlines by which to pay fees and how to make your paymen",
+            "source_id": "src_4e0b8bb3e1f1",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:GBP13206/unknown(international)"
+  },
+  {
+    "project_id": "u_soas_university_of_london_main_doctoral_loan",
+    "university_id": "u_soas_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "doctoral_loan",
+    "name": "Doctoral Loan",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.soas.ac.uk/study/fees-and-funding/postgraduate-funding/doctoral-loan",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_4fa47739279a",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_1500_gbp",
+            "type": "tuition",
+            "amount": "1500",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "nts that align with your loan payments dates (if your annual fees are more than £1,500). Find out about the deadlines to pay fees by and how to make your payments You",
+            "source_id": "src_4fa47739279a",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:GBP1500/year(international)"
+  },
+  {
+    "project_id": "u_soas_university_of_london_main_postgraduate_research_scholarships",
+    "university_id": "u_soas_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "postgraduate_research_scholarships",
+    "name": "Postgraduate Research Scholarships",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.soas.ac.uk/study/fees-and-funding/scholarships-bursaries-and-awards/postgraduate-research-scholarships",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_da71f555ebcb",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_soas_university_of_london_main_commonwealth_shared_scholarships",
+    "university_id": "u_soas_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "commonwealth_shared_scholarships",
+    "name": "Commonwealth Shared Scholarships",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.soas.ac.uk/study/student-life/finance/scholarships/commonwealth-shared-scholarships",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_9606ec2111b0",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_soas_university_of_london_main_dr_hettie_elgood_scholarship",
+    "university_id": "u_soas_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "dr_hettie_elgood_scholarship",
+    "name": "Dr Hettie Elgood Scholarship",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.soas.ac.uk/study/student-life/finance/scholarships/dr-hettie-elgood-scholarship",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5baad6d15f05",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_soas_university_of_london_main_dr_mai_yamani_scholarship",
+    "university_id": "u_soas_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "dr_mai_yamani_scholarship",
+    "name": "Dr Mai Yamani Scholarship",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.soas.ac.uk/study/student-life/finance/scholarships/dr-mai-yamani-scholarship",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_bb8f4aab831c",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_17340_gbp",
+            "type": "tuition",
+            "amount": "17340",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "aq or Yemen.Each award will provide tuition fees in full and a stipend of up to £17,340 to support living and study costs. There will also be one Dr Mai Yamani Scholar",
+            "source_id": "src_bb8f4aab831c",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_3340_gbp",
+            "type": "tuition",
+            "amount": "3340",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "lege. This scholarship will cover tuition fees in full, accommodation and up to £3,340 to be paid to the awardee. Eligible programmes Any full-time (1 year) taught ma",
+            "source_id": "src_bb8f4aab831c",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:GBP17340/unknown(international)"
+  },
+  {
+    "project_id": "u_soas_university_of_london_main_economic_and_social_research_council_esrc_studentships",
+    "university_id": "u_soas_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "economic_and_social_research_council_esrc_studentships",
+    "name": "Economic And Social Research Council Esrc Studentships",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.soas.ac.uk/study/student-life/finance/scholarships/economic-and-social-research-council-esrc-studentships",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_f551558103ba",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_22780_gbp",
+            "type": "tuition",
+            "amount": "22780",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "7 an UBEL studentship will cover tuition fees of £5006 and a minimum stipend of £22,780. This figure includes the London Allowance.We offer a wide range of disciplinar",
+            "source_id": "src_f551558103ba",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; fee:GBP22780/unknown(international)"
+  },
+  {
+    "project_id": "u_soas_university_of_london_main_felix_scholarships",
+    "university_id": "u_soas_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "felix_scholarships",
+    "name": "Felix Scholarships",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.soas.ac.uk/study/student-life/finance/scholarships/felix-scholarships",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Have at least a first class bachelors degree from an Indian university or comparable institution."
+          },
+          "notes": "",
+          "source_id": "src_d4914a56a248",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_soas_university_of_london_main_felix_non_indian_scholarship",
+    "university_id": "u_soas_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "felix_non_indian_scholarship",
+    "name": "Felix Non Indian Scholarship",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.soas.ac.uk/study/student-life/finance/scholarships/felix-non-indian-scholarship",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Candidates must have a first class Bachelor's degree from a university or comparable institution."
+          },
+          "notes": "",
+          "source_id": "src_cf9c32d8ee6d",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_soas_university_of_london_main_international_funding_catalog_listing",
+    "university_id": "u_soas_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "international_funding_catalog_listing",
+    "name": "International Funding (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.soas.ac.uk/study/fees-and-funding/international-funding",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Step 2: Check the entry requirements Open Academic For our Master’s programmes, we will consider a 2:2 or above Bachelor (honours) degree or international equivalent."
+          },
+          "notes": "",
+          "source_id": "src_37ca44f6e1ea",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_soas_university_of_london_main_eddid_financial_international_bursaries_catalog_listing",
+    "university_id": "u_soas_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "eddid_financial_international_bursaries_catalog_listing",
+    "name": "Eddid Financial International Bursaries (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.soas.ac.uk/study/student-life/finance/scholarships/eddid-financial-international-bursaries",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Step 2: Check the entry requirements Open Academic For our Master’s programmes, we will consider a 2:2 or above Bachelor (honours) degree or international equivalent."
+          },
+          "notes": "",
+          "source_id": "src_37ca44f6e1ea",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_soas_university_of_london_main_soas_international_academic_excellence_scholarship_catalog_listing",
+    "university_id": "u_soas_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "soas_international_academic_excellence_scholarship_catalog_listing",
+    "name": "Soas International Academic Excellence Scholarship (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.soas.ac.uk/study/student-life/finance/scholarships/soas-international-academic-excellence-scholarship",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Step 2: Check the entry requirements Open Academic For our Master’s programmes, we will consider a 2:2 or above Bachelor (honours) degree or international equivalent."
+          },
+          "notes": "",
+          "source_id": "src_37ca44f6e1ea",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  }
+]

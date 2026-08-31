@@ -1,11 +1,42 @@
 [
   {
-    "source_id": "src_8b9f22bc75d1",
-    "url": "https://www.universitatdevalencia.edu",
+    "source_id": "src_ce2b0c7de047",
+    "url": "https://www.uv.es/",
     "source_type": "official_web",
-    "retrieved_at": "2026-08-19T18:56:01.850393+00:00",
-    "verification_status": "blocked",
-    "title": "Universitat de Valencia Official Website",
-    "evidence_text": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping."
+    "retrieved_at": "2026-08-30T08:18:07.705142+00:00",
+    "verification_status": "extracted",
+    "title": "Universitat de València",
+    "content_hash": "sha256:002ddaba9ee20a366106859d28c5abdcd95873b558f1f60156eba64e1f5d165e",
+    "evidence_text": "Universitat de València Estudiants Futurs estudiantsEstudiants UV PDI RRHH PDIGestió de la InvestigacióTransferència i InnovacióGDI PTGAS RRHH PTGASGDH Empresa CastellanoEnglish DirectoriFacultats i EscolesDepartamentsServeisInstituts Investigació i ERIGrups d'InvestigacióAltres estructuresEquip de "
+  },
+  {
+    "source_id": "src_3900528c6e52",
+    "url": "https://www.uv.es/masters",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T08:18:26.340082+00:00",
+    "verification_status": "extracted",
+    "title": "Màsters",
+    "content_hash": "sha256:32c46a21cefdd0093273407a453519240b13f80970b56219706188def7c1d8af",
+    "evidence_text": "Màsters 2022-2023 Desplegar idioma CastellanoEnglish Share Desplegar Xarxes Socials Facebook Twitter Youtube Linkedin Instagram TikTok Bluesky Pinterest Desplegar ayuda FAQ Informació i assistència tècnica MENU Desplegar navegacion Màsters oficials Oferta de Màsters Oficials Preinscripció / Admissió"
+  },
+  {
+    "source_id": "src_c9271005659c",
+    "url": "https://www.uv.es/master-economia",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T08:19:07.910803+00:00",
+    "verification_status": "extracted",
+    "title": "Master's Degree in EconomicsreCAPTCHAYouTubereCAPTCHA",
+    "content_hash": "sha256:b4c6338a68d67580d350cb39be67e03af15025febc462e31c94b23d4c60f975e",
+    "evidence_text": "Master's Degree in Economics CastellanoValencià DirectoryFaculties and SchoolsDepartmentsServicesResearch Institutes and Structures of Interdisciplinary ResearchResearch GroupsOther structuresGovernment teamOther University bodiesAssociated institutionsInstitution ChairsPerson FinderMapsTelephone Di"
+  },
+  {
+    "source_id": "src_5eb7121baee2",
+    "url": "https://www.uv.es/postgraduate",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-30T08:20:49.311330+00:00",
+    "verification_status": "extracted",
+    "title": "Universitat de València",
+    "content_hash": "sha256:b764cc402004987806695cee8169bf87cdebba136e9c37e64151aea19b089f66",
+    "evidence_text": "Universitat de València Universitat de València Welcome to the most advanced knowledge. The Universitat de València offers a wide range of postgraduate studies, with great quality and innovators, which cover all the branches of knowledge. Here you will find all the Postgraduate Official Master’s Deg"
   }
 ]

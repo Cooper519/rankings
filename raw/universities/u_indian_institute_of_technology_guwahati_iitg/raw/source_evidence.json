@@ -1,160 +1,88 @@
 {
-  "scraped_at": "2026-08-23T14:41:09.672818Z",
-  "sources": [
+  "captured_at": "2026-08-28T07:24:35.266219+00:00",
+  "status": "extracted",
+  "pages": [
     {
-      "url": "https://www.iitg.ac.in/iitg_page_details.php?page=58/academic-programmes",
-      "title": "IITG Academic Programmes",
-      "evidence_text": "Lists all M.Tech, M.Sc, M.A., M.Des, MBA programs."
+      "url": "https://www.iitg.ac.in",
+      "http_status": 200,
+      "title": "Indian Institute of Technology Guwahati : भारतीय प्रौद्योगिकी संस्थान गुवाहाटी",
+      "class": "navigation",
+      "content_hash": "sha256:1d768a5e87445cf5c4e0631351ad6a6e67f037bb890c8d76e3aa3d991de87c03",
+      "retrieved_at": "2026-08-28T07:23:50.333068+00:00",
+      "text_snippet": "Indian Institute of Technology Guwahati : भारतीय प्रौद्योगिकी संस्थान गुवाहाटी Welcome to IIT Guwahati IIT Guwahati is ranked 8th in Engineering Category in NIRF-2025 DONATE | - + हिन्दी IITG Email Screen Reader Looking for.. Search on IITG × SEARCH ACADEMICS PEOPLE NEWS & EVENTS Institute About IITG About Us New Vision & Mission New Past Directors New Campus Map New Campus Life New Administration Board of Governors Senate IITG Administration Finance Committee Building & Works Committee Reports "
     },
     {
-      "url": "https://www.iitg.ac.in/iitg_academic?aca=computer-science-and-engineering",
-      "title": "CSE Department",
-      "evidence_text": "M.Tech in CSE, admission via GATE/COAP."
+      "url": "https://www.iitg.ac.in/iitg_news_details.php?p=3960/applications-are-invited-from-eligible-international-candidates-for-july-2026-session",
+      "http_status": 200,
+      "title": "Indian Institute of Technology Guwahati : भारतीय प्रौद्योगिकी संस्थान गुवाहाटी",
+      "class": "navigation",
+      "content_hash": "sha256:7c6f5afb25e3fa9a44fe3ed2c51ebc89f8518236919f00588a1bc9f5262d8c2b",
+      "retrieved_at": "2026-08-28T07:23:53.684839+00:00",
+      "text_snippet": "Indian Institute of Technology Guwahati : भारतीय प्रौद्योगिकी संस्थान गुवाहाटी Welcome to IIT Guwahati IIT Guwahati is ranked 8th in Engineering Category in NIRF-2025 DONATE | - + हिन्दी IITG Email Screen Reader Looking for.. Search on IITG × SEARCH ACADEMICS PEOPLE NEWS & EVENTS Institute About IITG About Us New Vision & Mission New Past Directors New Campus Map New Campus Life New Administration Board of Governors Senate IITG Administration Finance Committee Building & Works Committee Reports "
     },
     {
       "url": "https://www.iitg.ac.in/acad/admission/",
-      "title": "IITG Admissions",
-      "evidence_text": "Admission via GATE for M.Tech, JAM for M.Sc, CAT for MBA, CEED for M.Des."
+      "http_status": 200,
+      "title": "Indian Institute of Technology Guwahati",
+      "class": "navigation",
+      "content_hash": "sha256:5ff66ba6d643e5d3a0de15386a3400ddfac3238d44aad21b825689021dfad46c",
+      "retrieved_at": "2026-08-28T07:23:55.974070+00:00",
+      "text_snippet": "﻿ Indian Institute of Technology Guwahati ﻿ IITG Admission Home Doctoral PhD Disciplines Joint Degree PhD Programme with IIT (BHU) Project Mode Special Scheme for CSIR/UGC-JRF Visvesvaraya PhD Scheme Master’s Degree Option Eligibility Studentship Categories Master's Master of Science (by Research) Disciplines Eligibility Studentship Categories Master of Technology Disciplines Eligibility Studentship Categories Master of Design Disciplines Eligibility Studentship Categories Master of Arts Discipl"
+    },
+    {
+      "url": "https://iitg.ac.in/acad/admission/spotround26.php",
+      "http_status": 200,
+      "title": "Indian Institute of Technology Guwahati",
+      "class": "navigation",
+      "content_hash": "sha256:cfc5945b35d82d3c270bf0de52df193be7843da824c9eea9f32b4f687d13e1f1",
+      "retrieved_at": "2026-08-28T07:23:58.599397+00:00",
+      "text_snippet": "﻿ Indian Institute of Technology Guwahati ﻿ IITG Admission Home Doctoral PhD Disciplines Joint Degree PhD Programme with IIT (BHU) Project Mode Special Scheme for CSIR/UGC-JRF Visvesvaraya PhD Scheme Master’s Degree Option Eligibility Studentship Categories Master's Master of Science (by Research) Disciplines Eligibility Studentship Categories Master of Technology Disciplines Eligibility Studentship Categories Master of Design Disciplines Eligibility Studentship Categories Master of Arts Discipl"
+    },
+    {
+      "url": "https://iitg.ac.in/acad/admission/master/disciplines.php",
+      "http_status": 200,
+      "title": "Indian Institute of Technology Guwahati",
+      "class": "concrete_program",
+      "content_hash": "sha256:d3f122a6e8949fb00eb2be4af475e258f68cac346198b8e55791a6a2f686d52c",
+      "retrieved_at": "2026-08-28T07:24:00.756475+00:00",
+      "text_snippet": "Indian Institute of Technology Guwahati ﻿ IITG Admission Home Doctoral PhD Disciplines Joint Degree PhD Programme with IIT (BHU) Project Mode Special Scheme for CSIR/UGC-JRF Visvesvaraya PhD Scheme Master’s Degree Option Eligibility Studentship Categories Master's Master of Science (by Research) Disciplines Eligibility Studentship Categories Master of Technology Disciplines Eligibility Studentship Categories Master of Design Disciplines Eligibility Studentship Categories Master of Arts Disciplin"
+    },
+    {
+      "url": "https://iitg.ac.in/acad/admission/master/eligibility.php",
+      "http_status": 200,
+      "title": "Indian Institute of Technology Guwahati",
+      "class": "concrete_program",
+      "content_hash": "sha256:dbc62bbc88213603b2da6a77d04b5ac9ce18bd985065ae8ca7fd9cab593c53a0",
+      "retrieved_at": "2026-08-28T07:24:03.094585+00:00",
+      "text_snippet": "Indian Institute of Technology Guwahati ﻿ IITG Admission Home Doctoral PhD Disciplines Joint Degree PhD Programme with IIT (BHU) Project Mode Special Scheme for CSIR/UGC-JRF Visvesvaraya PhD Scheme Master’s Degree Option Eligibility Studentship Categories Master's Master of Science (by Research) Disciplines Eligibility Studentship Categories Master of Technology Disciplines Eligibility Studentship Categories Master of Design Disciplines Eligibility Studentship Categories Master of Arts Disciplin"
+    },
+    {
+      "url": "https://iitg.ac.in/acad/admission/master/mba.php",
+      "http_status": 200,
+      "title": "Indian Institute of Technology Guwahati",
+      "class": "concrete_program",
+      "content_hash": "sha256:a66b19f383c5ac29f0d20fa0739c1b44b5e19b5492cf953b6fdfceb7a769adce",
+      "retrieved_at": "2026-08-28T07:24:05.428747+00:00",
+      "text_snippet": "Indian Institute of Technology Guwahati ﻿ IITG Admission Home Doctoral PhD Disciplines Joint Degree PhD Programme with IIT (BHU) Project Mode Special Scheme for CSIR/UGC-JRF Visvesvaraya PhD Scheme Master’s Degree Option Eligibility Studentship Categories Master's Master of Science (by Research) Disciplines Eligibility Studentship Categories Master of Technology Disciplines Eligibility Studentship Categories Master of Design Disciplines Eligibility Studentship Categories Master of Arts Disciplin"
+    },
+    {
+      "url": "https://iitg.ac.in/acad/admission/pg_admission/mba.php",
+      "http_status": 200,
+      "title": "Indian Institute of Technology Guwahati",
+      "class": "concrete_program",
+      "content_hash": "sha256:49929739bad88ccbd1dde48e3fbd2d5d56b70e80264b7e9460443cec1b4499b5",
+      "retrieved_at": "2026-08-28T07:24:07.372216+00:00",
+      "text_snippet": "Indian Institute of Technology Guwahati ﻿ IITG Admission Home Doctoral PhD Disciplines Joint Degree PhD Programme with IIT (BHU) Project Mode Special Scheme for CSIR/UGC-JRF Visvesvaraya PhD Scheme Master’s Degree Option Eligibility Studentship Categories Master's Master of Science (by Research) Disciplines Eligibility Studentship Categories Master of Technology Disciplines Eligibility Studentship Categories Master of Design Disciplines Eligibility Studentship Categories Master of Arts Disciplin"
+    },
+    {
+      "url": "https://www.iitg.ac.in/iitg_news_details.php?p=4038/admission-to-pg-mtech-mdes-msr-ma-programmes-for-july-2026-session",
+      "http_status": 200,
+      "title": "Indian Institute of Technology Guwahati : भारतीय प्रौद्योगिकी संस्थान गुवाहाटी",
+      "class": "concrete_program",
+      "content_hash": "sha256:80de2ad584e8fbf1a9ece0d44a42cc955f44864ecaec2009f448fdc2633f01e4",
+      "retrieved_at": "2026-08-28T07:24:10.605726+00:00",
+      "text_snippet": "Indian Institute of Technology Guwahati : भारतीय प्रौद्योगिकी संस्थान गुवाहाटी Welcome to IIT Guwahati IIT Guwahati is ranked 8th in Engineering Category in NIRF-2025 DONATE | - + हिन्दी IITG Email Screen Reader Looking for.. Search on IITG × SEARCH ACADEMICS PEOPLE NEWS & EVENTS Institute About IITG About Us New Vision & Mission New Past Directors New Campus Map New Campus Life New Administration Board of Governors Senate IITG Administration Finance Committee Building & Works Committee Reports "
     }
   ],
-  "programs": [
-    {
-      "name": "M.Tech in Computer Science and Engineering",
-      "degree": "M.Tech",
-      "department": "Department of Computer Science and Engineering",
-      "official_url": "https://www.iitg.ac.in/iitg_academic?aca=computer-science-and-engineering"
-    },
-    {
-      "name": "M.Tech in Electronics and Electrical Engineering",
-      "degree": "M.Tech",
-      "department": "Department of Electronics and Electrical Engineering",
-      "official_url": "https://www.iitg.ac.in/iitg_academic?aca=electronics-and-electrical-engineering"
-    },
-    {
-      "name": "M.Tech in Mechanical Engineering",
-      "degree": "M.Tech",
-      "department": "Department of Mechanical Engineering",
-      "official_url": "https://www.iitg.ac.in/iitg_academic?aca=mechanical-engineering"
-    },
-    {
-      "name": "M.Tech in Civil Engineering",
-      "degree": "M.Tech",
-      "department": "Department of Civil Engineering",
-      "official_url": "https://www.iitg.ac.in/iitg_academic?aca=civil-engineering"
-    },
-    {
-      "name": "M.Tech in Chemical Engineering",
-      "degree": "M.Tech",
-      "department": "Department of Chemical Engineering",
-      "official_url": "https://www.iitg.ac.in/iitg_academic?aca=chemical-engineering"
-    },
-    {
-      "name": "M.Tech in Biotechnology",
-      "degree": "M.Tech",
-      "department": "Department of Biosciences and Bioengineering",
-      "official_url": "https://www.iitg.ac.in/iitg_academic?aca=biosciences-and-bioengineering"
-    },
-    {
-      "name": "M.Tech in Bioengineering",
-      "degree": "M.Tech",
-      "department": "Department of Biosciences and Bioengineering",
-      "official_url": "https://www.iitg.ac.in/iitg_academic?aca=biosciences-and-bioengineering"
-    },
-    {
-      "name": "M.Tech in Rural Technology",
-      "degree": "M.Tech",
-      "department": "School of Agro and Rural Technology",
-      "official_url": "https://www.iitg.ac.in/iitg_page_details.php?page=58/academic-programmes"
-    },
-    {
-      "name": "M.Tech in Data Science",
-      "degree": "M.Tech",
-      "department": "Mehta Family School of Data Science and AI",
-      "official_url": "https://www.iitg.ac.in/iitg_page_details.php?page=58/academic-programmes"
-    },
-    {
-      "name": "M.Tech in Robotics and Artificial Intelligence",
-      "degree": "M.Tech",
-      "department": "Intelligent Cyber Physical Systems",
-      "official_url": "https://www.iitg.ac.in/iitg_page_details.php?page=58/academic-programmes"
-    },
-    {
-      "name": "M.Tech in Food Science and Technology (Joint with Gifu University)",
-      "degree": "M.Tech",
-      "department": "Department of Chemical Engineering",
-      "official_url": "https://www.iitg.ac.in/iitg_page_details.php?page=58/academic-programmes"
-    },
-    {
-      "name": "M.Tech in Biomedical Science and Engineering",
-      "degree": "M.Tech",
-      "department": "Jyoti and Bhupat Mehta School of Health Sciences",
-      "official_url": "https://www.iitg.ac.in/iitg_page_details.php?page=58/academic-programmes"
-    },
-    {
-      "name": "M.Des in Design",
-      "degree": "M.Des",
-      "department": "Department of Design",
-      "official_url": "https://www.iitg.ac.in/iitg_academic?aca=design"
-    },
-    {
-      "name": "M.A. in Development Studies",
-      "degree": "M.A.",
-      "department": "Department of Humanities and Social Sciences",
-      "official_url": "https://www.iitg.ac.in/iitg_academic?aca=humanities-and-social-sciences"
-    },
-    {
-      "name": "M.A. in Liberal Arts",
-      "degree": "M.A.",
-      "department": "Department of Humanities and Social Sciences",
-      "official_url": "https://www.iitg.ac.in/iitg_academic?aca=humanities-and-social-sciences"
-    },
-    {
-      "name": "M.Sc in Physics",
-      "degree": "M.Sc",
-      "department": "Department of Physics",
-      "official_url": "https://www.iitg.ac.in/iitg_academic?aca=physics"
-    },
-    {
-      "name": "M.Sc in Chemistry",
-      "degree": "M.Sc",
-      "department": "Department of Chemistry",
-      "official_url": "https://www.iitg.ac.in/iitg_academic?aca=chemistry"
-    },
-    {
-      "name": "M.Sc in Mathematics and Computing",
-      "degree": "M.Sc",
-      "department": "Department of Mathematics",
-      "official_url": "https://www.iitg.ac.in/iitg_academic?aca=mathematics"
-    },
-    {
-      "name": "M.Sc in Mathematics",
-      "degree": "M.Sc",
-      "department": "Department of Mathematics",
-      "official_url": "https://www.iitg.ac.in/iitg_academic?aca=mathematics"
-    },
-    {
-      "name": "M.S.(R) in Energy Science and Engineering",
-      "degree": "M.S.",
-      "department": "School of Energy Science and Engineering",
-      "official_url": "https://www.iitg.ac.in/iitg_page_details.php?page=58/academic-programmes"
-    },
-    {
-      "name": "M.S.(R) in Disaster Management and Risk Reduction",
-      "degree": "M.S.",
-      "department": "Centre for Disaster Management and Research",
-      "official_url": "https://www.iitg.ac.in/iitg_page_details.php?page=58/academic-programmes"
-    },
-    {
-      "name": "M.S.(R) in Polymer Science and Technology",
-      "degree": "M.S.",
-      "department": "Centre for Sustainable Polymers",
-      "official_url": "https://www.iitg.ac.in/iitg_page_details.php?page=58/academic-programmes"
-    },
-    {
-      "name": "MBA",
-      "degree": "MBA",
-      "department": "School of Business",
-      "official_url": "https://www.iitg.ac.in/iitg_page_details.php?page=58/academic-programmes"
-    }
-  ]
+  "issues": []
 }

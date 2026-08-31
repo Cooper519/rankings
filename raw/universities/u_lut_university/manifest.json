@@ -5,7 +5,7 @@
   "name": "LUT University",
   "country": "Finland",
   "website": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/regular-admission-masters-studies/admission-0",
-  "updated_at": "2026-08-19T18:56:01.850393+00:00",
-  "notes": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping.",
-  "converter": "manual-webfetch-v1"
+  "updated_at": "2026-08-28T10:49:36.925850+00:00",
+  "notes": "four-rankings scrape 27fall: pages=20 captured, programs=48 (48 with per-project facts), school_deadline=2026-12-04, fees=yes, issues=none",
+  "converter": "four-rankings-webfetch-v2"
 }

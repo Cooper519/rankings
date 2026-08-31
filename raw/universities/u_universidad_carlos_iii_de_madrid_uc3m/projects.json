@@ -1,15 +1,14 @@
 [
   {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_international_advocacy",
+    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_social_networks",
     "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
     "campus_id": "main",
-    "normalized_program_code": "master_in_international_advocacy",
-    "name": "Master in International Advocacy",
-    "degree": "Master",
+    "normalized_program_code": "social_networks",
+    "name": "Social Networks",
+    "degree": null,
     "subject": null,
     "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/international-advocacy",
+    "official_url": "https://www.uc3m.es/postgraduate/social-networks",
     "admission_cycles": [
       {
         "cycle_id": "27fall",
@@ -18,63 +17,66 @@
         "status": "current",
         "timelines": [
           {
-            "timeline_id": "tl_master_in_international_advocacy_deadline",
             "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
+            "date_type": "exact",
+            "date": "2026-07-10",
             "date_end": null,
-            "applicant_group": "all",
+            "applicant_group": null,
             "round": null,
-            "source_id": "src_9de8ff1bac92",
-            "verification_status": "needs_review"
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_07_10"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-09-03",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_09_03"
           }
         ],
         "requirements": {
           "language": {
             "status": "unknown",
-            "tests": [],
-            "source_id": "src_9de8ff1bac92",
-            "verification_status": "needs_review"
+            "tests": []
           },
           "gre": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_9de8ff1bac92",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "gmat": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_9de8ff1bac92",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "academic": {
             "status": "unknown",
-            "description": null,
-            "source_id": "src_9de8ff1bac92",
-            "verification_status": "needs_review"
+            "description": null
           },
           "notes": "",
-          "source_id": "src_9de8ff1bac92",
+          "source_id": "src_3e887478b296",
           "verification_status": "needs_review"
         },
         "fees": []
       }
     ],
     "status": "active",
-    "department": "Graduate School of Law"
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-07-10"
   },
   {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_business_administration_mba",
+    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_school_law",
     "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
     "campus_id": "main",
-    "normalized_program_code": "master_in_business_administration_mba",
-    "name": "Master in Business Administration - MBA",
-    "degree": "Master",
+    "normalized_program_code": "school_law",
+    "name": "School Law",
+    "degree": null,
     "subject": null,
     "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/mba",
+    "official_url": "https://www.uc3m.es/postgraduate/school-law",
     "admission_cycles": [
       {
         "cycle_id": "27fall",
@@ -83,63 +85,66 @@
         "status": "current",
         "timelines": [
           {
-            "timeline_id": "tl_master_in_business_administration_mba_deadline",
             "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
+            "date_type": "exact",
+            "date": "2026-07-10",
             "date_end": null,
-            "applicant_group": "all",
+            "applicant_group": null,
             "round": null,
-            "source_id": "src_cd8268913d6c",
-            "verification_status": "needs_review"
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_07_10"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-09-03",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_09_03"
           }
         ],
         "requirements": {
           "language": {
             "status": "unknown",
-            "tests": [],
-            "source_id": "src_cd8268913d6c",
-            "verification_status": "needs_review"
+            "tests": []
           },
           "gre": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_cd8268913d6c",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "gmat": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_cd8268913d6c",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "academic": {
             "status": "unknown",
-            "description": null,
-            "source_id": "src_cd8268913d6c",
-            "verification_status": "needs_review"
+            "description": null
           },
           "notes": "",
-          "source_id": "src_cd8268913d6c",
+          "source_id": "src_a4cb4a1e0dfa",
           "verification_status": "needs_review"
         },
         "fees": []
       }
     ],
     "status": "active",
-    "department": "Graduate School of Business"
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-07-10"
   },
   {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_finance",
+    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_school_business",
     "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
     "campus_id": "main",
-    "normalized_program_code": "master_in_finance",
-    "name": "Master in Finance",
-    "degree": "Master",
+    "normalized_program_code": "school_business",
+    "name": "School Business",
+    "degree": null,
     "subject": null,
     "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/finance",
+    "official_url": "https://www.uc3m.es/postgraduate/school-business",
     "admission_cycles": [
       {
         "cycle_id": "27fall",
@@ -148,63 +153,66 @@
         "status": "current",
         "timelines": [
           {
-            "timeline_id": "tl_master_in_finance_deadline",
             "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
+            "date_type": "exact",
+            "date": "2026-07-10",
             "date_end": null,
-            "applicant_group": "all",
+            "applicant_group": null,
             "round": null,
-            "source_id": "src_038d4ca3b29d",
-            "verification_status": "needs_review"
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_07_10"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-09-03",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_09_03"
           }
         ],
         "requirements": {
           "language": {
             "status": "unknown",
-            "tests": [],
-            "source_id": "src_038d4ca3b29d",
-            "verification_status": "needs_review"
+            "tests": []
           },
           "gre": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_038d4ca3b29d",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "gmat": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_038d4ca3b29d",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_038d4ca3b29d",
-            "verification_status": "needs_review"
+            "status": "required",
+            "description": "tion from the AACSB, an international organization that recognizes the top centers of higher learning worldwide for teaching quality at the bachelor’s, master’s and doctoral level, and for its research into the areas of business administration, accounting, finance and marketing."
           },
           "notes": "",
-          "source_id": "src_038d4ca3b29d",
+          "source_id": "src_a3737fbb622e",
           "verification_status": "needs_review"
         },
         "fees": []
       }
     ],
     "status": "active",
-    "department": "Graduate School of Business"
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-07-10"
   },
   {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_human_resources_management",
+    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_school_economics_politicalscience",
     "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
     "campus_id": "main",
-    "normalized_program_code": "master_in_human_resources_management",
-    "name": "Master in Human Resources Management",
-    "degree": "Master",
+    "normalized_program_code": "school_economics_politicalscience",
+    "name": "School Economics Politicalscience",
+    "degree": null,
     "subject": null,
     "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/human-resources",
+    "official_url": "https://www.uc3m.es/postgraduate/school-economics-politicalscience",
     "admission_cycles": [
       {
         "cycle_id": "27fall",
@@ -213,63 +221,66 @@
         "status": "current",
         "timelines": [
           {
-            "timeline_id": "tl_master_in_human_resources_management_deadline",
             "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
+            "date_type": "exact",
+            "date": "2026-07-10",
             "date_end": null,
-            "applicant_group": "all",
+            "applicant_group": null,
             "round": null,
-            "source_id": "src_4a1046629ccb",
-            "verification_status": "needs_review"
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_07_10"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-09-03",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_09_03"
           }
         ],
         "requirements": {
           "language": {
             "status": "unknown",
-            "tests": [],
-            "source_id": "src_4a1046629ccb",
-            "verification_status": "needs_review"
+            "tests": []
           },
           "gre": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_4a1046629ccb",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "gmat": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_4a1046629ccb",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "academic": {
             "status": "unknown",
-            "description": null,
-            "source_id": "src_4a1046629ccb",
-            "verification_status": "needs_review"
+            "description": null
           },
           "notes": "",
-          "source_id": "src_4a1046629ccb",
+          "source_id": "src_a33f8c312aa8",
           "verification_status": "needs_review"
         },
         "fees": []
       }
     ],
     "status": "active",
-    "department": "Graduate School of Business"
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-07-10"
   },
   {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_management",
+    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_school_humanities_communication",
     "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
     "campus_id": "main",
-    "normalized_program_code": "master_in_management",
-    "name": "Master in Management",
-    "degree": "Master",
+    "normalized_program_code": "school_humanities_communication",
+    "name": "School Humanities Communication",
+    "degree": null,
     "subject": null,
     "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/management",
+    "official_url": "https://www.uc3m.es/postgraduate/school-humanities-communication",
     "admission_cycles": [
       {
         "cycle_id": "27fall",
@@ -278,63 +289,66 @@
         "status": "current",
         "timelines": [
           {
-            "timeline_id": "tl_master_in_management_deadline",
             "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
+            "date_type": "exact",
+            "date": "2026-07-10",
             "date_end": null,
-            "applicant_group": "all",
+            "applicant_group": null,
             "round": null,
-            "source_id": "src_5db5de246bb3",
-            "verification_status": "needs_review"
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_07_10"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-09-03",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_09_03"
           }
         ],
         "requirements": {
           "language": {
             "status": "unknown",
-            "tests": [],
-            "source_id": "src_5db5de246bb3",
-            "verification_status": "needs_review"
+            "tests": []
           },
           "gre": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_5db5de246bb3",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "gmat": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_5db5de246bb3",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "academic": {
             "status": "unknown",
-            "description": null,
-            "source_id": "src_5db5de246bb3",
-            "verification_status": "needs_review"
+            "description": null
           },
           "notes": "",
-          "source_id": "src_5db5de246bb3",
+          "source_id": "src_e8c1e0fb4054",
           "verification_status": "needs_review"
         },
         "fees": []
       }
     ],
     "status": "active",
-    "department": "Graduate School of Business"
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-07-10"
   },
   {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_msc_in_marketing",
+    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_school_of_engineering",
     "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
     "campus_id": "main",
-    "normalized_program_code": "msc_in_marketing",
-    "name": "MSc in Marketing",
-    "degree": "Master",
+    "normalized_program_code": "school_of_engineering",
+    "name": "School Of Engineering",
+    "degree": null,
     "subject": null,
     "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/marketing",
+    "official_url": "https://www.uc3m.es/postgraduate/school-of-engineering",
     "admission_cycles": [
       {
         "cycle_id": "27fall",
@@ -343,63 +357,66 @@
         "status": "current",
         "timelines": [
           {
-            "timeline_id": "tl_msc_in_marketing_deadline",
             "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
+            "date_type": "exact",
+            "date": "2026-07-10",
             "date_end": null,
-            "applicant_group": "all",
+            "applicant_group": null,
             "round": null,
-            "source_id": "src_5d702893f1db",
-            "verification_status": "needs_review"
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_07_10"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-09-03",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_09_03"
           }
         ],
         "requirements": {
           "language": {
             "status": "unknown",
-            "tests": [],
-            "source_id": "src_5d702893f1db",
-            "verification_status": "needs_review"
+            "tests": []
           },
           "gre": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_5d702893f1db",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "gmat": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_5d702893f1db",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "academic": {
             "status": "unknown",
-            "description": null,
-            "source_id": "src_5d702893f1db",
-            "verification_status": "needs_review"
+            "description": null
           },
           "notes": "",
-          "source_id": "src_5d702893f1db",
+          "source_id": "src_1f8026190060",
           "verification_status": "needs_review"
         },
         "fees": []
       }
     ],
     "status": "active",
-    "department": "Graduate School of Business"
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-07-10"
   },
   {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_business_and_finance_mres",
+    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_enrollment",
     "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
     "campus_id": "main",
-    "normalized_program_code": "master_in_business_and_finance_mres",
-    "name": "Master in Business and Finance (MRes)",
-    "degree": "Master",
+    "normalized_program_code": "enrollment",
+    "name": "Enrollment",
+    "degree": null,
     "subject": null,
     "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/business-finance",
+    "official_url": "https://www.uc3m.es/postgraduate/enrollment",
     "admission_cycles": [
       {
         "cycle_id": "27fall",
@@ -408,63 +425,66 @@
         "status": "current",
         "timelines": [
           {
-            "timeline_id": "tl_master_in_business_and_finance_mres_deadline",
             "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
+            "date_type": "exact",
+            "date": "2026-07-10",
             "date_end": null,
-            "applicant_group": "all",
+            "applicant_group": null,
             "round": null,
-            "source_id": "src_4fb664bd8d08",
-            "verification_status": "needs_review"
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_07_10"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-09-03",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_09_03"
           }
         ],
         "requirements": {
           "language": {
             "status": "unknown",
-            "tests": [],
-            "source_id": "src_4fb664bd8d08",
-            "verification_status": "needs_review"
+            "tests": []
           },
           "gre": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_4fb664bd8d08",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "gmat": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_4fb664bd8d08",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "academic": {
             "status": "unknown",
-            "description": null,
-            "source_id": "src_4fb664bd8d08",
-            "verification_status": "needs_review"
+            "description": null
           },
           "notes": "",
-          "source_id": "src_4fb664bd8d08",
+          "source_id": "src_9a659a30f08a",
           "verification_status": "needs_review"
         },
         "fees": []
       }
     ],
     "status": "active",
-    "department": "Graduate School of Business"
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-07-10"
   },
   {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_computational_social_science",
+    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_aid",
     "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
     "campus_id": "main",
-    "normalized_program_code": "master_in_computational_social_science",
-    "name": "Master in Computational Social Science",
-    "degree": "Master",
+    "normalized_program_code": "aid",
+    "name": "Aid",
+    "degree": null,
     "subject": null,
     "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/computational-social-science",
+    "official_url": "https://www.uc3m.es/postgraduate/aid",
     "admission_cycles": [
       {
         "cycle_id": "27fall",
@@ -473,63 +493,66 @@
         "status": "current",
         "timelines": [
           {
-            "timeline_id": "tl_master_in_computational_social_science_deadline",
             "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
+            "date_type": "exact",
+            "date": "2026-07-10",
             "date_end": null,
-            "applicant_group": "all",
+            "applicant_group": null,
             "round": null,
-            "source_id": "src_208fdea15862",
-            "verification_status": "needs_review"
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_07_10"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-09-03",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_09_03"
           }
         ],
         "requirements": {
           "language": {
             "status": "unknown",
-            "tests": [],
-            "source_id": "src_208fdea15862",
-            "verification_status": "needs_review"
+            "tests": []
           },
           "gre": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_208fdea15862",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "gmat": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_208fdea15862",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "academic": {
             "status": "unknown",
-            "description": null,
-            "source_id": "src_208fdea15862",
-            "verification_status": "needs_review"
+            "description": null
           },
           "notes": "",
-          "source_id": "src_208fdea15862",
+          "source_id": "src_d92e62738ef2",
           "verification_status": "needs_review"
         },
         "fees": []
       }
     ],
     "status": "active",
-    "department": "Graduate School of Economics and Political Science"
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-07-10"
   },
   {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_economic_development_and_growth_medeg",
+    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_study_in_english",
     "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
     "campus_id": "main",
-    "normalized_program_code": "master_in_economic_development_and_growth_medeg",
-    "name": "Master in Economic Development and Growth (MEDEG)",
-    "degree": "Master",
+    "normalized_program_code": "study_in_english",
+    "name": "Study In English",
+    "degree": null,
     "subject": null,
     "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/medeg",
+    "official_url": "https://www.uc3m.es/postgraduate/study-in-english",
     "admission_cycles": [
       {
         "cycle_id": "27fall",
@@ -538,63 +561,69 @@
         "status": "current",
         "timelines": [
           {
-            "timeline_id": "tl_master_in_economic_development_and_growth_medeg_deadline",
             "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
+            "date_type": "exact",
+            "date": "2026-07-10",
             "date_end": null,
-            "applicant_group": "all",
+            "applicant_group": null,
             "round": null,
-            "source_id": "src_d297da8c56d9",
-            "verification_status": "needs_review"
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_07_10"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-09-03",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_09_03"
           }
         ],
         "requirements": {
           "language": {
             "status": "unknown",
-            "tests": [],
-            "source_id": "src_d297da8c56d9",
-            "verification_status": "needs_review"
+            "tests": []
           },
           "gre": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_d297da8c56d9",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "gmat": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_d297da8c56d9",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "academic": {
             "status": "unknown",
-            "description": null,
-            "source_id": "src_d297da8c56d9",
-            "verification_status": "needs_review"
+            "description": null
           },
           "notes": "",
-          "source_id": "src_d297da8c56d9",
+          "source_id": "src_25bfc6860eca",
           "verification_status": "needs_review"
         },
         "fees": []
       }
     ],
     "status": "active",
-    "department": "Graduate School of Economics and Political Science"
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "from official page; deadline:exact:2026-07-10"
   },
   {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_economics",
+    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_school_of_graduate_studies",
     "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
     "campus_id": "main",
-    "normalized_program_code": "master_in_economics",
-    "name": "Master in Economics",
-    "degree": "Master",
+    "normalized_program_code": "school_of_graduate_studies",
+    "name": "School Of Graduate Studies",
+    "degree": null,
     "subject": null,
     "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/economics",
+    "official_url": "https://www.uc3m.es/postgraduate/school-of-graduate-studies",
     "admission_cycles": [
       {
         "cycle_id": "27fall",
@@ -603,63 +632,66 @@
         "status": "current",
         "timelines": [
           {
-            "timeline_id": "tl_master_in_economics_deadline",
             "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
+            "date_type": "exact",
+            "date": "2026-07-10",
             "date_end": null,
-            "applicant_group": "all",
+            "applicant_group": null,
             "round": null,
-            "source_id": "src_f1a612730aad",
-            "verification_status": "needs_review"
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_07_10"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-09-03",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_09_03"
           }
         ],
         "requirements": {
           "language": {
             "status": "unknown",
-            "tests": [],
-            "source_id": "src_f1a612730aad",
-            "verification_status": "needs_review"
+            "tests": []
           },
           "gre": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_f1a612730aad",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "gmat": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_f1a612730aad",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "academic": {
             "status": "unknown",
-            "description": null,
-            "source_id": "src_f1a612730aad",
-            "verification_status": "needs_review"
+            "description": null
           },
           "notes": "",
-          "source_id": "src_f1a612730aad",
+          "source_id": "src_938f861d4671",
           "verification_status": "needs_review"
         },
         "fees": []
       }
     ],
     "status": "active",
-    "department": "Graduate School of Economics and Political Science"
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-07-10"
   },
   {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_economics_of_competition_regulation_and",
+    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_general_information",
     "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
     "campus_id": "main",
-    "normalized_program_code": "master_in_economics_of_competition_regulation_and",
-    "name": "Master in Economics of Competition, Regulation and Markets",
-    "degree": "Master",
+    "normalized_program_code": "general_information",
+    "name": "General Information",
+    "degree": null,
     "subject": null,
     "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/crema",
+    "official_url": "https://www.uc3m.es/postgraduate/general-information",
     "admission_cycles": [
       {
         "cycle_id": "27fall",
@@ -668,63 +700,69 @@
         "status": "current",
         "timelines": [
           {
-            "timeline_id": "tl_master_in_economics_of_competition_regulation_and_deadline",
             "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
+            "date_type": "exact",
+            "date": "2026-07-10",
             "date_end": null,
-            "applicant_group": "all",
+            "applicant_group": null,
             "round": null,
-            "source_id": "src_d75fe29eb356",
-            "verification_status": "needs_review"
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_07_10"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-09-03",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_09_03"
           }
         ],
         "requirements": {
           "language": {
             "status": "unknown",
-            "tests": [],
-            "source_id": "src_d75fe29eb356",
-            "verification_status": "needs_review"
+            "tests": []
           },
           "gre": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_d75fe29eb356",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "gmat": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_d75fe29eb356",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "academic": {
             "status": "unknown",
-            "description": null,
-            "source_id": "src_d75fe29eb356",
-            "verification_status": "needs_review"
+            "description": null
           },
           "notes": "",
-          "source_id": "src_d75fe29eb356",
+          "source_id": "src_3456a79da428",
           "verification_status": "needs_review"
         },
         "fees": []
       }
     ],
     "status": "active",
-    "department": "Graduate School of Economics and Political Science"
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "from official page; deadline:exact:2026-07-10"
   },
   {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_european_economic_governance",
+    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_international_students_catalog_listing",
     "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
     "campus_id": "main",
-    "normalized_program_code": "master_in_european_economic_governance",
-    "name": "Master in European Economic Governance",
-    "degree": "Master",
+    "normalized_program_code": "international_students_catalog_listing",
+    "name": "International Students (catalog listing)",
+    "degree": null,
     "subject": null,
     "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/european-economic-governance",
+    "official_url": "https://www.uc3m.es/bachelor-degree/admission/application/international-students",
     "admission_cycles": [
       {
         "cycle_id": "27fall",
@@ -733,63 +771,66 @@
         "status": "current",
         "timelines": [
           {
-            "timeline_id": "tl_master_in_european_economic_governance_deadline",
             "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
+            "date_type": "exact",
+            "date": "2026-07-10",
             "date_end": null,
-            "applicant_group": "all",
+            "applicant_group": null,
             "round": null,
-            "source_id": "src_0cbdde50353d",
-            "verification_status": "needs_review"
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_07_10"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-09-03",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_09_03"
           }
         ],
         "requirements": {
           "language": {
             "status": "unknown",
-            "tests": [],
-            "source_id": "src_0cbdde50353d",
-            "verification_status": "needs_review"
+            "tests": []
           },
           "gre": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_0cbdde50353d",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "gmat": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_0cbdde50353d",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_0cbdde50353d",
-            "verification_status": "needs_review"
+            "status": "required",
+            "description": "\"Usage rules\" [Close] Bachelor's Degrees ES Search: Buscar en: uc3m."
           },
           "notes": "",
-          "source_id": "src_0cbdde50353d",
+          "source_id": "src_d0dad02c192e",
           "verification_status": "needs_review"
         },
         "fees": []
       }
     ],
     "status": "active",
-    "department": "Graduate School of Economics and Political Science"
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-07-10"
   },
   {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_geopolitics_and_strategic_studies",
+    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_international_dual_degrees_catalog_listing",
     "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
     "campus_id": "main",
-    "normalized_program_code": "master_in_geopolitics_and_strategic_studies",
-    "name": "Master in Geopolitics and Strategic Studies",
-    "degree": "Master",
+    "normalized_program_code": "international_dual_degrees_catalog_listing",
+    "name": "International Dual Degrees (catalog listing)",
+    "degree": null,
     "subject": null,
     "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/geopolitics",
+    "official_url": "https://www.uc3m.es/bachelor-degree/uc3m-plus/international-dual-degrees",
     "admission_cycles": [
       {
         "cycle_id": "27fall",
@@ -798,63 +839,66 @@
         "status": "current",
         "timelines": [
           {
-            "timeline_id": "tl_master_in_geopolitics_and_strategic_studies_deadline",
             "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
+            "date_type": "exact",
+            "date": "2026-07-10",
             "date_end": null,
-            "applicant_group": "all",
+            "applicant_group": null,
             "round": null,
-            "source_id": "src_b47fc0de5af5",
-            "verification_status": "needs_review"
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_07_10"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-09-03",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_09_03"
           }
         ],
         "requirements": {
           "language": {
             "status": "unknown",
-            "tests": [],
-            "source_id": "src_b47fc0de5af5",
-            "verification_status": "needs_review"
+            "tests": []
           },
           "gre": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_b47fc0de5af5",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "gmat": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_b47fc0de5af5",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_b47fc0de5af5",
-            "verification_status": "needs_review"
+            "status": "required",
+            "description": "\"Usage rules\" [Close] Bachelor's Degrees ES Search: Buscar en: uc3m."
           },
           "notes": "",
-          "source_id": "src_b47fc0de5af5",
+          "source_id": "src_d0dad02c192e",
           "verification_status": "needs_review"
         },
         "fees": []
       }
     ],
     "status": "active",
-    "department": "Graduate School of Economics and Political Science"
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-07-10"
   },
   {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_economic_analysis",
+    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_international_mobility_catalog_listing",
     "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
     "campus_id": "main",
-    "normalized_program_code": "master_in_economic_analysis",
-    "name": "Master in Economic Analysis",
-    "degree": "Master",
+    "normalized_program_code": "international_mobility_catalog_listing",
+    "name": "International Mobility (catalog listing)",
+    "degree": null,
     "subject": null,
     "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/economic-analysis",
+    "official_url": "https://www.uc3m.es/bachelor-degree/uc3m-plus/international-mobility",
     "admission_cycles": [
       {
         "cycle_id": "27fall",
@@ -863,2130 +907,54 @@
         "status": "current",
         "timelines": [
           {
-            "timeline_id": "tl_master_in_economic_analysis_deadline",
             "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
+            "date_type": "exact",
+            "date": "2026-07-10",
             "date_end": null,
-            "applicant_group": "all",
+            "applicant_group": null,
             "round": null,
-            "source_id": "src_6f77ff1a4db7",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_6f77ff1a4db7",
-            "verification_status": "needs_review"
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_07_10"
           },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_6f77ff1a4db7",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_6f77ff1a4db7",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_6f77ff1a4db7",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_6f77ff1a4db7",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Economics and Political Science"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_social_sciences",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_social_sciences",
-    "name": "Master in Social Sciences",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/social-sciences",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
           {
-            "timeline_id": "tl_master_in_social_sciences_deadline",
             "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
+            "date_type": "exact",
+            "date": "2026-09-03",
             "date_end": null,
-            "applicant_group": "all",
+            "applicant_group": null,
             "round": null,
-            "source_id": "src_83fd923383cf",
-            "verification_status": "needs_review"
+            "source_id": "src_d0dad02c192e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_09_03"
           }
         ],
         "requirements": {
           "language": {
             "status": "unknown",
-            "tests": [],
-            "source_id": "src_83fd923383cf",
-            "verification_status": "needs_review"
+            "tests": []
           },
           "gre": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_83fd923383cf",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "gmat": {
             "status": "unknown",
-            "min_score": null,
-            "source_id": "src_83fd923383cf",
-            "verification_status": "needs_review"
+            "min_score": null
           },
           "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_83fd923383cf",
-            "verification_status": "needs_review"
+            "status": "required",
+            "description": "\"Usage rules\" [Close] Bachelor's Degrees ES Search: Buscar en: uc3m."
           },
           "notes": "",
-          "source_id": "src_83fd923383cf",
+          "source_id": "src_d0dad02c192e",
           "verification_status": "needs_review"
         },
         "fees": []
       }
     ],
     "status": "active",
-    "department": "Graduate School of Economics and Political Science"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_aeronautical_engineering",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_aeronautical_engineering",
-    "name": "Master in Aeronautical Engineering",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/aeronautical-engineering",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_aeronautical_engineering_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_6f18f5febd70",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_6f18f5febd70",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_6f18f5febd70",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_6f18f5febd70",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_6f18f5febd70",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_6f18f5febd70",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Engineering"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_aerospace_science_and_technology",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_aerospace_science_and_technology",
-    "name": "Master in Aerospace Science and Technology",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/aerospace-science-technology",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_aerospace_science_and_technology_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_61d95d43941f",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_61d95d43941f",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_61d95d43941f",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_61d95d43941f",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_61d95d43941f",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_61d95d43941f",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Engineering"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_big_data_analytics",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_big_data_analytics",
-    "name": "Master in Big Data Analytics",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/big-data-analytics",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_big_data_analytics_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_82cd3eec8d13",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_82cd3eec8d13",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_82cd3eec8d13",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_82cd3eec8d13",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_82cd3eec8d13",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_82cd3eec8d13",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Engineering"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_computational_and_applied_mathematics",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_computational_and_applied_mathematics",
-    "name": "Master in Computational and Applied Mathematics",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/matematica-aplicada",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_computational_and_applied_mathematics_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_6f068d28d44c",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_6f068d28d44c",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_6f068d28d44c",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_6f068d28d44c",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_6f068d28d44c",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_6f068d28d44c",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Engineering"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_connected_industry_4_0",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_connected_industry_4_0",
-    "name": "Master in Connected Industry 4.0",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/connected-industry-4.0",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_connected_industry_4_0_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_9ff5296063ea",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_9ff5296063ea",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_9ff5296063ea",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_9ff5296063ea",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_9ff5296063ea",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_9ff5296063ea",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Engineering"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_machine_learning_for_health",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_machine_learning_for_health",
-    "name": "Master in Machine Learning for Health",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/information-health-engineering",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_machine_learning_for_health_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_95307a76ccb9",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_95307a76ccb9",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_95307a76ccb9",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_95307a76ccb9",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_95307a76ccb9",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_95307a76ccb9",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Engineering"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_quantum_technologies_and_engineering",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_quantum_technologies_and_engineering",
-    "name": "Master in Quantum Technologies and Engineering",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/quantum-technologies-engineering",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_quantum_technologies_and_engineering_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_64f5c088cfea",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_64f5c088cfea",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_64f5c088cfea",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_64f5c088cfea",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_64f5c088cfea",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_64f5c088cfea",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Engineering"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_space_engineering",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_space_engineering",
-    "name": "Master in Space Engineering",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/space-engineering",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_space_engineering_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_88bf28da9a7e",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_88bf28da9a7e",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_88bf28da9a7e",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_88bf28da9a7e",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_88bf28da9a7e",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_88bf28da9a7e",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Engineering"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_statistics_for_data_science",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_statistics_for_data_science",
-    "name": "Master in Statistics for Data Science",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/statistics-data-science",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_statistics_for_data_science_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_172c4b8a1c75",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_172c4b8a1c75",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_172c4b8a1c75",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_172c4b8a1c75",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_172c4b8a1c75",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_172c4b8a1c75",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Engineering"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_telecommunications_engineering",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_telecommunications_engineering",
-    "name": "Master in Telecommunications Engineering",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/telecommunication-engineering",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_telecommunications_engineering_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_719f531a6600",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_719f531a6600",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_719f531a6600",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_719f531a6600",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_719f531a6600",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_719f531a6600",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Engineering"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_transportation_electrification",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_transportation_electrification",
-    "name": "Master in Transportation Electrification",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/transportation-electrification",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_transportation_electrification_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_e117179066fe",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_e117179066fe",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_e117179066fe",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_e117179066fe",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_e117179066fe",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_e117179066fe",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Engineering"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_european_master_in_nuclear_fusion_and_engineering",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "european_master_in_nuclear_fusion_and_engineering",
-    "name": "European Master in Nuclear Fusion and Engineering Physics (Fusion EP)",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/master-nuclear-fusion",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_european_master_in_nuclear_fusion_and_engineering_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_f4cc6df5f654",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_f4cc6df5f654",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_f4cc6df5f654",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_f4cc6df5f654",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_f4cc6df5f654",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_f4cc6df5f654",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Engineering"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_applied_artificial_intelligence",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_applied_artificial_intelligence",
-    "name": "Master in Applied Artificial Intelligence",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/applied-artificial-intelligence",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_applied_artificial_intelligence_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_52f55c114913",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_52f55c114913",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_52f55c114913",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_52f55c114913",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_52f55c114913",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_52f55c114913",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Engineering"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_cybersecurity",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_cybersecurity",
-    "name": "Master in Cybersecurity",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/cybersecurity",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_cybersecurity_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_45982ff8e2db",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_45982ff8e2db",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_45982ff8e2db",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_45982ff8e2db",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_45982ff8e2db",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_45982ff8e2db",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Engineering"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_computer_science_and_technology",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_computer_science_and_technology",
-    "name": "Master in Computer Science and Technology",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/computer-science-technology",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_computer_science_and_technology_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_0025178581da",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_0025178581da",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_0025178581da",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_0025178581da",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_0025178581da",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_0025178581da",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Engineering"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_informatics_engineering",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_informatics_engineering",
-    "name": "Master in Informatics Engineering",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/informatics-engineering",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_informatics_engineering_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_0f916adf6e75",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_0f916adf6e75",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_0f916adf6e75",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_0f916adf6e75",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_0f916adf6e75",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_0f916adf6e75",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Engineering"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_industrial_engineering",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_industrial_engineering",
-    "name": "Master in Industrial Engineering",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/industrial-engineering",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_industrial_engineering_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_01f0027f8175",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_01f0027f8175",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_01f0027f8175",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_01f0027f8175",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_01f0027f8175",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_01f0027f8175",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Engineering"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_robotics_and_automation",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_robotics_and_automation",
-    "name": "Master in Robotics and Automation",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/robotics",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_robotics_and_automation_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_d8301832b1cb",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_d8301832b1cb",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_d8301832b1cb",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_d8301832b1cb",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_d8301832b1cb",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_d8301832b1cb",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Engineering"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_renewable_energy_in_electrical_systems",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_renewable_energy_in_electrical_systems",
-    "name": "Master in Renewable Energy in Electrical Systems",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/renewable-energy",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_renewable_energy_in_electrical_systems_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_e01864fbc375",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_e01864fbc375",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_e01864fbc375",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_e01864fbc375",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_e01864fbc375",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_e01864fbc375",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Engineering"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_materials_science_and_engineering",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_materials_science_and_engineering",
-    "name": "Master in Materials Science and Engineering",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/materials-science-engineering",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_materials_science_and_engineering_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_9a59782ca7be",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_9a59782ca7be",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_9a59782ca7be",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_9a59782ca7be",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_9a59782ca7be",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_9a59782ca7be",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Engineering"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_actuarial_and_financial_science",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_actuarial_and_financial_science",
-    "name": "Master in Actuarial and Financial Science",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/actuarial-science",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_actuarial_and_financial_science_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_d7c57607ba97",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_d7c57607ba97",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_d7c57607ba97",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_d7c57607ba97",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_d7c57607ba97",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_d7c57607ba97",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Business"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_entrepreneurship_and_business_venturing",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_entrepreneurship_and_business_venturing",
-    "name": "Master in Entrepreneurship and Business Venturing",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/entrepreneurs",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_entrepreneurship_and_business_venturing_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_63c7fea7b11b",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_63c7fea7b11b",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_63c7fea7b11b",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_63c7fea7b11b",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_63c7fea7b11b",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_63c7fea7b11b",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Business"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_political_and_electoral_analysis",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_political_and_electoral_analysis",
-    "name": "Master in Political and Electoral Analysis",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/political-analysis",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_political_and_electoral_analysis_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_f97cd7bd88d7",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_f97cd7bd88d7",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_f97cd7bd88d7",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_f97cd7bd88d7",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_f97cd7bd88d7",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_f97cd7bd88d7",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Economics and Political Science"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_sustainable_development_and_global_gover",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_sustainable_development_and_global_gover",
-    "name": "Master in Sustainable Development and Global Governance",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/sustainable-development",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_sustainable_development_and_global_gover_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_42dcc51c8be9",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_42dcc51c8be9",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_42dcc51c8be9",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_42dcc51c8be9",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_42dcc51c8be9",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_42dcc51c8be9",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Economics and Political Science"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_advanced_human_rights_studies",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_advanced_human_rights_studies",
-    "name": "Master in Advanced Human Rights Studies",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/human-rights",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_advanced_human_rights_studies_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_8b44872e81d6",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_8b44872e81d6",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_8b44872e81d6",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_8b44872e81d6",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_8b44872e81d6",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_8b44872e81d6",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Law"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_european_union_law",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_european_union_law",
-    "name": "Master in European Union Law",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/european-union-law",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_european_union_law_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_66e897891ad2",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_66e897891ad2",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_66e897891ad2",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_66e897891ad2",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_66e897891ad2",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_66e897891ad2",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Law"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_intellectual_property",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_intellectual_property",
-    "name": "Master in Intellectual Property",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/intellectual-property",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_intellectual_property_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_ac20356a0175",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_ac20356a0175",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_ac20356a0175",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_ac20356a0175",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_ac20356a0175",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_ac20356a0175",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Law"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_taxation",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_taxation",
-    "name": "Master in Taxation",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/taxation",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_taxation_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_7c4bfe1ef362",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_7c4bfe1ef362",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_7c4bfe1ef362",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_7c4bfe1ef362",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_7c4bfe1ef362",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_7c4bfe1ef362",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Law"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_user_experience_design_and_digital_analy",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_user_experience_design_and_digital_analy",
-    "name": "Master in User Experience Design and Digital Analytics",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/user-experience-design-digital-analytics",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_user_experience_design_and_digital_analy_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_33d808c75777",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_33d808c75777",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_33d808c75777",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_33d808c75777",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_33d808c75777",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_33d808c75777",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Humanities"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_tourism_management_of_cultural_and_natur",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_tourism_management_of_cultural_and_natur",
-    "name": "Master in Tourism Management of Cultural and Natural Resources",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/tourism-management",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_tourism_management_of_cultural_and_natur_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_d392531443cc",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_d392531443cc",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_d392531443cc",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_d392531443cc",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_d392531443cc",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_d392531443cc",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Humanities"
-  },
-  {
-    "project_id": "u_universidad_carlos_iii_de_madrid_uc3m_main_master_in_film_and_television",
-    "university_id": "u_universidad_carlos_iii_de_madrid_uc3m",
-    "campus_id": "main",
-    "normalized_program_code": "master_in_film_and_television",
-    "name": "Master in Film and Television",
-    "degree": "Master",
-    "subject": null,
-    "study_mode": null,
-    "teaching_language": [],
-    "official_url": "https://www.uc3m.es/master/film-television",
-    "admission_cycles": [
-      {
-        "cycle_id": "27fall",
-        "academic_year": 2027,
-        "entry_term": "fall",
-        "status": "current",
-        "timelines": [
-          {
-            "timeline_id": "tl_master_in_film_and_television_deadline",
-            "event": "application_deadline",
-            "date_type": "unknown",
-            "date": null,
-            "date_end": null,
-            "applicant_group": "all",
-            "round": null,
-            "source_id": "src_e05f75145278",
-            "verification_status": "needs_review"
-          }
-        ],
-        "requirements": {
-          "language": {
-            "status": "unknown",
-            "tests": [],
-            "source_id": "src_e05f75145278",
-            "verification_status": "needs_review"
-          },
-          "gre": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_e05f75145278",
-            "verification_status": "needs_review"
-          },
-          "gmat": {
-            "status": "unknown",
-            "min_score": null,
-            "source_id": "src_e05f75145278",
-            "verification_status": "needs_review"
-          },
-          "academic": {
-            "status": "unknown",
-            "description": null,
-            "source_id": "src_e05f75145278",
-            "verification_status": "needs_review"
-          },
-          "notes": "",
-          "source_id": "src_e05f75145278",
-          "verification_status": "needs_review"
-        },
-        "fees": []
-      }
-    ],
-    "status": "active",
-    "department": "Graduate School of Humanities"
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-07-10"
   }
 ]

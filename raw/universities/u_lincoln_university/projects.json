@@ -1,1 +1,478 @@
-[]
+[
+  {
+    "project_id": "u_lincoln_university_main_international_study_pathways_catalog_listing",
+    "university_id": "u_lincoln_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_study_pathways_catalog_listing",
+    "name": "International Study Pathways (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lincoln.ac.nz/study/study-programmes/international-study-pathways",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4a633ac7900e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_01"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2027-02",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4a633ac7900e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2027_02"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "aduation Ceremony or if you want to graduate with two qualifications (such as the Diploma in Agriculture and Diploma in Farm Management, or Bachelor of Science and Bachelor of Science with Honours)."
+          },
+          "notes": "",
+          "source_id": "src_4a633ac7900e",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-02-01"
+  },
+  {
+    "project_id": "u_lincoln_university_main_international_scholarships_catalog_listing",
+    "university_id": "u_lincoln_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_scholarships_catalog_listing",
+    "name": "International Scholarships (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lincoln.ac.nz/study/scholarships/international-scholarships",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4a633ac7900e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_01"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2027-02",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4a633ac7900e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2027_02"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "aduation Ceremony or if you want to graduate with two qualifications (such as the Diploma in Agriculture and Diploma in Farm Management, or Bachelor of Science and Bachelor of Science with Honours)."
+          },
+          "notes": "",
+          "source_id": "src_4a633ac7900e",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-02-01"
+  },
+  {
+    "project_id": "u_lincoln_university_main_international_fees_catalog_listing",
+    "university_id": "u_lincoln_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_fees_catalog_listing",
+    "name": "International Fees (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lincoln.ac.nz/study/fees/international-fees",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4a633ac7900e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_01"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2027-02",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4a633ac7900e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2027_02"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "aduation Ceremony or if you want to graduate with two qualifications (such as the Diploma in Agriculture and Diploma in Farm Management, or Bachelor of Science and Bachelor of Science with Honours)."
+          },
+          "notes": "",
+          "source_id": "src_4a633ac7900e",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-02-01"
+  },
+  {
+    "project_id": "u_lincoln_university_main_business_catalog_listing",
+    "university_id": "u_lincoln_university",
+    "campus_id": "main",
+    "normalized_program_code": "business_catalog_listing",
+    "name": "Business (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lincoln.ac.nz/study/areas-of-specialisation/business",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4a633ac7900e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_01"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2027-02",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4a633ac7900e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2027_02"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "aduation Ceremony or if you want to graduate with two qualifications (such as the Diploma in Agriculture and Diploma in Farm Management, or Bachelor of Science and Bachelor of Science with Honours)."
+          },
+          "notes": "",
+          "source_id": "src_4a633ac7900e",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-02-01"
+  },
+  {
+    "project_id": "u_lincoln_university_main_environment_catalog_listing",
+    "university_id": "u_lincoln_university",
+    "campus_id": "main",
+    "normalized_program_code": "environment_catalog_listing",
+    "name": "Environment (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lincoln.ac.nz/study/areas-of-specialisation/environment",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4a633ac7900e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_01"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2027-02",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4a633ac7900e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2027_02"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "aduation Ceremony or if you want to graduate with two qualifications (such as the Diploma in Agriculture and Diploma in Farm Management, or Bachelor of Science and Bachelor of Science with Honours)."
+          },
+          "notes": "",
+          "source_id": "src_4a633ac7900e",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-02-01"
+  },
+  {
+    "project_id": "u_lincoln_university_main_landscape_architecture_catalog_listing",
+    "university_id": "u_lincoln_university",
+    "campus_id": "main",
+    "normalized_program_code": "landscape_architecture_catalog_listing",
+    "name": "Landscape Architecture (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lincoln.ac.nz/study/areas-of-specialisation/landscape-architecture",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4a633ac7900e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_01"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2027-02",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4a633ac7900e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2027_02"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "aduation Ceremony or if you want to graduate with two qualifications (such as the Diploma in Agriculture and Diploma in Farm Management, or Bachelor of Science and Bachelor of Science with Honours)."
+          },
+          "notes": "",
+          "source_id": "src_4a633ac7900e",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-02-01"
+  },
+  {
+    "project_id": "u_lincoln_university_main_study_abroad_and_international_students_catalog_listing",
+    "university_id": "u_lincoln_university",
+    "campus_id": "main",
+    "normalized_program_code": "study_abroad_and_international_students_catalog_listing",
+    "name": "Study Abroad And International Students (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lincoln.ac.nz/study/future-students-and-schools/study-abroad-and-international-students",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-02-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4a633ac7900e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_02_01"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2027-02",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4a633ac7900e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2027_02"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "aduation Ceremony or if you want to graduate with two qualifications (such as the Diploma in Agriculture and Diploma in Farm Management, or Bachelor of Science and Bachelor of Science with Honours)."
+          },
+          "notes": "",
+          "source_id": "src_4a633ac7900e",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-02-01"
+  }
+]

@@ -1,1 +1,230 @@
-[]
+[
+  {
+    "project_id": "u_julius_maximilians_universität_würzburg_main_vpn_with_mfa_test_operation",
+    "university_id": "u_julius_maximilians_universität_würzburg",
+    "campus_id": "main",
+    "normalized_program_code": "vpn_with_mfa_test_operation",
+    "name": "VPN with MFA (test operation)",
+    "degree": "MFA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.rz.uni-wuerzburg.de/en/services/it-security/vpn/vpn-with-mfa-test-operation",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b16c48ae3936",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_15"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_a21085da4003",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-12-15"
+  },
+  {
+    "project_id": "u_julius_maximilians_universität_würzburg_main_ccna",
+    "university_id": "u_julius_maximilians_universität_würzburg",
+    "campus_id": "main",
+    "normalized_program_code": "ccna",
+    "name": "Ccna",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.rz.uni-wuerzburg.de/en/services/training-courses/ccna",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b16c48ae3936",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_15"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_ff1123f0a06c",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-12-15"
+  },
+  {
+    "project_id": "u_julius_maximilians_universität_würzburg_main_for_students_instructions_for_setting_up_mfa",
+    "university_id": "u_julius_maximilians_universität_würzburg",
+    "campus_id": "main",
+    "normalized_program_code": "for_students_instructions_for_setting_up_mfa",
+    "name": "For students: Instructions for setting up MFA",
+    "degree": "MFA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.rz.uni-wuerzburg.de/en/services/jmu-account/mfa/microsoft-authenticator-app",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b16c48ae3936",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_15"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_cc082b4f81dc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-12-15"
+  },
+  {
+    "project_id": "u_julius_maximilians_universität_würzburg_main_mfa_general_information",
+    "university_id": "u_julius_maximilians_universität_würzburg",
+    "campus_id": "main",
+    "normalized_program_code": "mfa_general_information",
+    "name": "MFA general information",
+    "degree": "MFA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.rz.uni-wuerzburg.de/en/services/jmu-account/mfa",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b16c48ae3936",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_15"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_58b6062205a3",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-12-15"
+  }
+]

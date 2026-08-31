@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "project_id": "u_rutgers_universitynew_brunswick_main_international_students",
+    "university_id": "u_rutgers_universitynew_brunswick",
+    "campus_id": "main",
+    "normalized_program_code": "international_students",
+    "name": "International Students",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "http://gradstudy.rutgers.edu/information/international-students",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "residency status—are required to submit proof of English language proficiency if their bachelor's degree (and master's degree, if applicable) was earned outside the United States in a country where English is not the primary language."
+          },
+          "notes": "",
+          "source_id": "src_11abbaa1267f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  }
+]

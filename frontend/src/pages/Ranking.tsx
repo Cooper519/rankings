@@ -71,11 +71,12 @@ export default function Ranking() {
     setParams(next, { replace: true })
   }
 
-  const [q, setQ] = useState('')
+  const [q, setQ] = useState(params.get('q') || '')
   const [region, setRegion] = useState('')
   const [onlyEuro, setOnlyEuro] = useState(false)
   const [onlyPrograms, setOnlyPrograms] = useState(false)
   const [onlyRequirements, setOnlyRequirements] = useState(false)
+  const [subject, setSubject] = useState('')
   const [coverageFilter, setCoverageFilter] = useState<CoverageFilter>('all')
   const [limit, setLimit] = useState(100)
 
@@ -93,6 +94,17 @@ export default function Ranking() {
   } = data
   const entries = rankings[src] || []
   const europeSet = useMemo(() => new Set(europeIds), [europeIds])
+
+  const subjects = useMemo(() => {
+    const s = new Set<string>()
+    entries.forEach((e) => {
+      const cid = canonicalById[e.universityId] || e.universityId
+      for (const p of programsByUni[e.universityId] || programsByUni[cid] || []) {
+        if (p.subject && p.subject !== 'General') s.add(p.subject)
+      }
+    })
+    return Array.from(s).sort()
+  }, [entries, programsByUni, canonicalById])
 
   const regions = useMemo(() => {
     const s = new Set<string>()
@@ -123,6 +135,7 @@ export default function Ranking() {
       if (coverageFilter === 'missing' && !isMissing) return false
       if (coverageFilter === 'outside' && !isOutside) return false
       if (coverageFilter === 'incomplete' && isCovered) return false
+      if (subject && !progs.some((p) => p.subject === subject)) return false
       if (region && reg !== region) return false
       if (ql && !foldSearch(name).includes(ql) && !foldSearch(e.country).includes(ql)) return false
       return true
@@ -136,6 +149,7 @@ export default function Ranking() {
     onlyPrograms,
     onlyRequirements,
     coverageFilter,
+    subject,
     europeSet,
     programsByUni,
     canonicalById,
@@ -191,6 +205,13 @@ export default function Ranking() {
             <select className="field" value={region} onChange={(e) => setRegion(e.target.value)} style={{ paddingLeft: 34, paddingRight: 30 }}>
               <option value="">全部地区</option>
               {regions.map((r) => <option key={r} value={r}>{r}</option>)}
+            </select>
+          </div>
+          <div style={{ position: 'relative', display: 'flex', alignItems: 'center' }}>
+            <GraduationCap size={13} style={{ position: 'absolute', left: 12, color: 'var(--ink-4)', pointerEvents: 'none' }} />
+            <select className="field" value={subject} onChange={(e) => setSubject(e.target.value)} style={{ paddingLeft: 34, paddingRight: 30 }}>
+              <option value="">全部学科</option>
+              {subjects.map((sb) => <option key={sb} value={sb}>{sb}</option>)}
             </select>
           </div>
           <div style={{ position: 'relative', display: 'flex', alignItems: 'center' }}>

@@ -4,8 +4,8 @@
   "university_id": "u_ipb_university_aka_bogor_agricultural_university",
   "name": "IPB University (aka Bogor Agricultural University)",
   "country": "Indonesia",
-  "website": "https://www.ipbuniversityakabogoragriculturaluniversity.edu",
-  "updated_at": "2026-08-19T18:56:01.850393+00:00",
-  "notes": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping.",
-  "converter": "manual-webfetch-v1"
+  "website": "https://ipb.ac.id/",
+  "updated_at": "2026-08-30T06:53:22.427620+00:00",
+  "notes": "four-rankings scrape 27fall: pages=4 captured, programs=0 (0 with per-project facts), school_deadline=unknown, fees=unknown, issues=none",
+  "converter": "four-rankings-webfetch-v2"
 }

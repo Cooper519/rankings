@@ -1,1 +1,4590 @@
-[]
+[
+  {
+    "project_id": "u_lut_university_main_admission_criteria_applied_physics",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_applied_physics",
+    "name": "Admission Criteria Applied Physics",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/admission-criteria-applied-physics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_82c4b6e41fbe",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "mpleted at a university ✅Bachelor of EngineeringCompleted at a university of applied sciences (UAS)Insinööri (AMK) You must apply with your bachelor's degree You must apply based on your bachelor’s degree, even if you have already completed a master’s degree."
+          },
+          "notes": "",
+          "source_id": "src_82c4b6e41fbe",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_business_analytics",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_business_analytics",
+    "name": "Admission Criteria Business Analytics",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/admission-criteria-business-analytics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_dcc691daf6bb",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "not_required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "not_required",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "You must apply with your bachelor's degree You must apply based on your bachelor’s degree, even if you have already completed a master’s degree."
+          },
+          "notes": "",
+          "source_id": "src_dcc691daf6bb",
+          "verification_status": "extracted"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_chemical_engineering_energy_transition",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_chemical_engineering_energy_transition",
+    "name": "Admission Criteria Chemical Engineering Energy Transition",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/admission-criteria-chemical-engineering-energy-transition",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b42223ee31d9",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "sinööri (AMK) ✅Bachelor's degree in a field of than EngineeringCompleted at a university of applied sciences (UAS) You must apply with your bachelor's degree You must apply based on your bachelor’s degree, even if you have already completed a master’s degree."
+          },
+          "notes": "",
+          "source_id": "src_b42223ee31d9",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_circular_economy",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_circular_economy",
+    "name": "Admission Criteria Circular Economy",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/admission-criteria-circular-economy",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_2c8311f84cdf",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "s:Business Administration / Natural Sciences / Social Sciences Completed at a university of applied sciences (UAS) You must apply with your bachelor's degree You must apply based on your bachelor’s degree, even if you have already completed a master’s degree."
+          },
+          "notes": "",
+          "source_id": "src_2c8311f84cdf",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_data_centric_engineering",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_data_centric_engineering",
+    "name": "Admission Criteria Data Centric Engineering",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/admission-criteria-data-centric-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_c829078c92a0",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ööri (AMK) ✅Bachelor's degree in a field other than EngineeringCompleted at a university of applied sciences (UAS) You must apply with your bachelor's degree You must apply based on your bachelor’s degree, even if you have already completed a master’s degree."
+          },
+          "notes": "",
+          "source_id": "src_c829078c92a0",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_digital_social_science",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_digital_social_science",
+    "name": "Admission Criteria Digital Social Science",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/admission-criteria-digital-social-science",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b9d10e35c0fd",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Admission criteria Eligible degrees completed in Finland ⚠️ You can only apply with a completed bachelor’s degree."
+          },
+          "notes": "",
+          "source_id": "src_b9d10e35c0fd",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_electrical_engineering",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_electrical_engineering",
+    "name": "Admission Criteria Electrical Engineering",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/admission-criteria-electrical-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f31bd14a310f",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "iversity ✅ Bachelor's degree in a field other than engineering Completed at a university of applied sciences (UAS) You must apply with your bachelor's degree You must apply based on your bachelor’s degree, even if you have already completed a master’s degree."
+          },
+          "notes": "",
+          "source_id": "src_f31bd14a310f",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_global_management_of_innovation_and_technology",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_global_management_of_innovation_and_technology",
+    "name": "Admission Criteria Global Management Of Innovation And Technology",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/admission-criteria-global-management-of-innovation-and-technology",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_16f18fabda2c",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "iversity ✅ Bachelor's degree in a field other than engineering Completed at a university of applied sciences (UAS) You must apply with your bachelor's degree You must apply based on your bachelor’s degree, even if you have already completed a master’s degree."
+          },
+          "notes": "",
+          "source_id": "src_16f18fabda2c",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_industrial_design_engineering",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_industrial_design_engineering",
+    "name": "Admission Criteria Industrial Design Engineering",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/admission-criteria-industrial-design-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_be85ed818136",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "a university ✅ Bachelor's Degree in Design or Industrial DesignCompleted at a university of applied sciences (UAS) You must apply with your bachelor's degree You must apply based on your bachelor’s degree, even if you have already completed a master’s degree."
+          },
+          "notes": "",
+          "source_id": "src_be85ed818136",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_international_business_and_entrepreneurship",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_international_business_and_entrepreneurship",
+    "name": "Admission Criteria International Business And Entrepreneurship",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/admission-criteria-international-business-and-entrepreneurship",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_05ce778f6564",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "required",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "e at a university in any field of study A master’s degree at a university in any field other than business studies You must apply with your bachelor's degree You must apply based on your bachelor’s degree, even if you have already completed a master’s degree."
+          },
+          "notes": "",
+          "source_id": "src_05ce778f6564",
+          "verification_status": "extracted"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_international_marketing_management",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_international_marketing_management",
+    "name": "Admission Criteria International Marketing Management",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/admission-criteria-international-marketing-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_4b1945bc6397",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "required",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "e at a university in any field of study A master’s degree at a university in any field other than business studies You must apply with your bachelor's degree You must apply based on your bachelor’s degree, even if you have already completed a master’s degree."
+          },
+          "notes": "",
+          "source_id": "src_4b1945bc6397",
+          "verification_status": "extracted"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_management_of_organizational_development",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_management_of_organizational_development",
+    "name": "Admission Criteria Management Of Organizational Development",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/admission-criteria-management-of-organizational-development",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7a3769299823",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "iversity ✅ Bachelor's degree in a field other than engineering Completed at a university of applied sciences (UAS) You must apply with your bachelor's degree You must apply based on your bachelor’s degree, even if you have already completed a master’s degree."
+          },
+          "notes": "",
+          "source_id": "src_7a3769299823",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_mechanical_engineering",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_mechanical_engineering",
+    "name": "Admission Criteria Mechanical Engineering",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/admission-criteria-mechanical-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_32e04f7762c6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "You must apply with your bachelor's degree You must apply based on your bachelor’s degree, even if you have already completed a master’s degree."
+          },
+          "notes": "",
+          "source_id": "src_32e04f7762c6",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_nuclear_engineering",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_nuclear_engineering",
+    "name": "Admission Criteria Nuclear Engineering",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/admission-criteria-nuclear-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_f64272acc0e9",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "iversity ✅ Bachelor's degree in a field other than engineering Completed at a university of applied sciences (UAS) You must apply with your bachelor's degree You must apply based on your bachelor’s degree, even if you have already completed a master’s degree."
+          },
+          "notes": "",
+          "source_id": "src_f64272acc0e9",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_business_bachelors_programmes_regular_admission_catalog_listi",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_business_bachelors_programmes_regular_admission_catalog_listi",
+    "name": "Admission Criteria Business Bachelors Programmes Regular Admission (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-bachelors-programmes/regular-admission-bachelors-studies/admission-criteria-business-bachelors-programmes-regular-admission",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_international_rolling_admission_bachelors_studies_catalog_listing",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "international_rolling_admission_bachelors_studies_catalog_listing",
+    "name": "International Rolling Admission Bachelors Studies (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-bachelors-programmes/international-rolling-admission-bachelors-studies",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_business_bachelors_programmes_rolling_admission_catalog_listi",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_business_bachelors_programmes_rolling_admission_catalog_listi",
+    "name": "Admission Criteria Business Bachelors Programmes Rolling Admission (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-bachelors-programmes/rolling-admission-bachelors-studies/admission-criteria-business-bachelors-programmes-rolling-admission",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_renewable_energy_and_electrical_power_engineering_double_degr",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_renewable_energy_and_electrical_power_engineering_double_degr",
+    "name": "Admission Criteria Renewable Energy And Electrical Power Engineering Double Degree (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/admission-criteria-renewable-energy-and-electrical-power-engineering-double-degree",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_renewable_power_to_x_economy_catalog_listing",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "renewable_power_to_x_economy_catalog_listing",
+    "name": "Renewable Power To X Economy (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/renewable-power-to-x-economy",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_software_engineering_catalog_listing",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_software_engineering_catalog_listing",
+    "name": "Admission Criteria Software Engineering (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/admission-criteria-software-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_software_product_management_and_business_catalog_listing",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_software_product_management_and_business_catalog_listing",
+    "name": "Admission Criteria Software Product Management And Business (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/admission-criteria-software-product-management-and-business",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_strategic_finance_and_analytics_catalog_listing",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_strategic_finance_and_analytics_catalog_listing",
+    "name": "Admission Criteria Strategic Finance And Analytics (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/admission-criteria-strategic-finance-and-analytics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_supply_management_catalog_listing",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_supply_management_catalog_listing",
+    "name": "Admission Criteria Supply Management (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/admission-criteria-supply-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_admission_criteria_technology_environment_and_societal_change_catalog_listing",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "admission_criteria_technology_environment_and_societal_change_catalog_listing",
+    "name": "Admission Criteria Technology Environment And Societal Change (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/rolling-admission-masters-studies/admission-criteria-technology-environment-and-societal-change",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_masters_programme_chemical_engineering_energy_transition_catalog_listing",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "masters_programme_chemical_engineering_energy_transition_catalog_listing",
+    "name": "Masters Programme Chemical Engineering Energy Transition (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/tekniikka/masters-programme-chemical-engineering-energy-transition",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_erasmus_mundus_masters_programme_software_engineers_green_deal_catalog_listing",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "erasmus_mundus_masters_programme_software_engineers_green_deal_catalog_listing",
+    "name": "Erasmus Mundus Masters Programme Software Engineers Green Deal (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/technology/erasmus-mundus-masters-programme-software-engineers-green-deal",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_master_s_programme_in_circular_economy",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_s_programme_in_circular_economy",
+    "name": "Master's Programme in Circular Economy",
+    "degree": "MastersProgrammein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/tekniikka/masters-programme-circular-economy",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_master_s_programme_in_data_centric_engineering",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_s_programme_in_data_centric_engineering",
+    "name": "Master's Programme in Data-Centric Engineering",
+    "degree": "MastersProgrammein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/tekniikka/masters-programme-data-centric-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_master_s_programme_in_digital_systems_and_service_development",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_s_programme_in_digital_systems_and_service_development",
+    "name": "Master's Programme in Digital Systems and Service Development",
+    "degree": "MastersProgrammein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/tekniikka/masters-programme-digital-systems-and-service-development",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_master_s_programme_in_electrical_engineering",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_s_programme_in_electrical_engineering",
+    "name": "Master's Programme in Electrical Engineering",
+    "degree": "MastersProgrammein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/tekniikka/masters-programme-electrical-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_master_s_programme_in_energy_conversion",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_s_programme_in_energy_conversion",
+    "name": "Master's Programme in Energy Conversion",
+    "degree": "MastersProgrammein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/tekniikka/masters-programme-energy-conversion",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_master_s_programme_in_global_management_of_innovation_and_technology",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_s_programme_in_global_management_of_innovation_and_technology",
+    "name": "Master's Programme in Global Management of Innovation and Technology",
+    "degree": "MastersProgrammein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/tekniikka/masters-programme-global-management-innovation-and-technology",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_master_s_programme_in_industrial_design_engineering",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_s_programme_in_industrial_design_engineering",
+    "name": "Master's Programme in Industrial Design Engineering",
+    "degree": "MastersProgrammein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/tekniikka/masters-programme-industrial-design-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_master_s_programme_in_innovation_and_logistics",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_s_programme_in_innovation_and_logistics",
+    "name": "Master's Programme in Innovation and Logistics",
+    "degree": "MastersProgrammein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/tekniikka/masters-programme-innovation-and-logistics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_master_s_programme_in_materials_science_and_technology",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_s_programme_in_materials_science_and_technology",
+    "name": "Master's Programme in Materials Science and Technology",
+    "degree": "MastersProgrammein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/tekniikka/masters-programme-materials-science-and-technology",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_master_s_programme_in_mechanical_engineering",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_s_programme_in_mechanical_engineering",
+    "name": "Master's Programme in Mechanical Engineering",
+    "degree": "MastersProgrammein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/tekniikka/masters-programme-mechanical-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_master_s_programme_in_mechatronics",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_s_programme_in_mechatronics",
+    "name": "Master's Programme in Mechatronics",
+    "degree": "MastersProgrammein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/tekniikka/masters-programme-mechatronics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_master_s_programme_in_nuclear_engineering",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_s_programme_in_nuclear_engineering",
+    "name": "Master's Programme in Nuclear Engineering",
+    "degree": "MastersProgrammein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/tekniikka/masters-programme-nuclear-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_master_s_programme_in_renewable_power_to_x_economy",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_s_programme_in_renewable_power_to_x_economy",
+    "name": "Master's Programme in Renewable Power-to-X Economy",
+    "degree": "MastersProgrammein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/tekniikka/masters-programme-renewable-power-x-economy",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_master_s_programme_in_responsible_information_systems_development",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_s_programme_in_responsible_information_systems_development",
+    "name": "Master's Programme in Responsible Information Systems Development",
+    "degree": "MastersProgrammein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/technology/masters-programmes-technology/masters-programme-responsible-information-systems-development",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_master_s_programme_in_software_engineering",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_s_programme_in_software_engineering",
+    "name": "Master's Programme in Software Engineering",
+    "degree": "MastersProgrammein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/tekniikka/masters-programme-software-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_master_s_programme_in_software_product_management_and_business",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_s_programme_in_software_product_management_and_business",
+    "name": "Master's Programme in Software Product Management and Business",
+    "degree": "MastersProgrammein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/technology/masters-programme-software-product-management-and-business",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_master_s_programme_in_sustainability_science_and_solutions",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_s_programme_in_sustainability_science_and_solutions",
+    "name": "Master's Programme in Sustainability Science and Solutions",
+    "degree": "MastersProgrammein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/tekniikka/masters-programme-sustainability-science-and-solutions",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_master_s_programme_in_sustainable_energy_systems",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_s_programme_in_sustainable_energy_systems",
+    "name": "Master's Programme in Sustainable Energy Systems",
+    "degree": "MastersProgrammein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/tekniikka/masters-programme-sustainable-energy-systems",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_master_s_programme_in_water_technology",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_s_programme_in_water_technology",
+    "name": "Master's Programme in Water Technology",
+    "degree": "MastersProgrammein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/tekniikka/masters-programme-water-technology",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_masters_programme_management_organisational_development_catalog_listing",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "masters_programme_management_organisational_development_catalog_listing",
+    "name": "Masters Programme Management Organisational Development (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/tekniikka/masters-programme-management-organisational-development",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_masters_programme_renewable_energy_and_electrical_power_engineering_catalog_list",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "masters_programme_renewable_energy_and_electrical_power_engineering_catalog_list",
+    "name": "Masters Programme Renewable Energy And Electrical Power Engineering (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/technology/masters-programmes-technology/masters-programme-renewable-energy-and-electrical-power-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_lut_university_main_masters_programmes_business_administration_catalog_listing",
+    "university_id": "u_lut_university",
+    "campus_id": "main",
+    "normalized_program_code": "masters_programmes_business_administration_catalog_listing",
+    "name": "Masters Programmes Business Administration (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.lut.fi/en/studies/business/masters-programmes-business-administration",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b1c6a1d1c477",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_65a38db4e241",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_089926334975",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "on fees for master's programmes Tuition fees apply to students from non-EU/EEA countries and Switzerland who are admitted to English-taught bachelor's or master's degree programmes."
+          },
+          "notes": "",
+          "source_id": "src_65a38db4e241",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_15000_eur",
+            "type": "tuition",
+            "amount": "15000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "tion. Tuition fees The tuition fee for our international master's programmes is EUR 15,000 per each academic year Discounts for master's programmes Liability for tuition",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_10000_eur",
+            "type": "tuition",
+            "amount": "10000",
+            "currency": "EUR",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "your study place by your personal deadline ⚠️ pay the remaining tuition fee of EUR 10,000 by the same deadline If you do not pay the early bird tuition fee by the deadli",
+            "source_id": "src_65a38db4e241",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-04; fee:EUR15000/unknown(non_eu)"
+  }
+]

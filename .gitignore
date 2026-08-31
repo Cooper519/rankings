@@ -76,8 +76,17 @@ scraper/retry_list.json
 raw/rankings/*targets*.json
 raw/rankings/*todo*.json
 raw/rankings/*audit*.json
+raw/rankings/*progress*.json
+raw/rankings/*progress*.jsonl
+raw/rankings/*pending*.json
+raw/rankings/*stubborn*.json
 /york-programs.yml
 /nul
+
+# Atomic data-pipeline staging files (a failed run may leave one behind).
+normalized/*.tmp
+generated/**/*.tmp
+frontend/public/data/**/*.tmp
 
 # Editor
 .vscode/

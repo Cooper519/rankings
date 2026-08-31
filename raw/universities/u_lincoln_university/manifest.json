@@ -5,7 +5,7 @@
   "name": "Lincoln University",
   "country": "New Zealand",
   "website": "https://www.lincoln.ac.nz",
-  "updated_at": "2026-08-19T18:56:01.850393+00:00",
-  "notes": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping.",
-  "converter": "manual-webfetch-v1"
+  "updated_at": "2026-08-30T06:56:24.828677+00:00",
+  "notes": "four-rankings scrape 27fall: pages=2 captured, programs=7 (7 with per-project facts), school_deadline=2027-02-01, fees=unknown, issues=['fetch_failed:https://www.lincoln.ac.nz/study/study-programmes/postgraduat', 'fetch_failed:https://www.lincoln.ac.nz/study/study-programmes/postgraduat']",
+  "converter": "four-rankings-webfetch-v2"
 }

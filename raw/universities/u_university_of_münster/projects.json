@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "project_id": "u_university_of_münster_main_master_of_education",
+    "university_id": "u_university_of_münster",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_education",
+    "name": "Master of Education",
+    "degree": "MasterofEducation",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.uni-muenster.de/studieninteressierte/en/bewerbung/masterofeducation.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-07-15",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_17c66acf8b07",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_07_15"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "The bachelor's certificate must be submitted before the enrolment deadline, i."
+          },
+          "notes": "",
+          "source_id": "src_2d12785c2d34",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-07-15"
+  }
+]

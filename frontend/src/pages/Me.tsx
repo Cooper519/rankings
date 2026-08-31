@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { Bookmark, CalendarClock, CheckSquare, Heart, ArrowRight, Inbox, ChevronRight, GripVertical } from 'lucide-react'
+import { Bookmark, CalendarClock, CheckSquare, Download, Heart, ArrowRight, Inbox, ChevronRight, GripVertical } from 'lucide-react'
 import { useData } from '../hooks/useData'
 import { setStatus, statusOf, useUser } from '../store/likes'
 import type { AppStatus, Program } from '../types'
@@ -38,6 +38,79 @@ interface CardItem {
 function hasRequirement(p: Program): boolean {
   const r = p.requirements
   return Boolean(r.gpa || r.ielts || r.toefl || r.gre || r.gmat || r.language || r.academic)
+}
+
+function requirementSummary(p: Program): string {
+  const r = p.requirements
+  const parts: string[] = []
+  if (r.ielts) parts.push(`IELTS ${r.ielts}`)
+  if (r.toefl) parts.push(`TOEFL ${r.toefl}`)
+  if (r.gre) parts.push(r.gre)
+  if (r.gmat) parts.push(r.gmat)
+  if (r.gpa) parts.push(`GPA ${r.gpa}`)
+  if (r.language) parts.push(r.language)
+  return parts.join(' / ')
+}
+
+function download(filename: string, mime: string, content: string) {
+  const blob = new Blob([content], { type: mime })
+  const url = URL.createObjectURL(blob)
+  const a = document.createElement('a')
+  a.href = url
+  a.download = filename
+  a.click()
+  URL.revokeObjectURL(url)
+}
+
+const STATUS_LABEL: Record<AppStatus, string> = {
+  pending: '待处理', submitted: '已投递', result: '出结果', offer: '收到 offer',
+}
+
+function exportCsv(items: CardItem[]) {
+  const esc = (v: string) => '"' + v.replace(/"/g, '""') + '"'
+  const rows = [
+    ['院校', '国家', '状态', '最近截止', '剩余天数', '项目数', '项目名', '要求摘要', '官方源'].join(','),
+    ...items.flatMap((it) =>
+      (it.programs.length ? it.programs : [null]).map((p) => [
+        esc(it.uniName),
+        esc(it.uniCountry),
+        STATUS_LABEL[it.status],
+        it.date || '',
+        Number.isNaN(it.days) ? '' : String(it.days),
+        String(it.programs.length),
+        p ? esc(p.program) : '',
+        p ? esc(requirementSummary(p)) : '',
+        p ? esc(p.sourceUrl || '') : '',
+      ].join(',')),
+    ),
+  ]
+  download('rankingselect-board.csv', 'text/csv;charset=utf-8', '\ufeff' + rows.join('\n'))
+}
+
+function icsDate(iso: string): string {
+  return iso.replace(/-/g, '')
+}
+
+function exportIcs(items: CardItem[]) {
+  const events: string[] = []
+  for (const it of items) {
+    for (const p of it.programs) {
+      for (const d of p.deadlines) {
+        if (!d.date) continue
+        events.push([
+          'BEGIN:VEVENT',
+          `UID:${p.id}-${d.date}@rankingselect`,
+          `DTSTAMP:${new Date().toISOString().replace(/[-:]/g, '').split('.')[0]}Z`,
+          `DTSTART;VALUE=DATE:${icsDate(d.date)}`,
+          `SUMMARY:${it.uniName} · ${p.program} 申请截止`,
+          p.sourceUrl ? `URL:${p.sourceUrl}` : '',
+          'END:VEVENT',
+        ].filter(Boolean).join('\r\n'))
+      }
+    }
+  }
+  const body = ['BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//RankingSelect//Board//CN', ...events, 'END:VCALENDAR'].join('\r\n')
+  download('rankingselect-deadlines.ics', 'text/calendar;charset=utf-8', body)
 }
 
 export default function Me() {
@@ -105,7 +178,7 @@ export default function Me() {
     <div className="wrap">
       <section className="me-intro">
         <Reveal>
-          <div className="eyebrow" style={{ marginBottom: 24 }}>04 / Me · 我的申请看板</div>
+          <div className="eyebrow" style={{ marginBottom: 24 }}>05 / Me · 我的申请看板</div>
           <h1>
             我的申请看板,<br />
             <em>从待办到 offer。</em>
@@ -135,6 +208,16 @@ export default function Me() {
               <b className="num">{offerCount}</b>
             </div>
           </div>
+          {likedCount > 0 && (
+            <div style={{ display: 'flex', gap: 12, marginTop: 22, flexWrap: 'wrap' }}>
+              <button className="mbtn" data-cursor onClick={() => exportCsv(items)}>
+                <Download size={13} /> 导出看板 CSV
+              </button>
+              <button className="mbtn" data-cursor onClick={() => exportIcs(items)}>
+                <CalendarClock size={13} /> 导出截止日期日历 (.ics)
+              </button>
+            </div>
+          )}
         </Reveal>
       </section>
 

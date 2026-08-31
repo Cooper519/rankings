@@ -1,1 +1,317 @@
-[]
+[
+  {
+    "project_id": "u_université_grenoble_alpes_main_inter_university_master_s_degree_in_health_data_science_medhas",
+    "university_id": "u_université_grenoble_alpes",
+    "campus_id": "main",
+    "normalized_program_code": "inter_university_master_s_degree_in_health_data_science_medhas",
+    "name": "Inter-university Master's Degree in Health Data Science (MEDHAS)",
+    "degree": "MastersDegreein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.univ-grenoble-alpes.fr/masters/masters-internationaux/inter-university-master-s-degree-in-health-data-science/inter-university-master-s-degree-in-health-data-science-medhas--1418371.kjsp",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_42ea75717967",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_université_grenoble_alpes_main_biotechnologies_sante_catalog_listing",
+    "university_id": "u_université_grenoble_alpes",
+    "campus_id": "main",
+    "normalized_program_code": "biotechnologies_sante_catalog_listing",
+    "name": "Biotechnologies Sante (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://licences-masters-sante.univ-grenoble-alpes.fr/licences/biotechnologies-sante",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_42ea75717967",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_université_grenoble_alpes_main_sciences_de_la_reeducation_catalog_listing",
+    "university_id": "u_université_grenoble_alpes",
+    "campus_id": "main",
+    "normalized_program_code": "sciences_de_la_reeducation_catalog_listing",
+    "name": "Sciences De La Reeducation (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://licences-masters-sante.univ-grenoble-alpes.fr/licences/sciences-de-la-reeducation",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_42ea75717967",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_université_grenoble_alpes_main_biotechnologies_catalog_listing",
+    "university_id": "u_université_grenoble_alpes",
+    "campus_id": "main",
+    "normalized_program_code": "biotechnologies_catalog_listing",
+    "name": "Biotechnologies (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://licences-masters-sante.univ-grenoble-alpes.fr/masters/biotechnologies",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_42ea75717967",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_université_grenoble_alpes_main_biohealth_engineering_international_track_catalog_listing",
+    "university_id": "u_université_grenoble_alpes",
+    "campus_id": "main",
+    "normalized_program_code": "biohealth_engineering_international_track_catalog_listing",
+    "name": "Biohealth Engineering International Track (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://licences-masters-sante.univ-grenoble-alpes.fr/masters/masters-internationaux/biohealth-engineering-international-track",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_42ea75717967",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_université_grenoble_alpes_main_artificial_intelligence_for_one_health_catalog_listing",
+    "university_id": "u_université_grenoble_alpes",
+    "campus_id": "main",
+    "normalized_program_code": "artificial_intelligence_for_one_health_catalog_listing",
+    "name": "Artificial Intelligence For One Health (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://licences-masters-sante.univ-grenoble-alpes.fr/masters/masters-internationaux/artificial-intelligence-for-one-health",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_42ea75717967",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_université_grenoble_alpes_main_consulter_la_page_d_di_e_au_master_is",
+    "university_id": "u_université_grenoble_alpes",
+    "campus_id": "main",
+    "normalized_program_code": "consulter_la_page_d_di_e_au_master_is",
+    "name": "Consulter la page dédiée au Master IS",
+    "degree": "MasterI",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-ingenierie-de-la-sante-IAQKSXOB.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_42ea75717967",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  }
+]

@@ -1,1 +1,2192 @@
-[]
+[
+  {
+    "project_id": "u_inti_international_university_main_master_in_education_management",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_education_management",
+    "name": "Master in Education Management",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/master-in-education-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "4.0"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "A Bachelor’s Degree (Level 6, MQF) in education fields with a minimum CGPA of 2."
+          },
+          "notes": "",
+          "source_id": "src_9606659fb1dc",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; lang:IELTS 4.0"
+  },
+  {
+    "project_id": "u_inti_international_university_main_master_in_education_management_online_learning",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_education_management_online_learning",
+    "name": "Master in Education Management (Online Learning) 无法访问此网站",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/master-in-education-management-online-learning",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "4.0"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "A Bachelor’s Degree (Level 6, MQF) in education fields with a minimum CGPA of 2."
+          },
+          "notes": "",
+          "source_id": "src_b251b2b502e1",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; lang:IELTS 4.0"
+  },
+  {
+    "project_id": "u_inti_international_university_main_master_in_health_administration",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_health_administration",
+    "name": "Master in Health Administration 无法访问此网站 无法访问此网站 无法访问此网站",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/master-in-health-administration",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "A Bachelor's Degree in related fields with a minimum CGPA of 2."
+          },
+          "notes": "",
+          "source_id": "src_011015b5f0f4",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_inti_international_university_main_master_in_health_sciences_physiotherapy_by_research",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_in_health_sciences_physiotherapy_by_research",
+    "name": "Master in Health Sciences (Physiotherapy) (by Research) 无法访问此网站 无法访问此网站 无法访问此网站",
+    "degree": "Masterin",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/master-in-health-sciences-physiotherapy-by-research",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "A Bachelor’s Degree in Physiotherapy or related fields with a minimum CGPA of 2."
+          },
+          "notes": "",
+          "source_id": "src_4a5c71984d3b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_inti_international_university_main_master_of_biotechnological_innovations_and_application_by_research",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_biotechnological_innovations_and_application_by_research",
+    "name": "Master of Biotechnological Innovations and Application (by Research) 无法访问此网站 无法访问此网站 无法访问此网站",
+    "degree": "MasterofBiotechnological",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/master-of-biotechnological-innovations-and-application-by-research",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "A Bachelor’s Degree (Level 6, MQF) in Biotechnology or related field with a minimum CGPA of 2."
+          },
+          "notes": "",
+          "source_id": "src_75346f1ed7d8",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_inti_international_university_main_master_of_business_administration_business_analytics",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_business_administration_business_analytics",
+    "name": "Master of Business Administration (Business Analytics) 无法访问此网站 无法访问此网站 无法访问此网站",
+    "degree": "MasterofBusiness",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/master-of-business-administration-business-analytics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.0"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "A Bachelor’s Degree in related fields or its equivalent, with a minimum CGPA of 2."
+          },
+          "notes": "",
+          "source_id": "src_91930bc20f22",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; lang:IELTS 6.0"
+  },
+  {
+    "project_id": "u_inti_international_university_main_master_of_business_administration_mba",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_business_administration_mba",
+    "name": "Master of Business Administration (MBA) 无法访问此网站 无法访问此网站 无法访问此网站",
+    "degree": "MasterofBusiness",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/master-of-business-administration-mba-by-inti-international-university_1",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "A Bachelor’s Degree (Level 6, MQF) in related fields with a minimum CGPA of 2."
+          },
+          "notes": "",
+          "source_id": "src_1e329b0c5323",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_inti_international_university_main_master_of_business_administration_mba_in_collaboration_with_inti_international_u",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_business_administration_mba_in_collaboration_with_inti_international_u",
+    "name": "Master of Business Administration (MBA) in collaboration with INTI International University 无法访问此网站 无法访问此网站 无法访问此网站",
+    "degree": "MasterofBusiness",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/master-of-business-administration-mba-in-collaboration-with-inti-international-university",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "A Bachelor’s Degree (Level 6, MQF) in related fields with a minimum CGPA of 2."
+          },
+          "notes": "",
+          "source_id": "src_1b59ea9b04d4",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_inti_international_university_main_master_of_business_administration_online_learning",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_business_administration_online_learning",
+    "name": "Master of Business Administration (Online Learning) 无法访问此网站 无法访问此网站 无法访问此网站",
+    "degree": "MasterofBusiness",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/master-of-business-administration-mba-learning-simplified",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "A Bachelor’s Degree (Level 6, MQF) in related fields with a minimum CGPA of 2."
+          },
+          "notes": "",
+          "source_id": "src_4fcdeadba903",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_inti_international_university_main_master_of_education_in_learning_design_and_technology_by_research",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_education_in_learning_design_and_technology_by_research",
+    "name": "Master of Education in Learning, Design and Technology (by Research) 无法访问此网站 无法访问此网站 无法访问此网站",
+    "degree": "MasterofEducation",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/master-of-education-in-learning-design-and-technology",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "4.0"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Entry Requirements A Bachelor’s Degree (Level 6, MQF) in education fields with a minimum CGPA of 2."
+          },
+          "notes": "",
+          "source_id": "src_ab3ad29fed9b",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; lang:IELTS 4.0"
+  },
+  {
+    "project_id": "u_inti_international_university_main_master_of_engineering_in_electrical_and_electronic_engineering_4_0_in_collaborat",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_engineering_in_electrical_and_electronic_engineering_4_0_in_collaborat",
+    "name": "Master of Engineering in Electrical and Electronic Engineering 4+0 in collaboration with Coventry University, UK",
+    "degree": "MasterofEngineering",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/master-of-engineering-in-electrical-and-electronic-engineering-40-in-collaboration-with-coventry-university-uk",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.0"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Recognised as equivalent to a Bachelor’s Degree (MQF Level 6) in Malaysia."
+          },
+          "notes": "",
+          "source_id": "src_b2d5d5e3f241",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; lang:IELTS 6.0"
+  },
+  {
+    "project_id": "u_inti_international_university_main_master_of_engineering_in_mechanical_engineering_4_0_in_collaboration_with_covent",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_engineering_in_mechanical_engineering_4_0_in_collaboration_with_covent",
+    "name": "Master of Engineering in Mechanical Engineering 4+0 in collaboration with Coventry University, UK 无法访问此网站 无法访问此网站 无法访问此网站",
+    "degree": "MasterofEngineering",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/master-of-engineering-in-mechanical-engineering-40-in-collaboration-with-coventry-university-uk",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "IELTS",
+                "min_score": "6.0"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Recognised as equivalent to a Bachelor’s Degree (MQF Level 6) in Malaysia."
+          },
+          "notes": "",
+          "source_id": "src_28184c0be15c",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; lang:IELTS 6.0"
+  },
+  {
+    "project_id": "u_inti_international_university_main_master_of_science_in_construction_management_building_information_modelling",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_science_in_construction_management_building_information_modelling",
+    "name": "Master of Science in Construction Management (Building Information Modelling) 无法访问此网站 无法访问此网站 无法访问此网站",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/master-of-science-in-construction-management-building-information-modelling",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "3+0 in collaboration with Sheffield Hallam University, UKBA (Hons) Graphic Design 3+0 in collaboration with Sheffield Hallam University, UKBachelor of Art (Honours) Interior Architecture & Design 3."
+          },
+          "notes": "",
+          "source_id": "src_d36137d0b6bc",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_inti_international_university_main_master_of_science_in_construction_management_building_information_modelling_13",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_science_in_construction_management_building_information_modelling_13",
+    "name": "Master of Science in Construction Management (Building Information Modelling)",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/master-of-science-in-construction-management-building-information-modelling-fully-online",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "3+0 in collaboration with Sheffield Hallam University, UKBA (Hons) Graphic Design 3+0 in collaboration with Sheffield Hallam University, UKBachelor of Art (Honours) Interior Architecture & Design 3."
+          },
+          "notes": "",
+          "source_id": "src_fc5c87d5844d",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_inti_international_university_main_biotechnology_life_sciences_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "biotechnology_life_sciences_catalog_listing",
+    "name": "Biotechnology Life Sciences (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/academic-programmes/biotechnology-life-sciences",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_business_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "business_catalog_listing",
+    "name": "Business (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/academic-programmes/business",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_education_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "education_catalog_listing",
+    "name": "Education (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/academic-programmes/education",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_engineering_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "engineering_catalog_listing",
+    "name": "Engineering (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/academic-programmes/engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_fashion_design_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "fashion_design_catalog_listing",
+    "name": "Fashion Design (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/academic-programmes/fashion-design",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_graphic_design_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "graphic_design_catalog_listing",
+    "name": "Graphic Design (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/academic-programmes/graphic-design",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_health_sciences_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "health_sciences_catalog_listing",
+    "name": "Health Sciences (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/academic-programmes/health-sciences",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_interior_design_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "interior_design_catalog_listing",
+    "name": "Interior Design (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/academic-programmes/interior-design",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_multimedia_design_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "multimedia_design_catalog_listing",
+    "name": "Multimedia Design (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/academic-programmes/multimedia-design",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_social_science_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "social_science_catalog_listing",
+    "name": "Social Science (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/academic-programmes/social-science",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_art_design_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "art_design_catalog_listing",
+    "name": "Art Design (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/academic-programmes/art-design",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_in_sports_management_honours_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_in_sports_management_honours_catalog_listing",
+    "name": "Bachelor In Sports Management Honours (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-in-sports-management-honours",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_of_accounting_finance_hons_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_accounting_finance_hons_catalog_listing",
+    "name": "Bachelor Of Accounting Finance Hons (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-of-accounting-finance-hons",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_of_banking_and_finance_hons_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_banking_and_finance_hons_catalog_listing",
+    "name": "Bachelor Of Banking And Finance Hons (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-of-banking-and-finance-hons",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_of_biotechnology_hons_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_biotechnology_hons_catalog_listing",
+    "name": "Bachelor Of Biotechnology Hons (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-of-biotechnology-hons",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_of_business_hons_in_accounting_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_business_hons_in_accounting_catalog_listing",
+    "name": "Bachelor Of Business Hons In Accounting (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-of-business-hons-in-accounting",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_of_business_hons_in_business_administration_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_business_hons_in_business_administration_catalog_listing",
+    "name": "Bachelor Of Business Hons In Business Administration (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-of-business-hons-in-business-administration",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_of_business_hons_business_administration_learning_simplified_catalog_li",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_business_hons_business_administration_learning_simplified_catalog_li",
+    "name": "Bachelor Of Business Hons Business Administration Learning Simplified (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-of-business-hons-business-administration-learning-simplified",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_of_business_honours_digital_enterprise_management_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_business_honours_digital_enterprise_management_catalog_listing",
+    "name": "Bachelor Of Business Honours Digital Enterprise Management (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-of-business-honours-digital-enterprise-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_of_business_hons_in_finance_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_business_hons_in_finance_catalog_listing",
+    "name": "Bachelor Of Business Hons In Finance (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-of-business-hons-in-finance",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_of_business_hons_in_human_resource_management_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_business_hons_in_human_resource_management_catalog_listing",
+    "name": "Bachelor Of Business Hons In Human Resource Management (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-of-business-hons-in-human-resource-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_business_hons_human_resource_management_learning_simplified_catalog_lis",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_business_hons_human_resource_management_learning_simplified_catalog_lis",
+    "name": "Bachelor Business Hons Human Resource Management Learning Simplified (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-business-hons-human-resource-management-learning-simplified",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_of_business_honours_in_entrepreneurship_and_marketing_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_business_honours_in_entrepreneurship_and_marketing_catalog_listing",
+    "name": "Bachelor Of Business Honours In Entrepreneurship And Marketing (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-of-business-honours-in-entrepreneurship-and-marketing",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_business_hons_international_business_learning_simplified_catalog_listin",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_business_hons_international_business_learning_simplified_catalog_listin",
+    "name": "Bachelor Business Hons International Business Learning Simplified (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-business-hons-international-business-learning-simplified",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_of_business_hons_logistics_and_supply_chain_management_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_business_hons_logistics_and_supply_chain_management_catalog_listing",
+    "name": "Bachelor Of Business Hons Logistics And Supply Chain Management (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-of-business-hons-logistics-and-supply-chain-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_of_business_hons_management_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_business_hons_management_catalog_listing",
+    "name": "Bachelor Of Business Hons Management (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-of-business-hons-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_of_business_hons_marketing_learning_simplified_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_business_hons_marketing_learning_simplified_catalog_listing",
+    "name": "Bachelor Of Business Hons Marketing Learning Simplified (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-of-business-hons-marketing-learning-simplified",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_of_business_hons_with_psychology_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_business_hons_with_psychology_catalog_listing",
+    "name": "Bachelor Of Business Hons With Psychology (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-of-business-hons-with-psychology",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_of_business_hons_in_marketing_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_business_hons_in_marketing_catalog_listing",
+    "name": "Bachelor Of Business Hons In Marketing (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-of-business-hons-in-marketing",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_of_computer_science_online_learning_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_computer_science_online_learning_catalog_listing",
+    "name": "Bachelor Of Computer Science Online Learning (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-of-computer-science-online-learning",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_of_computer_science_hons_coventry_uk_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_computer_science_hons_coventry_uk_catalog_listing",
+    "name": "Bachelor Of Computer Science Hons Coventry Uk (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-of-computer-science-hons-coventry-uk",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_computer_science_hons_business_analytics_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_computer_science_hons_business_analytics_catalog_listing",
+    "name": "Bachelor Computer Science Hons Business Analytics (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-computer-science-hons-business-analytics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_computer_science_hons_cloud_computing_catalog_listing",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_computer_science_hons_cloud_computing_catalog_listing",
+    "name": "Bachelor Computer Science Hons Cloud Computing (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-computer-science-hons-cloud-computing",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  },
+  {
+    "project_id": "u_inti_international_university_main_bachelor_of_computer_science_hons_in_network_and_mobile_computing_coventry_uk_ca",
+    "university_id": "u_inti_international_university",
+    "campus_id": "main",
+    "normalized_program_code": "bachelor_of_computer_science_hons_in_network_and_mobile_computing_coventry_uk_ca",
+    "name": "Bachelor Of Computer Science Hons In Network And Mobile Computing Coventry Uk (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://newinti.edu.my/programme/bachelor-of-computer-science-hons-in-network-and-mobile-computing-coventry-uk",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dia Design Engineering American University Program View all areas of study Level of study Undergraduate Foundation, Diploma Certificate and Bachelor degrees Working Professionals View all programmes Partner Universities In collaboration with top international university partners."
+          },
+          "notes": "",
+          "source_id": "src_89fc4c0e44ca",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  }
+]

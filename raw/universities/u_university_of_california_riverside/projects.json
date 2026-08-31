@@ -1,1 +1,407 @@
-[]
+[
+  {
+    "project_id": "u_university_of_california_riverside_main_master_arts",
+    "university_id": "u_university_of_california_riverside",
+    "campus_id": "main",
+    "normalized_program_code": "master_arts",
+    "name": "Master Arts",
+    "degree": "MasterA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://education.ucr.edu/master-arts",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "not_required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b970629d674e",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_california_riverside_main_m_ed",
+    "university_id": "u_university_of_california_riverside",
+    "campus_id": "main",
+    "normalized_program_code": "m_ed",
+    "name": "M.Ed",
+    "degree": "MEd",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://education.ucr.edu/master-education",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "not_required",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_0892288c7b46",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_california_riverside_main_master_of_business_administration",
+    "university_id": "u_university_of_california_riverside",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_business_administration",
+    "name": "Master of Business Administration",
+    "degree": "MasterofBusiness",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://business.ucr.edu/mba",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "aled that MBAs were expected to receive a salary boost in 2023, even after accounting for inflation while average earnings for those with a bachelor’s degree were projected to take a dip, returning to normal levels."
+          },
+          "notes": "",
+          "source_id": "src_e7d507f7bf40",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_california_riverside_main_graduation_procedures_phd_masters_degrees",
+    "university_id": "u_university_of_california_riverside",
+    "campus_id": "main",
+    "normalized_program_code": "graduation_procedures_phd_masters_degrees",
+    "name": "Graduation Procedures Phd Masters Degrees",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://graduate.ucr.edu/graduation-procedures-phd-masters-degrees",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_306d990695c6",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_california_riverside_main_master_of_professional_accountancy",
+    "university_id": "u_university_of_california_riverside",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_professional_accountancy",
+    "name": "Master of Professional Accountancy",
+    "degree": "MasterofProfessional",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://business.ucr.edu/mpac",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_4e8c20dfc504",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_california_riverside_main_master_of_science_in_business_analytics",
+    "university_id": "u_university_of_california_riverside",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_science_in_business_analytics",
+    "name": "Master of Science in Business Analytics",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://business.ucr.edu/msba",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_ff12b0e0c6ba",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_california_riverside_main_online_master_of_science_in_engineering_program",
+    "university_id": "u_university_of_california_riverside",
+    "campus_id": "main",
+    "normalized_program_code": "online_master_of_science_in_engineering_program",
+    "name": "Online Master of Science in Engineering Program",
+    "degree": "MasterofScience",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "http://engineeringonline.ucr.edu/?Access_Code=UCR-MSE-SEO2&utm_campaign=UCR-MSE_SEO2",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_d56ff8f2b2d9",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_california_riverside_main_master_of_finance",
+    "university_id": "u_university_of_california_riverside",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_finance",
+    "name": "Master of Finance",
+    "degree": "MasterofFinance",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://business.ucr.edu/mfin",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_874f04a1adcf",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_california_riverside_main_m_a",
+    "university_id": "u_university_of_california_riverside",
+    "campus_id": "main",
+    "normalized_program_code": "m_a",
+    "name": "M.A",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://education.ucr.edu/master-arts",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_fa13353d5789",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  }
+]

@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "project_id": "u_national_taiwan_university_of_science_and_technology_taiwan_tech_main_michelle_erlie_indonesia_mba_program",
+    "university_id": "u_national_taiwan_university_of_science_and_technology_taiwan_tech",
+    "campus_id": "main",
+    "normalized_program_code": "michelle_erlie_indonesia_mba_program",
+    "name": "Michelle Erlie, Indonesia, MBA program",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.ntust.edu.tw/p/406-1000-116990,r1171.php?Lang=en",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_6876953e71ee",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "teaching_language": [
+      "English"
+    ],
+    "notes": "official page captured; facts pending review"
+  }
+]

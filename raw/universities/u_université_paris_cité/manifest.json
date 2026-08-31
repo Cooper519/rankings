@@ -2,10 +2,10 @@
   "schema_version": 1,
   "package_version": 1,
   "university_id": "u_université_paris_cité",
-  "name": "Universite Paris Cite",
+  "name": "Université Paris Cité",
   "country": "France",
   "website": "https://u-paris.fr/en",
-  "updated_at": "2026-08-23T14:38:55.837840Z",
-  "notes": "Scraped from official English-taught programs listing",
-  "converter": "web-scrape-v1"
+  "updated_at": "2026-08-28T08:38:06.693079+00:00",
+  "notes": "four-rankings scrape 27fall: pages=8 captured, programs=0 (0 with per-project facts), school_deadline=unknown, fees=unknown, issues=none",
+  "converter": "four-rankings-webfetch-v2"
 }

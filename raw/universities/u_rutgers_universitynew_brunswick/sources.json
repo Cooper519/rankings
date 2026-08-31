@@ -1,11 +1,42 @@
 [
   {
-    "source_id": "src_c4227e23cac9",
-    "url": "https://www.rutgersuniversitynewbrunswick.edu",
+    "source_id": "src_075e46d78a70",
+    "url": "https://www.rutgers.edu/",
     "source_type": "official_web",
-    "retrieved_at": "2026-08-19T18:56:01.850393+00:00",
-    "verification_status": "blocked",
-    "title": "Rutgers University–New Brunswick Official Website",
-    "evidence_text": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping."
+    "retrieved_at": "2026-08-28T10:30:18.323155+00:00",
+    "verification_status": "extracted",
+    "title": "Rutgers University",
+    "content_hash": "sha256:02ce7573a4e35c2b246a26e6dc237eb0d57638608cc6909d8e58fe4a67c126de",
+    "evidence_text": "Rutgers University Skip to main content Enter a Search Term Search Rutgers Search this site Search all Rutgers Search People New Brunswick Newark Camden Rutgers Health Apply Info For: Prospective Students and Parents Current Students Faculty and Staff Alumni and Donors Job Seekers Veterans & Militar"
+  },
+  {
+    "source_id": "src_80202dd977e0",
+    "url": "https://www.rutgers.edu/admissions-tuition",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-28T10:30:28.741778+00:00",
+    "verification_status": "extracted",
+    "title": "Admissions and Tuition | Rutgers University",
+    "content_hash": "sha256:5c461a9b57d820555b07216a00ad909ba40f2285c9e98fffa392fa98293933ea",
+    "evidence_text": "Admissions and Tuition | Rutgers University Skip to main content Enter a Search Term Search Rutgers Search this site Search all Rutgers Search People New Brunswick Newark Camden Rutgers Health Apply Info For: Prospective Students and Parents Current Students Faculty and Staff Alumni and Donors Job S"
+  },
+  {
+    "source_id": "src_3a09956b7558",
+    "url": "http://gradstudy.rutgers.edu?utm_source=uwide_links&amp%3Butm_medium=web&amp%3Butm_campaign=footer",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-28T10:30:34.954782+00:00",
+    "verification_status": "extracted",
+    "title": "Home | Graduate and Professional Admissions",
+    "content_hash": "sha256:95fc29a13f692372291ae5a2e4c86d5a75e776660d34527f89ac2b995b9f941a",
+    "evidence_text": "Home | Graduate and Professional Admissions Rutgers Home New Brunswick Rutgers Health Newark Camden Online University Search Graduate and Professional Admissions Search: Contact Us Apply Now Home About Us About Us Contact Us Frequently Asked Questions Explore Programs Explore Programs Search Program"
+  },
+  {
+    "source_id": "src_11abbaa1267f",
+    "url": "http://gradstudy.rutgers.edu/information/international-students",
+    "source_type": "official_web",
+    "retrieved_at": "2026-08-28T10:30:38.091652+00:00",
+    "verification_status": "extracted",
+    "title": "International Students | Graduate and Professional Admissions",
+    "content_hash": "sha256:0c0d6fe70383c7ba8cf0d07d31b7562fe7fafa3025e63900fbcae5e4d88634dd",
+    "evidence_text": "International Students | Graduate and Professional Admissions Rutgers Home New Brunswick Rutgers Health Newark Camden Online University Search Graduate and Professional Admissions Search: Contact Us Apply Now Home About Us About Us Contact Us Frequently Asked Questions Explore Programs Explore Progr"
   }
 ]

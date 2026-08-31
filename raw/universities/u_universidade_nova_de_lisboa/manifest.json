@@ -5,7 +5,7 @@
   "name": "Universidade Nova de Lisboa",
   "country": "Portugal",
   "website": "https://www.novasbe.unl.pt/en/data-science/contacts",
-  "updated_at": "2026-08-19T18:56:01.850393+00:00",
-  "notes": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping.",
-  "converter": "manual-webfetch-v1"
+  "updated_at": "2026-08-28T09:27:26.020037+00:00",
+  "notes": "four-rankings scrape 27fall: pages=14 captured, programs=0 (0 with per-project facts), school_deadline=unknown, fees=unknown, issues=none",
+  "converter": "four-rankings-webfetch-v2"
 }

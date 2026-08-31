@@ -1,1 +1,1090 @@
-[]
+[
+  {
+    "project_id": "u_sciences_po_main_executive_master_potential_in_africa",
+    "university_id": "u_sciences_po",
+    "campus_id": "main",
+    "normalized_program_code": "executive_master_potential_in_africa",
+    "name": "Executive Master Potential in Africa",
+    "degree": "MasterP",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.sciencespo.fr/executive-education/en/programmes-for-individuals/executive-masters/executive-master-potential-in-africa-development-policies-and-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_04_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-05-27",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_05_27"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_9394024c83a7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-04-04"
+  },
+  {
+    "project_id": "u_sciences_po_main_bourse_master_executif_politiques_gestion_developpement_potentiel_afrique",
+    "university_id": "u_sciences_po",
+    "campus_id": "main",
+    "normalized_program_code": "bourse_master_executif_politiques_gestion_developpement_potentiel_afrique",
+    "name": "Bourse Master Executif Politiques Gestion Developpement Potentiel Afrique",
+    "degree": "MasterE",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.sciencespo.fr/executive-education/fr/admission/bourse-master-executif-politiques-gestion-developpement-potentiel-afrique/?utm_source=sciencespo&utm_medium=referral",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_04_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-05-27",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_05_27"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_f201a798a94c",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-04-04"
+  },
+  {
+    "project_id": "u_sciences_po_main_masters_degree",
+    "university_id": "u_sciences_po",
+    "campus_id": "main",
+    "normalized_program_code": "masters_degree",
+    "name": "Masters Degree",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.sciencespo.fr/students/en/study/schools/masters-degree",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_04_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-05-27",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_05_27"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_91a565797270",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-04-04"
+  },
+  {
+    "project_id": "u_sciences_po_main_master_level",
+    "university_id": "u_sciences_po",
+    "campus_id": "main",
+    "normalized_program_code": "master_level",
+    "name": "Master Level",
+    "degree": "MasterL",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.sciencespo.fr/students/en/study/go-on-exchange/master-level",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_04_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-05-27",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_05_27"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "frYou are going abroad (the 3rd year of your Bachelor or the semester off-campus of your Master), please contact: sejour."
+          },
+          "notes": "",
+          "source_id": "src_030a33911543",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-04-04"
+  },
+  {
+    "project_id": "u_sciences_po_main_using_education_technology",
+    "university_id": "u_sciences_po",
+    "campus_id": "main",
+    "normalized_program_code": "using_education_technology",
+    "name": "Using Education Technology",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.sciencespo.fr/students/en/study/using-education-technology",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_04_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-05-27",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_05_27"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_57bb9164bb49",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-04-04"
+  },
+  {
+    "project_id": "u_sciences_po_main_meet_the_services",
+    "university_id": "u_sciences_po",
+    "campus_id": "main",
+    "normalized_program_code": "meet_the_services",
+    "name": "Meet The Services",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.sciencespo.fr/students/en/get-started/orientation-programmes/meet-the-services",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_04_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-05-27",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_05_27"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_aeaabe9a4fb3",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-04-04"
+  },
+  {
+    "project_id": "u_sciences_po_main_welcome_programme",
+    "university_id": "u_sciences_po",
+    "campus_id": "main",
+    "normalized_program_code": "welcome_programme",
+    "name": "Welcome Programme",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.sciencespo.fr/students/en/get-started/orientation-programmes/welcome-programme",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_04_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-05-27",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_05_27"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_57f3518706b7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-04-04"
+  },
+  {
+    "project_id": "u_sciences_po_main_academic_affairs",
+    "university_id": "u_sciences_po",
+    "campus_id": "main",
+    "normalized_program_code": "academic_affairs",
+    "name": "Academic Affairs",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.sciencespo.fr/students/en/study/academic-affairs",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_04_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-05-27",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_05_27"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_99d06d558d4a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-04-04"
+  },
+  {
+    "project_id": "u_sciences_po_main_university_calendar",
+    "university_id": "u_sciences_po",
+    "campus_id": "main",
+    "normalized_program_code": "university_calendar",
+    "name": "University Calendar",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.sciencespo.fr/students/en/study/academic-affairs/university-calendar",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_04_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-05-27",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_05_27"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_55b4d2fd4e66",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-04-04"
+  },
+  {
+    "project_id": "u_sciences_po_main_administrative_registration",
+    "university_id": "u_sciences_po",
+    "campus_id": "main",
+    "normalized_program_code": "administrative_registration",
+    "name": "Administrative Registration",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.sciencespo.fr/students/en/study/academic-affairs/administrative-registration",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_04_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-05-27",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_05_27"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_c6adbdb979e8",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-04-04"
+  },
+  {
+    "project_id": "u_sciences_po_main_course_registration",
+    "university_id": "u_sciences_po",
+    "campus_id": "main",
+    "normalized_program_code": "course_registration",
+    "name": "Course Registration",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.sciencespo.fr/students/en/study/academic-affairs/course-registration",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_04_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-05-27",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_05_27"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_82afa2a3320d",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-04-04"
+  },
+  {
+    "project_id": "u_sciences_po_main_student_card",
+    "university_id": "u_sciences_po",
+    "campus_id": "main",
+    "normalized_program_code": "student_card",
+    "name": "Student Card",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.sciencespo.fr/students/en/study/academic-affairs/student-card",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_04_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-05-27",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_05_27"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "ndicating the theft of the student cardReplacement of a student card which no longer works: free of charge;Replacement of a card issued for Bachelor degree for continuation in Master degree (only in case of a lost card or a card which no longer works): 1 card free of charge."
+          },
+          "notes": "",
+          "source_id": "src_98accded3abd",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-04-04"
+  },
+  {
+    "project_id": "u_sciences_po_main_procedure_changing_preferred_first_name",
+    "university_id": "u_sciences_po",
+    "campus_id": "main",
+    "normalized_program_code": "procedure_changing_preferred_first_name",
+    "name": "Procedure Changing Preferred First Name",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.sciencespo.fr/students/en/study/academic-affairs/procedure-changing-preferred-first-name",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_04_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-05-27",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_05_27"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_dab7023df0f9",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-04-04"
+  },
+  {
+    "project_id": "u_sciences_po_main_work_methods",
+    "university_id": "u_sciences_po",
+    "campus_id": "main",
+    "normalized_program_code": "work_methods",
+    "name": "Work Methods",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.sciencespo.fr/students/en/study/academic-affairs/work-methods",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_04_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-05-27",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_05_27"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_4bb2f38343c7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-04-04"
+  },
+  {
+    "project_id": "u_sciences_po_main_management_international_public_affairs_mipa_universite_bocconi_catalog_listing",
+    "university_id": "u_sciences_po",
+    "campus_id": "main",
+    "normalized_program_code": "management_international_public_affairs_mipa_universite_bocconi_catalog_listing",
+    "name": "Management International Public Affairs Mipa Universite Bocconi (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.sciencespo.fr/ecole-urbaine/fr/formations/doubles-diplomes/management-international-public-affairs-mipa-universite-bocconi",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_04_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-05-27",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_05_27"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "elor’s degree or equivalent) from an institution located in France or abroad” and then “You are a Sciences Po student (and will obtain your bachelor this year) and you wish to apply to a dual degree programme”."
+          },
+          "notes": "",
+          "source_id": "src_50bbea8587ff",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-04-04"
+  },
+  {
+    "project_id": "u_sciences_po_main_dual_master_s_degree_in_corporate_and_public_management",
+    "university_id": "u_sciences_po",
+    "campus_id": "main",
+    "normalized_program_code": "dual_master_s_degree_in_corporate_and_public_management",
+    "name": "Dual Master's degree in Corporate and Public Management",
+    "degree": "Mastersdegreein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.sciencespo.fr/ecole-affaires-publiques/en/academics/dual-degrees/hec-corporate-public-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-04-04",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_04_04"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-05-27",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_e5eee1aaa16e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_05_27"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "elor’s degree or equivalent) from an institution located in France or abroad” and then “You are a Sciences Po student (and will obtain your bachelor this year) and you wish to apply to a dual degree programme”."
+          },
+          "notes": "",
+          "source_id": "src_50bbea8587ff",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2027-04-04"
+  }
+]

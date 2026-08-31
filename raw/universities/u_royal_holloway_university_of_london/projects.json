@@ -1,1 +1,535 @@
-[]
+[
+  {
+    "project_id": "u_royal_holloway_university_of_london_main_hear_from_our_postgraduate_students",
+    "university_id": "u_royal_holloway_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "hear_from_our_postgraduate_students",
+    "name": "Hear From Our Postgraduate Students",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.royalholloway.ac.uk/studying-here/applying/postgraduate/hear-from-our-postgraduate-students",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-07",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b6d8faf953f5",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_07"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2027-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b6d8faf953f5",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2027_01"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_883e98fa1c1a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-12-07"
+  },
+  {
+    "project_id": "u_royal_holloway_university_of_london_main_meet_our_postgraduate_alumni",
+    "university_id": "u_royal_holloway_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "meet_our_postgraduate_alumni",
+    "name": "Meet Our Postgraduate Alumni",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.royalholloway.ac.uk/studying-here/applying/postgraduate/meet-our-postgraduate-alumni",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-07",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b6d8faf953f5",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_07"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2027-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b6d8faf953f5",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2027_01"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_134ed7f9f40f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-12-07"
+  },
+  {
+    "project_id": "u_royal_holloway_university_of_london_main_how_to_apply",
+    "university_id": "u_royal_holloway_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "how_to_apply",
+    "name": "How To Apply",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.royalholloway.ac.uk/studying-here/applying/postgraduate/how-to-apply",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-07",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ede6c873ec4c",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_07"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_ede6c873ec4c",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-12-07"
+  },
+  {
+    "project_id": "u_royal_holloway_university_of_london_main_entry_requirements",
+    "university_id": "u_royal_holloway_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "entry_requirements",
+    "name": "Entry Requirements",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.royalholloway.ac.uk/studying-here/applying/postgraduate/entry-requirements",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-07",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b6d8faf953f5",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_07"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2027-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b6d8faf953f5",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2027_01"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_181f3ba7e3d6",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-12-07"
+  },
+  {
+    "project_id": "u_royal_holloway_university_of_london_main_continue_your_education_catalog_listing",
+    "university_id": "u_royal_holloway_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "continue_your_education_catalog_listing",
+    "name": "Continue Your Education (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.royalholloway.ac.uk/studying-here/fees-and-funding/postgraduate/continue-your-education",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-07",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b6d8faf953f5",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_07"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2027-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b6d8faf953f5",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2027_01"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b6d8faf953f5",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-07"
+  },
+  {
+    "project_id": "u_royal_holloway_university_of_london_main_business_school_ai_for_business_msc_1_year_full_time_msc",
+    "university_id": "u_royal_holloway_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "business_school_ai_for_business_msc_1_year_full_time_msc",
+    "name": "Business School AI for Business MSc 1 year full time MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.royalholloway.ac.uk/studying-here/postgraduate/business-school/ai-for-business-msc",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-07",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b6d8faf953f5",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_07"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2027-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b6d8faf953f5",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2027_01"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b6d8faf953f5",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-07"
+  },
+  {
+    "project_id": "u_royal_holloway_university_of_london_main_classics_ancient_history_1_year_full_time_ma",
+    "university_id": "u_royal_holloway_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "classics_ancient_history_1_year_full_time_ma",
+    "name": "Classics Ancient History 1 year full time MA",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.royalholloway.ac.uk/studying-here/postgraduate/classics/ancient-history",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-07",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b6d8faf953f5",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_07"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2027-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b6d8faf953f5",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2027_01"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b6d8faf953f5",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-07"
+  },
+  {
+    "project_id": "u_royal_holloway_university_of_london_main_computer_science_artificial_intelligence_1_year_full_time_msc",
+    "university_id": "u_royal_holloway_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "computer_science_artificial_intelligence_1_year_full_time_msc",
+    "name": "Computer Science Artificial Intelligence 1 year full time MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.royalholloway.ac.uk/studying-here/postgraduate/computer-science/artificial-intelligence",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-12-07",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b6d8faf953f5",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2026_12_07"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2027-01",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_b6d8faf953f5",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2027_01"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b6d8faf953f5",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-12-07"
+  }
+]

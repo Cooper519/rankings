@@ -1,1 +1,2828 @@
-[]
+[
+  {
+    "project_id": "u_koç_university_main_mscbio_medical_sciences_and_engineering",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mscbio_medical_sciences_and_engineering",
+    "name": "MScBio-Medical Sciences and Engineering",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/54-msc-bio-medical-sciences-and-engineering---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_bf084a17d39e",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_bf084a17d39e",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_embaexecutive_mba",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "embaexecutive_mba",
+    "name": "EMBAExecutive MBA",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/88-emba-executive-mba---master-business-administration---non-thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_e56ad688469a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-08-31"
+  },
+  {
+    "project_id": "u_koç_university_main_llmprivate_law",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "llmprivate_law",
+    "name": "LLMPrivate Law",
+    "degree": "LLM",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/129-llm-private-law---non-thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-30",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_de8520d3a1fc",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_30"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_de8520d3a1fc",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_20000_usd",
+            "type": "tuition",
+            "amount": "20000",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "Master, full-time Study language English Awards LLM Course code 129 Tuition fee US$20,000 per programmeConvertTuition is charged in USD to non-Turkish citizenship admitt",
+            "source_id": "src_de8520d3a1fc",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-08-30; fee:USD20000/unknown(international)"
+  },
+  {
+    "project_id": "u_koç_university_main_llmpublic_law",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "llmpublic_law",
+    "name": "LLMPublic Law",
+    "degree": "LLM",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/130-llm-public-law---non-thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-30",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_ac1874513097",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_30"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_ac1874513097",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_20000_usd",
+            "type": "tuition",
+            "amount": "20000",
+            "currency": "USD",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "Master, full-time Study language English Awards LLM Course code 130 Tuition fee US$20,000 per programmeConvertTuition is charged in USD to non-Turkish citizenship admitt",
+            "source_id": "src_ac1874513097",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-08-30; fee:USD20000/unknown(international)"
+  },
+  {
+    "project_id": "u_koç_university_main_ma_computational_social_sciences_master",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "ma_computational_social_sciences_master",
+    "name": "[MA] Computational Social Sciences Master",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/420-ma-computational-social-sciences-master---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "In addition to the graduates of social science majors, students who have received a bachelor’s degree from other fields can also be admitted to the Computational Social Sciences Master’s Program with Thesis."
+          },
+          "notes": "",
+          "source_id": "src_0609fbfced4e",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-08-31"
+  },
+  {
+    "project_id": "u_koç_university_main_mbadesign_mba",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mbadesign_mba",
+    "name": "MBADesign MBA",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/120-mba-design-mba---master-business-administration---non-thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5f3543930d39",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-08-31"
+  },
+  {
+    "project_id": "u_koç_university_main_mbahealth_mba",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mbahealth_mba",
+    "name": "MBAHealth MBA",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/121-mba-health-mba---master-business-administration---non-thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_212f3318ea3f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-08-31"
+  },
+  {
+    "project_id": "u_koç_university_main_mbamodular_mba",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mbamodular_mba",
+    "name": "MBAModular MBA",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/119-mba-modular-mba---master-business-administration---non-thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8f54c3ed296e",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-08-31"
+  },
+  {
+    "project_id": "u_koç_university_main_mbatech_mba",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mbatech_mba",
+    "name": "MBATech MBA",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/92-mba-tech-mba---master-business-administration---non-thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_2a0b8ceb3d42",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-08-31"
+  },
+  {
+    "project_id": "u_koç_university_main_msccellular_and_molecular_medicine",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "msccellular_and_molecular_medicine",
+    "name": "MScCellular and Molecular Medicine",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/152-msc-cellular-and-molecular-medicine---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_6859eb475e36",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-08-31"
+  },
+  {
+    "project_id": "u_koç_university_main_msccems_mim",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "msccems_mim",
+    "name": "MScCEMS MIM",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/89-msc-cems-mim---master-science-international-management---non-thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_b9d1e820ab27",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-08-31"
+  },
+  {
+    "project_id": "u_koç_university_main_mscchemical_and_biological_engineering",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mscchemical_and_biological_engineering",
+    "name": "MScChemical and Biological Engineering",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/56-msc-chemical-and-biological-engineering---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5f60206860db",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_5f60206860db",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_mscchemistry",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mscchemistry",
+    "name": "MScChemistry",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/66-msc-chemistry---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_24838353710a",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_24838353710a",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_mscartifical_intelligence",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mscartifical_intelligence",
+    "name": "MScArtifical Intelligence",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/729-msc-artifical-intelligence---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_msccomputational_sciences_and_engineering",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "msccomputational_sciences_and_engineering",
+    "name": "MScComputational Sciences and Engineering",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/58-msc-computational-sciences-and-engineering---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_msccomputer_sciences_and_engineering",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "msccomputer_sciences_and_engineering",
+    "name": "MScComputer Sciences and Engineering",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/60-msc-computer-sciences-and-engineering---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_msccritical_care_nursing",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "msccritical_care_nursing",
+    "name": "MScCritical Care Nursing",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/148-msc-critical-care-nursing---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_mscelectrical_and_electronics_engineering",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mscelectrical_and_electronics_engineering",
+    "name": "MScElectrical and Electronics Engineering",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/62-msc-electrical-and-electronics-engineering---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_mscfinance",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mscfinance",
+    "name": "MScFinance",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/93-msc-finance---non-thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_mscglobal_health",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mscglobal_health",
+    "name": "MScGlobal Health",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/368-msc-global-health---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_mscimmunology",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mscimmunology",
+    "name": "MScImmunology",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/149-msc-immunology---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_mscindustrial_engineering",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mscindustrial_engineering",
+    "name": "MScIndustrial Engineering",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/64-msc-industrial-engineering---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_mscko_mim",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mscko_mim",
+    "name": "MScKOÇ MIM",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/90-msc-koc-mim---master-science-international-management---non-thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_mscmaterials_science_and_engineering",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mscmaterials_science_and_engineering",
+    "name": "MScMaterials Science and Engineering",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/68-msc-materials-science-and-engineering---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_mscmathematics",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mscmathematics",
+    "name": "MScMathematics",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/70-msc-mathematics---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_mscmechanical_engineering",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mscmechanical_engineering",
+    "name": "MScMechanical Engineering",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/72-msc-mechanical-engineering---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_mscmedical_microbiology",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mscmedical_microbiology",
+    "name": "MScMedical Microbiology",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/145-msc-medical-microbiology---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_mscmedical_physiology",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mscmedical_physiology",
+    "name": "MScMedical Physiology",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/144-msc-medical-physiology---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_mscmolecular_biology_and_genetics",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mscmolecular_biology_and_genetics",
+    "name": "MScMolecular Biology and Genetics",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/74-msc-molecular-biology-and-genetics---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_mscneuroscience",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mscneuroscience",
+    "name": "MScNeuroscience",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/151-msc-neuroscience---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_mscphysics",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mscphysics",
+    "name": "MScPhysics",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/77-msc-physics---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_mscreproductive_biology",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mscreproductive_biology",
+    "name": "MScReproductive Biology",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://apply.ku.edu.tr/courses/course/146-msc-reproductive-biology---thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_ms_with_thesis",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "ms_with_thesis",
+    "name": "MS with Thesis",
+    "degree": "MS",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://gsse.ku.edu.tr/en/programs/artificial-intelligence/ms-with-thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_bio_medical_sciences_and_engineering_catalog_listing",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "bio_medical_sciences_and_engineering_catalog_listing",
+    "name": "Bio Medical Sciences And Engineering (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://gsse.ku.edu.tr/en/programs/bio-medical-sciences-and-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_ms_without_thesis",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "ms_without_thesis",
+    "name": "MS Without Thesis",
+    "degree": "MS",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://gsse.ku.edu.tr/en/programs/bio-medical-sciences-and-engineering/ms-without-thesis",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_chemical_and_biological_engineering_catalog_listing",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "chemical_and_biological_engineering_catalog_listing",
+    "name": "Chemical And Biological Engineering (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://gsse.ku.edu.tr/en/programs/chemical-and-biological-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_computer_science_and_engineering_catalog_listing",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "computer_science_and_engineering_catalog_listing",
+    "name": "Computer Science And Engineering (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://gsse.ku.edu.tr/en/programs/computer-science-and-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_chemistry_catalog_listing",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "chemistry_catalog_listing",
+    "name": "Chemistry (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://gsse.ku.edu.tr/en/programs/chemistry",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_computational_sciences_and_engineering_catalog_listing",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "computational_sciences_and_engineering_catalog_listing",
+    "name": "Computational Sciences And Engineering (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://gsse.ku.edu.tr/en/programs/computational-sciences-and-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_electrical_and_electronics_engineering_catalog_listing",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "electrical_and_electronics_engineering_catalog_listing",
+    "name": "Electrical And Electronics Engineering (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://gsse.ku.edu.tr/en/programs/electrical-and-electronics-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_industrial_engineering_and_operations_management_catalog_listing",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "industrial_engineering_and_operations_management_catalog_listing",
+    "name": "Industrial Engineering And Operations Management (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://gsse.ku.edu.tr/en/programs/industrial-engineering-and-operations-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_mathematics_catalog_listing",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mathematics_catalog_listing",
+    "name": "Mathematics (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://gsse.ku.edu.tr/en/programs/mathematics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_materials_science_and_engineering_catalog_listing",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "materials_science_and_engineering_catalog_listing",
+    "name": "Materials Science And Engineering (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://gsse.ku.edu.tr/en/programs/materials-science-and-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_mechanical_engineering_catalog_listing",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "mechanical_engineering_catalog_listing",
+    "name": "Mechanical Engineering (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://gsse.ku.edu.tr/en/programs/mechanical-engineering",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_physics_catalog_listing",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "physics_catalog_listing",
+    "name": "Physics (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://gsse.ku.edu.tr/en/programs/physics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  },
+  {
+    "project_id": "u_koç_university_main_m_s_non_thesis_programs",
+    "university_id": "u_koç_university",
+    "campus_id": "main",
+    "normalized_program_code": "m_s_non_thesis_programs",
+    "name": "M.S. Non-Thesis Programs",
+    "degree": "MS",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://gsse.ku.edu.tr/en/degree-requirements",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-08-31",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_7843ab72a5a6",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_08_31"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": [
+              {
+                "name": "TOEFL iBT",
+                "min_score": "80"
+              }
+            ]
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7843ab72a5a6",
+          "verification_status": "extracted"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:exact:2026-08-31; lang:TOEFL iBT 80"
+  }
+]

@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "project_id": "u_the_university_of_arizona_main_master_of_arts_in_gender_women_s_studies",
+    "university_id": "u_the_university_of_arizona",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_arts_in_gender_women_s_studies",
+    "name": "Master of Arts in Gender & Women's Studies",
+    "degree": "MasterofArts",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.arizona.edu/degree-search/majors/master-of-arts-in-gender-and-women-s-studies",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "dmissions RequirementsMinimum graduate admissions requirements* for Master’s and Doctoral degree seeking:An awarded four-year undergraduate bachelor degree from a regionally accredited U."
+          },
+          "notes": "",
+          "source_id": "src_151a2e93306f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_the_university_of_arizona_main_master_of_arts_in_gender_and_women_s_studies",
+    "university_id": "u_the_university_of_arizona",
+    "campus_id": "main",
+    "normalized_program_code": "master_of_arts_in_gender_and_women_s_studies",
+    "name": "Master of Arts in Gender and Women's Studies",
+    "degree": "MasterofArts",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.arizona.edu/degree-search/majors/master-of-arts-in-gender-and-women-s-studies",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_56f51425fade",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "official listing (facts pending review)"
+  }
+]

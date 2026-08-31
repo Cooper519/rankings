@@ -1,1 +1,452 @@
-[]
+[
+  {
+    "project_id": "u_universitat_politecnica_de_valencia_main_muemisaci",
+    "university_id": "u_universitat_politecnica_de_valencia",
+    "campus_id": "main",
+    "normalized_program_code": "muemisaci",
+    "name": "Muemisaci",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.upv.es/estudios/master/muemisaci",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_e87b2f861e88",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universitat_politecnica_de_valencia_main_index_en",
+    "university_id": "u_universitat_politecnica_de_valencia",
+    "campus_id": "main",
+    "normalized_program_code": "index_en",
+    "name": "Index En",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.upv.es/admision/admision-master/index-en.html",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_500bd556c29a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universitat_politecnica_de_valencia_main_muemisaci_erasmus_mundus_master_degree_in_engineering_for_environmental_sustaina",
+    "university_id": "u_universitat_politecnica_de_valencia",
+    "campus_id": "main",
+    "normalized_program_code": "muemisaci_erasmus_mundus_master_degree_in_engineering_for_environmental_sustaina",
+    "name": "MUEMISACI Erasmus Mundus Master Degree in Engineering for Environmental Sustainability and International Cooperation MUEMISACI",
+    "degree": "MasterDegreein",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.upv.es/estudios/master/muemisaci/en/home",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_90f00f6516f5",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universitat_politecnica_de_valencia_main_detail",
+    "university_id": "u_universitat_politecnica_de_valencia",
+    "campus_id": "main",
+    "normalized_program_code": "detail",
+    "name": "Detail",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.upv.es/estudios/master/muemisaci/en/detail",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_32cb79b89c4a",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universitat_politecnica_de_valencia_main_schedules",
+    "university_id": "u_universitat_politecnica_de_valencia",
+    "campus_id": "main",
+    "normalized_program_code": "schedules",
+    "name": "Schedules",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.upv.es/estudios/master/muemisaci/en/schedules",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_7036d09cb2c7",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universitat_politecnica_de_valencia_main_outcomes",
+    "university_id": "u_universitat_politecnica_de_valencia",
+    "campus_id": "main",
+    "normalized_program_code": "outcomes",
+    "name": "Outcomes",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.upv.es/estudios/master/muemisaci/en/outcomes",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_ec5d6a368b9f",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universitat_politecnica_de_valencia_main_teaching_staff",
+    "university_id": "u_universitat_politecnica_de_valencia",
+    "campus_id": "main",
+    "normalized_program_code": "teaching_staff",
+    "name": "Teaching Staff",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.upv.es/estudios/master/muemisaci/en/teaching-staff",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_60245fb7e8b6",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universitat_politecnica_de_valencia_main_sitemap",
+    "university_id": "u_universitat_politecnica_de_valencia",
+    "campus_id": "main",
+    "normalized_program_code": "sitemap",
+    "name": "Sitemap",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.upv.es/estudios/master/muemisaci/en/sitemap",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_22b9d5541253",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universitat_politecnica_de_valencia_main_verification_report_and_reports",
+    "university_id": "u_universitat_politecnica_de_valencia",
+    "campus_id": "main",
+    "normalized_program_code": "verification_report_and_reports",
+    "name": "Verification Report And Reports",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.upv.es/estudios/master/muemisaci/en/verification-report-and-reports",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_57087df3c102",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_universitat_politecnica_de_valencia_main_indicators",
+    "university_id": "u_universitat_politecnica_de_valencia",
+    "campus_id": "main",
+    "normalized_program_code": "indicators",
+    "name": "Indicators",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.upv.es/estudios/master/muemisaci/en/consulta/indicators",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_3ef171cadc24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  }
+]

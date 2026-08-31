@@ -1,1 +1,3291 @@
-[]
+[
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_charity_marketing_and_fundraising_msc",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "charity_marketing_and_fundraising_msc",
+    "name": "Charity Marketing and Fundraising MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.bayes.citystgeorges.ac.uk/study/masters/courses/charity-marketing-and-fundraising",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2026-10",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_14db877ae39e",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2026_10"
+          },
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2026-07-24",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_14db877ae39e",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_exact_2026_07_24"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "required",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Afghan Master's degrees from any recognised institution and Bachelor of Science (Engineering) from Kabul University are typically accepted with GPA 3."
+          },
+          "notes": "",
+          "source_id": "src_14db877ae39e",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_7600_gbp",
+            "type": "tuition",
+            "amount": "7600",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "ome/International fee Tuition fee for October 2026 Part-time PGDip tuition fee: £7,600 PgDip Part-time MSc tuition fee: + £4,400 An additional fee to convert to the M",
+            "source_id": "src_14db877ae39e",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_4400_gbp",
+            "type": "tuition",
+            "amount": "4400",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "ber 2026 Part-time PGDip tuition fee: £7,600 PgDip Part-time MSc tuition fee: + £4,400 An additional fee to convert to the Master’s degree* The fee for the Postgradua",
+            "source_id": "src_14db877ae39e",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:month:2026-10; fee:GBP7600/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_culture_policy_and_management_ma",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "culture_policy_and_management_ma",
+    "name": "Culture, Policy and Management MA",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/culture-policy-and-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Afghan Master's degrees from any recognised institution and Bachelor of Science (Engineering) from Kabul University are typically accepted with GPA 3."
+          },
+          "notes": "",
+          "source_id": "src_a8197e129d46",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_12750_gbp",
+            "type": "tuition",
+            "amount": "12750",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "Fees for academic year 2026/27 Master of Arts (MA) Full-time per year Home/UK: £12,750 International: £23,360 Part-time per year Home/UK: £6,380 International: £11,68",
+            "source_id": "src_a8197e129d46",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_23360_gbp",
+            "type": "tuition",
+            "amount": "23360",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "2026/27 Master of Arts (MA) Full-time per year Home/UK: £12,750 International: £23,360 Part-time per year Home/UK: £6,380 International: £11,680 Where applicable, tui",
+            "source_id": "src_a8197e129d46",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_6380_gbp",
+            "type": "tuition",
+            "amount": "6380",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "me per year Home/UK: £12,750 International: £23,360 Part-time per year Home/UK: £6,380 International: £11,680 Where applicable, tuition fees for City St George's prog",
+            "source_id": "src_a8197e129d46",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_11680_gbp",
+            "type": "tuition",
+            "amount": "11680",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "12,750 International: £23,360 Part-time per year Home/UK: £6,380 International: £11,680 Where applicable, tuition fees for City St George's programmes will be subject",
+            "source_id": "src_a8197e129d46",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:GBP12750/year(non_eu)"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_digital_marketing_with_ai_msc",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "digital_marketing_with_ai_msc",
+    "name": "Digital Marketing with AI MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.bayes.citystgeorges.ac.uk/study/masters/courses/digital-marketing-with-ai",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2026-09",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_c8f9cc29387a",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2026_09"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Afghan Master's degrees from any recognised institution and Bachelor of Science (Engineering) from Kabul University are typically accepted with GPA 3."
+          },
+          "notes": "",
+          "source_id": "src_c8f9cc29387a",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_16800_gbp",
+            "type": "tuition",
+            "amount": "16800",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "& funding UK/Home fee Tuition fee for September 2026 Full-time MSc tuition fee: £16,800 International fee Tuition fee for September 2026 Full-time MSc tuition fee: £32",
+            "source_id": "src_c8f9cc29387a",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_32600_gbp",
+            "type": "tuition",
+            "amount": "32600",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "800 International fee Tuition fee for September 2026 Full-time MSc tuition fee: £32,600 Deposit: £2,000 (usually paid within 1 month of receiving offer and non-refunda",
+            "source_id": "src_c8f9cc29387a",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_2000_gbp",
+            "type": "tuition",
+            "amount": "2000",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "fee Tuition fee for September 2026 Full-time MSc tuition fee: £32,600 Deposit: £2,000 (usually paid within 1 month of receiving offer and non-refundable unless condi",
+            "source_id": "src_c8f9cc29387a",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:month:2026-09; fee:GBP16800/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_family_business_msc",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "family_business_msc",
+    "name": "Family Business MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.bayes.citystgeorges.ac.uk/study/masters/courses/family-business",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2026-09",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_30e06e7ddf4f",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2026_09"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Afghan Master's degrees from any recognised institution and Bachelor of Science (Engineering) from Kabul University are typically accepted with GPA 3."
+          },
+          "notes": "",
+          "source_id": "src_30e06e7ddf4f",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_16500_gbp",
+            "type": "tuition",
+            "amount": "16500",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "& funding UK/Home fee Tuition fee for September 2026 Full-time MSc tuition fee: £16,500 International fee Tuition fee for September 2026 Full-time MSc tuition fee: £31",
+            "source_id": "src_30e06e7ddf4f",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_31000_gbp",
+            "type": "tuition",
+            "amount": "31000",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "500 International fee Tuition fee for September 2026 Full-time MSc tuition fee: £31,000 Deposit: £2,000 (paid within 1 month of receiving offer and non-refundable unle",
+            "source_id": "src_30e06e7ddf4f",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_2000_gbp",
+            "type": "tuition",
+            "amount": "2000",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "fee Tuition fee for September 2026 Full-time MSc tuition fee: £31,000 Deposit: £2,000 (paid within 1 month of receiving offer and non-refundable unless conditions of",
+            "source_id": "src_30e06e7ddf4f",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:month:2026-09; fee:GBP16500/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_fashion_marketing_and_strategic_communications_ma",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "fashion_marketing_and_strategic_communications_ma",
+    "name": "Fashion Marketing and Strategic Communications MA",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/fashion-marketing-and-strategic-communications",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Afghan Master's degrees from any recognised institution and Bachelor of Science (Engineering) from Kabul University are typically accepted with GPA 3."
+          },
+          "notes": "",
+          "source_id": "src_9b698fa63196",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_12750_gbp",
+            "type": "tuition",
+            "amount": "12750",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "Fees for academic year 2026/27 Master of Arts (MA) Full-time per year Home/UK: £12,750 International: £23,360 Part-time per year Home/UK: £6,380 International: £11,68",
+            "source_id": "src_9b698fa63196",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_23360_gbp",
+            "type": "tuition",
+            "amount": "23360",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "2026/27 Master of Arts (MA) Full-time per year Home/UK: £12,750 International: £23,360 Part-time per year Home/UK: £6,380 International: £11,680 Where applicable, tui",
+            "source_id": "src_9b698fa63196",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_6380_gbp",
+            "type": "tuition",
+            "amount": "6380",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "me per year Home/UK: £12,750 International: £23,360 Part-time per year Home/UK: £6,380 International: £11,680 Where applicable, tuition fees for City's programmes wil",
+            "source_id": "src_9b698fa63196",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_11680_gbp",
+            "type": "tuition",
+            "amount": "11680",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "12,750 International: £23,360 Part-time per year Home/UK: £6,380 International: £11,680 Where applicable, tuition fees for City's programmes will be subject to inflati",
+            "source_id": "src_9b698fa63196",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:GBP12750/year(non_eu)"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_global_financial_journalism_ma",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "global_financial_journalism_ma",
+    "name": "Global Financial Journalism MA",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/global-financial-journalism",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Afghan Master's degrees from any recognised institution and Bachelor of Science (Engineering) from Kabul University are typically accepted with GPA 3."
+          },
+          "notes": "",
+          "source_id": "src_16e485a360b4",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_13000_gbp",
+            "type": "tuition",
+            "amount": "13000",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "Fees for academic year 2026/27 Master of Arts (MA) Full-time per year Home/UK: £13,000 International: £26,680 Part-time per year Home/UK: £6,500 International: £13,34",
+            "source_id": "src_16e485a360b4",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_26680_gbp",
+            "type": "tuition",
+            "amount": "26680",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "2026/27 Master of Arts (MA) Full-time per year Home/UK: £13,000 International: £26,680 Part-time per year Home/UK: £6,500 International: £13,340 Where applicable, tui",
+            "source_id": "src_16e485a360b4",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_6500_gbp",
+            "type": "tuition",
+            "amount": "6500",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "me per year Home/UK: £13,000 International: £26,680 Part-time per year Home/UK: £6,500 International: £13,340 Where applicable, tuition fees for City St George's prog",
+            "source_id": "src_16e485a360b4",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_13340_gbp",
+            "type": "tuition",
+            "amount": "13340",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "13,000 International: £26,680 Part-time per year Home/UK: £6,500 International: £13,340 Where applicable, tuition fees for City St George's programmes will be subject",
+            "source_id": "src_16e485a360b4",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:GBP13000/year(non_eu)"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_international_business_msc",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "international_business_msc",
+    "name": "International Business MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.bayes.citystgeorges.ac.uk/study/masters/courses/international-business",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2026-09",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_3fb3868e2717",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2026_09"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Afghan Master's degrees from any recognised institution and Bachelor of Science (Engineering) from Kabul University are typically accepted with GPA 3."
+          },
+          "notes": "",
+          "source_id": "src_3fb3868e2717",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_16500_gbp",
+            "type": "tuition",
+            "amount": "16500",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "& funding UK/Home fee Tuition fee for September 2026 Full-time MSc tuition fee: £16,500 International fee Tuition fee for September 2026 Full-time MSc tuition fee: £31",
+            "source_id": "src_3fb3868e2717",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_31000_gbp",
+            "type": "tuition",
+            "amount": "31000",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "500 International fee Tuition fee for September 2026 Full-time MSc tuition fee: £31,000 Deposit: £2,000 (paid within 1 month of receiving offer and non-refundable unle",
+            "source_id": "src_3fb3868e2717",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_2000_gbp",
+            "type": "tuition",
+            "amount": "2000",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "fee Tuition fee for September 2026 Full-time MSc tuition fee: £31,000 Deposit: £2,000 (paid within 1 month of receiving offer and non-refundable unless conditions of",
+            "source_id": "src_3fb3868e2717",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:month:2026-09; fee:GBP16500/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_international_journalism_ma",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "international_journalism_ma",
+    "name": "International Journalism MA",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/international-journalism",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Afghan Master's degrees from any recognised institution and Bachelor of Science (Engineering) from Kabul University are typically accepted with GPA 3."
+          },
+          "notes": "",
+          "source_id": "src_1bbe656a1d99",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_13000_gbp",
+            "type": "tuition",
+            "amount": "13000",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "Fees for academic year 2026/27 Master of Arts (MA) Full-time per year Home/UK: £13,000 International: £26,680 Part-time per year Home/UK: £6,500 International: £13,34",
+            "source_id": "src_1bbe656a1d99",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_26680_gbp",
+            "type": "tuition",
+            "amount": "26680",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "2026/27 Master of Arts (MA) Full-time per year Home/UK: £13,000 International: £26,680 Part-time per year Home/UK: £6,500 International: £13,340 Where applicable, tui",
+            "source_id": "src_1bbe656a1d99",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_6500_gbp",
+            "type": "tuition",
+            "amount": "6500",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "me per year Home/UK: £13,000 International: £26,680 Part-time per year Home/UK: £6,500 International: £13,340 Where applicable, tuition fees for City St George's prog",
+            "source_id": "src_1bbe656a1d99",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_13340_gbp",
+            "type": "tuition",
+            "amount": "13340",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "13,000 International: £26,680 Part-time per year Home/UK: £6,500 International: £13,340 Where applicable, tuition fees for City St George's programmes will be subject",
+            "source_id": "src_1bbe656a1d99",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:GBP13000/year(non_eu)"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_marketing_communications_ma",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "marketing_communications_ma",
+    "name": "Marketing Communications MA",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/marketing-communications",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Afghan Master's degrees from any recognised institution and Bachelor of Science (Engineering) from Kabul University are typically accepted with GPA 3."
+          },
+          "notes": "",
+          "source_id": "src_0493ee3a3ba2",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_12750_gbp",
+            "type": "tuition",
+            "amount": "12750",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "Fees for academic year 2026/27 Master of Arts (MA) Full-time per year Home/UK: £12,750 International: £23,360 Part-time per year Home/UK: £6,380 International: £11,68",
+            "source_id": "src_0493ee3a3ba2",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_23360_gbp",
+            "type": "tuition",
+            "amount": "23360",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "2026/27 Master of Arts (MA) Full-time per year Home/UK: £12,750 International: £23,360 Part-time per year Home/UK: £6,380 International: £11,680 Where applicable, tui",
+            "source_id": "src_0493ee3a3ba2",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_6380_gbp",
+            "type": "tuition",
+            "amount": "6380",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "me per year Home/UK: £12,750 International: £23,360 Part-time per year Home/UK: £6,380 International: £11,680 Where applicable, tuition fees for City St George's prog",
+            "source_id": "src_0493ee3a3ba2",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_11680_gbp",
+            "type": "tuition",
+            "amount": "11680",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "12,750 International: £23,360 Part-time per year Home/UK: £6,380 International: £11,680 Where applicable, tuition fees for City St George's programmes will be subject",
+            "source_id": "src_0493ee3a3ba2",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:GBP12750/year(non_eu)"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_marketing_strategy_and_consumer_insights_msc",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "marketing_strategy_and_consumer_insights_msc",
+    "name": "Marketing Strategy and Consumer Insights MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.bayes.citystgeorges.ac.uk/study/masters/courses/marketing-strategy-and-consumer-insights",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2026-09",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_5005af9edf41",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2026_09"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Afghan Master's degrees from any recognised institution and Bachelor of Science (Engineering) from Kabul University are typically accepted with GPA 3."
+          },
+          "notes": "",
+          "source_id": "src_5005af9edf41",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_16800_gbp",
+            "type": "tuition",
+            "amount": "16800",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "& funding UK/Home fee Tuition fee for September 2026 Full-time MSc tuition fee: £16,800 International fee Tuition fee for September 2026 Full-time MSc tuition fee: £32",
+            "source_id": "src_5005af9edf41",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_32600_gbp",
+            "type": "tuition",
+            "amount": "32600",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "non_eu",
+            "condition": "800 International fee Tuition fee for September 2026 Full-time MSc tuition fee: £32,600 Deposit: £2,000 (usually paid within 1 month of receiving offer and non-refunda",
+            "source_id": "src_5005af9edf41",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_2000_gbp",
+            "type": "tuition",
+            "amount": "2000",
+            "currency": "GBP",
+            "period": "unknown",
+            "applicant_group": "international",
+            "condition": "fee Tuition fee for September 2026 Full-time MSc tuition fee: £32,600 Deposit: £2,000 (usually paid within 1 month of receiving offer and non-refundable unless condi",
+            "source_id": "src_5005af9edf41",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:month:2026-09; fee:GBP16800/unknown(non_eu)"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_media_management_ma",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "media_management_ma",
+    "name": "Media Management MA",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/media-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Afghan Master's degrees from any recognised institution and Bachelor of Science (Engineering) from Kabul University are typically accepted with GPA 3."
+          },
+          "notes": "",
+          "source_id": "src_304dfb2d26f2",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_12750_gbp",
+            "type": "tuition",
+            "amount": "12750",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "Fees for academic year 2026/27 Master of Arts (MA) Full-time per year Home/UK: £12,750 International: £23,360 Part-time per year Home/UK: £6,380 International: £11,68",
+            "source_id": "src_304dfb2d26f2",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_23360_gbp",
+            "type": "tuition",
+            "amount": "23360",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "2026/27 Master of Arts (MA) Full-time per year Home/UK: £12,750 International: £23,360 Part-time per year Home/UK: £6,380 International: £11,680 Where applicable, tui",
+            "source_id": "src_304dfb2d26f2",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_6380_gbp",
+            "type": "tuition",
+            "amount": "6380",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "me per year Home/UK: £12,750 International: £23,360 Part-time per year Home/UK: £6,380 International: £11,680 Where applicable, tuition fees for City St George's prog",
+            "source_id": "src_304dfb2d26f2",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_11680_gbp",
+            "type": "tuition",
+            "amount": "11680",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "12,750 International: £23,360 Part-time per year Home/UK: £6,380 International: £11,680 Where applicable, tuition fees for City St George's programmes will be subject",
+            "source_id": "src_304dfb2d26f2",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:GBP12750/year(non_eu)"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_music_management_ma",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "music_management_ma",
+    "name": "Music Management MA",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/music-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "tba",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_d65726a96ae3",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_tba_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Afghan Master's degrees from any recognised institution and Bachelor of Science (Engineering) from Kabul University are typically accepted with GPA 3."
+          },
+          "notes": "",
+          "source_id": "src_d65726a96ae3",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_12260_gbp",
+            "type": "tuition",
+            "amount": "12260",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "Fees for academic year 2026/27 Master of Arts (MA) Full-time per year Home/UK: £12,260 International: £19,880 Where applicable, tuition fees for City St George's prog",
+            "source_id": "src_d65726a96ae3",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_19880_gbp",
+            "type": "tuition",
+            "amount": "19880",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "2026/27 Master of Arts (MA) Full-time per year Home/UK: £12,260 International: £19,880 Where applicable, tuition fees for City St George's programmes will be subject",
+            "source_id": "src_d65726a96ae3",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:tba; fee:GBP12260/year(non_eu)"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_performing_arts_management_and_practice_ma",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "performing_arts_management_and_practice_ma",
+    "name": "Performing Arts Management and Practice MA",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/performing-arts-management-and-practice",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Afghan Master's degrees from any recognised institution and Bachelor of Science (Engineering) from Kabul University are typically accepted with GPA 3."
+          },
+          "notes": "",
+          "source_id": "src_9f68533df7d0",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_12260_gbp",
+            "type": "tuition",
+            "amount": "12260",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "Fees for academic year 2026/27 Master of Arts (MA) Full-time per year Home/UK: £12,260 International: £19,880 Part-time per year Home/UK: £6,130 International: £9,940",
+            "source_id": "src_9f68533df7d0",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_19880_gbp",
+            "type": "tuition",
+            "amount": "19880",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "2026/27 Master of Arts (MA) Full-time per year Home/UK: £12,260 International: £19,880 Part-time per year Home/UK: £6,130 International: £9,940 Where applicable, tuit",
+            "source_id": "src_9f68533df7d0",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_6130_gbp",
+            "type": "tuition",
+            "amount": "6130",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "me per year Home/UK: £12,260 International: £19,880 Part-time per year Home/UK: £6,130 International: £9,940 Where applicable, tuition fees for City's programmes will",
+            "source_id": "src_9f68533df7d0",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_9940_gbp",
+            "type": "tuition",
+            "amount": "9940",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "12,260 International: £19,880 Part-time per year Home/UK: £6,130 International: £9,940 Where applicable, tuition fees for City's programmes will be subject to inflati",
+            "source_id": "src_9f68533df7d0",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:rolling; fee:GBP12260/year(non_eu)"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_actuarial_management_msc",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "actuarial_management_msc",
+    "name": "Actuarial Management MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.bayes.citystgeorges.ac.uk/study/masters/courses/actuarial-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "month",
+            "date": "2026-09",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_0ceb9f396636",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_month_2026_09"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "Afghan Master's degrees from any recognised institution and Bachelor of Science (Engineering) from Kabul University are typically accepted with GPA 3."
+          },
+          "notes": "",
+          "source_id": "src_0ceb9f396636",
+          "verification_status": "needs_review"
+        },
+        "fees": [
+          {
+            "fee_id": "tuition_16800_gbp",
+            "type": "tuition",
+            "amount": "16800",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "& funding UK/Home fee Tuition fee for September 2026 Full-time MSc tuition fee: £16,800 Part-time MSc tuition fee: £8,400 (per year) International fee Tuition fee for",
+            "source_id": "src_0ceb9f396636",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_8400_gbp",
+            "type": "tuition",
+            "amount": "8400",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "or September 2026 Full-time MSc tuition fee: £16,800 Part-time MSc tuition fee: £8,400 (per year) International fee Tuition fee for September 2026 Full-time MSc tuiti",
+            "source_id": "src_0ceb9f396636",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_26500_gbp",
+            "type": "tuition",
+            "amount": "26500",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "non_eu",
+            "condition": "ar) International fee Tuition fee for September 2026 Full-time MSc tuition fee: £26,500 Part-time MSc tuition fee: £13,250 (per year) Deposit: £2,000 (usually paid wit",
+            "source_id": "src_0ceb9f396636",
+            "verification_status": "extracted"
+          },
+          {
+            "fee_id": "tuition_13250_gbp",
+            "type": "tuition",
+            "amount": "13250",
+            "currency": "GBP",
+            "period": "year",
+            "applicant_group": "international",
+            "condition": "or September 2026 Full-time MSc tuition fee: £26,500 Part-time MSc tuition fee: £13,250 (per year) Deposit: £2,000 (usually paid within 1 month of receiving offer and",
+            "source_id": "src_0ceb9f396636",
+            "verification_status": "extracted"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:month:2026-09; fee:GBP16800/year(non_eu)"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_business_and_management_catalog_listing",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "business_and_management_catalog_listing",
+    "name": "Business And Management (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/apply/how-to-apply/short-courses/business-and-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_law_catalog_listing",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "law_catalog_listing",
+    "name": "Law (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/apply/how-to-apply/short-courses/law",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_msc_nursing",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "msc_nursing",
+    "name": "MSc Nursing",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/about/schools/health-sciences/about/msc-nursing-rpl",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_graduate_entry_law_ge_llb_catalog_listing",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "graduate_entry_law_ge_llb_catalog_listing",
+    "name": "Graduate Entry Law Ge Llb (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/about/schools/law/academic-programmes/graduate-entry-law-ge-llb",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_graduate_diploma_in_law_gdl_catalog_listing",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "graduate_diploma_in_law_gdl_catalog_listing",
+    "name": "Graduate Diploma In Law Gdl (catalog listing)",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/about/schools/law/academic-programmes/graduate-diploma-in-law-gdl",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_llm_courses",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "llm_courses",
+    "name": "LLM Courses",
+    "degree": "LLM",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/about/schools/law/academic-programmes/llm-master-of-laws",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_broadcast_journalism_ma",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "broadcast_journalism_ma",
+    "name": "Broadcast Journalism MA",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/broadcast-journalism",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_creative_writing_ma",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "creative_writing_ma",
+    "name": "Creative Writing MA",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/creative-writing",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_creative_writing_and_publishing_ma",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "creative_writing_and_publishing_ma",
+    "name": "Creative Writing and Publishing MA",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/creative-writing-and-publishing",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_creative_writing_mfa",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "creative_writing_mfa",
+    "name": "Creative Writing MFA",
+    "degree": "MFA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/creative-writing-mfa",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_erasmus_mundus_masters_journalism_media_and_globalisation_ma",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "erasmus_mundus_masters_journalism_media_and_globalisation_ma",
+    "name": "Erasmus Mundus Masters: Journalism, Media and Globalisation MA",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/erasmus-mundus-masters-journalism-media-and-globalisation",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_investigative_journalism_ma",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "investigative_journalism_ma",
+    "name": "Investigative Journalism MA",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/investigative-journalism",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_magazine_journalism_ma",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "magazine_journalism_ma",
+    "name": "Magazine Journalism MA",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/magazine-journalism",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_media_and_communications_ma",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "media_and_communications_ma",
+    "name": "Media and Communications MA",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/media-and-communications",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_music_by_research_ma",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "music_by_research_ma",
+    "name": "Music by Research MA",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/music-by-research",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_podcasting_ma",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "podcasting_ma",
+    "name": "Podcasting MA",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/podcasting",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_public_relations_and_strategic_communications_ma",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "public_relations_and_strategic_communications_ma",
+    "name": "Public Relations and Strategic Communications MA",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/public-relations-and-strategic-communications",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_screenwriting_ma",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "screenwriting_ma",
+    "name": "Screenwriting MA",
+    "degree": "MA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/screenwriting",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_screenwriting_mfa",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "screenwriting_mfa",
+    "name": "Screenwriting MFA",
+    "degree": "MFA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/screenwriting-mfa",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_actuarial_science_msc",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "actuarial_science_msc",
+    "name": "Actuarial Science MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.bayes.citystgeorges.ac.uk/study/masters/courses/actuarial-science",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_actuarial_science_with_business_analytics_msc",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "actuarial_science_with_business_analytics_msc",
+    "name": "Actuarial Science with Business Analytics MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.bayes.citystgeorges.ac.uk/study/masters/courses/actuarial-science-with-business-analytics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_banking_and_international_finance_msc",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "banking_and_international_finance_msc",
+    "name": "Banking and International Finance MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.bayes.citystgeorges.ac.uk/study/masters/courses/banking-and-international-finance",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_behavioural_economics_msc",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "behavioural_economics_msc",
+    "name": "Behavioural Economics MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/behavioural-economics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_charity_accounting_and_financial_management_msc_pgdip",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "charity_accounting_and_financial_management_msc_pgdip",
+    "name": "Charity Accounting and Financial Management MSc/PGDip",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.bayes.citystgeorges.ac.uk/study/masters/courses/charity-accounting-and-financial-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_corporate_risk_management_msc",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "corporate_risk_management_msc",
+    "name": "Corporate Risk Management MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.bayes.citystgeorges.ac.uk/study/masters/courses/corporate-risk-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_digital_supply_chain_management_msc",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "digital_supply_chain_management_msc",
+    "name": "Digital Supply Chain Management MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.bayes.citystgeorges.ac.uk/study/masters/courses/digital-supply-chain-management",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_economic_evaluation_in_health_care_msc",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "economic_evaluation_in_health_care_msc",
+    "name": "Economic Evaluation in Health Care MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/economic-evaluation-in-health-care",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_economics_and_data_analytics_msc",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "economics_and_data_analytics_msc",
+    "name": "Economics and Data Analytics MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/economics-and-data-analytics",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_economics_and_public_policy_msc",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "economics_and_public_policy_msc",
+    "name": "Economics and Public Policy MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.citystgeorges.ac.uk/prospective-students/courses/postgraduate/economics-and-public-policy",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_energy_trade_and_finance_msc",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "energy_trade_and_finance_msc",
+    "name": "Energy, Trade and Finance MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.bayes.citystgeorges.ac.uk/study/masters/courses/energy-trade-and-finance",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_entrepreneurship_msc",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "entrepreneurship_msc",
+    "name": "Entrepreneurship MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.bayes.citystgeorges.ac.uk/study/masters/courses/entrepreneurship",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_executive_master_s_in_leadership_for_the_creative_industries_msc",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "executive_master_s_in_leadership_for_the_creative_industries_msc",
+    "name": "Executive Master’s in Leadership for the Creative Industries MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.bayes.citystgeorges.ac.uk/study/professional-programmes/executive-masters-in-leadership-for-the-creative-industries",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_executive_master_s_in_medical_leadership_msc",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "executive_master_s_in_medical_leadership_msc",
+    "name": "Executive Master’s in Medical Leadership MSc",
+    "degree": "MSc",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.bayes.citystgeorges.ac.uk/study/professional-programmes/executive-msc-in-medical-leadership",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  },
+  {
+    "project_id": "u_city_st_georges_university_of_london_main_executive_mba",
+    "university_id": "u_city_st_georges_university_of_london",
+    "campus_id": "main",
+    "normalized_program_code": "executive_mba",
+    "name": "Executive MBA",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.bayes.citystgeorges.ac.uk/study/mba/executive-london/evening",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "rolling",
+            "date": null,
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_98f200a8fe24",
+            "verification_status": "needs_review",
+            "timeline_id": "application_deadline_rolling_na"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_98f200a8fe24",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "needs_review",
+    "notes": "from official page; deadline:rolling"
+  }
+]

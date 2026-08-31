@@ -39,7 +39,7 @@ function rankLabel(school: CaptureSchool): string {
 }
 
 export default function DataStatus() {
-  const { captureReport, ready } = useData()
+  const { captureReport, dataManifest, ready } = useData()
   const { open } = useDrawer()
   const [filter, setFilter] = useState<StatusFilter>('all')
   const [query, setQuery] = useState('')
@@ -75,7 +75,7 @@ export default function DataStatus() {
     <div className="wrap data-status-page">
       <section className="data-status-intro">
         <Reveal>
-          <div className="eyebrow" style={{ marginBottom: 22 }}>05 / 数据状态 · 离线快照</div>
+          <div className="eyebrow" style={{ marginBottom: 22 }}>06 / 数据状态 · 离线快照</div>
           <h1>先看证据,<br /><em>再看覆盖。</em></h1>
           <p>
             四大榜单前 500 去重后的 {ready ? summary.schools.toLocaleString() : '-'} 所学校。状态来自本地 raw manifest 与项目证据，官方目录 URL 不会被当作申请要求完成。
@@ -97,6 +97,42 @@ export default function DataStatus() {
             ))}
           </div>
         </Reveal>
+      </section>
+
+      <section className="data-status-section capture-contract">
+        <Reveal>
+          <div className="sec-head" style={{ marginBottom: 22 }}>
+            <div className="l">
+              <span className="no">00 / 标准化主库</span>
+              <h2>SQLite <em>真实覆盖</em></h2>
+            </div>
+            <p className="note">
+              数据源 {dataManifest.sourceOfTruth || '-'} · 版本 {dataManifest.corpusHash ? dataManifest.corpusHash.slice(0, 12) : '-'} · 更新 {dataManifest.dataTimestamp ? dataManifest.dataTimestamp.slice(0, 10) : '-'}
+            </p>
+          </div>
+        </Reveal>
+        <div className="contract-grid">
+          <div>
+            <span>标准化项目</span>
+            <b className="num">{dataManifest.counts.projects.toLocaleString()}</b>
+            <small>{dataManifest.counts.data_packages.toLocaleString()} 个院校包</small>
+          </div>
+          <div>
+            <span>有截止日期</span>
+            <b className="num">{dataManifest.quality.programsWithDeadline.toLocaleString()}</b>
+            <small>未知 timeline {dataManifest.quality.unknownTimelinePercent}%</small>
+          </div>
+          <div>
+            <span>有结构化要求</span>
+            <b className="num">{dataManifest.quality.programsWithRequirement.toLocaleString()}</b>
+            <small>缺失不解释为无要求</small>
+          </div>
+          <div>
+            <span>待治理问题</span>
+            <b className="num">{dataManifest.counts.validation_issues.toLocaleString()}</b>
+            <small>{dataManifest.quality.issuesBySeverity.error || 0} 错误 · {dataManifest.quality.issuesBySeverity.warning || 0} 警告</small>
+          </div>
+        </div>
       </section>
 
       <section className="data-status-section">

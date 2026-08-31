@@ -1,1 +1,374 @@
-[]
+[
+  {
+    "project_id": "u_university_of_southern_queensland_main_postgraduate_study",
+    "university_id": "u_university_of_southern_queensland",
+    "campus_id": "main",
+    "normalized_program_code": "postgraduate_study",
+    "name": "Postgraduate Study",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unisq.edu.au/study/apply/postgraduate-study",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_8a4931e278bd",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_southern_queensland_main_postgraduate_csp",
+    "university_id": "u_university_of_southern_queensland",
+    "campus_id": "main",
+    "normalized_program_code": "postgraduate_csp",
+    "name": "Postgraduate Csp",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unisq.edu.au/study/degrees-and-courses/postgraduate-study/postgraduate-csp",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_2beb92f3b733",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_southern_queensland_main_business",
+    "university_id": "u_university_of_southern_queensland",
+    "campus_id": "main",
+    "normalized_program_code": "business",
+    "name": "Business",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unisq.edu.au/study/degrees-and-courses/business",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "irst degree) An undergraduate degree is an academic program of study that leads to a qualification, such as an associate degree, diploma or bachelor's degree."
+          },
+          "notes": "",
+          "source_id": "src_b21c36fbe35b",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_southern_queensland_main_education_and_teaching",
+    "university_id": "u_university_of_southern_queensland",
+    "campus_id": "main",
+    "normalized_program_code": "education_and_teaching",
+    "name": "Education And Teaching",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unisq.edu.au/study/degrees-and-courses/education-and-teaching",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "irst degree) An undergraduate degree is an academic program of study that leads to a qualification, such as an associate degree, diploma or bachelor's degree."
+          },
+          "notes": "",
+          "source_id": "src_945572576594",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_southern_queensland_main_engineering_and_surveying",
+    "university_id": "u_university_of_southern_queensland",
+    "campus_id": "main",
+    "normalized_program_code": "engineering_and_surveying",
+    "name": "Engineering And Surveying",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unisq.edu.au/study/degrees-and-courses/engineering-and-surveying",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "irst degree) An undergraduate degree is an academic program of study that leads to a qualification, such as an associate degree, diploma or bachelor's degree."
+          },
+          "notes": "",
+          "source_id": "src_8af762386775",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_southern_queensland_main_health",
+    "university_id": "u_university_of_southern_queensland",
+    "campus_id": "main",
+    "normalized_program_code": "health",
+    "name": "Health",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unisq.edu.au/study/degrees-and-courses/health",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "irst degree) An undergraduate degree is an academic program of study that leads to a qualification, such as an associate degree, diploma or bachelor's degree."
+          },
+          "notes": "",
+          "source_id": "src_a29123e960df",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_southern_queensland_main_law",
+    "university_id": "u_university_of_southern_queensland",
+    "campus_id": "main",
+    "normalized_program_code": "law",
+    "name": "Law",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unisq.edu.au/study/degrees-and-courses/law",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": "(Good Universities Guide, 2026) Fast-track your law degree Graduate with a Bachelor of Laws or Juris Doctor in two years."
+          },
+          "notes": "",
+          "source_id": "src_7ddcd2eb3c00",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_university_of_southern_queensland_main_key_dates",
+    "university_id": "u_university_of_southern_queensland",
+    "campus_id": "main",
+    "normalized_program_code": "key_dates",
+    "name": "Key Dates",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://www.unisq.edu.au/study/key-dates",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [
+          {
+            "event": "application_deadline",
+            "date_type": "exact",
+            "date": "2027-08-20",
+            "date_end": null,
+            "applicant_group": null,
+            "round": null,
+            "source_id": "src_48f5b2929a76",
+            "verification_status": "extracted",
+            "timeline_id": "application_deadline_exact_2027_08_20"
+          }
+        ],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "required",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_48f5b2929a76",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "from official page; deadline:exact:2027-08-20"
+  }
+]

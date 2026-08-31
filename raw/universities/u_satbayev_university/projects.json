@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "project_id": "u_satbayev_university_main_executive_master_of_business_administration",
+    "university_id": "u_satbayev_university",
+    "campus_id": "main",
+    "normalized_program_code": "executive_master_of_business_administration",
+    "name": "Executive Master of Business Administration",
+    "degree": "MasterofBusiness",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://satbayev.university/kk/specialties/executive-master-of-business-administration-",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_af2e81ff0d9d",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  },
+  {
+    "project_id": "u_satbayev_university_main_mba",
+    "university_id": "u_satbayev_university",
+    "campus_id": "main",
+    "normalized_program_code": "mba",
+    "name": "MBA сала бойынша",
+    "degree": "MBA",
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://satbayev.university/kk/specialties/mba-po-otraslyam",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_62c377498f63",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  }
+]

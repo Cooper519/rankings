@@ -1,183 +1,34 @@
 {
-  "scraped_at": "2026-08-23T14:44:42.829296Z",
-  "sources": [
+  "captured_at": "2026-08-28T10:38:22.924274+00:00",
+  "status": "no_concrete_project",
+  "pages": [
     {
-      "url": "https://graduate.mahidol.ac.th/inter/",
-      "title": "Mahidol Graduate Studies International",
-      "evidence_text": "Lists all international graduate programs."
+      "url": "https://www.mahidol.ac.th",
+      "http_status": 200,
+      "title": "Mahidol University",
+      "class": "navigation",
+      "content_hash": "sha256:8626a4c2ea28e1f073059320c383f2d3bd505568fdce5386237c52f5494e391e",
+      "retrieved_at": "2026-08-28T10:37:27.850053+00:00",
+      "text_snippet": "Mahidol University MAHIDOL LEARNING CENTERThe Mahidol Learning Center is a 4 stories building with a mezzanine level. A total space of 36,322.66 m2 is available.The architecture is in the tropical architecture style,and it consists of an innovation center, computer lab, 400 seats auditorium(Read More...)Sireeruckhachati Nature Learning Park“Sireeruckhachati” Nature Park started off as “Sireeruckhachati ” medicinal plant garden which has been initiated since 1982 by Professor Dr. Natth Bhamarapra"
     },
     {
-      "url": "https://www.ict.mahidol.ac.th/en/programs/",
-      "title": "ICT Faculty Programs",
-      "evidence_text": "MSc Computer Science, Game Technology, Cyber Security, PhD CS."
+      "url": "https://mahidol.ac.th/redirect-graduate/",
+      "http_status": 200,
+      "title": "Faculty of Graduate Studies, Mahidol University | Graduate Education",
+      "class": "directory",
+      "content_hash": "sha256:70c55c2d1e6a105fe35a8dce2d0263c204fe2189cfb2184b380096829ce82e78",
+      "retrieved_at": "2026-08-28T10:37:39.986173+00:00",
+      "text_snippet": "Faculty of Graduate Studies, Mahidol University | Graduate Education Prospective Student Current Student Faculty / Staff Alumni About us Contact Us apps Information Systems Scholarships News / Events Download Forms Forms Search Search Sitemap Manuals Apply Now Student Service System TH TH Sitemap ServicesChoose a category Home Prospective Students Current Students Faculty / Staff Alumni About Us Contact Us Quick access Apply Programs Calendar Forms Phonebook Scholarship Report corruption ITA Int"
     },
     {
-      "url": "https://science.mahidol.ac.th/graduate_programs.php",
-      "title": "Faculty of Science Graduate Programs",
-      "evidence_text": "Lists all MSc and PhD programs in sciences."
-    },
-    {
-      "url": "https://www.ph.mahidol.ac.th/phmph/",
-      "title": "MPH International Program",
-      "evidence_text": "Master of Public Health international program."
+      "url": "https://www.mahidol.ac.th/academics/graduate",
+      "http_status": 200,
+      "title": "พิธีมอบครุยวิทยฐานะแก่ผู้ทรงคุณวุฒิผู้ที่ได้รับปริญญากิตติมศักดิ์ สาขาวิชาต่างๆ ของมหาวิทยาลัยมหิดล ประจำปีการศึกษา 2559 – Mahidol University",
+      "class": "directory",
+      "content_hash": "sha256:662eb63392ab8324dd34af712f5d961015a5c1f9dec2d13e0ded0f933981e079",
+      "retrieved_at": "2026-08-28T10:38:13.335735+00:00",
+      "text_snippet": "พิธีมอบครุยวิทยฐานะแก่ผู้ทรงคุณวุฒิผู้ที่ได้รับปริญญากิตติมศักดิ์ สาขาวิชาต่างๆ ของมหาวิทยาลัยมหิดล ประจำปีการศึกษา 2559 – Mahidol University University Council Staff Faculties Int’l Collaboration Libraries Alumni Association Alumni Relation Graduation Ceremony Contact Us Feedback About About Mahidol History Symbolic Logo Prince Mahidol Core Value Motto Organization Strategic Plan 4 year Strategic Plan 20 years National-Strategy VDO Present Corporate Identity Logo Administration Mahidol Executiv"
     }
   ],
-  "programs": [
-    {
-      "name": "MSc Computer Science",
-      "degree": "MSc",
-      "department": "Faculty of ICT",
-      "official_url": "https://www.ict.mahidol.ac.th/en/programs/comscience/"
-    },
-    {
-      "name": "MSc Game Technology and Gamification",
-      "degree": "MSc",
-      "department": "Faculty of ICT",
-      "official_url": "https://www.ict.mahidol.ac.th/en/programs/game/"
-    },
-    {
-      "name": "MSc Cyber Security and Information Assurance",
-      "degree": "MSc",
-      "department": "Faculty of ICT",
-      "official_url": "https://www.ict.mahidol.ac.th/en/programs/cyber/"
-    },
-    {
-      "name": "PhD Computer Science",
-      "degree": "PhD",
-      "department": "Faculty of ICT",
-      "official_url": "https://www.ict.mahidol.ac.th/en/programs/phd-computerscience/"
-    },
-    {
-      "name": "MSc Anatomy and Structural Biology",
-      "degree": "MSc",
-      "department": "Faculty of Science - Anatomy",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=2101M03G"
-    },
-    {
-      "name": "MSc Applied Mathematics",
-      "degree": "MSc",
-      "department": "Faculty of Science - Mathematics",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=2102M02G"
-    },
-    {
-      "name": "MSc Biochemistry",
-      "degree": "MSc",
-      "department": "Faculty of Science - Biochemistry",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=2105M02G"
-    },
-    {
-      "name": "MSc Biotechnology",
-      "degree": "MSc",
-      "department": "Faculty of Science - Biotechnology",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=2115M02G"
-    },
-    {
-      "name": "MSc Chemistry",
-      "degree": "MSc",
-      "department": "Faculty of Science - Chemistry",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=2129M02G"
-    },
-    {
-      "name": "MSc Bioresources and Environmental Biology",
-      "degree": "MSc",
-      "department": "Faculty of Science - Biology",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=2106M03G"
-    },
-    {
-      "name": "MSc Physiology",
-      "degree": "MSc",
-      "department": "Faculty of Science - Physiology",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=2111M03G"
-    },
-    {
-      "name": "MSc Exercise Physiology",
-      "degree": "MSc",
-      "department": "Faculty of Science - Physiology",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=2109M03G"
-    },
-    {
-      "name": "MSc Forensic Science",
-      "degree": "MSc",
-      "department": "Faculty of Science",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=2125M02G"
-    },
-    {
-      "name": "MSc Materials Science and Engineering",
-      "degree": "MSc",
-      "department": "Faculty of Science - School of Materials Science",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=2128M02G"
-    },
-    {
-      "name": "MSc Microbiology and Immunology",
-      "degree": "MSc",
-      "department": "Faculty of Science - Microbiology",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=2104M02G"
-    },
-    {
-      "name": "MSc Pathobiology",
-      "degree": "MSc",
-      "department": "Faculty of Science - Pathobiology",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=2107M03G"
-    },
-    {
-      "name": "MSc Pharmacology",
-      "degree": "MSc",
-      "department": "Faculty of Science - Pharmacology",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=2108M02G"
-    },
-    {
-      "name": "MSc Physics",
-      "degree": "MSc",
-      "department": "Faculty of Science - Physics",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=2118M02G"
-    },
-    {
-      "name": "MSc Plant Sciences",
-      "degree": "MSc",
-      "department": "Faculty of Science - Plant Science",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=5501M03G"
-    },
-    {
-      "name": "MSc Toxicology",
-      "degree": "MSc",
-      "department": "Faculty of Science",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=2119M02G"
-    },
-    {
-      "name": "MSc Science Innovation (Special Program)",
-      "degree": "MSc",
-      "department": "Faculty of Science - Bioinnovation",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=2131M01S"
-    },
-    {
-      "name": "PhD Anatomy and Structural Biology",
-      "degree": "PhD",
-      "department": "Faculty of Science - Anatomy",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=2101D03G"
-    },
-    {
-      "name": "PhD Biochemistry",
-      "degree": "PhD",
-      "department": "Faculty of Science - Biochemistry",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=2105D02G"
-    },
-    {
-      "name": "PhD Biotechnology",
-      "degree": "PhD",
-      "department": "Faculty of Science - Biotechnology",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=2115D02G"
-    },
-    {
-      "name": "PhD Chemistry",
-      "degree": "PhD",
-      "department": "Faculty of Science - Chemistry",
-      "official_url": "https://graduate.mahidol.ac.th/inter/?p=curriculum&id=2129D02G"
-    },
-    {
-      "name": "Master of Public Health International Program",
-      "degree": "MPH",
-      "department": "Faculty of Public Health",
-      "official_url": "https://www.ph.mahidol.ac.th/phmph/"
-    }
-  ]
+  "issues": []
 }

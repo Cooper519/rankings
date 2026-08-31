@@ -4,8 +4,8 @@
   "university_id": "u_university_of_the_philippines",
   "name": "University of the Philippines",
   "country": "Philippines",
-  "website": "https://www.universityofthephilippines.edu",
-  "updated_at": "2026-08-19T18:56:01.850393+00:00",
-  "notes": "Round2 300-500. Website inaccessible via WebFetch. Needs browser automation for scraping.",
-  "converter": "manual-webfetch-v1"
+  "website": "https://up.edu.ph/",
+  "updated_at": "2026-08-30T06:31:19.229679+00:00",
+  "notes": "blocked: homepage unreachable (https://up.edu.ph/)",
+  "converter": "four-rankings-webfetch-v2"
 }

@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "project_id": "u_north_carolina_state_university_main_previous_masters_credit",
+    "university_id": "u_north_carolina_state_university",
+    "campus_id": "main",
+    "normalized_program_code": "previous_masters_credit",
+    "name": "Previous Masters Credit",
+    "degree": null,
+    "subject": null,
+    "study_mode": null,
+    "official_url": "https://grad.ncsu.edu/students/degree-planning/request-prior-credit/previous-masters-credit",
+    "admission_cycles": [
+      {
+        "cycle_id": "27fall",
+        "academic_year": 2027,
+        "entry_term": "fall",
+        "status": "current",
+        "timelines": [],
+        "requirements": {
+          "language": {
+            "status": "unknown",
+            "tests": []
+          },
+          "gre": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "gmat": {
+            "status": "unknown",
+            "min_score": null
+          },
+          "academic": {
+            "status": "unknown",
+            "description": null
+          },
+          "notes": "",
+          "source_id": "src_e6e14f2749be",
+          "verification_status": "needs_review"
+        },
+        "fees": []
+      }
+    ],
+    "status": "active",
+    "verification_status": "extracted",
+    "notes": "official page captured; facts pending review"
+  }
+]

@@ -40,15 +40,17 @@
     ├── schemas/                    # 原始包 JSON Schema
     ├── tools/
     │   ├── txt_to_package.py       # TXT -> 院校原始包
+    │   ├── data_pipeline.py        # raw -> SQLite -> generated/frontend JSON
+    │   ├── repair_duplicate_ids.py # 重复 ID 保守治理工具
+    │   ├── build_frontend_data.py  # 兼容旧命令的薄包装
     │   └── test_txt_to_package.py  # 转换器测试
     ├── frontend/                   # React + Vite + TypeScript 前端
     │   └── public/data/             # 当前前端使用的静态数据
-    ├── scraper/                    # 现有爬虫和离线数据维护脚本
-    │   └── raw/                     # 旧版抓取证据和榜单快照
+    ├── scraper/                    # 可重复执行的爬虫和离线维护脚本
     ├── docs/
     └── README.md
 
-新的规范院校包放在根目录 raw/universities/。scraper/raw/ 是已有抓取流水线产生的历史证据，不要把新的手工院校包直接放入该目录。
+新的规范院校包放在根目录 `raw/universities/`。需要长期保留的原始证据放在对应包的 `raw/` 子目录。`scraper/raw/`、浏览器日志、抓取队列、进度文件和一次性修复脚本都是本地运行产物，不应提交。
 
 ## TXT 转换为原始包
 
@@ -319,6 +321,20 @@ source_type 使用以下值之一：
 
 抓取或手工录入的数据默认是 needs_review。只有人工核验后才能设置为 verified。当两个来源冲突时，保留所有来源，并由人工记录最终选择和理由。
 
+### 重复 ID 治理
+
+重复治理工具默认只输出预览，不修改文件：
+
+    python -m tools.repair_duplicate_ids
+
+确认报告后再应用：
+
+    python -m tools.repair_duplicate_ids --apply
+
+工具只自动处理可证明安全的情况：同一 URL/内容的重复来源保留最早记录；完全相同的重复项目合并；同 ID 但名称不同的项目按稳定名称重建 ID；仅院系字段冲突时置为待审核并保留说明。其他冲突会留在 `unresolved` 中，不会猜测修复。治理后必须运行：
+
+    python -m tools.data_pipeline validate --strict
+
 冲突选择使用可选的 review section。例如两个官方页面给出的学费不同：
 
     [review review_tuition]
@@ -460,27 +476,47 @@ frontend/dist/ 可以部署到静态 Server。临时用 Python 查看构建结�
 已实现：
 
 - TXT 到院校原始包的转换。
-- 原始包到前端 JSON 的导出流水线（tools/build_frontend_data.py）。
+- 单向数据主流水线：`raw/` → `normalized/rankingselect.sqlite` → `generated/` → 前端 JSON。
+- 五榜标准化快照与院校别名表均从 `raw/` 导入 SQLite，不再把前端输出作为输入。
+- 对缺文件、重复 ID、来源冲突等问题进行隔离并输出 `validation_issues.json`。
 - manifest、project、cycle、timeline、requirements、fee、source 的结构化校验。
 - 原始包 JSON Schema、数据契约文档和目录骨架。
 - 原始 TXT 副本和生成 notes 的保存。
-- 转换器单元测试。
+- 转换器与数据流水线的可重复构建测试。
 - React + Vite 静态前端和现有排名/项目快照。
+- GitHub Pages 构建前自动重建数据并运行 Python 回归测试。
 
-后续接入：
+当前数据快照（2026-08-31）：
+
+- 704 个规范院校包，8,738 个项目。
+- 5 个榜单各 500 条，共 2,500 条榜单记录。
+- 24 个重复 ID/来源错误已治理，严格校验为 0 error。
+- 剩余 346 条均为数据完整性 warning，不阻断构建。
+
+后续治理：
 
 - 五个榜单 adapter 的统一接口实现。
-- Pull Request CI 校验（schema + 导出一致性）。
+- 按 `generated/validation_issues.json` 继续消化缺失项目文件、空项目包和非规范院校 ID warning。
+- 优先补齐高价值项目的 deadline、requirements 与人工 verified 状态。
 
 ## 导出前端数据
 
 抓取或新增院校包后，重新生成前端 JSON：
 
-    python -m tools.build_frontend_data
+    python -m tools.data_pipeline all
 
-输入为 raw/universities/ 下的规范包与 frontend/public/data/ 中的榜单快照和人工校对记录；
-输出为 universities.json、programs.json、program_coverage.json、university_aliases.json
-以及 generated/build_report.json。该命令是幂等的，可直接重复运行；
-不要在抓取进程写包的同时执行。
+分步排查时可以执行：
 
-在这些构建步骤接入前，新增院校包仍可先按本 README 转换并提交，作为规范化数据源。
+    python -m tools.data_pipeline validate
+    python -m tools.data_pipeline validate --strict
+    python -m tools.data_pipeline build
+    python -m tools.data_pipeline export
+
+输入只来自 `raw/universities/`、`raw/rankings/*/normalized.json` 和
+`raw/university_aliases.json`。主库写入 `normalized/rankingselect.sqlite`；完整关系导出、
+质量报告和构建身份写入 `generated/`；前端兼容视图写入
+`frontend/public/data/`。旧命令 `python -m tools.build_frontend_data` 仍可使用，但内部也会
+强制执行完整主流水线。
+
+构建输出中的 `data-manifest.json` 记录输入语料哈希、稳定数据时间、实体数量与质量指标。
+同一份输入重复构建必须产生相同数据库和 JSON。不要手改生成文件，也不要在抓取进程写包时执行构建。

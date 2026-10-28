@@ -262,6 +262,7 @@ export function useData(): DataSource {
         return ds
       })().catch((e) => {
         inflight = null
+        console.error(`[${new Date().toISOString()}] 数据加载失败`, e)
         throw e
       })
     }
@@ -288,6 +289,13 @@ export function aggregateRank(entry: UniIndexEntry | undefined): number | null {
   const scores = entry.ranks.map((r) => r.rank)
   const sum = scores.reduce((a, b) => a + b, 0)
   return sum / scores.length
+}
+
+/** 从实际榜单读取版本；U.S. News 的 year 表示跨年版的起始年份。 */
+export function rankingEdition(source: RankingSource, entries: RankingEntry[] = []): string {
+  const year = entries[0]?.year
+  if (!year) return '—'
+  return source === 'usnews' ? `${year}–${year + 1}` : String(year)
 }
 
 export { normalizeName }

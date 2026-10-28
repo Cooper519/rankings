@@ -1,0 +1,18 @@
+{
+  "source": "qs",
+  "edition": "2027",
+  "year": 2027,
+  "capturedAt": "20261028T100648Z",
+  "recordCount": 500,
+  "normalization": "按官方顺序保留前 500 条；并列名次不重排，区间名次以既有 rank 下界契约发布；year 为版本起始年。",
+  "sourceUrl": "https://www.qs.com/insights/qs-world-university-rankings-2027-results-table-excel",
+  "responseUrl": "https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20(For%20qs.com).xlsx",
+  "responseFile": "response-20261028T100648Z.xlsx",
+  "identityRemaps": {
+    "u_al_farabi_kazakh_national_university": "u_farabi_university_former_al_farabi_kazakh_national_university",
+    "u_the_university_of_warwick": "u_university_of_warwick",
+    "u_universidad_de_los_andes": "u_universidad_de_los_andes_colombia",
+    "u_university_of_technology_sydney": "u_the_university_of_technology_sydney_uts"
+  },
+  "identityPolicy": "同一院校仅显示名称变动时沿用上一版已发布 ID，保留收藏和项目关联；合并形成的新院校不复用旧 ID。"
+}

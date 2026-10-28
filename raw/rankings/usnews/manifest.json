@@ -1,0 +1,12 @@
+{
+  "source": "usnews",
+  "edition": "2026-2027",
+  "year": 2026,
+  "capturedAt": "20261028T100648Z",
+  "recordCount": 500,
+  "normalization": "按官方顺序保留前 500 条；并列名次不重排，区间名次以既有 rank 下界契约发布；year 为版本起始年。",
+  "sourceUrl": "https://www.usnews.com/education/best-global-universities/rankings",
+  "responseFile": "response-20261028T100648Z.json",
+  "pageCount": 50,
+  "captureMethod": "在官方公开榜单页面逐页读取 SSR 查询状态；核对每页版本、页码及 10 条记录。"
+}

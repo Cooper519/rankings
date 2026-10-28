@@ -1,0 +1,17 @@
+{
+  "source": "arwu",
+  "edition": "2026",
+  "year": 2026,
+  "capturedAt": "20261028T100648Z",
+  "recordCount": 500,
+  "normalization": "按官方顺序保留前 500 条；并列名次不重排，区间名次以既有 rank 下界契约发布；year 为版本起始年。",
+  "sourceUrl": "https://www.shanghairanking.com/rankings/arwu/2026",
+  "batchManifest": "year=2026/captured-at=20261028T100512454412Z_sha256=4b4264376c33/manifest.json",
+  "identityRemaps": {
+    "u_johannes_gutenberg_university_mainz": "u_university_of_mainz",
+    "u_lmu_munich": "u_university_of_munich",
+    "u_mayo_clinic_college_of_medicine_and_science": "u_mayo_clinic_college_of_medicine_and_science_minnesota",
+    "u_soochow_university_suzhou": "u_soochow_university_china"
+  },
+  "identityPolicy": "同一院校仅显示名称变动时沿用上一版已发布 ID，保留收藏和项目关联；合并形成的新院校不复用旧 ID。"
+}

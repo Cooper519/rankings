@@ -95,7 +95,8 @@ export async function buildUniversityIndex(
   canonicalById: Record<string, string> = {},
 ): Promise<UniIndex> {
   const byId: Record<string, UniIndexEntry> = {}
-  const byName: Record<string, UniIndexEntry> = {}
+  // 院校规范名可能是 constructor，名称索引不能继承 Object 的同名属性。
+  const byName: Record<string, UniIndexEntry> = Object.create(null)
   const upsert = (name: string, country: string, region: string, id: string): UniIndexEntry => {
     const key = normalizeName(name)
     if (!byName[key]) {

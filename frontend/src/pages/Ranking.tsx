@@ -11,7 +11,7 @@ import {
   Search,
   SlidersHorizontal,
 } from 'lucide-react'
-import { useData } from '../hooks/useData'
+import { rankingEdition, useData } from '../hooks/useData'
 import type { Program, RankingSource } from '../types'
 import { RANKING_SOURCES } from '../types'
 import Reveal from '../components/Reveal'
@@ -21,9 +21,6 @@ import { isLiked, useUser } from '../store/likes'
 
 const SRC_LABEL: Record<RankingSource, string> = {
   qs: 'QS', the: 'THE', arwu: 'ARWU', usnews: 'U.S. News', csrankings: 'CS Rankings',
-}
-const SRC_YEAR: Record<RankingSource, number> = {
-  qs: 2026, the: 2026, arwu: 2025, usnews: 2025, csrankings: 2026,
 }
 
 type CoverageFilter = 'all' | 'incomplete' | 'covered' | 'missing' | 'outside'
@@ -167,7 +164,7 @@ export default function Ranking() {
             <h2>硕士留学<em>信息账本</em></h2>
           </div>
           <p className="note">
-            {SRC_LABEL[src]} {SRC_YEAR[src]} · {ready ? filtered.length : '-'} 所 · 点击任一行展开五榜汇总、硕士项目、申请材料和语言要求。
+            {SRC_LABEL[src]} {rankingEdition(src, entries)} · {ready ? filtered.length : '-'} 所 · 点击任一行展开五榜汇总、硕士项目、申请材料和语言要求。
           </p>
         </div>
       </Reveal>
@@ -182,7 +179,7 @@ export default function Ranking() {
               onClick={() => setSrc(s)}
             >
               {SRC_LABEL[s]}
-              <span className="yr">{SRC_YEAR[s]}</span>
+              <span className="yr">{rankingEdition(s, rankings[s])}</span>
             </button>
           ))}
         </div>

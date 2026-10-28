@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "source": "arwu",
+  "sourceYear": 2026,
+  "defaultYear": 2025,
+  "defaultYearAsOf": "2026-08-13",
+  "officialBasis": {
+    "archiveUrl": "https://www.shanghairanking.com/rankings/arwu",
+    "editionUrl": "https://www.shanghairanking.com/rankings/arwu/2026"
+  },
+  "request": {
+    "method": "GET",
+    "url": "https://www.shanghairanking.com/api/pub/v1/arwu/rank?version=2026"
+  },
+  "response": {
+    "capturedAt": "2026-10-28T10:05:12.454412Z",
+    "httpStatus": 200,
+    "headers": {
+      "Access-Control-Allow-Credentials": "false",
+      "Access-Control-Allow-Headers": "Origin,Content-Type,Accept,Authorization,X-Requested-With",
+      "Access-Control-Allow-Methods": "GET,POST,PUT,DELETE,OPTIONS",
+      "Access-Control-Allow-Origin": "",
+      "Access-Control-Expose-Headers": "Content-Length,Content-Type",
+      "Ali-Swift-Global-Savetime": "1793181912",
+      "Cache-Control": "no-cache, no-store, must-revalidate",
+      "Connection": "close",
+      "Content-Encoding": "gzip",
+      "Content-Length": "57692",
+      "Content-Type": "application/json; charset=utf-8",
+      "Date": "Wed, 28 Oct 2026 10:05:12 GMT",
+      "EagleId": "b73cca1917931819122427504e",
+      "Expires": "0",
+      "Pragma": "no-cache",
+      "Server": "Tengine",
+      "Timing-Allow-Origin": "*",
+      "Via": "cache19.l2cn1800[100,99,200-0,M], cache6.l2cn1800[101,0], kunlun3.cn5075[119,119,200-0,M], kunlun5.cn5075[121,0]",
+      "X-Cache": "MISS TCP_MISS dirn:-2:-2",
+      "X-Swift-CacheTime": "0",
+      "X-Swift-SaveTime": "Wed, 28 Oct 2026 10:05:12 GMT"
+    },
+    "contentType": "application/json; charset=utf-8",
+    "contentEncoding": "gzip",
+    "byteLength": 57692,
+    "sha256": "4b4264376c3318bcebb255ea90cda8103562c5130cf56711e7bb76cc21b78fc0",
+    "file": "api-response.body"
+  },
+  "derived": {
+    "status": "complete",
+    "file": "top500.normalized.json",
+    "recordCount": 500
+  }
+}

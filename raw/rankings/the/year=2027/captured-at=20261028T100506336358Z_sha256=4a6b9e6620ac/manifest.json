@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "source": "the",
+  "sourceYear": 2027,
+  "defaultYear": 2026,
+  "defaultYearAsOf": "2026-08-13",
+  "officialBasis": {
+    "latestUrl": "https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking",
+    "editionUrl": "https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
+    "verifiedEditionUrls": {
+      "2025": "https://www.timeshighereducation.com/world-university-rankings/2025/world-ranking",
+      "2026": "https://www.timeshighereducation.com/world-university-rankings/2026/world-ranking",
+      "2027": "https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking"
+    }
+  },
+  "request": {
+    "method": "GET",
+    "url": "https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking"
+  },
+  "response": {
+    "capturedAt": "2026-10-28T10:05:06.336358Z",
+    "httpStatus": 200,
+    "headers": {
+      "Accept-Ranges": "none",
+      "Age": "69051",
+      "Connection": "close",
+      "Content-Type": "text/html; charset=utf-8",
+      "Date": "Wed, 28 Oct 2026 10:05:08 GMT",
+      "Vary": "Accept-Encoding",
+      "Via": "1.1 varnish, 1.1 varnish",
+      "X-Cache": "HIT, HIT",
+      "X-Cache-Hits": "33, 0",
+      "X-Served-By": "cache-lcy-egml8630098-LCY, cache-nrt-rjaa8190041-NRT",
+      "X-Timer": "S1793181908.117875,VS0,VE2",
+      "cache-control": "max-age=600, public",
+      "content-encoding": "gzip",
+      "etag": "W/\"stvx0doux21tvnv\"",
+      "last-modified": "Tue, 27 Oct 2026 14:00:49 GMT",
+      "transfer-encoding": "chunked"
+    },
+    "contentType": "text/html; charset=utf-8",
+    "contentEncoding": "gzip",
+    "byteLength": 446399,
+    "sha256": "4a6b9e6620acfa8e71240cdc6a77faac8ba09aed497e7d815ec7a43ea782cb60",
+    "file": "page-response.body"
+  },
+  "derived": {
+    "status": "complete",
+    "nextData": {
+      "file": "next-data.json",
+      "byteLength": 2878899,
+      "sha256": "b31c13118acafd6cff8dc099876e5795665fca6fc1b701c62a0a54ff76c30b10"
+    },
+    "normalized": {
+      "file": "top500.normalized.json",
+      "recordCount": 500,
+      "rankCompatibilitySemantics": "rank is rankLower, not necessarily an exact rank"
+    }
+  }
+}

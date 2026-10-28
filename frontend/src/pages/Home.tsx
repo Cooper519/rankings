@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { ArrowDown, ArrowUpRight, Database, Search } from 'lucide-react'
-import { aggregateRank, normalizeName, useData } from '../hooks/useData'
+import { aggregateRank, normalizeName, rankingEdition, useData } from '../hooks/useData'
 import type { RankingSource } from '../types'
 import Reveal from '../components/Reveal'
 import Magnetic from '../components/Magnetic'
@@ -16,9 +16,6 @@ const SRC_FULL: Record<RankingSource, string> = {
   arwu: 'ShanghaiRanking / ARWU',
   usnews: 'U.S. News Best Global',
   csrankings: 'CS Rankings',
-}
-const SRC_YEAR: Record<RankingSource, number> = {
-  qs: 2026, the: 2026, arwu: 2025, usnews: 2025, csrankings: 2026,
 }
 
 export default function Home() {
@@ -159,7 +156,7 @@ export default function Home() {
                   <div className="full">{SRC_FULL[s]}</div>
                   <div className="meta">
                     <span>条目 <b>{rankings[s]?.length || 0}</b></span>
-                    <span>{SRC_YEAR[s]}</span>
+                    <span>{rankingEdition(s, rankings[s])}</span>
                   </div>
                   <span className="bar" />
                 </Link>

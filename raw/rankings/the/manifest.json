@@ -1,0 +1,15 @@
+{
+  "source": "the",
+  "edition": "2027",
+  "year": 2027,
+  "capturedAt": "20261028T100648Z",
+  "recordCount": 500,
+  "normalization": "按官方顺序保留前 500 条；并列名次不重排，区间名次以既有 rank 下界契约发布；year 为版本起始年。",
+  "sourceUrl": "https://www.timeshighereducation.com/world-university-rankings/2027/world-ranking",
+  "batchManifest": "year=2027/captured-at=20261028T100506336358Z_sha256=4a6b9e6620ac/manifest.json",
+  "identityRemaps": {
+    "u_kfupm": "u_king_fahd_university_of_petroleum_and_minerals",
+    "u_new_york_university_nyu": "u_new_york_university"
+  },
+  "identityPolicy": "同一院校仅显示名称变动时沿用上一版已发布 ID，保留收藏和项目关联；合并形成的新院校不复用旧 ID。"
+}
